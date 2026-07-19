@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2062774968501580017",
+    "created_at": "2026-06-06T07:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T08:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063159762855113169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1695711265417502720",
+          "start": 0,
+          "username": "CRH1AA"
+        },
+        {
+          "end": 23,
+          "id": "1763034943599607808",
+          "start": 8,
+          "username": "moonlight_ruri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063159762855113169",
+    "in_reply_to_user_id": "1695711265417502720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062792889915392061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CRH1AA @moonlight_ruri 後來聽說他們瘋了\n後來聽說他重病了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2062774968501580017",
+        "created_at": "2026-06-06T07:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063159762855113169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1695711265417502720",
+              "start": 0,
+              "username": "CRH1AA"
+            },
+            {
+              "end": 23,
+              "id": "1763034943599607808",
+              "start": 8,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063159762855113169",
+        "in_reply_to_user_id": "1695711265417502720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062792889915392061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CRH1AA @moonlight_ruri 後來聽說他們瘋了\n後來聽說他重病了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695711265417502720",
+        "conversation_id": "2062774968501580017",
+        "created_at": "2026-06-05T07:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062792889915392061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763034943599607808",
+              "start": 0,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062792889915392061",
+        "in_reply_to_user_id": "1763034943599607808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7625,
+          "like_count": 280,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062774968501580017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonlight_ruri 他们朝我扔泥巴，我拿泥巴种荷花"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 1725,
+          "like_count": 16420,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 7151
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T08:14:16.000Z",
+        "description": "AUV胖宝宝好胖好可爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/CRH1AA",
+                "end": 23,
+                "expanded_url": "https://x.com/CRH1AA",
+                "start": 0,
+                "url": "https://t.co/k7WMfD8V7a"
+              }
+            ]
+          }
+        },
+        "id": "1695711265417502720",
+        "location": "Null",
+        "name": "哈吉鼠",
+        "pinned_tweet_id": "2019879902959583535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017857634901364737/j75RxyXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 120,
+          "like_count": 5993,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1964
+        },
+        "url": "https://t.co/k7WMfD8V7a",
+        "username": "CRH1AA",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "男娘｜En_name：Luna ruri｜femboy｜not trans｜friendly to trans｜EN CN JP｜ally of justice and fairness｜cute things｜168cm50kg｜ACG culture｜Beauty share｜thanks",
+        "id": "1763034943599607808",
+        "location": "🚪50🉑date✈️｜埼玉｜蓝v必回请私信｜DM",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2062447477605933243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041518071383527424/Ikw4pdSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7960,
+          "following_count": 416,
+          "like_count": 1109,
+          "listed_count": 20,
+          "media_count": 188,
+          "tweet_count": 2100
+        },
+        "username": "moonlight_ruri",
+        "verified": true
+      }
+    ]
+  }
+}

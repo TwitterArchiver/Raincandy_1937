@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1878295145126465723",
+    "created_at": "2025-01-12T04:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T05:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1878295145126465723"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Dodome2617/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Dodome2617/status/1878291137024410070",
+          "start": 3,
+          "url": "https://t.co/6VU2UlVkBN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878295145126465723",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878291137024410070",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "点了 https://t.co/6VU2UlVkBN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1878295145126465723",
+        "created_at": "2025-01-12T04:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T05:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878295145126465723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Dodome2617/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Dodome2617/status/1878291137024410070",
+              "start": 3,
+              "url": "https://t.co/6VU2UlVkBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878295145126465723",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878291137024410070",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "点了 https://t.co/6VU2UlVkBN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878291133157240832"
+          ]
+        },
+        "author_id": "1811713623435415552",
+        "conversation_id": "1878288236096712965",
+        "created_at": "2025-01-12T04:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T05:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878291137024410070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964Y_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wQSvfL3zZy",
+              "end": 45,
+              "expanded_url": "https://x.com/Dodome2617/status/1878291137024410070/photo/1",
+              "media_key": "3_1878291133157240832",
+              "start": 22,
+              "url": "https://t.co/wQSvfL3zZy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878291137024410070",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878288236096712965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964Y_ 什么级别的男生配讨厌女生啊 https://t.co/wQSvfL3zZy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 665,
+          "like_count": 4990,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 2527
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T10:46:12.000Z",
+        "description": "傻逼一个，不值共情",
+        "id": "1811713623435415552",
+        "location": "Adachi-ku, Tokyo",
+        "name": "我有罪",
+        "pinned_tweet_id": "1874125055229399547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870474612737495041/AMS3Ovy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 430,
+          "like_count": 7341,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 759
+        },
+        "username": "Dodome2617",
+        "verified": false
+      }
+    ]
+  }
+}

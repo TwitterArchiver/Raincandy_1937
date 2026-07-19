@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2004779766931685571",
+    "created_at": "2025-12-27T05:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T06:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004779766931685571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1975500696427581440",
+          "start": 3,
+          "username": "TReverie_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004779766931685571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004744833639063567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TReverie_: 让中国人最快破防的方式就是让他们知道世界上的所有人都是人，包括他们自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2004779766931685571",
+        "created_at": "2025-12-27T05:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004779766931685571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1975500696427581440",
+              "start": 3,
+              "username": "TReverie_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004779766931685571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004744833639063567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TReverie_: 让中国人最快破防的方式就是让他们知道世界上的所有人都是人，包括他们自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975500696427581440",
+        "conversation_id": "2004744833639063567",
+        "created_at": "2025-12-27T02:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T03:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004744833639063567"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004744833639063567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 490,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "让中国人最快破防的方式就是让他们知道世界上的所有人都是人，包括他们自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998397096031035392/5bZUUqPS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 1526,
+          "like_count": 12880,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 5922
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "宏大无物，墙国无我。\n习猪席最好的包蜜😋\n欢迎任何人将本包蜜的辱包作品作为素材使用。",
+        "id": "1975500696427581440",
+        "location": "London, England",
+        "name": "Tiny Reverie",
+        "pinned_tweet_id": "2000516104544997765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996531878183235584/x-H22fXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4474,
+          "following_count": 811,
+          "like_count": 13489,
+          "listed_count": 39,
+          "media_count": 905,
+          "tweet_count": 3320
+        },
+        "username": "TReverie_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1879046556973928955",
+    "created_at": "2025-01-14T06:03:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-14T07:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879046556973928955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1637069906834333698",
+          "start": 3,
+          "username": "Brokenplenty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879046556973928955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878776105475465657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Brokenplenty: 宝宝你玩哪个平台都没流量只是你太平庸了知道吗，别再怪平台了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1879046556973928955",
+        "created_at": "2025-01-14T06:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T07:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879046556973928955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1637069906834333698",
+              "start": 3,
+              "username": "Brokenplenty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879046556973928955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878776105475465657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Brokenplenty: 宝宝你玩哪个平台都没流量只是你太平庸了知道吗，别再怪平台了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637069906834333698",
+        "conversation_id": "1878776105475465657",
+        "created_at": "2025-01-13T12:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T13:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878776105475465657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1878776105475465657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 54054,
+          "like_count": 449,
+          "quote_count": 9,
+          "reply_count": 97,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝你玩哪个平台都没流量只是你太平庸了知道吗，别再怪平台了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 663,
+          "like_count": 5031,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 2542
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T12:34:39.000Z",
+        "description": "我的眼角流著名為你的淚。@brokenplenty7||🚫搬运",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "brokenplenty7"
+              }
+            ]
+          }
+        },
+        "id": "1637069906834333698",
+        "location": "小p/p酱/普兰提       泛",
+        "name": "plenty",
+        "pinned_tweet_id": "1864311189309935950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874247319048347648/q5RZeEKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30194,
+          "following_count": 172,
+          "like_count": 8504,
+          "listed_count": 81,
+          "media_count": 1021,
+          "tweet_count": 14964
+        },
+        "username": "Brokenplenty",
+        "verified": false
+      }
+    ]
+  }
+}

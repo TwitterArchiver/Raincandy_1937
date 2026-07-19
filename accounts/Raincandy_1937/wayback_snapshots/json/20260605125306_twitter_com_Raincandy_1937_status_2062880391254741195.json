@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2062300631000355292",
+    "created_at": "2026-06-05T12:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062880391254741195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "431437207",
+          "start": 0,
+          "username": "StarGinSC2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062880391254741195",
+    "in_reply_to_user_id": "431437207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062300631000355292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarGinSC2 比起塑造一個看上去美麗的符號他們選擇了描繪一個真實而完整的人\n我無意評論兩種做法的好壞但無疑它們都值得尊重"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1009,
+        "media_key": "3_2062300627510648832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7DfoLWYAAyd-S.jpg",
+        "width": 1009
+      },
+      {
+        "height": 1073,
+        "media_key": "3_2062300628668350464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7DfsfXgAA-S0H.jpg",
+        "width": 1073
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2062300631000355292",
+        "created_at": "2026-06-05T12:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062880391254741195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "431437207",
+              "start": 0,
+              "username": "StarGinSC2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062880391254741195",
+        "in_reply_to_user_id": "431437207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062300631000355292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarGinSC2 比起塑造一個看上去美麗的符號他們選擇了描繪一個真實而完整的人\n我無意評論兩種做法的好壞但無疑它們都值得尊重"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062300627510648832",
+            "3_2062300628668350464"
+          ]
+        },
+        "author_id": "431437207",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044917017",
+              "name": "God of War"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044917017",
+              "name": "God of War"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897364881178624",
+              "name": "Action-adventure games"
+            }
+          }
+        ],
+        "conversation_id": "2062300631000355292",
+        "created_at": "2026-06-03T22:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T23:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062300631000355292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SLv7nwLLBl",
+              "end": 244,
+              "expanded_url": "https://x.com/StarGinSC2/status/2062300631000355292/photo/1",
+              "media_key": "3_2062300627510648832",
+              "start": 221,
+              "url": "https://t.co/SLv7nwLLBl"
+            },
+            {
+              "display_url": "pic.x.com/SLv7nwLLBl",
+              "end": 244,
+              "expanded_url": "https://x.com/StarGinSC2/status/2062300631000355292/photo/1",
+              "media_key": "3_2062300628668350464",
+              "start": 221,
+              "url": "https://t.co/SLv7nwLLBl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062300631000355292",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1695,
+          "impression_count": 9375205,
+          "like_count": 10516,
+          "quote_count": 1069,
+          "reply_count": 2449,
+          "retweet_count": 299
+        },
+        "reply_settings": "everyone",
+        "text": "Nada en contra del nuevo God of War, pero sean sinceros: ¿Por qué la mujer que aporta su rostro para Faye luce fresca, bonita y radiante, mientras que en el juego parece haber inhalado dos kilos de harina de una sentada? https://t.co/SLv7nwLLBl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 1719,
+          "like_count": 16376,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 7136
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-08T08:28:34.000Z",
+        "description": "Informador de Videojuegos. Gamer por pasión y amante de la buena comida.\n\nMy Body is Ready.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@stargingames6…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@stargingames6972/featured",
+                "start": 0,
+                "url": "https://t.co/vzDKbyzAWc"
+              }
+            ]
+          }
+        },
+        "id": "431437207",
+        "location": "CDMX",
+        "name": "StarGin🍕",
+        "pinned_tweet_id": "1541797797971763201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052813677372588032/g7n1sy83_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4755,
+          "following_count": 195,
+          "like_count": 23478,
+          "listed_count": 20,
+          "media_count": 6635,
+          "tweet_count": 25451
+        },
+        "url": "https://t.co/vzDKbyzAWc",
+        "username": "StarGinSC2",
+        "verified": false
+      }
+    ]
+  }
+}

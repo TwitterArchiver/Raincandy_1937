@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063235278652018688"
+      ],
+      "media_source_tweet_id": [
+        "2063235585813442665"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2063585358005367224",
+    "created_at": "2026-06-07T11:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T12:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063585358005367224"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 29,
+          "tag": "prsk_FA"
+        },
+        {
+          "end": 42,
+          "start": 38,
+          "tag": "宵崎奏"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2049443494910169088",
+          "start": 3,
+          "username": "yomi8haduki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ije1m4tcbE",
+          "end": 66,
+          "expanded_url": "https://x.com/yomi8haduki/status/2063235585813442665/photo/1",
+          "media_key": "3_2063235278652018688",
+          "start": 43,
+          "url": "https://t.co/ije1m4tcbE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063585358005367224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 479
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063235585813442665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yomi8haduki: ジュンブラの奏ちゃん🫶\n#prsk_FA #宵崎奏 https://t.co/ije1m4tcbE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_2063235278652018688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIVjfAbkAAVrOr.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063235278652018688"
+          ],
+          "media_source_tweet_id": [
+            "2063235585813442665"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2063585358005367224",
+        "created_at": "2026-06-07T11:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063585358005367224"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 29,
+              "tag": "prsk_FA"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "宵崎奏"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2049443494910169088",
+              "start": 3,
+              "username": "yomi8haduki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ije1m4tcbE",
+              "end": 66,
+              "expanded_url": "https://x.com/yomi8haduki/status/2063235585813442665/photo/1",
+              "media_key": "3_2063235278652018688",
+              "start": 43,
+              "url": "https://t.co/ije1m4tcbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063585358005367224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 479
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063235585813442665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yomi8haduki: ジュンブラの奏ちゃん🫶\n#prsk_FA #宵崎奏 https://t.co/ije1m4tcbE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063235278652018688"
+          ]
+        },
+        "author_id": "2049443494910169088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2063235585813442665",
+        "created_at": "2026-06-06T12:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063235585813442665"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 12,
+              "tag": "prsk_FA"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "宵崎奏"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ije1m4tcbE",
+              "end": 49,
+              "expanded_url": "https://x.com/yomi8haduki/status/2063235585813442665/photo/1",
+              "media_key": "3_2063235278652018688",
+              "start": 26,
+              "url": "https://t.co/ije1m4tcbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063235585813442665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 325,
+          "impression_count": 24605,
+          "like_count": 3839,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 479
+        },
+        "reply_settings": "everyone",
+        "text": "ジュンブラの奏ちゃん🫶\n#prsk_FA #宵崎奏 https://t.co/ije1m4tcbE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 1726,
+          "like_count": 16476,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 7177
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T11:01:53.000Z",
+        "description": "絵を描きます！/ FA / 無断転載AI学習禁止🚫",
+        "id": "2049443494910169088",
+        "name": "yomi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055408015373934592/ymZWxwAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 65,
+          "like_count": 664,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 81
+        },
+        "username": "yomi8haduki",
+        "verified": false
+      }
+    ]
+  }
+}

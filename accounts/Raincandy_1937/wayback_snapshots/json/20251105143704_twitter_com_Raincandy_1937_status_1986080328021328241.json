@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1986041312886608197",
+    "created_at": "2025-11-05T14:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T15:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986080328021328241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1972858620695240704",
+          "start": 0,
+          "username": "tuzhimizuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986080328021328241",
+    "in_reply_to_user_id": "1972858620695240704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986041312886608197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuzhimizuki 好多默认头像www"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1986041298676240385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_WCeTaUAEbJWk.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1986041312886608197",
+        "created_at": "2025-11-05T14:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T15:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986080328021328241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972858620695240704",
+              "start": 0,
+              "username": "tuzhimizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986080328021328241",
+        "in_reply_to_user_id": "1972858620695240704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986041312886608197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuzhimizuki 好多默认头像www"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986041298676240385"
+          ]
+        },
+        "author_id": "1972858620695240704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1986041312886608197",
+        "created_at": "2025-11-05T12:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T13:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986041312886608197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1983694816342093824/KTRQKQiJ?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1983694816342093824/KTRQKQiJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/lMAnj5Ur9a"
+            },
+            {
+              "display_url": "pic.x.com/y1ih4atJ0r",
+              "end": 64,
+              "expanded_url": "https://x.com/tuzhimizuki/status/1986041312886608197/photo/1",
+              "media_key": "3_1986041298676240385",
+              "start": 41,
+              "url": "https://t.co/y1ih4atJ0r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986041312886608197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/lMAnj5Ur9a https://t.co/y1ih4atJ0r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 1432,
+          "like_count": 11449,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 5465
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T02:59:01.000Z",
+        "description": "世界计划/对峙2\n🇺🇦🇮🇱\n\n🚫☪️",
+        "id": "1972858620695240704",
+        "location": "南京",
+        "name": "あきやまみずき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981552999852855296/QJsZzRpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 288,
+          "like_count": 2753,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 571
+        },
+        "username": "tuzhimizuki",
+        "verified": false
+      }
+    ]
+  }
+}

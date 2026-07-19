@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1897547793839083826",
+    "created_at": "2025-03-06T07:20:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T08:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897547793839083826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Qie711/status/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Qie711/status/1897479007550976456",
+          "start": 11,
+          "url": "https://t.co/U2vjH7Qv7a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897547793839083826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897479007550976456",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说什么呢根本听不懂也 https://t.co/U2vjH7Qv7a"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1897547793839083826",
+        "created_at": "2025-03-06T07:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T08:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897547793839083826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Qie711/status/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Qie711/status/1897479007550976456",
+              "start": 11,
+              "url": "https://t.co/U2vjH7Qv7a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897547793839083826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897479007550976456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说什么呢根本听不懂也 https://t.co/U2vjH7Qv7a"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556585226783952896",
+        "conversation_id": "1897479007550976456",
+        "created_at": "2025-03-06T02:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T03:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897479007550976456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897479007550976456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 283,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉你最好骗了 只要有人愿意听你讲破事 愿意回你消息 每天和你互动 陪你打打游戏 你就以为真爱降临了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 808,
+          "like_count": 6129,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 3152
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T10:17:19.000Z",
+        "description": "Sub&Brat ｜大家可以喊我困困 喜欢和帅哥妹宝一起玩(⁎⁍̴̛ᴗ⁍̴̛⁎)｜没有门槛不➕V",
+        "id": "1556585226783952896",
+        "location": "東京都米花町",
+        "name": "TirE",
+        "pinned_tweet_id": "1895295430805901813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896027552109510656/od-Yue0r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 54,
+          "like_count": 2362,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 288
+        },
+        "username": "Qie711",
+        "verified": false
+      }
+    ]
+  }
+}

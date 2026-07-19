@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884574481282150400"
+      ],
+      "media_source_tweet_id": [
+        "1884574483618377744"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1884905857416413222",
+    "created_at": "2025-01-30T10:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T11:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884905857416413222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3927184695",
+          "start": 3,
+          "username": "swordandland"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qHueqAGTZe",
+          "end": 41,
+          "expanded_url": "https://x.com/swordandland/status/1884574483618377744/photo/1",
+          "media_key": "3_1884574481282150400",
+          "start": 18,
+          "url": "https://t.co/qHueqAGTZe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884905857416413222",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 835
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884574483618377744",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @swordandland: https://t.co/qHueqAGTZe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_1884574481282150400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GidagX2WsAAhTmD.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884574481282150400"
+          ],
+          "media_source_tweet_id": [
+            "1884574483618377744"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1884905857416413222",
+        "created_at": "2025-01-30T10:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T11:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884905857416413222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3927184695",
+              "start": 3,
+              "username": "swordandland"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qHueqAGTZe",
+              "end": 41,
+              "expanded_url": "https://x.com/swordandland/status/1884574483618377744/photo/1",
+              "media_key": "3_1884574481282150400",
+              "start": 18,
+              "url": "https://t.co/qHueqAGTZe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884905857416413222",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 835
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884574483618377744",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @swordandland: https://t.co/qHueqAGTZe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884574481282150400"
+          ]
+        },
+        "author_id": "3927184695",
+        "conversation_id": "1884574483618377744",
+        "created_at": "2025-01-29T12:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T13:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884574483618377744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qHueqAGTZe",
+              "end": 23,
+              "expanded_url": "https://x.com/swordandland/status/1884574483618377744/photo/1",
+              "media_key": "3_1884574481282150400",
+              "start": 0,
+              "url": "https://t.co/qHueqAGTZe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884574483618377744",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 833,
+          "impression_count": 120813,
+          "like_count": 8583,
+          "quote_count": 32,
+          "reply_count": 8,
+          "retweet_count": 835
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qHueqAGTZe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 695,
+          "like_count": 5307,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 2688
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-11T11:23:57.000Z",
+        "description": "https://t.co/YzBUEi4i3p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/user/8sruh30bx…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/user/8sruh30bxy7kuvrlz089jg769?si=QGlAYxq-TfiLzJMosIIzXg",
+                "start": 0,
+                "url": "https://t.co/YzBUEi4i3p"
+              }
+            ]
+          }
+        },
+        "id": "3927184695",
+        "location": "Azerbaijan",
+        "name": "𐱃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842563288535625729/kIkAqq1Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43794,
+          "following_count": 128,
+          "like_count": 58790,
+          "listed_count": 157,
+          "media_count": 2824,
+          "tweet_count": 6617
+        },
+        "username": "swordandland",
+        "verified": true
+      }
+    ]
+  }
+}

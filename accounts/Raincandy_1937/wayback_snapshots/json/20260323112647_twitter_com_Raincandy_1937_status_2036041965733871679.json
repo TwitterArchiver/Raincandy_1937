@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2036041965733871679",
+    "created_at": "2026-03-23T11:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T12:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036041965733871679"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/flythesky908/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/flythesky908/status/2035963025602363858",
+          "start": 10,
+          "url": "https://t.co/76MfkoxcxL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036041965733871679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035963025602363858",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "分享給我愛的所有人 https://t.co/76MfkoxcxL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2036041965733871679",
+        "created_at": "2026-03-23T11:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T12:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036041965733871679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/flythesky908/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/flythesky908/status/2035963025602363858",
+              "start": 10,
+              "url": "https://t.co/76MfkoxcxL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036041965733871679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035963025602363858",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "分享給我愛的所有人 https://t.co/76MfkoxcxL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2978501178",
+        "conversation_id": "2035906881546526820",
+        "created_at": "2026-03-23T06:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T07:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035963025602363858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "description": "公民與社會 108課綱普通型高中",
+              "display_url": "sites.google.com/view/sanminciv…",
+              "end": 88,
+              "expanded_url": "https://sites.google.com/view/sanmincivics-108",
+              "start": 65,
+              "status": 200,
+              "title": "三民書局 公民與社會",
+              "unwound_url": "https://sites.google.com/view/sanmincivics-108",
+              "url": "https://t.co/nC2oN2ilTY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035963025602363858",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 3645,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035906881546526820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 路過補充，這是台灣三民書局的高中《公民與社會》\n內容全是108課綱，總計3冊，官網可以免費觀看\n\nhttps://t.co/nC2oN2ilTY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 1580,
+          "like_count": 13945,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 6445
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-13T05:05:04.000Z",
+        "description": "劇場版ハイキュー!!ゴミ捨て場の決戦 2024.2.16 🎬🏐🗑️\n\n期待飛去日本看！！！✈️\n\n#台湾独立 #8964 #六四天安門\n#小熊維尼 #打倒習近平 ←🈲假帳號騷擾",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 49,
+                "tag": "台湾独立"
+              },
+              {
+                "end": 67,
+                "start": 61,
+                "tag": "六四天安門"
+              },
+              {
+                "end": 73,
+                "start": 68,
+                "tag": "小熊維尼"
+              },
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "打倒習近平"
+              }
+            ]
+          }
+        },
+        "id": "2978501178",
+        "location": "新北市, 台灣",
+        "name": "微風小品",
+        "pinned_tweet_id": "1812096990278516754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/980851984583483392/So7uq2lu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 3162,
+          "like_count": 53854,
+          "listed_count": 0,
+          "media_count": 418,
+          "tweet_count": 32380
+        },
+        "username": "flythesky908",
+        "verified": false
+      }
+    ]
+  }
+}

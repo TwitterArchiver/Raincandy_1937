@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1896401488349691974",
+    "created_at": "2025-03-04T12:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T13:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896895568691208517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1841626911228780545",
+          "start": 0,
+          "username": "kujou_king"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896895568691208517",
+    "in_reply_to_user_id": "1841626911228780545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896401488349691974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kujou_king 我是不是在哪听过一样的话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1896401488349691974",
+        "created_at": "2025-03-04T12:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T13:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896895568691208517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841626911228780545",
+              "start": 0,
+              "username": "kujou_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896895568691208517",
+        "in_reply_to_user_id": "1841626911228780545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896401488349691974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujou_king 我是不是在哪听过一样的话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841626911228780545",
+        "conversation_id": "1896401488349691974",
+        "created_at": "2025-03-03T03:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T04:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896401488349691974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896401488349691974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 119085,
+          "like_count": 1113,
+          "quote_count": 3,
+          "reply_count": 107,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "我们很快面临一个全面弱智的时代，\n因为短视频快速崛起，\n让一群低学历，低素质，无底线的人成为声音的主流。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 800,
+          "like_count": 6057,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 3106
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T23:50:53.000Z",
+        "description": "不建政，你的毒就是我的解药\n\n還有，如果我死了你就要负挑唆自杀的法律刑事责任\n\n电子骨灰盒:@LCA176232",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 46,
+                "username": "LCA176232"
+              }
+            ]
+          }
+        },
+        "id": "1841626911228780545",
+        "location": "Chinese and dogs not admitted",
+        "name": "🧸愛丽莎铁锅炖熊掌🍻",
+        "pinned_tweet_id": "1896068659434631399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892150164170969088/2V72XvcE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2203,
+          "following_count": 513,
+          "like_count": 3186,
+          "listed_count": 15,
+          "media_count": 127,
+          "tweet_count": 1675
+        },
+        "username": "kujou_king",
+        "verified": false
+      }
+    ]
+  }
+}

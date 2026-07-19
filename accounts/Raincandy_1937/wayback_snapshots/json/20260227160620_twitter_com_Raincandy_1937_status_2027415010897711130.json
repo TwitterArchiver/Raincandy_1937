@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027345729539489792",
+        "3_2027345729526824960"
+      ],
+      "media_source_tweet_id": [
+        "2027345742478872854",
+        "2027345742478872854"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2027415010897711130",
+    "created_at": "2026-02-27T16:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T17:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027415010897711130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1575765089030139905",
+          "start": 3,
+          "username": "wodanggangqiang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KpNfI7XDZE",
+          "end": 53,
+          "expanded_url": "https://x.com/wodanggangqiang/status/2027345742478872854/photo/1",
+          "media_key": "3_2027345729539489792",
+          "start": 30,
+          "url": "https://t.co/KpNfI7XDZE"
+        },
+        {
+          "display_url": "pic.x.com/KpNfI7XDZE",
+          "end": 53,
+          "expanded_url": "https://x.com/wodanggangqiang/status/2027345742478872854/photo/1",
+          "media_key": "3_2027345729526824960",
+          "start": 30,
+          "url": "https://t.co/KpNfI7XDZE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027415010897711130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027345742478872854",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wodanggangqiang: 嗯，装都不装了。 https://t.co/KpNfI7XDZE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2027345729539489792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKUMx4bQAA0bWp.jpg",
+        "width": 638
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2027345729526824960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKUMx1aAAAx8pl.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027345729539489792",
+            "3_2027345729526824960"
+          ],
+          "media_source_tweet_id": [
+            "2027345742478872854",
+            "2027345742478872854"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2027415010897711130",
+        "created_at": "2026-02-27T16:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027415010897711130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1575765089030139905",
+              "start": 3,
+              "username": "wodanggangqiang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KpNfI7XDZE",
+              "end": 53,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2027345742478872854/photo/1",
+              "media_key": "3_2027345729539489792",
+              "start": 30,
+              "url": "https://t.co/KpNfI7XDZE"
+            },
+            {
+              "display_url": "pic.x.com/KpNfI7XDZE",
+              "end": 53,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2027345742478872854/photo/1",
+              "media_key": "3_2027345729526824960",
+              "start": 30,
+              "url": "https://t.co/KpNfI7XDZE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027415010897711130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027345742478872854",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wodanggangqiang: 嗯，装都不装了。 https://t.co/KpNfI7XDZE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027345729539489792",
+            "3_2027345729526824960"
+          ]
+        },
+        "author_id": "1575765089030139905",
+        "conversation_id": "2027345742478872854",
+        "created_at": "2026-02-27T11:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027345742478872854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KpNfI7XDZE",
+              "end": 32,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2027345742478872854/photo/1",
+              "media_key": "3_2027345729539489792",
+              "start": 9,
+              "url": "https://t.co/KpNfI7XDZE"
+            },
+            {
+              "display_url": "pic.x.com/KpNfI7XDZE",
+              "end": 32,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2027345742478872854/photo/1",
+              "media_key": "3_2027345729526824960",
+              "start": 9,
+              "url": "https://t.co/KpNfI7XDZE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027345742478872854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 18564,
+          "like_count": 144,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "嗯，装都不装了。 https://t.co/KpNfI7XDZE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 1564,
+          "like_count": 13527,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 6229
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27415,
+          "following_count": 554,
+          "like_count": 32914,
+          "listed_count": 90,
+          "media_count": 9513,
+          "tweet_count": 25844
+        },
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

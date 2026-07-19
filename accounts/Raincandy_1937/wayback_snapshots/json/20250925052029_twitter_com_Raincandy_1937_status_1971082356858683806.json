@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1971082356858683806",
+    "created_at": "2025-09-25T05:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T06:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971082356858683806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1583798816909582338",
+          "start": 3,
+          "username": "Valery_Chekalov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971082356858683806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970849438307602868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Valery_Chekalov: 今天下午连着刷到两次这种弱智外宣了\n肏你妈了个血逼的你习近平除了开头几年外哪次活动不是清场的心里没点逼数吗，北京跟某地方沾点边的八百里外恨不得安排十万个便衣劝返一般通过路人亲不亲民啊，真是太亲民了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1971082356858683806",
+        "created_at": "2025-09-25T05:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T06:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971082356858683806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1583798816909582338",
+              "start": 3,
+              "username": "Valery_Chekalov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971082356858683806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970849438307602868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Valery_Chekalov: 今天下午连着刷到两次这种弱智外宣了\n肏你妈了个血逼的你习近平除了开头几年外哪次活动不是清场的心里没点逼数吗，北京跟某地方沾点边的八百里外恨不得安排十万个便衣劝返一般通过路人亲不亲民啊，真是太亲民了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583798816909582338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1970849438307602868",
+        "created_at": "2025-09-24T13:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T14:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970849438307602868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kinglinzhuhui/…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/kinglinzhuhui/status/1970786727339114541",
+              "start": 99,
+              "url": "https://t.co/8jfqP1QJhJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970849438307602868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 90342,
+          "like_count": 742,
+          "quote_count": 2,
+          "reply_count": 85,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970786727339114541",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天下午连着刷到两次这种弱智外宣了\n肏你妈了个血逼的你习近平除了开头几年外哪次活动不是清场的心里没点逼数吗，北京跟某地方沾点边的八百里外恨不得安排十万个便衣劝返一般通过路人亲不亲民啊，真是太亲民了 https://t.co/8jfqP1QJhJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 1356,
+          "like_count": 10328,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 5149
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T12:34:06.000Z",
+        "description": "时日曷丧，予及汝皆亡。",
+        "id": "1583798816909582338",
+        "location": "距离你4.2光年",
+        "name": "November Rain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926983182106165248/nLmd6eXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 847,
+          "like_count": 5387,
+          "listed_count": 3,
+          "media_count": 268,
+          "tweet_count": 3604
+        },
+        "username": "Valery_Chekalov",
+        "verified": false
+      }
+    ]
+  }
+}

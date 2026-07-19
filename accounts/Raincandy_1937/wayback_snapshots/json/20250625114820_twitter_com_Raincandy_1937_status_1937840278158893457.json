@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1937840278158893457",
+    "created_at": "2025-06-25T11:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T12:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937840278158893457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1870780665295474688",
+          "start": 3,
+          "username": "doraneko_rana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937840278158893457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937783972102365590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doraneko_rana: 不想台湾回归的原因之一就是不想看台湾以后的小朋友们也一边跑操一边大声朗读知识点，支那人已经把上海卷成下一个山河四省了，台湾不应该成为下一个上海"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1937840278158893457",
+        "created_at": "2025-06-25T11:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T12:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937840278158893457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1870780665295474688",
+              "start": 3,
+              "username": "doraneko_rana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937840278158893457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937783972102365590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doraneko_rana: 不想台湾回归的原因之一就是不想看台湾以后的小朋友们也一边跑操一边大声朗读知识点，支那人已经把上海卷成下一个山河四省了，台湾不应该成为下一个上海"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870780665295474688",
+        "conversation_id": "1937783972102365590",
+        "created_at": "2025-06-25T08:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T09:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937783972102365590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangzhian8848/…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/wangzhian8848/status/1937724563686817813",
+              "start": 72,
+              "url": "https://t.co/3EMAXHqBRD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937783972102365590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 131,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937724563686817813",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不想台湾回归的原因之一就是不想看台湾以后的小朋友们也一边跑操一边大声朗读知识点，支那人已经把上海卷成下一个山河四省了，台湾不应该成为下一个上海 https://t.co/3EMAXHqBRD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 1170,
+          "like_count": 8679,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 4527
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T10:37:31.000Z",
+        "description": "I'm not sure that any of that matters. Friends, enemies. So long as there's mercy. Always mercy. \n女儿@iranon_lcf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "iranon_lcf"
+              }
+            ]
+          }
+        },
+        "id": "1870780665295474688",
+        "name": "死仇时代的恨意",
+        "pinned_tweet_id": "1871958460302315698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875209065451884544/WQ8ut7Uk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 490,
+          "like_count": 10607,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 2980
+        },
+        "username": "doraneko_rana",
+        "verified": false
+      }
+    ]
+  }
+}

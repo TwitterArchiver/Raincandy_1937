@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1975044249969365241",
+    "created_at": "2025-10-06T03:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T04:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975044249969365241"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "维权"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/ui97uG",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/ui97uG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975044249969365241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975033277242114152",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 9月7日，浙江省江山市，一名初三学生在回校过程中离奇死亡，到今天都还没有进展死亡现扬没发现一滴血，头部肿胀，没发现有明显的外伤，下身生殖器破裂严重已抛在体外。因公安查询后，至今毫无案情进展。\n#维权 https://t.co/ui97uG…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1975044249969365241].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1975044249969365241",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1975044249969365241"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1974948983756791808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2htoxJXoAABxU6.jpg",
+        "width": 732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974948983756791808"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1975033277242114152",
+        "created_at": "2025-10-06T03:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T04:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975033277242114152"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "维权"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ui97uGmUCY",
+              "end": 123,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1975033277242114152/photo/1",
+              "media_key": "3_1974948983756791808",
+              "start": 100,
+              "url": "https://t.co/ui97uGmUCY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975033277242114152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 21059,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "9月7日，浙江省江山市，一名初三学生在回校过程中离奇死亡，到今天都还没有进展死亡现扬没发现一滴血，头部肿胀，没发现有明显的外伤，下身生殖器破裂严重已抛在体外。因公安查询后，至今毫无案情进展。\n#维权 https://t.co/ui97uGmUCY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 1368,
+          "like_count": 10588,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 5228
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1972250722088473025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2116920,
+          "following_count": 988,
+          "like_count": 8256,
+          "listed_count": 8370,
+          "media_count": 35800,
+          "tweet_count": 42616
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

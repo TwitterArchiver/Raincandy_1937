@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1889651110605938710",
+    "created_at": "2025-02-12T17:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T18:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889736013003493655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1801268501325156352",
+          "start": 0,
+          "username": "eyesareloud0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889736013003493655",
+    "in_reply_to_user_id": "1801268501325156352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889651110605938710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eyesareloud0 希望如此吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1889651110605938710",
+        "created_at": "2025-02-12T17:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T18:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889736013003493655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1801268501325156352",
+              "start": 0,
+              "username": "eyesareloud0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889736013003493655",
+        "in_reply_to_user_id": "1801268501325156352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889651110605938710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eyesareloud0 希望如此吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801268501325156352",
+        "conversation_id": "1889651110605938710",
+        "created_at": "2025-02-12T12:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T13:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889651110605938710"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889651110605938710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 38085,
+          "like_count": 338,
+          "quote_count": 0,
+          "reply_count": 140,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "难道你们不长头像那样？我就认为是一群卡通人在和我讲话啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 765,
+          "like_count": 5840,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2961
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T15:00:57.000Z",
+        "description": "只玩推 不加v 防丢@utopia000901",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "utopia000901"
+              }
+            ]
+          }
+        },
+        "id": "1801268501325156352",
+        "name": "Utopia",
+        "pinned_tweet_id": "1883016653635781036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883018262415622144/eHegFo5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40355,
+          "following_count": 259,
+          "like_count": 1249,
+          "listed_count": 87,
+          "media_count": 55,
+          "tweet_count": 1725
+        },
+        "username": "eyesareloud0",
+        "verified": false
+      }
+    ]
+  }
+}

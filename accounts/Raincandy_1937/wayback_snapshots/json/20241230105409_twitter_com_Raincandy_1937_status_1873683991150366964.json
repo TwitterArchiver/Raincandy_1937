@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1873658858713075720",
+    "created_at": "2024-12-30T10:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T11:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873683991150366964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1815482193327935488",
+          "start": 0,
+          "username": "SOYO_2008_JPN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873683991150366964",
+    "in_reply_to_user_id": "1815482193327935488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873658858713075720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SOYO_2008_JPN 我想發那張睦頭人鬼圖，但是找不到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1873658858713075720",
+        "created_at": "2024-12-30T10:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T11:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873683991150366964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815482193327935488",
+              "start": 0,
+              "username": "SOYO_2008_JPN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873683991150366964",
+        "in_reply_to_user_id": "1815482193327935488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873658858713075720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SOYO_2008_JPN 我想發那張睦頭人鬼圖，但是找不到了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873658855168655360"
+          ]
+        },
+        "author_id": "1815482193327935488",
+        "conversation_id": "1873658858713075720",
+        "created_at": "2024-12-30T09:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T10:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873658858713075720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pgQ5b4JC1R",
+              "end": 36,
+              "expanded_url": "https://x.com/SOYO_2008_JPN/status/1873658858713075720/photo/1",
+              "media_key": "3_1873658855168655360",
+              "start": 13,
+              "url": "https://t.co/pgQ5b4JC1R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873658858713075720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我在相册怎么翻到这个…… https://t.co/pgQ5b4JC1R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 618,
+          "like_count": 4326,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 2259
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T20:21:15.000Z",
+        "description": "o_O",
+        "id": "1815482193327935488",
+        "location": "东京都（开封府）",
+        "name": "长崎素世",
+        "pinned_tweet_id": "1873371482052817266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867739756458627072/R-Ok1exc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 102,
+          "like_count": 2736,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 393
+        },
+        "username": "SOYO_2008_JPN",
+        "verified": false
+      }
+    ]
+  }
+}

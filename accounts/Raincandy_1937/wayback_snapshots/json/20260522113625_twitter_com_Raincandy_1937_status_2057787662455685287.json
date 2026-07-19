@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057437859028652032"
+      ],
+      "media_source_tweet_id": [
+        "2057437861532573820"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2057787662455685287",
+    "created_at": "2026-05-22T11:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T12:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057787662455685287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2035882965671215104",
+          "start": 3,
+          "username": "amber_medusozoa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h8tYHtCvkT",
+          "end": 44,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2057437861532573820/photo/1",
+          "media_key": "3_2057437859028652032",
+          "start": 21,
+          "url": "https://t.co/h8tYHtCvkT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057787662455685287",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057437861532573820",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_medusozoa: https://t.co/h8tYHtCvkT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 687,
+        "media_key": "3_2057437859028652032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI181P7X0AA3fqB.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057437859028652032"
+          ],
+          "media_source_tweet_id": [
+            "2057437861532573820"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2057787662455685287",
+        "created_at": "2026-05-22T11:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057787662455685287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2035882965671215104",
+              "start": 3,
+              "username": "amber_medusozoa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h8tYHtCvkT",
+              "end": 44,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2057437861532573820/photo/1",
+              "media_key": "3_2057437859028652032",
+              "start": 21,
+              "url": "https://t.co/h8tYHtCvkT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057787662455685287",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057437861532573820",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_medusozoa: https://t.co/h8tYHtCvkT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057437859028652032"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2057437861532573820",
+        "created_at": "2026-05-21T12:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057437861532573820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h8tYHtCvkT",
+              "end": 23,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2057437861532573820/photo/1",
+              "media_key": "3_2057437859028652032",
+              "start": 0,
+              "url": "https://t.co/h8tYHtCvkT"
+            },
+            {
+              "display_url": "x.com/liquid_pomelo/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/liquid_pomelo/status/2057347484066963698",
+              "start": 24,
+              "url": "https://t.co/5pi1dvukt2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057437861532573820",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10409,
+          "like_count": 97,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057347484066963698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/h8tYHtCvkT https://t.co/5pi1dvukt2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 1684,
+          "like_count": 15540,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 6867
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/XWFKRZnw6Y"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2057203502472946047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057203465730801664/2vAIcjtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3811,
+          "following_count": 846,
+          "like_count": 3622,
+          "listed_count": 10,
+          "media_count": 58,
+          "tweet_count": 1584
+        },
+        "url": "https://t.co/XWFKRZnw6Y",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016300855884976128"
+      ],
+      "media_source_tweet_id": [
+        "2016300860330909837"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2016470237366178016",
+    "created_at": "2026-01-28T11:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T12:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016470237366178016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1535701819812462600",
+          "start": 3,
+          "username": "Kenntnis22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UjvY38YxjH",
+          "end": 61,
+          "expanded_url": "https://x.com/Kenntnis22/status/2016300860330909837/photo/1",
+          "media_key": "3_2016300855884976128",
+          "start": 38,
+          "url": "https://t.co/UjvY38YxjH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016470237366178016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016300860330909837",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kenntnis22: 自己不主动去争取，就算外面有人帮你也没用。 https://t.co/UjvY38YxjH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1516,
+        "media_key": "3_2016300855884976128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_tW8hNXEAAWqpS.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016300855884976128"
+          ],
+          "media_source_tweet_id": [
+            "2016300860330909837"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2016470237366178016",
+        "created_at": "2026-01-28T11:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T12:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016470237366178016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1535701819812462600",
+              "start": 3,
+              "username": "Kenntnis22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UjvY38YxjH",
+              "end": 61,
+              "expanded_url": "https://x.com/Kenntnis22/status/2016300860330909837/photo/1",
+              "media_key": "3_2016300855884976128",
+              "start": 38,
+              "url": "https://t.co/UjvY38YxjH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016470237366178016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016300860330909837",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kenntnis22: 自己不主动去争取，就算外面有人帮你也没用。 https://t.co/UjvY38YxjH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016300855884976128"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "2016300860330909837",
+        "created_at": "2026-01-28T00:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T01:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016300860330909837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UjvY38YxjH",
+              "end": 45,
+              "expanded_url": "https://x.com/Kenntnis22/status/2016300860330909837/photo/1",
+              "media_key": "3_2016300855884976128",
+              "start": 22,
+              "url": "https://t.co/UjvY38YxjH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016300860330909837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 86076,
+          "like_count": 1347,
+          "quote_count": 1,
+          "reply_count": 62,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "自己不主动去争取，就算外面有人帮你也没用。 https://t.co/UjvY38YxjH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 1529,
+          "like_count": 13025,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 6039
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2015226564666122537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48500,
+          "following_count": 378,
+          "like_count": 44697,
+          "listed_count": 231,
+          "media_count": 9083,
+          "tweet_count": 13959
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1996451778188169630",
+    "created_at": "2025-12-04T05:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T06:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996451778188169630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "20784367",
+          "start": 3,
+          "username": "hrichina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996451778188169630",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996368856584184188",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hrichina: 澳大利亚战略政策研究所（ASPI）最新发布的重磅报告《党的AI》揭示了一个关键转折：在2023至2025年间，中共已成功将大语言模型（LLM）从单纯的商业技术风口，转化为一套精密的国家社会控制仪器。调查人员通过大量测试与采购文件分析发现，传统的文本审…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1996451778188169630",
+        "created_at": "2025-12-04T05:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T06:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996451778188169630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "20784367",
+              "start": 3,
+              "username": "hrichina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996451778188169630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996368856584184188",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hrichina: 澳大利亚战略政策研究所（ASPI）最新发布的重磅报告《党的AI》揭示了一个关键转折：在2023至2025年间，中共已成功将大语言模型（LLM）从单纯的商业技术风口，转化为一套精密的国家社会控制仪器。调查人员通过大量测试与采购文件分析发现，传统的文本审…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "20784367",
+        "conversation_id": "1996368856584184188",
+        "created_at": "2025-12-04T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996368856584184188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996368856584184188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "aspi.org.au/report/the-par…",
+                "end": 652,
+                "expanded_url": "https://www.aspi.org.au/report/the-partys-ai-how-chinas-new-ai-systems-are-reshaping-human-rights/",
+                "start": 629,
+                "url": "https://t.co/1PpzOUlYHg"
+              }
+            ]
+          },
+          "text": "澳大利亚战略政策研究所（ASPI）最新发布的重磅报告《党的AI》揭示了一个关键转折：在2023至2025年间，中共已成功将大语言模型（LLM）从单纯的商业技术风口，转化为一套精密的国家社会控制仪器。调查人员通过大量测试与采购文件分析发现，传统的文本审查已升级为多模态监控，国产大模型现已具备识别并自动屏蔽“政治敏感图片”的能力，填补了过往审查体系中最后的盲区。更深层的变化在于控制手段的“工业化”——中国政府通过法规激励，促使腾讯、字节跳动等科技巨头开发标准化的AI审查平台并出售给下游企业，让审查合规从一项政治任务变成了一门高效、廉价且有利可图的生意。\n​这种“算法压迫”在针对特定人群时尤为显著。报告披露，北京正资助开发针对维吾尔语、藏语等少数民族语言的专用模型，其目的并非文化服务，而是旨在弥补商业模型在小语种监控上的算力空白，从而实施更精准的情感分析与预测性管控。与此同时，AI技术已被深度嵌入从警务抓捕到法院判决的整条刑事司法管道，“智慧法院”甚至开始介入量刑建议。这种做法导致司法过程极度缺乏透明度，不仅削弱了法律辩护的空间，更可能将系统性的歧视固化为不可挑战的算法决策。\n​这不仅意味着国内异见将被更隐蔽地“预判”和消除，随着中国企业出海，这种模式正在向全球扩散。报告特别指出，装备了AI智能平台的中国远洋渔船已开始利用技术代差在海外挤压他国生存空间，显示出数字威权主义正试图超越国界，重新定义全球范围内的信息控制与经济权利规则。\n\n原文链接：https://t.co/1PpzOUlYHg"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 26859,
+          "like_count": 213,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "澳大利亚战略政策研究所（ASPI）最新发布的重磅报告《党的AI》揭示了一个关键转折：在2023至2025年间，中共已成功将大语言模型（LLM）从单纯的商业技术风口，转化为一套精密的国家社会控制仪器。调查人员通过大量测试与采购文件分析发现，传统的文本审查已升级为多模态监控，国产大模型现已具备识别并"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 1468,
+          "like_count": 12193,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 5701
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-13T16:45:40.000Z",
+        "description": "Founded in March 1989, HRIC is dedicated to promoting international human rights and advancing the institutional protection of these rights in #China.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 149,
+                "start": 143,
+                "tag": "China"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "new.hrichina.org",
+                "end": 23,
+                "expanded_url": "http://new.hrichina.org",
+                "start": 0,
+                "url": "https://t.co/MyUsDtkaqv"
+              }
+            ]
+          }
+        },
+        "id": "20784367",
+        "location": "New York & Hong Kong",
+        "name": "中国人权-Human Rights in China",
+        "pinned_tweet_id": "1994193297284202818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678842988393291779/U4Nl3HSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85895,
+          "following_count": 1096,
+          "like_count": 3243,
+          "listed_count": 780,
+          "media_count": 3225,
+          "tweet_count": 17275
+        },
+        "url": "https://t.co/MyUsDtkaqv",
+        "username": "hrichina",
+        "verified": true
+      }
+    ]
+  }
+}

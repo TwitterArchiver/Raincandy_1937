@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964214684653146117"
+      ],
+      "media_source_tweet_id": [
+        "1964214691343061292"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1964595660386423280",
+    "created_at": "2025-09-07T07:44:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T08:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964595660386423280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1846069092765388800",
+          "start": 3,
+          "username": "Real_Baomi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YhMtkhjMEf",
+          "end": 52,
+          "expanded_url": "https://x.com/Real_Baomi/status/1964214691343061292/photo/1",
+          "media_key": "3_1964214684653146117",
+          "start": 29,
+          "url": "https://t.co/YhMtkhjMEf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964595660386423280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 271
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964214691343061292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Real_Baomi: 哎呀，鄭成功怎麼這麼壞啊 https://t.co/YhMtkhjMEf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_1964214684653146117",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0JK2U1bUAU3oFK.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964214684653146117"
+          ],
+          "media_source_tweet_id": [
+            "1964214691343061292"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1964595660386423280",
+        "created_at": "2025-09-07T07:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T08:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964595660386423280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1846069092765388800",
+              "start": 3,
+              "username": "Real_Baomi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YhMtkhjMEf",
+              "end": 52,
+              "expanded_url": "https://x.com/Real_Baomi/status/1964214691343061292/photo/1",
+              "media_key": "3_1964214684653146117",
+              "start": 29,
+              "url": "https://t.co/YhMtkhjMEf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964595660386423280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 271
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964214691343061292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Real_Baomi: 哎呀，鄭成功怎麼這麼壞啊 https://t.co/YhMtkhjMEf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964214684653146117"
+          ]
+        },
+        "author_id": "1846069092765388800",
+        "conversation_id": "1964214691343061292",
+        "created_at": "2025-09-06T06:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T07:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964214691343061292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YhMtkhjMEf",
+              "end": 36,
+              "expanded_url": "https://x.com/Real_Baomi/status/1964214691343061292/photo/1",
+              "media_key": "3_1964214684653146117",
+              "start": 13,
+              "url": "https://t.co/YhMtkhjMEf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964214691343061292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 309,
+          "impression_count": 538758,
+          "like_count": 4674,
+          "quote_count": 30,
+          "reply_count": 118,
+          "retweet_count": 271
+        },
+        "reply_settings": "everyone",
+        "text": "哎呀，鄭成功怎麼這麼壞啊 https://t.co/YhMtkhjMEf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 1304,
+          "like_count": 9705,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 4982
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T06:03:13.000Z",
+        "description": "包蜜、臘蜜、川蜜☭⃠",
+        "id": "1846069092765388800",
+        "location": "中南海",
+        "name": "包蜜",
+        "pinned_tweet_id": "1876232484217889271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848239911499177984/oN3EEhgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 229,
+          "like_count": 28058,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 1394
+        },
+        "username": "Real_Baomi",
+        "verified": false
+      }
+    ]
+  }
+}

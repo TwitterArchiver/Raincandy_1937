@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1898682127857958918",
+    "created_at": "2025-03-09T10:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T11:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898689831527759904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "CnHpaHky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898689831527759904",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898682127857958918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CnHpaHky ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1898682127857958918",
+        "created_at": "2025-03-09T10:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T11:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898689831527759904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "CnHpaHky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898689831527759904",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898682127857958918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CnHpaHky ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1898682127857958918",
+        "created_at": "2025-03-09T10:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T11:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898682127857958918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898682127857958918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠，太难绷了。\n刚刚玩三角洲被一个人带着连续大赢特赢。\n我发了个“宝宝你好厉害”，他说过害羞了，问我性别和年龄。\n我如实说了，她说她是八岁的小女孩，让我不要嫌弃她。\n我：？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 831,
+          "like_count": 6289,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 3228
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Bluesky同名，俄罗斯是一个大实验室，中国是一个精神病院。 Void @Sayols_ @MikuMiku3648 我叫阳阳，男孩子，在北方读大学，泛性恋，喜欢贴贴。在考虑每天写点东西，保持对生活的敏感，多互动就是好朋友了，着急加快进度可以给我打钱（bushi）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "Sayols_"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "MikuMiku3648"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "location": "Neverland",
+        "name": "fallen stars",
+        "pinned_tweet_id": "1898680560609853760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898402237363507200/Wx3H_9yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1229,
+          "following_count": 917,
+          "like_count": 4901,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 3233
+        },
+        "username": "CnHpaHky",
+        "verified": false
+      }
+    ]
+  }
+}

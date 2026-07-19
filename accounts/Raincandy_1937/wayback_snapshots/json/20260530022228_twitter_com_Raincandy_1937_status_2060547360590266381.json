@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060370573012922368"
+      ],
+      "media_source_tweet_id": [
+        "2060370582764748811"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2060547360590266381",
+    "created_at": "2026-05-30T02:22:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T03:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060547360590266381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "893489787411222528",
+          "start": 3,
+          "username": "kuren_chan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nEr5AdZWbV",
+          "end": 46,
+          "expanded_url": "https://x.com/kuren_chan/status/2060370582764748811/photo/1",
+          "media_key": "3_2060370573012922368",
+          "start": 23,
+          "url": "https://t.co/nEr5AdZWbV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060547360590266381",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060370582764748811",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuren_chan: 耳がいいね。 https://t.co/nEr5AdZWbV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060370573012922368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfoHq4acAAmZru.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060370573012922368"
+          ],
+          "media_source_tweet_id": [
+            "2060370582764748811"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2060547360590266381",
+        "created_at": "2026-05-30T02:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060547360590266381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "893489787411222528",
+              "start": 3,
+              "username": "kuren_chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nEr5AdZWbV",
+              "end": 46,
+              "expanded_url": "https://x.com/kuren_chan/status/2060370582764748811/photo/1",
+              "media_key": "3_2060370573012922368",
+              "start": 23,
+              "url": "https://t.co/nEr5AdZWbV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060547360590266381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060370582764748811",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuren_chan: 耳がいいね。 https://t.co/nEr5AdZWbV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060370573012922368"
+          ]
+        },
+        "author_id": "893489787411222528",
+        "conversation_id": "2060370582764748811",
+        "created_at": "2026-05-29T14:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060370582764748811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nEr5AdZWbV",
+              "end": 30,
+              "expanded_url": "https://x.com/kuren_chan/status/2060370582764748811/photo/1",
+              "media_key": "3_2060370573012922368",
+              "start": 7,
+              "url": "https://t.co/nEr5AdZWbV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060370582764748811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 5138,
+          "like_count": 529,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "耳がいいね。 https://t.co/nEr5AdZWbV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 1715,
+          "like_count": 16040,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 7005
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-04T15:12:20.000Z",
+        "description": "まくらです૮๑•̀ㅁ•́ฅა #まくらーめん 異世界同位体 #花咲ゾンビ／Chinese cosplayer／@hiodoshiao 自慢な火女ちゃん♡ずっと愛してる／加工厨!! 時々変な日本語喋ります／必読→ https://t.co/e8NgojldHh",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 15,
+                "tag": "まくらーめん"
+              },
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "花咲ゾンビ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "hiodoshiao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/hanasaki…",
+                "end": 129,
+                "expanded_url": "https://lit.link/zh-tw/hanasakimakura",
+                "start": 106,
+                "url": "https://t.co/e8NgojldHh"
+              }
+            ]
+          }
+        },
+        "id": "893489787411222528",
+        "location": "🚫転載禁止⚠️ 写真、仕事はDMへお願いします✨",
+        "name": "花崎Makura🌸🪽",
+        "pinned_tweet_id": "2044344429264404953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966926126384902146/hC-a3afb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192336,
+          "following_count": 1002,
+          "like_count": 102577,
+          "listed_count": 741,
+          "media_count": 1235,
+          "tweet_count": 22555
+        },
+        "username": "kuren_chan",
+        "verified": true
+      }
+    ]
+  }
+}

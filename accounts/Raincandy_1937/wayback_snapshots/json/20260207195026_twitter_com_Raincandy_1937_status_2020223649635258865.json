@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020024002975350784"
+      ],
+      "media_source_tweet_id": [
+        "2020024009212203363"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2020223649635258865",
+    "created_at": "2026-02-07T19:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T20:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020223649635258865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1484582068663521281",
+          "start": 3,
+          "username": "data_syuxchu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DO7q3sfx7f",
+          "end": 41,
+          "expanded_url": "https://x.com/data_syuxchu/status/2020024009212203363/photo/1",
+          "media_key": "3_2020024002975350784",
+          "start": 18,
+          "url": "https://t.co/DO7q3sfx7f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020223649635258865",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 154
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020024009212203363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @data_syuxchu: https://t.co/DO7q3sfx7f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1484,
+        "media_key": "3_2020024002975350784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAiRIM8bwAAkokz.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020024002975350784"
+          ],
+          "media_source_tweet_id": [
+            "2020024009212203363"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2020223649635258865",
+        "created_at": "2026-02-07T19:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T20:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020223649635258865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1484582068663521281",
+              "start": 3,
+              "username": "data_syuxchu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DO7q3sfx7f",
+              "end": 41,
+              "expanded_url": "https://x.com/data_syuxchu/status/2020024009212203363/photo/1",
+              "media_key": "3_2020024002975350784",
+              "start": 18,
+              "url": "https://t.co/DO7q3sfx7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020223649635258865",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020024009212203363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @data_syuxchu: https://t.co/DO7q3sfx7f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020024002975350784"
+          ]
+        },
+        "author_id": "1484582068663521281",
+        "conversation_id": "2020024009212203363",
+        "created_at": "2026-02-07T06:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T07:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020024009212203363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DO7q3sfx7f",
+              "end": 23,
+              "expanded_url": "https://x.com/data_syuxchu/status/2020024009212203363/photo/1",
+              "media_key": "3_2020024002975350784",
+              "start": 0,
+              "url": "https://t.co/DO7q3sfx7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020024009212203363",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 37335,
+          "like_count": 1336,
+          "quote_count": 7,
+          "reply_count": 14,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DO7q3sfx7f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 1546,
+          "like_count": 13109,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 6078
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-21T17:42:21.000Z",
+        "description": "成人済ljk **法志望￤@anblk984",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "anblk984"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/l1gz1zbqxgq4cb…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/l1gz1zbqxgq4cb5?t=jbuXs0&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/5dOPDB7mZT"
+              }
+            ]
+          }
+        },
+        "id": "1484582068663521281",
+        "location": "匿名信息▶︎",
+        "name": "繝槭Φ繧ｿ*荳?譫‼️",
+        "pinned_tweet_id": "1927681460472860814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915420112183844872/WriGAZAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 399,
+          "like_count": 29882,
+          "listed_count": 8,
+          "media_count": 475,
+          "tweet_count": 4324
+        },
+        "url": "https://t.co/5dOPDB7mZT",
+        "username": "data_syuxchu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Page for Global Pride Month for all years",
+          "id": "1275153105659650048",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      }
+    ],
+    "conversation_id": "2064428528536588771",
+    "created_at": "2026-06-09T19:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T20:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064428528536588771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "160682061",
+          "start": 3,
+          "username": "alejilloTol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064428528536588771",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15248
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064166649398268237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @alejilloTol: Me apareció en recuerdos la foto que fue LA FOTO del pride de 2024: un señor portugués abrazando una bandera LGBT. \nEl señ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2064166645635915776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVkoLZWoAAGZ94.jpg",
+        "width": 1033
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          }
+        ],
+        "conversation_id": "2064428528536588771",
+        "created_at": "2026-06-09T19:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064428528536588771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "160682061",
+              "start": 3,
+              "username": "alejilloTol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064428528536588771",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15248
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064166649398268237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @alejilloTol: Me apareció en recuerdos la foto que fue LA FOTO del pride de 2024: un señor portugués abrazando una bandera LGBT. \nEl señ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064166645635915776"
+          ]
+        },
+        "author_id": "160682061",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          }
+        ],
+        "conversation_id": "2064166649398268237",
+        "created_at": "2026-06-09T02:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064166649398268237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7S2xFo368B",
+              "end": 298,
+              "expanded_url": "https://x.com/alejilloTol/status/2064166649398268237/photo/1",
+              "media_key": "3_2064166645635915776",
+              "start": 275,
+              "url": "https://t.co/7S2xFo368B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064166649398268237",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {},
+          "text": "Me apareció en recuerdos la foto que fue LA FOTO del pride de 2024: un señor portugués abrazando una bandera LGBT. \nEl señor estaba parado en la puerta de su casa viendo pasar la marcha en Porto, sosteniendo una bandera portuguesa lo cual inicialmente asustó a varios porque agitar la bandera nacional en ese contexto puede ser señal de protesta nacionalista anti-LGBT. La gente en la marcha se detuvo, preocupada por lo que podría pasar. Pero resulta que el señor estaba agitando la bandera portuguesa porque no tenía una bandera arcoíris y quería participar de alguna forma. \n\nUna chica llamada Lily se acercó. El hombre intercambió su bandera portuguesa por la bandera que Lily traía sobre los hombros. Lo que ven en la foto es el momento exacto en que él la recibe y la abraza. \n\nAlguien se sintió visto y parte de algo más grande ese día. Eso es el orgullo: dejar de ser invisibles. 🏳️‍🌈❤️✨"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8971,
+          "impression_count": 1883799,
+          "like_count": 116961,
+          "quote_count": 589,
+          "reply_count": 168,
+          "retweet_count": 15248
+        },
+        "reply_settings": "everyone",
+        "text": "Me apareció en recuerdos la foto que fue LA FOTO del pride de 2024: un señor portugués abrazando una bandera LGBT. \nEl señor estaba parado en la puerta de su casa viendo pasar la marcha en Porto, sosteniendo una bandera portuguesa lo cual inicialmente asustó a varios porque https://t.co/7S2xFo368B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 1726,
+          "like_count": 16505,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 7192
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-28T21:30:44.000Z",
+        "description": "Escritor | Psic. Humanista. Aquí se habita el cuerpo y se nombra lo que duele y necesita sanarse en forma de libros. 👉🏻 https://t.co/pCxs4ixHtc 888",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3M5tZY8",
+                "end": 143,
+                "expanded_url": "https://bit.ly/3M5tZY8",
+                "start": 120,
+                "url": "https://t.co/pCxs4ixHtc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "alex-toledo-libros.penguinlibros.com",
+                "end": 23,
+                "expanded_url": "https://alex-toledo-libros.penguinlibros.com",
+                "start": 0,
+                "url": "https://t.co/pUY2hqzir9"
+              }
+            ]
+          }
+        },
+        "id": "160682061",
+        "location": "Jotolandia",
+        "name": "Alex Toledo 👑🏳️‍🌈👑",
+        "pinned_tweet_id": "1833190756158156884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976080586532954112/RFvMCRyw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227704,
+          "following_count": 833,
+          "like_count": 74484,
+          "listed_count": 182,
+          "media_count": 9734,
+          "tweet_count": 60267
+        },
+        "url": "https://t.co/pUY2hqzir9",
+        "username": "alejilloTol",
+        "verified": false
+      }
+    ]
+  }
+}

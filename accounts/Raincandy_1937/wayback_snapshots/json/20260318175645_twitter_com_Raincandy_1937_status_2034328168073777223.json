@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2034328168073777223",
+    "created_at": "2026-03-18T17:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T18:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034328168073777223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1363489029430403073",
+          "start": 3,
+          "username": "5cmdkOARZbuaVAG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034328168073777223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034161745296515564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5cmdkOARZbuaVAG: 一个天使陨落了🙏\n女孩们，在自身能量不够强的时候，不要把自己的精力放在拯救别人身上\n言传比不过身教，自己活得精彩，让其他女孩看到人生可以有无数的可能性，是对她们最好的救赎\n不要有执念，有“救”这个动作就够了，能不能救到，看天意，也看对方…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2034161738984394752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrLUvvbEAAHjEB.jpg",
+        "width": 706
+      },
+      {
+        "height": 1811,
+        "media_key": "3_2034161739265368064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrLUwyaYAAOcqt.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2034328168073777223",
+        "created_at": "2026-03-18T17:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T18:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034328168073777223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1363489029430403073",
+              "start": 3,
+              "username": "5cmdkOARZbuaVAG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034328168073777223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034161745296515564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5cmdkOARZbuaVAG: 一个天使陨落了🙏\n女孩们，在自身能量不够强的时候，不要把自己的精力放在拯救别人身上\n言传比不过身教，自己活得精彩，让其他女孩看到人生可以有无数的可能性，是对她们最好的救赎\n不要有执念，有“救”这个动作就够了，能不能救到，看天意，也看对方…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034161738984394752",
+            "3_2034161739265368064"
+          ]
+        },
+        "author_id": "1363489029430403073",
+        "conversation_id": "2034161745296515564",
+        "created_at": "2026-03-18T06:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T07:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034161745296515564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gpyo1L7wGm",
+              "end": 167,
+              "expanded_url": "https://x.com/5cmdkOARZbuaVAG/status/2034161745296515564/photo/1",
+              "media_key": "3_2034161738984394752",
+              "start": 144,
+              "url": "https://t.co/gpyo1L7wGm"
+            },
+            {
+              "display_url": "pic.x.com/gpyo1L7wGm",
+              "end": 167,
+              "expanded_url": "https://x.com/5cmdkOARZbuaVAG/status/2034161745296515564/photo/1",
+              "media_key": "3_2034161739265368064",
+              "start": 144,
+              "url": "https://t.co/gpyo1L7wGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034161745296515564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4309,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "一个天使陨落了🙏\n女孩们，在自身能量不够强的时候，不要把自己的精力放在拯救别人身上\n言传比不过身教，自己活得精彩，让其他女孩看到人生可以有无数的可能性，是对她们最好的救赎\n不要有执念，有“救”这个动作就够了，能不能救到，看天意，也看对方的求生意愿\n记住，女人活着就是女权，女权首先得活着 https://t.co/gpyo1L7wGm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 1577,
+          "like_count": 13839,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 6406
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T14:02:24.000Z",
+        "description": "自由的女巫，反宗教的道士，反男权的人/\n\n👸“我”本位/\n\n女巫“三倍定律”：无论你给予我任何，我必将三倍奉还🧙‍♀️/\n\n道家金句：老子喜欢✌️/\n\n不完全统计99%的男的都是蠢货，挨骂是必然",
+        "id": "1363489029430403073",
+        "name": "Wilde Hexe（荒野女巫）",
+        "pinned_tweet_id": "1955747936601825626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889719360555474945/DKKl6W8p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4845,
+          "following_count": 448,
+          "like_count": 102324,
+          "listed_count": 26,
+          "media_count": 2477,
+          "tweet_count": 53702
+        },
+        "username": "5cmdkOARZbuaVAG",
+        "verified": false
+      }
+    ]
+  }
+}

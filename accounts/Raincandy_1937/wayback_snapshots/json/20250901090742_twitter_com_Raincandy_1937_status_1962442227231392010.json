@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1962442227231392010",
+    "created_at": "2025-09-01T09:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T10:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962442227231392010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1698001955422175232",
+          "start": 3,
+          "username": "d07207333210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962442227231392010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961829309334917342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @d07207333210: 我建议包括你在内的诸多顺直男不要一边对着女性化的布里姬、晓山瑞希和猎空等角色的色图自慰时说“我不反对lgbt、dei”，一边看到不女性化的ftm、非二元或者男同男泛又开始“dei、lgbt太坏了！”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1962442227231392010",
+        "created_at": "2025-09-01T09:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T10:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962442227231392010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1698001955422175232",
+              "start": 3,
+              "username": "d07207333210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962442227231392010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961829309334917342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @d07207333210: 我建议包括你在内的诸多顺直男不要一边对着女性化的布里姬、晓山瑞希和猎空等角色的色图自慰时说“我不反对lgbt、dei”，一边看到不女性化的ftm、非二元或者男同男泛又开始“dei、lgbt太坏了！”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698001955422175232",
+        "conversation_id": "1961829309334917342",
+        "created_at": "2025-08-30T16:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T17:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961829309334917342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sola_nubes/sta…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/sola_nubes/status/1960372733658943523",
+              "start": 100,
+              "url": "https://t.co/TbeXLyjykH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961829309334917342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 13980,
+          "like_count": 217,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960372733658943523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我建议包括你在内的诸多顺直男不要一边对着女性化的布里姬、晓山瑞希和猎空等角色的色图自慰时说“我不反对lgbt、dei”，一边看到不女性化的ftm、非二元或者男同男泛又开始“dei、lgbt太坏了！” https://t.co/TbeXLyjykH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 1265,
+          "like_count": 9487,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 4928
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T15:56:46.000Z",
+        "description": "09/mtx",
+        "id": "1698001955422175232",
+        "name": "邓曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887491431230799872/ycq9KVCH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 716,
+          "like_count": 16804,
+          "listed_count": 4,
+          "media_count": 324,
+          "tweet_count": 3843
+        },
+        "username": "d07207333210",
+        "verified": false
+      }
+    ]
+  }
+}

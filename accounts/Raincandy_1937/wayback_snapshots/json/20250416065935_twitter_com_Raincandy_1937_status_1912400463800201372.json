@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1912392461055385712",
+    "created_at": "2025-04-16T06:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T07:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912400463800201372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1627413864756424704",
+          "start": 0,
+          "username": "Aphrodite_mis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912400463800201372",
+    "in_reply_to_user_id": "1627413864756424704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912392461055385712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aphrodite_mis 这简直是我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1912392461055385712",
+        "created_at": "2025-04-16T06:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T07:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912400463800201372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1627413864756424704",
+              "start": 0,
+              "username": "Aphrodite_mis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912400463800201372",
+        "in_reply_to_user_id": "1627413864756424704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912392461055385712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aphrodite_mis 这简直是我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627413864756424704",
+        "conversation_id": "1912392461055385712",
+        "created_at": "2025-04-16T06:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T07:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912392461055385712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/scutigera_8964…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/scutigera_8964/status/1912358481753174315",
+              "start": 5,
+              "url": "https://t.co/kAwgiHoEPR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912392461055385712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912358481753174315",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真这样 https://t.co/kAwgiHoEPR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 1037,
+          "like_count": 7968,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 4053
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T21:04:56.000Z",
+        "description": "戰鬥蘿莉鵝🔱",
+        "id": "1627413864756424704",
+        "name": "阿尔忒弥斯",
+        "pinned_tweet_id": "1912154859198947370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903764116789141504/eFpD_PhE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17867,
+          "following_count": 595,
+          "like_count": 189504,
+          "listed_count": 36,
+          "media_count": 2682,
+          "tweet_count": 46415
+        },
+        "username": "Aphrodite_mis",
+        "verified": false
+      }
+    ]
+  }
+}

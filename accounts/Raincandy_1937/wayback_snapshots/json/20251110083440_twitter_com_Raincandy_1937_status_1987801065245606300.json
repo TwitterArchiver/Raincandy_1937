@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "id": "1376630920141172737",
+          "name": "Japan National Diet "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1376630920141172737",
+          "name": "Japan National Diet "
+        }
+      }
+    ],
+    "conversation_id": "1987801065245606300",
+    "created_at": "2025-11-10T08:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T09:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987801065245606300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987801065245606300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987784617407992302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 11月8日，中国驻日本大阪总领事薛剑在X平台发文，针对日本首相高市早苗“台湾有事即日本有事”的国会答辩，引用日本朝日新闻一篇专栏文章中的话：“对于那些突然闯入的肮脏头颅，我只能毫不犹豫地斩断。你准备好了吗？”该帖被广泛解读为对日本领导人的…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 623,
+        "media_key": "3_1987784558444683264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5YHhjAaIAAOdnR.jpg",
+        "width": 1136
+      },
+      {
+        "height": 708,
+        "media_key": "3_1987784608084320256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5YHkb7a4AAHOb0.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1376630920141172737",
+              "name": "Japan National Diet "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1376630920141172737",
+              "name": "Japan National Diet "
+            }
+          }
+        ],
+        "conversation_id": "1987801065245606300",
+        "created_at": "2025-11-10T08:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T09:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987801065245606300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987801065245606300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987784617407992302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 11月8日，中国驻日本大阪总领事薛剑在X平台发文，针对日本首相高市早苗“台湾有事即日本有事”的国会答辩，引用日本朝日新闻一篇专栏文章中的话：“对于那些突然闯入的肮脏头颅，我只能毫不犹豫地斩断。你准备好了吗？”该帖被广泛解读为对日本领导人的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987784558444683264",
+            "3_1987784608084320256"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1376630920141172737",
+              "name": "Japan National Diet "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1376630920141172737",
+              "name": "Japan National Diet "
+            }
+          }
+        ],
+        "conversation_id": "1987784617407992302",
+        "created_at": "2025-11-10T07:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T08:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987784617407992302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/97VLjYi15Z",
+              "end": 168,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1987784617407992302/photo/1",
+              "media_key": "3_1987784558444683264",
+              "start": 145,
+              "url": "https://t.co/97VLjYi15Z"
+            },
+            {
+              "display_url": "pic.x.com/97VLjYi15Z",
+              "end": 168,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1987784617407992302/photo/1",
+              "media_key": "3_1987784608084320256",
+              "start": 145,
+              "url": "https://t.co/97VLjYi15Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987784617407992302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "11月8日，中国驻日本大阪总领事薛剑在X平台发文，针对日本首相高市早苗“台湾有事即日本有事”的国会答辩，引用日本朝日新闻一篇专栏文章中的话：“对于那些突然闯入的肮脏头颅，我只能毫不犹豫地斩断。你准备好了吗？”该帖被广泛解读为对日本领导人的暴力威胁，发布后迅速删除，但已被大量截图保存并传播。 此言论引发中日外交风波，日本网民和政界强烈谴责，中国网友则意见分歧。薛剑本人至今未公开解释，中国外交部也未回应。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 37629,
+          "like_count": 177,
+          "quote_count": 2,
+          "reply_count": 42,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "11月8日，中国驻日本大阪总领事薛剑在X平台发文，针对日本首相高市早苗“台湾有事即日本有事”的国会答辩，引用日本朝日新闻一篇专栏文章中的话：“对于那些突然闯入的肮脏头颅，我只能毫不犹豫地斩断。你准备好了吗？”该帖被广泛解读为对日本领导人的暴力威胁，发布后迅速删除，但已被大量截图保存并传播 https://t.co/97VLjYi15Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 1438,
+          "like_count": 11635,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 5504
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1982024217874075778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2137000,
+          "following_count": 981,
+          "like_count": 8318,
+          "listed_count": 8399,
+          "media_count": 37112,
+          "tweet_count": 43965
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

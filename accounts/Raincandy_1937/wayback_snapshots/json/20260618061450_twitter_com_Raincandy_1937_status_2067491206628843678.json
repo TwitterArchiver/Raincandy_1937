@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2067491206628843678",
+    "created_at": "2026-06-18T06:14:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067491206628843678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2065321543538991104",
+          "start": 3,
+          "username": "Sekihei5i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067491206628843678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 223
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067372751334281694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sekihei5i: 我自己倒是无所谓，只是可怜了这只狗。谁让它要出生在这样野蛮的国家呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2067491206628843678",
+        "created_at": "2026-06-18T06:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067491206628843678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2065321543538991104",
+              "start": 3,
+              "username": "Sekihei5i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067491206628843678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 223
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067372751334281694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sekihei5i: 我自己倒是无所谓，只是可怜了这只狗。谁让它要出生在这样野蛮的国家呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065321543538991104",
+        "conversation_id": "2067372751334281694",
+        "created_at": "2026-06-17T22:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T23:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067372751334281694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minmin89485072…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/minmin89485072/status/2067266204054815227",
+              "start": 35,
+              "url": "https://t.co/y3z6tHNelz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067372751334281694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 116594,
+          "like_count": 2712,
+          "quote_count": 16,
+          "reply_count": 185,
+          "retweet_count": 223
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067266204054815227",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我自己倒是无所谓，只是可怜了这只狗。谁让它要出生在这样野蛮的国家呢？ https://t.co/y3z6tHNelz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 1753,
+          "like_count": 16750,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 7303
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T06:35:12.000Z",
+        "description": "汉奸石平有感有言",
+        "id": "2065321543538991104",
+        "name": "日本参议员石平",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773579400945664/Kg3XJmUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21803,
+          "following_count": 27,
+          "like_count": 0,
+          "listed_count": 38,
+          "media_count": 9,
+          "tweet_count": 111
+        },
+        "username": "Sekihei5i",
+        "verified": false
+      }
+    ]
+  }
+}

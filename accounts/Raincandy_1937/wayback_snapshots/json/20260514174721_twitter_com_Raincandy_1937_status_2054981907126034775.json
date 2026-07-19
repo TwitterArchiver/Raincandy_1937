@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2054981907126034775",
+    "created_at": "2026-05-14T17:47:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T18:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054981907126034775"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_TenRan_25/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/_TenRan_25/status/2054954554085847231",
+          "start": 10,
+          "url": "https://t.co/rI5Jh8VTN0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054981907126034775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054954554085847231",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這個女孩子是誰來著 https://t.co/rI5Jh8VTN0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1677,
+        "media_key": "3_2054954547920195584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISqRhJbUAAGoZi.jpg",
+        "width": 1311
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2054981907126034775",
+        "created_at": "2026-05-14T17:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054981907126034775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_TenRan_25/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/_TenRan_25/status/2054954554085847231",
+              "start": 10,
+              "url": "https://t.co/rI5Jh8VTN0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054981907126034775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054954554085847231",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這個女孩子是誰來著 https://t.co/rI5Jh8VTN0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054954547920195584"
+          ]
+        },
+        "author_id": "1585326843619442688",
+        "conversation_id": "2054954554085847231",
+        "created_at": "2026-05-14T15:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T16:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054954554085847231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iRSbH1FnvB",
+              "end": 23,
+              "expanded_url": "https://x.com/_TenRan_25/status/2054954554085847231/photo/1",
+              "media_key": "3_2054954547920195584",
+              "start": 0,
+              "url": "https://t.co/iRSbH1FnvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054954554085847231",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 9472,
+          "like_count": 882,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 187
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iRSbH1FnvB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 1663,
+          "like_count": 15203,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 6795
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T17:46:49.000Z",
+        "description": "雑多",
+        "id": "1585326843619442688",
+        "name": "◻︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585411089327878144/UejOf3tX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22598,
+          "following_count": 0,
+          "like_count": 256,
+          "listed_count": 114,
+          "media_count": 46,
+          "tweet_count": 98
+        },
+        "username": "_TenRan_25",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1911606792926400562",
+    "created_at": "2025-05-26T10:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T11:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926946680777097656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1895517883868069888",
+          "start": 0,
+          "username": "Thisluckygirls"
+        },
+        {
+          "end": 28,
+          "id": "1496130244088320006",
+          "start": 16,
+          "username": "huhuhuhu252"
+        },
+        {
+          "end": 39,
+          "id": "1573346877080469504",
+          "start": 29,
+          "username": "hane_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926946680777097656",
+    "in_reply_to_user_id": "1895517883868069888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926943923177472256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thisluckygirls @huhuhuhu252 @hane_8964 这出生怎么还活着"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 674,
+        "media_key": "3_1926943916185591808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr3hSEpXoAAodOx.jpg",
+        "width": 959
+      },
+      {
+        "height": 864,
+        "media_key": "3_1926943916344979456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr3hSFPXsAATG9x.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1911606792926400562",
+        "created_at": "2025-05-26T10:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T11:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926946680777097656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1895517883868069888",
+              "start": 0,
+              "username": "Thisluckygirls"
+            },
+            {
+              "end": 28,
+              "id": "1496130244088320006",
+              "start": 16,
+              "username": "huhuhuhu252"
+            },
+            {
+              "end": 39,
+              "id": "1573346877080469504",
+              "start": 29,
+              "username": "hane_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926946680777097656",
+        "in_reply_to_user_id": "1895517883868069888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926943923177472256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thisluckygirls @huhuhuhu252 @hane_8964 这出生怎么还活着"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926943916185591808",
+            "3_1926943916344979456"
+          ]
+        },
+        "author_id": "1895517883868069888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1911606792926400562",
+        "created_at": "2025-05-26T10:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T11:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926943923177472256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1496130244088320006",
+              "start": 0,
+              "username": "huhuhuhu252"
+            },
+            {
+              "end": 28,
+              "id": "1522094771136831488",
+              "start": 13,
+              "username": "Raincandy_1937"
+            },
+            {
+              "end": 39,
+              "id": "1573346877080469504",
+              "start": 29,
+              "username": "hane_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dRpNNA99ay",
+              "end": 101,
+              "expanded_url": "https://x.com/Thisluckygirls/status/1926943923177472256/photo/1",
+              "media_key": "3_1926943916185591808",
+              "start": 78,
+              "url": "https://t.co/dRpNNA99ay"
+            },
+            {
+              "display_url": "pic.x.com/dRpNNA99ay",
+              "end": 101,
+              "expanded_url": "https://x.com/Thisluckygirls/status/1926943923177472256/photo/1",
+              "media_key": "3_1926943916344979456",
+              "start": 78,
+              "url": "https://t.co/dRpNNA99ay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926943923177472256",
+        "in_reply_to_user_id": "1496130244088320006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912438462411862208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huhuhuhu252 @Raincandy_1937 @hane_8964 🤪标准支那公÷合照，看看跟你是不是挺像，难怪习近平引进黑哥改善支那公÷基因 https://t.co/dRpNNA99ay"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 1117,
+          "like_count": 8340,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 4291
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T16:54:24.000Z",
+        "description": "mtf/是个人都要反对剥削女性，除非你不是人，百分之百支持激进女权，左睾丸孙吧蝻董学家term被车裂",
+        "id": "1895517883868069888",
+        "name": "镜萌花🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911982591168614400/noc39CmO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 5,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 20
+        },
+        "username": "Thisluckygirls",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-22T14:30:29.000Z",
+        "description": "",
+        "id": "1496130244088320006",
+        "name": "U.W.K",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598246088992923648/Eocm0Dmw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 1905,
+          "like_count": 16320,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 2640
+        },
+        "username": "huhuhuhu252",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T16:21:51.000Z",
+        "description": "你最恨的Lesbian feminist/radical feminist/性别分离/Get the L out/lesbian not queer/anti-china/支那公狗看我主页之前请出示你爹的火化证明",
+        "id": "1573346877080469504",
+        "location": "支那公狗点进来一次你的屁眼撕裂1cm",
+        "name": "羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925967927309660160/SVA64ZBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 168,
+          "like_count": 9772,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 2062
+        },
+        "username": "hane_8964",
+        "verified": false
+      }
+    ]
+  }
+}

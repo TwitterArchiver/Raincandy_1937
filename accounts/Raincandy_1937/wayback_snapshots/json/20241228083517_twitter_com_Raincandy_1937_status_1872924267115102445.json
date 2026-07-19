@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1872923411577749534",
+    "created_at": "2024-12-28T08:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T09:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872924267115102445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1824091152980815872",
+          "start": 0,
+          "username": "mousou_naikana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872924267115102445",
+    "in_reply_to_user_id": "1824091152980815872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872923411577749534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mousou_naikana 如果是值得被照顾的那种人，哪怕你无力关心他们的问题，也会有人主动去照顾他们的，不要给自己太多负担啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1872923411577749534",
+        "created_at": "2024-12-28T08:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T09:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872924267115102445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1824091152980815872",
+              "start": 0,
+              "username": "mousou_naikana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872924267115102445",
+        "in_reply_to_user_id": "1824091152980815872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872923411577749534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mousou_naikana 如果是值得被照顾的那种人，哪怕你无力关心他们的问题，也会有人主动去照顾他们的，不要给自己太多负担啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824091152980815872",
+        "conversation_id": "1872923411577749534",
+        "created_at": "2024-12-28T08:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T09:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872923411577749534"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1872923411577749534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我救不了他们，而且我也没有任何义务，但是像丢掉累赘一样丢掉精神病患者真的好吗？\n不过转念一想他们或许没有那么无辜呢 ？我发病最严重的时候，也会照顾别人感受的，那样ego不太好吧——但是如果那也是精神病导致的呢？\n总之我又没说什么过分的话，死了也不能怪我吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 611,
+          "like_count": 4103,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 2185
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T14:30:06.000Z",
+        "description": "病み垢| 不安定",
+        "id": "1824091152980815872",
+        "name": "鐘の音が鳴る。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858401324196569089/58mRq1Ud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 370,
+          "like_count": 29441,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 215
+        },
+        "username": "mousou_naikana",
+        "verified": false
+      }
+    ]
+  }
+}

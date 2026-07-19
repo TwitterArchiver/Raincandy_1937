@@ -1,0 +1,491 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1886871025104621571",
+          "name": "Halftime Show Super Bowl LIX"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1833933476950618113",
+          "name": "Super Bowl LIX: Chiefs at Eagles"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1886871025104621571",
+          "name": "Halftime Show Super Bowl LIX"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "689566314835259392",
+          "name": "NFL"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1304458033888505856",
+          "name": "Super Bowl"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Genealogy",
+          "id": "847869355543019524",
+          "name": "Genealogy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Genealogy",
+          "id": "847869355543019524",
+          "name": "Genealogy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "1938647006689534178",
+    "created_at": "2025-06-27T17:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T18:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938647006689534178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "910798559125045248",
+          "start": 3,
+          "username": "majuismail1122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938647006689534178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938640625278325085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @majuismail1122: 去年此事件发生后，一群又一群仇恨主义者指控是穆斯林干的……\n现如今，案件公开，罪犯得以被捕，名字、肤色、国籍都很清楚…\n又有几个人出来致歉？\n仇恨主义者的归宿有两个：不幸的今世与凄惨的后世"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1833933476950618113",
+              "name": "Super Bowl LIX: Chiefs at Eagles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304458033888505856",
+              "name": "Super Bowl"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Genealogy",
+              "id": "847869355543019524",
+              "name": "Genealogy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Genealogy",
+              "id": "847869355543019524",
+              "name": "Genealogy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1938647006689534178",
+        "created_at": "2025-06-27T17:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T18:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938647006689534178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "910798559125045248",
+              "start": 3,
+              "username": "majuismail1122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938647006689534178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938640625278325085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @majuismail1122: 去年此事件发生后，一群又一群仇恨主义者指控是穆斯林干的……\n现如今，案件公开，罪犯得以被捕，名字、肤色、国籍都很清楚…\n又有几个人出来致歉？\n仇恨主义者的归宿有两个：不幸的今世与凄惨的后世"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "910798559125045248",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1833933476950618113",
+              "name": "Super Bowl LIX: Chiefs at Eagles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304458033888505856",
+              "name": "Super Bowl"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Genealogy",
+              "id": "847869355543019524",
+              "name": "Genealogy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Genealogy",
+              "id": "847869355543019524",
+              "name": "Genealogy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1938640625278325085",
+        "created_at": "2025-06-27T16:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T17:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938640625278325085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbcchinese/sta…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/bbcchinese/status/1938432105769537684",
+              "start": 95,
+              "url": "https://t.co/37PuyQtXX1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938640625278325085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 678,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938432105769537684",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去年此事件发生后，一群又一群仇恨主义者指控是穆斯林干的……\n现如今，案件公开，罪犯得以被捕，名字、肤色、国籍都很清楚…\n又有几个人出来致歉？\n仇恨主义者的归宿有两个：不幸的今世与凄惨的后世 https://t.co/37PuyQtXX1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 1182,
+          "like_count": 8852,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 4588
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-21T09:31:13.000Z",
+        "description": "伊斯兰价值坚守者，尊重自由抉择权🌈、女权主义、没有国籍的流浪者，今日大地的祖国是天山和🇵🇸；私信一般看不到；留言带脏字儿，管你是谁就拉黑。油管：https://t.co/AYh2BDPWfT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCEB68…",
+                "end": 95,
+                "expanded_url": "https://youtube.com/channel/UCEB68eRJ0bZNpUvafnfjaiw?si=-CWTLB9ttOBVPcGC",
+                "start": 72,
+                "url": "https://t.co/AYh2BDPWfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/freeismailjuma…",
+                "end": 23,
+                "expanded_url": "https://t.me/freeismailjuma1122",
+                "start": 0,
+                "url": "https://t.co/sMWB4bQEuo"
+              }
+            ]
+          }
+        },
+        "id": "910798559125045248",
+        "location": "New York, USA",
+        "name": "马聚",
+        "pinned_tweet_id": "1625198395844399109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1135971292593709057/6W30yfQ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104028,
+          "following_count": 1530,
+          "like_count": 77358,
+          "listed_count": 291,
+          "media_count": 5047,
+          "tweet_count": 34990
+        },
+        "url": "https://t.co/sMWB4bQEuo",
+        "username": "majuismail1122",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045293504340144128"
+      ],
+      "media_source_tweet_id": [
+        "2045293509935296946"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045797145937420624",
+    "created_at": "2026-04-19T09:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T10:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045797145937420624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1708378737572757504",
+          "start": 3,
+          "username": "ceramanna"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qfpisH1GWF",
+          "end": 93,
+          "expanded_url": "https://x.com/ceramanna/status/2045293509935296946/photo/1",
+          "media_key": "3_2045293504340144128",
+          "start": 70,
+          "url": "https://t.co/qfpisH1GWF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045797145937420624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045293509935296946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ceramanna: 2014年某一天，起初以为谷歌搜索无法连接，又抽疯过了两个小时就好。\n\n然后就再也无法直接进入了...... https://t.co/qfpisH1GWF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1415,
+        "media_key": "3_2045293504340144128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJXmxObsAAyT9b.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045293504340144128"
+          ],
+          "media_source_tweet_id": [
+            "2045293509935296946"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045797145937420624",
+        "created_at": "2026-04-19T09:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045797145937420624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1708378737572757504",
+              "start": 3,
+              "username": "ceramanna"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qfpisH1GWF",
+              "end": 93,
+              "expanded_url": "https://x.com/ceramanna/status/2045293509935296946/photo/1",
+              "media_key": "3_2045293504340144128",
+              "start": 70,
+              "url": "https://t.co/qfpisH1GWF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045797145937420624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045293509935296946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ceramanna: 2014年某一天，起初以为谷歌搜索无法连接，又抽疯过了两个小时就好。\n\n然后就再也无法直接进入了...... https://t.co/qfpisH1GWF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045293504340144128"
+          ]
+        },
+        "author_id": "1708378737572757504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045293509935296946",
+        "created_at": "2026-04-18T00:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T01:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045293509935296946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qfpisH1GWF",
+              "end": 78,
+              "expanded_url": "https://x.com/ceramanna/status/2045293509935296946/photo/1",
+              "media_key": "3_2045293504340144128",
+              "start": 55,
+              "url": "https://t.co/qfpisH1GWF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045293509935296946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 237,
+          "impression_count": 875901,
+          "like_count": 2409,
+          "quote_count": 8,
+          "reply_count": 278,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "2014年某一天，起初以为谷歌搜索无法连接，又抽疯过了两个小时就好。\n\n然后就再也无法直接进入了...... https://t.co/qfpisH1GWF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 1611,
+          "like_count": 14422,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 6620
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T07:24:43.000Z",
+        "description": "X平台自费蓝V打工人 | 薅马斯克羊毛 & 分享实用心得 | 日常吐槽 + 互关交流，一起玩~🎉🚀",
+        "id": "1708378737572757504",
+        "location": "Central & Western District",
+        "name": "lucky",
+        "pinned_tweet_id": "2042236971293270359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034476460002717696/oZW91izC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3433,
+          "following_count": 3146,
+          "like_count": 8556,
+          "listed_count": 5,
+          "media_count": 108,
+          "tweet_count": 7187
+        },
+        "username": "ceramanna",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1995013584687174149",
+    "created_at": "2025-11-30T06:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T07:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995013584687174149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1344604726650920960",
+          "start": 3,
+          "username": "Liuran_yanagi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995013584687174149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 210
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994360856402948273",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Liuran_yanagi: 在外面跟人斗嘴斗不过，喝大了回家猛猛揍老婆孩子耀武扬威找存在感，这种人一般叫懦夫。\n一个人如此，某些国家也是如此。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1995013584687174149",
+        "created_at": "2025-11-30T06:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T07:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995013584687174149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1344604726650920960",
+              "start": 3,
+              "username": "Liuran_yanagi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995013584687174149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 210
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994360856402948273",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Liuran_yanagi: 在外面跟人斗嘴斗不过，喝大了回家猛猛揍老婆孩子耀武扬威找存在感，这种人一般叫懦夫。\n一个人如此，某些国家也是如此。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1344604726650920960",
+        "conversation_id": "1994360856402948273",
+        "created_at": "2025-11-28T11:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994360856402948273"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994360856402948273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 256253,
+          "like_count": 3187,
+          "quote_count": 7,
+          "reply_count": 147,
+          "retweet_count": 210
+        },
+        "reply_settings": "everyone",
+        "text": "在外面跟人斗嘴斗不过，喝大了回家猛猛揍老婆孩子耀武扬威找存在感，这种人一般叫懦夫。\n一个人如此，某些国家也是如此。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 1458,
+          "like_count": 12000,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 5645
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-31T11:23:01.000Z",
+        "description": "唯自由与勇气永存",
+        "id": "1344604726650920960",
+        "name": "柳染",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990519970284048385/m5CqPxCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 2917,
+          "like_count": 2144,
+          "listed_count": 13,
+          "media_count": 264,
+          "tweet_count": 776
+        },
+        "username": "Liuran_yanagi",
+        "verified": false
+      }
+    ]
+  }
+}

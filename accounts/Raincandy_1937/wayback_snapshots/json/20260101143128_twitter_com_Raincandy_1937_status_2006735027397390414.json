@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2001809181372785043",
+    "created_at": "2026-01-01T14:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T15:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006735027397390414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1797409011949883392",
+          "start": 0,
+          "username": "8964Hiraeth"
+        },
+        {
+          "end": 21,
+          "id": "1239457591417171973",
+          "start": 13,
+          "username": "GFWfrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006735027397390414",
+    "in_reply_to_user_id": "1797409011949883392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001851346136478195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964Hiraeth @GFWfrog 这一天会来的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2001851343112384512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8gBMLdaMAAlZra.jpg",
+        "width": 681
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2001809181372785043",
+        "created_at": "2026-01-01T14:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T15:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006735027397390414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797409011949883392",
+              "start": 0,
+              "username": "8964Hiraeth"
+            },
+            {
+              "end": 21,
+              "id": "1239457591417171973",
+              "start": 13,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006735027397390414",
+        "in_reply_to_user_id": "1797409011949883392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001851346136478195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964Hiraeth @GFWfrog 这一天会来的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001851343112384512"
+          ]
+        },
+        "author_id": "1797409011949883392",
+        "conversation_id": "2001809181372785043",
+        "created_at": "2025-12-19T03:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T04:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001851346136478195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239457591417171973",
+              "start": 0,
+              "username": "GFWfrog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RgY8Ah32cQ",
+              "end": 32,
+              "expanded_url": "https://x.com/8964Hiraeth/status/2001851346136478195/photo/1",
+              "media_key": "3_2001851343112384512",
+              "start": 9,
+              "url": "https://t.co/RgY8Ah32cQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001851346136478195",
+        "in_reply_to_user_id": "1239457591417171973",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1625,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001809181372785043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GFWfrog https://t.co/RgY8Ah32cQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998397096031035392/5bZUUqPS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 1526,
+          "like_count": 12976,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 5958
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T23:24:47.000Z",
+        "description": "光復大陸，再現中華民國榮光，青天白日滿地紅旗終將迎風飄揚於中華大地，世界上祇有一個中國那就是中華民國，即兩岸實屬一中名為中華民國🇹🇼，禁止臺獨。ps.非常厭惡共匪和支黑",
+        "id": "1797409011949883392",
+        "location": "中華民國",
+        "name": "哀民生之多艱🇹🇼",
+        "pinned_tweet_id": "1936450331044639013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953617546302889984/wtTYon0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 483,
+          "like_count": 2884,
+          "listed_count": 2,
+          "media_count": 289,
+          "tweet_count": 5767
+        },
+        "username": "8964Hiraeth",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "欢迎私信投稿 新加坡/XJP/习近平粉丝群：https://t.co/BbAyHfnObj\n频道：https://t.co/Evu48wmwfT \n#大自爆运动 ：党政机关、国企、互联网大厂……无论在哪工作，欢迎一切有关审查机器与极权系统运作的投稿，用真实击败独裁！\n\n邮箱：gfwfrog@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "大自爆运动"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 45,
+                "expanded_url": "https://t.me/SpeedUpCN",
+                "start": 22,
+                "url": "https://t.co/BbAyHfnObj"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 72,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 49,
+                "url": "https://t.co/Evu48wmwfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85idW"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙蛤蛤🐸(习近平=新加坡=XJP)",
+        "pinned_tweet_id": "2006692351918616849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001820777713221633/f9HElYyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256624,
+          "following_count": 2188,
+          "like_count": 112302,
+          "listed_count": 875,
+          "media_count": 6244,
+          "tweet_count": 11585
+        },
+        "url": "https://t.co/B3cyU85idW",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1938646842201518425",
+    "created_at": "2025-06-27T17:13:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T18:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938646842201518425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1249525383797456898",
+          "start": 3,
+          "username": "jakobsonradical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938646842201518425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938400618491875488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jakobsonradical: 一个美国家庭怀揣梦想，移民到俄罗斯。结果，父亲为加速获得俄公民身份，主动加入俄军上了俄乌战场，至今生死未卜。母亲则靠微薄的积蓄和零星的家教收入维持生计。他们家之前没少被RT宣传，然而现在却生活艰辛，似沦为弃子。 https://t.co…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1938646842201518425].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1938646842201518425",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1938646842201518425"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938400606919749632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuaVFPfacAA-Eje.jpg",
+        "width": 806
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938400607687348224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuaVFSWbEAAR1Wy.jpg",
+        "width": 813
+      },
+      {
+        "height": 2121,
+        "media_key": "3_1938400608383602691",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuaVFU8bEAMiXy4.jpg",
+        "width": 540
+      },
+      {
+        "height": 1800,
+        "media_key": "3_1938400608605925376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuaVFVxbcAABBs5.jpg",
+        "width": 1345
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938400606919749632",
+            "3_1938400607687348224",
+            "3_1938400608383602691",
+            "3_1938400608605925376"
+          ]
+        },
+        "author_id": "1249525383797456898",
+        "conversation_id": "1938400618491875488",
+        "created_at": "2025-06-27T00:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T01:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938400618491875488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NwerC9PIHQ",
+              "end": 129,
+              "expanded_url": "https://x.com/jakobsonradical/status/1938400618491875488/photo/1",
+              "media_key": "3_1938400606919749632",
+              "start": 106,
+              "url": "https://t.co/NwerC9PIHQ"
+            },
+            {
+              "display_url": "pic.x.com/NwerC9PIHQ",
+              "end": 129,
+              "expanded_url": "https://x.com/jakobsonradical/status/1938400618491875488/photo/1",
+              "media_key": "3_1938400607687348224",
+              "start": 106,
+              "url": "https://t.co/NwerC9PIHQ"
+            },
+            {
+              "display_url": "pic.x.com/NwerC9PIHQ",
+              "end": 129,
+              "expanded_url": "https://x.com/jakobsonradical/status/1938400618491875488/photo/1",
+              "media_key": "3_1938400608383602691",
+              "start": 106,
+              "url": "https://t.co/NwerC9PIHQ"
+            },
+            {
+              "display_url": "pic.x.com/NwerC9PIHQ",
+              "end": 129,
+              "expanded_url": "https://x.com/jakobsonradical/status/1938400618491875488/photo/1",
+              "media_key": "3_1938400608605925376",
+              "start": 106,
+              "url": "https://t.co/NwerC9PIHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938400618491875488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 21045,
+          "like_count": 246,
+          "quote_count": 3,
+          "reply_count": 30,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "一个美国家庭怀揣梦想，移民到俄罗斯。结果，父亲为加速获得俄公民身份，主动加入俄军上了俄乌战场，至今生死未卜。母亲则靠微薄的积蓄和零星的家教收入维持生计。他们家之前没少被RT宣传，然而现在却生活艰辛，似沦为弃子。 https://t.co/NwerC9PIHQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 1182,
+          "like_count": 8851,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 4587
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241608,
+          "following_count": 1474,
+          "like_count": 41393,
+          "listed_count": 975,
+          "media_count": 18622,
+          "tweet_count": 25813
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

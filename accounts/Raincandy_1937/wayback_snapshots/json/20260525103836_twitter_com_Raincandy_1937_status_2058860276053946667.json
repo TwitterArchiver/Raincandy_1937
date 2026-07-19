@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2058860276053946667",
+    "created_at": "2026-05-25T10:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T11:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058860276053946667"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/x_spidekawaii_…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/x_spidekawaii_x/status/2058820593861218532",
+          "start": 4,
+          "url": "https://t.co/zLWbGSBUuP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058860276053946667",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058820593861218532",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "萌萌的 https://t.co/zLWbGSBUuP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058820585690697728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJmaiJbEAAjDqo.jpg",
+        "width": 1228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2058860276053946667",
+        "created_at": "2026-05-25T10:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058860276053946667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x_spidekawaii_…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/x_spidekawaii_x/status/2058820593861218532",
+              "start": 4,
+              "url": "https://t.co/zLWbGSBUuP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058860276053946667",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058820593861218532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "萌萌的 https://t.co/zLWbGSBUuP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058820585690697728"
+          ]
+        },
+        "author_id": "1126507338024620033",
+        "conversation_id": "2058820593861218532",
+        "created_at": "2026-05-25T08:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058820593861218532"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 6,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3OF1s86Xke",
+              "end": 40,
+              "expanded_url": "https://x.com/x_spidekawaii_x/status/2058820593861218532/photo/1",
+              "media_key": "3_2058820585690697728",
+              "start": 17,
+              "url": "https://t.co/3OF1s86Xke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058820593861218532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 219,
+          "impression_count": 5929,
+          "like_count": 1217,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 162
+        },
+        "reply_settings": "everyone",
+        "text": "ピ、来てよ\n#NEEDY_pic https://t.co/3OF1s86Xke"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 1694,
+          "like_count": 15747,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 6919
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-09T15:20:53.000Z",
+        "description": "しじまよりって名義でも活動してるよ◆fanbox:https://t.co/oRkD9LxFX3 ◆https://t.co/2ZpJXkWtho ◆pixiv:https://t.co/nDrNcLfqj8 ◆イラストのご依頼はDMで対応してます(停止中)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "spidekawaii.fanbox.cc",
+                "end": 48,
+                "expanded_url": "http://spidekawaii.fanbox.cc/",
+                "start": 25,
+                "url": "https://t.co/oRkD9LxFX3"
+              },
+              {
+                "display_url": "skeb.jp/@x_spidekawaii…",
+                "end": 73,
+                "expanded_url": "https://skeb.jp/@x_spidekawaii_x",
+                "start": 50,
+                "url": "https://t.co/2ZpJXkWtho"
+              },
+              {
+                "display_url": "pixiv.net/users/43450519",
+                "end": 104,
+                "expanded_url": "https://www.pixiv.net/users/43450519",
+                "start": 81,
+                "url": "https://t.co/nDrNcLfqj8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/GOWTA7TBMQNP?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/MN18Q6E4Du"
+              }
+            ]
+          }
+        },
+        "id": "1126507338024620033",
+        "location": "イラストのAI学習、商業目的での無断使用禁止",
+        "name": "🎀超絶最やみ🎀堕天使ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045536430605361153/b_SbuuaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33824,
+          "following_count": 187,
+          "like_count": 83869,
+          "listed_count": 156,
+          "media_count": 1264,
+          "tweet_count": 16161
+        },
+        "url": "https://t.co/MN18Q6E4Du",
+        "username": "x_spidekawaii_x",
+        "verified": true
+      }
+    ]
+  }
+}

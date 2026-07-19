@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1942252085183132103",
+    "created_at": "2025-07-08T01:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T02:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942393946833051824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1109080684419670017",
+          "start": 0,
+          "username": "KillerBeeSweety"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942393946833051824",
+    "in_reply_to_user_id": "1109080684419670017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942252085183132103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KillerBeeSweety 祝一切順利！！！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1942252085183132103].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1942252085183132103",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1942252085183132103"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1942252085183132103",
+        "created_at": "2025-07-08T01:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T02:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942393946833051824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1109080684419670017",
+              "start": 0,
+              "username": "KillerBeeSweety"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942393946833051824",
+        "in_reply_to_user_id": "1109080684419670017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942252085183132103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KillerBeeSweety 祝一切順利！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 1216,
+          "like_count": 9126,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 4711
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-22T13:13:35.000Z",
+        "description": "She/Her\nCN/EN/JP\n一般路過のゲーマー女子🎮\n\nFFXIV DC:Meteor Valefor\n\nNGL∶https://t.co/y4SQBEYyVW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/killerbeesweety",
+                "end": 83,
+                "expanded_url": "https://ngl.link/killerbeesweety",
+                "start": 60,
+                "url": "https://t.co/y4SQBEYyVW"
+              }
+            ]
+          }
+        },
+        "id": "1109080684419670017",
+        "location": "Valefor(Meteor)",
+        "name": "ミズキ",
+        "pinned_tweet_id": "1933834878157799925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941121393430605824/BLByoG3b_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 16765,
+          "following_count": 1737,
+          "like_count": 30112,
+          "listed_count": 21,
+          "media_count": 2564,
+          "tweet_count": 20898
+        },
+        "username": "KillerBeeSweety",
+        "verified": false
+      }
+    ]
+  }
+}

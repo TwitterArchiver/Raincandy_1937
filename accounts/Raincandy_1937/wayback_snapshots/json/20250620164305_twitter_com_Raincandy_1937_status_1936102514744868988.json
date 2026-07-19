@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1936102514744868988",
+    "created_at": "2025-06-20T16:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T17:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936102514744868988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1803849149248360448",
+          "start": 3,
+          "username": "itsmesakiisept"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936102514744868988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935720397829484979",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itsmesakiisept: 看到女生一口一个傻逼和“高高在上的女拳”，我真是没话说了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1936102514744868988",
+        "created_at": "2025-06-20T16:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T17:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936102514744868988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1803849149248360448",
+              "start": 3,
+              "username": "itsmesakiisept"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936102514744868988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935720397829484979",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itsmesakiisept: 看到女生一口一个傻逼和“高高在上的女拳”，我真是没话说了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803849149248360448",
+        "conversation_id": "1935720397829484979",
+        "created_at": "2025-06-19T15:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T16:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935720397829484979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935720397829484979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 58574,
+          "like_count": 862,
+          "quote_count": 0,
+          "reply_count": 80,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "看到女生一口一个傻逼和“高高在上的女拳”，我真是没话说了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 1167,
+          "like_count": 8675,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 4467
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T17:55:34.000Z",
+        "description": "只想做一个才华横溢的有钱年轻女孩 ｜小赦小赦我喜欢你｜老公们@mmuuucc0 @BB40304",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "mmuuucc0"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "BB40304"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/itsmesakiisept1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/itsmesakiisept1",
+                "start": 0,
+                "url": "https://t.co/C9AvdEosli"
+              }
+            ]
+          }
+        },
+        "id": "1803849149248360448",
+        "name": "煮豆燃豆7",
+        "pinned_tweet_id": "1919318310090326431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919363700756213761/d0FjzVLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2543,
+          "following_count": 173,
+          "like_count": 40890,
+          "listed_count": 9,
+          "media_count": 76,
+          "tweet_count": 7985
+        },
+        "url": "https://t.co/C9AvdEosli",
+        "username": "itsmesakiisept",
+        "verified": false
+      }
+    ]
+  }
+}

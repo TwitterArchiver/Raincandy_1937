@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2014689360143360126",
+    "created_at": "2026-01-23T13:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T14:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014689360143360126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1790761660686503936",
+          "start": 3,
+          "username": "CapybaraHa84396"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/4rsMj",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/4rsMj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014689360143360126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014634757393678762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CapybaraHa84396: 把一个女硕士药傻让她沦为生育机器，\n毁了本有大好前途的女人的一辈子，\n但只是蝻人的“显著轻微”，为什么呢？\n\n还有女的看不清蝻社本质吗？女人明明有智慧的脑袋，蝻社却只让她做听话的子宫\n\n好图共赏一下 https://t.co/4rsMj…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2014689360143360126].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2014689360143360126",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2014689360143360126"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1053,
+        "media_key": "3_2014634747541258241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_VroP9bAAE-JgI.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014634747541258241"
+          ]
+        },
+        "author_id": "1790761660686503936",
+        "conversation_id": "2014634757393678762",
+        "created_at": "2026-01-23T09:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T10:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014634757393678762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4rsMjtI400",
+              "end": 123,
+              "expanded_url": "https://x.com/CapybaraHa84396/status/2014634757393678762/photo/1",
+              "media_key": "3_2014634747541258241",
+              "start": 100,
+              "url": "https://t.co/4rsMjtI400"
+            },
+            {
+              "display_url": "x.com/wodanggangqian…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/wodanggangqiang/status/2014480862151377269",
+              "start": 124,
+              "url": "https://t.co/4utlmJd6Kd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014634757393678762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 229,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014480862151377269",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "把一个女硕士药傻让她沦为生育机器，\n毁了本有大好前途的女人的一辈子，\n但只是蝻人的“显著轻微”，为什么呢？\n\n还有女的看不清蝻社本质吗？女人明明有智慧的脑袋，蝻社却只让她做听话的子宫\n\n好图共赏一下 https://t.co/4rsMjtI400 https://t.co/4utlmJd6Kd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 1524,
+          "like_count": 12989,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 6022
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T15:10:35.000Z",
+        "description": "Women in STEM ｜Only for Women ｜本推的内容受众默认为女性，主要关注女性的心理和生理健康｜推文存档见博客链接｜蓝天https://t.co/XrTQDQsGZK｜个人号@Hannacapybara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "Hannacapybara"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/femini…",
+                "end": 94,
+                "expanded_url": "https://bsky.app/profile/feminismpedia.bsky.social",
+                "start": 71,
+                "url": "https://t.co/XrTQDQsGZK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "medium.com/@chenchen-2093",
+                "end": 23,
+                "expanded_url": "https://medium.com/@chenchen-2093",
+                "start": 0,
+                "url": "https://t.co/HWeAHqP0ge"
+              }
+            ]
+          }
+        },
+        "id": "1790761660686503936",
+        "name": "FeminismPedia 女性健康小百科",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837828491016024064/nseqXKfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2703,
+          "following_count": 112,
+          "like_count": 413,
+          "listed_count": 8,
+          "media_count": 266,
+          "tweet_count": 1008
+        },
+        "url": "https://t.co/HWeAHqP0ge",
+        "username": "CapybaraHa84396",
+        "verified": false
+      }
+    ]
+  }
+}

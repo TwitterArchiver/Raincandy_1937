@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1875039112765587570",
+    "created_at": "2025-01-04T02:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T03:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875375806714933264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664859019830517760",
+          "start": 0,
+          "username": "kagurazakachiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875375806714933264",
+    "in_reply_to_user_id": "1664859019830517760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875039112765587570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagurazakachiyo 让男的卖飞机杯不让女的卖小玩具？😠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1875039112765587570",
+        "created_at": "2025-01-04T02:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T03:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875375806714933264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664859019830517760",
+              "start": 0,
+              "username": "kagurazakachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875375806714933264",
+        "in_reply_to_user_id": "1664859019830517760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875039112765587570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagurazakachiyo 让男的卖飞机杯不让女的卖小玩具？😠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875039103814901760",
+            "3_1875039108726398976"
+          ]
+        },
+        "author_id": "1664859019830517760",
+        "conversation_id": "1875039112765587570",
+        "created_at": "2025-01-03T04:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T05:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875039112765587570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BuC1XeBmId",
+              "end": 41,
+              "expanded_url": "https://x.com/kagurazakachiyo/status/1875039112765587570/photo/1",
+              "media_key": "3_1875039103814901760",
+              "start": 18,
+              "url": "https://t.co/BuC1XeBmId"
+            },
+            {
+              "display_url": "pic.x.com/BuC1XeBmId",
+              "end": 41,
+              "expanded_url": "https://x.com/kagurazakachiyo/status/1875039112765587570/photo/1",
+              "media_key": "3_1875039108726398976",
+              "start": 18,
+              "url": "https://t.co/BuC1XeBmId"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875039112765587570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3850,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么B站现在这种广告都能过审了😳 https://t.co/BuC1XeBmId"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 625,
+          "like_count": 4514,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 2331
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T04:58:45.000Z",
+        "description": "别讨厌我🥺",
+        "id": "1664859019830517760",
+        "name": "神楽坂千代🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816712967162925056/QM2X2ZK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 1858,
+          "like_count": 9994,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 2012
+        },
+        "username": "kagurazakachiyo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1901535240168071168"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1901535294945673680",
+    "created_at": "2025-03-17T07:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T08:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901535294945673680"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/a8jx24rQ7b",
+          "end": 30,
+          "expanded_url": "https://x.com/Raincandy_1937/status/1901535294945673680/photo/1",
+          "media_key": "3_1901535240168071168",
+          "start": 7,
+          "url": "https://t.co/a8jx24rQ7b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901535294945673680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "巡礼重新开始 https://t.co/a8jx24rQ7b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1901535240168071168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmOcOeYa4AAjP-e.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901535240168071168"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1901535294945673680",
+        "created_at": "2025-03-17T07:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T08:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901535294945673680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8jx24rQ7b",
+              "end": 30,
+              "expanded_url": "https://x.com/Raincandy_1937/status/1901535294945673680/photo/1",
+              "media_key": "3_1901535240168071168",
+              "start": 7,
+              "url": "https://t.co/a8jx24rQ7b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901535294945673680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "巡礼重新开始 https://t.co/a8jx24rQ7b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 904,
+          "like_count": 6456,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 3340
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

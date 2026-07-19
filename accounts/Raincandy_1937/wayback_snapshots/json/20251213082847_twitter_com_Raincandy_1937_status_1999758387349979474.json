@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405259614053036032",
+          "name": "Dating sims"
+        }
+      }
+    ],
+    "conversation_id": "1999758387349979474",
+    "created_at": "2025-12-13T08:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T09:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999758387349979474"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pukari_ukiwa/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/pukari_ukiwa/status/1999494530157138043",
+          "start": 6,
+          "url": "https://t.co/q12ZdwrPSy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999758387349979474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999494530157138043",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要玩这个 https://t.co/q12ZdwrPSy"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "制作中のゲームのタイトル画面。\n右側に光を帯びた白文字で「可惜夜の彼女」縦書きで書かれている。文字の後ろには大きく波打つ赤い糸のような線。文字の最後に三日月のマーク。\n\n左側には灰色の髪をフィッシュボーンに編んだ女性キャラ、幽骨（ゆうこつ）が横たわり、手に持つ彼岸花を口元に添え、こちらへ静かに視線を向けている。瞳の色は緑近い紺色に、下から薄紫と黄色の光がグラデーションで入っている。\n背景は青い星空と水面。幽骨の半身が水に浸かっている。",
+        "height": 720,
+        "media_key": "3_1999494522209030144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-hrJab0AArxZt.jpg",
+        "width": 1280
+      },
+      {
+        "alt_text": "制作中のゲーム画面のスクリーンショット。\n紫髪でツインテール、濃い赤紫の瞳、ツリ目の女性がこちらを意地悪な笑みを浮かべながら見下ろしている。\n向かって左側の手をマリオネットを操るように上げており、指先からは蜘蛛の糸が伸びている。\n右側の手は人差し指を口角に添えている。\n\nゲーム内のメッセージウィンドウには\n心恋（うらごい）「……じゃあ質問。あたしのこと好き？」と書かれている。\n画面上に散らばるように表示されている選択肢4つには全て「好き」と書かれている。",
+        "height": 1210,
+        "media_key": "3_1999494522183778307",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-hrJUagAMIyO7.jpg",
+        "width": 2048
+      },
+      {
+        "alt_text": "制作中のゲーム画面のスクリーンショット。\n黒髪長髪、紫がかった水色の瞳にタレ目の女性が覆い被さる形でこちらを見下ろしている。主人公の手を自身の頬に当て、泣きそうな顔で悲痛に笑っている。\nゲーム内のメッセージウィンドウには\n淡雪（あわゆき）「だったら最期を、わたくしに頂戴」と書かれている。",
+        "height": 1206,
+        "media_key": "3_1999494522196373505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-hrJXasAEFUB0.jpg",
+        "width": 2048
+      },
+      {
+        "alt_text": "制作中のゲーム画面のスクリーンショット。\n灰色の髪にフィッシュボーンの女性が俯き、赤く染まった目で焦るようにこちらに視線を向けている。顔を押さえる右手は白骨に変貌している。\n全体的に薄暗く、背景は禍々しい空気を纏った赤。\nゲーム内のメッセージウィンドウには\n幽骨（ゆうこつ）「来ないで。来ちゃだめ、私……わた、しは……」と書かれている。",
+        "height": 1212,
+        "media_key": "3_1999494522158612483",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-hrJOagAMhnTD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405259614053036032",
+              "name": "Dating sims"
+            }
+          }
+        ],
+        "conversation_id": "1999758387349979474",
+        "created_at": "2025-12-13T08:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T09:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999758387349979474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pukari_ukiwa/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/pukari_ukiwa/status/1999494530157138043",
+              "start": 6,
+              "url": "https://t.co/q12ZdwrPSy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999758387349979474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999494530157138043",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要玩这个 https://t.co/q12ZdwrPSy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999494522209030144",
+            "3_1999494522183778307",
+            "3_1999494522196373505",
+            "3_1999494522158612483"
+          ]
+        },
+        "author_id": "1943321684993544192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405259614053036032",
+              "name": "Dating sims"
+            }
+          }
+        ],
+        "conversation_id": "1999494530157138043",
+        "created_at": "2025-12-12T15:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T16:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999494530157138043"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 34,
+              "tag": "可惜夜の彼女"
+            },
+            {
+              "end": 142,
+              "start": 133,
+              "tag": "スーパーゲ制デー"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQj5tfLDaD",
+              "end": 166,
+              "expanded_url": "https://x.com/pukari_ukiwa/status/1999494530157138043/photo/1",
+              "media_key": "3_1999494522209030144",
+              "start": 143,
+              "url": "https://t.co/NQj5tfLDaD"
+            },
+            {
+              "display_url": "pic.x.com/NQj5tfLDaD",
+              "end": 166,
+              "expanded_url": "https://x.com/pukari_ukiwa/status/1999494530157138043/photo/1",
+              "media_key": "3_1999494522183778307",
+              "start": 143,
+              "url": "https://t.co/NQj5tfLDaD"
+            },
+            {
+              "display_url": "pic.x.com/NQj5tfLDaD",
+              "end": 166,
+              "expanded_url": "https://x.com/pukari_ukiwa/status/1999494530157138043/photo/1",
+              "media_key": "3_1999494522196373505",
+              "start": 143,
+              "url": "https://t.co/NQj5tfLDaD"
+            },
+            {
+              "display_url": "pic.x.com/NQj5tfLDaD",
+              "end": 166,
+              "expanded_url": "https://x.com/pukari_ukiwa/status/1999494530157138043/photo/1",
+              "media_key": "3_1999494522158612483",
+              "start": 143,
+              "url": "https://t.co/NQj5tfLDaD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999494530157138043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2853,
+          "impression_count": 227893,
+          "like_count": 9869,
+          "quote_count": 196,
+          "reply_count": 8,
+          "retweet_count": 1714
+        },
+        "reply_settings": "everyone",
+        "text": "攻略対象は全員\"女性\"‼️\n主人公は\"貴女\"‼️\n\n百合乙女ゲーム『#可惜夜の彼女』\n現在制作中です✍️\n\n綺麗な花には棘がある。ちょっとキケンな妖の彼女たちに愛されてみませんか？\n\n自己投影型、主人公女性固定・グラなし\nフリーゲームとして来年春頃に公開予定です💐\n#スーパーゲ制デー https://t.co/NQj5tfLDaD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998397096031035392/5bZUUqPS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 1468,
+          "like_count": 12464,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 5801
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T14:52:39.000Z",
+        "description": "百合乙女ゲームを作っています｜#可惜夜の彼女 制作中｜高身長で前髪の長いミステリアスな女性キャラクターが大好き",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 15,
+                "tag": "可惜夜の彼女"
+              }
+            ]
+          }
+        },
+        "id": "1943321684993544192",
+        "name": "ぷかり。",
+        "pinned_tweet_id": "1953840517118406868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943365449170980865/pXfik_XS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4109,
+          "following_count": 88,
+          "like_count": 902,
+          "listed_count": 10,
+          "media_count": 33,
+          "tweet_count": 670
+        },
+        "username": "pukari_ukiwa",
+        "verified": false
+      }
+    ]
+  }
+}

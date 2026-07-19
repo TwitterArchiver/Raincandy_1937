@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1872987002234388675",
+    "created_at": "2024-12-28T12:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T13:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872987002234388675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "111942564",
+          "start": 3,
+          "username": "boiledwater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872987002234388675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872803820373516548",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boiledwater: 不明白为什么中国家长老是担心夸奖会让孩子骄傲。\n\n你往大街上看一眼，别说脸上写着骄傲了，自信都没几个。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1872987002234388675",
+        "created_at": "2024-12-28T12:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T13:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872987002234388675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "111942564",
+              "start": 3,
+              "username": "boiledwater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872987002234388675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872803820373516548",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @boiledwater: 不明白为什么中国家长老是担心夸奖会让孩子骄傲。\n\n你往大街上看一眼，别说脸上写着骄傲了，自信都没几个。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "111942564",
+        "conversation_id": "1872803820373516548",
+        "created_at": "2024-12-28T00:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T01:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872803820373516548"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1872803820373516548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6664,
+          "like_count": 164,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "不明白为什么中国家长老是担心夸奖会让孩子骄傲。\n\n你往大街上看一眼，别说脸上写着骄傲了，自信都没几个。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 611,
+          "like_count": 4122,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 2197
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-06T17:49:59.000Z",
+        "description": "打破原生家庭之环的人，只能是你自己。",
+        "id": "111942564",
+        "location": "Stockholm, Sweden",
+        "name": "Jess",
+        "pinned_tweet_id": "1871334902681194872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601123559812009984/2vI25CZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41053,
+          "following_count": 1780,
+          "like_count": 28399,
+          "listed_count": 154,
+          "media_count": 4200,
+          "tweet_count": 33711
+        },
+        "username": "boiledwater",
+        "verified": true
+      }
+    ]
+  }
+}

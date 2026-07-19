@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1990698443149558009",
+    "created_at": "2025-11-18T08:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T09:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990698443149558009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "471019735",
+          "start": 3,
+          "username": "Gelm01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/3urHh6c",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/3urHh6c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990698443149558009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990605127242428833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gelm01: 童年创伤治愈最难且最关键的一步是承认创伤的存在。\n“创伤”这种事和父母那辈人是很难沟通的，实际上和同龄人中的一些沟通也很难。似乎这些人理解不了除了“遗忘”以外，创伤还有其他的处理手段，更不会相信创伤是可以抚平的。 https://t.co/3urHh6c…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1990698443149558009].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1990698443149558009",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1990698443149558009"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 712,
+        "media_key": "3_1990604980655636480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6AMrugaQAAlAiD.png",
+        "width": 705
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990604980655636480"
+          ]
+        },
+        "author_id": "471019735",
+        "conversation_id": "1990605127242428833",
+        "created_at": "2025-11-18T02:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T03:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990605127242428833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3urHh6cCkw",
+              "end": 130,
+              "expanded_url": "https://x.com/Gelm01/status/1990605127242428833/photo/1",
+              "media_key": "3_1990604980655636480",
+              "start": 107,
+              "url": "https://t.co/3urHh6cCkw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990605127242428833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 499,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "童年创伤治愈最难且最关键的一步是承认创伤的存在。\n“创伤”这种事和父母那辈人是很难沟通的，实际上和同龄人中的一些沟通也很难。似乎这些人理解不了除了“遗忘”以外，创伤还有其他的处理手段，更不会相信创伤是可以抚平的。 https://t.co/3urHh6cCkw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 1444,
+          "like_count": 11742,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 5546
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-22T12:07:07.000Z",
+        "description": "放浪息子 可以叫我蔷薇。",
+        "id": "471019735",
+        "location": "月まで届け",
+        "name": "少年期の終り🏵✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987330753332715524/O1OJzvcm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 590,
+          "like_count": 3311,
+          "listed_count": 5,
+          "media_count": 298,
+          "tweet_count": 4016
+        },
+        "username": "Gelm01",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065889744941137920"
+      ],
+      "media_source_tweet_id": [
+        "2066073153361895485"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "2066380197092601943",
+    "created_at": "2026-06-15T04:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066380197092601943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0nBVFdF4Jk",
+          "end": 98,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2066073153361895485/video/1",
+          "media_key": "13_2065889744941137920",
+          "start": 75,
+          "url": "https://t.co/0nBVFdF4Jk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066380197092601943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066073153361895485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 网友投稿：苹果手机更新至iOS27测试版后，自带的图乐园app生成图片内容填写19890604会固定生成蜡烛 https://t.co/0nBVFdF4Jk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7116,
+        "height": 626,
+        "media_key": "13_2065889744941137920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065889744941137920/img/9f9dtj1pfYkOqV-2.jpg",
+        "public_metrics": {
+          "view_count": 126440
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065889744941137920/vid/avc1/288x626/S2ucI_TZaHvKx7_e.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065889744941137920/pl/d9jbcUpU-cgNowDp.m3u8"
+          }
+        ],
+        "width": 288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065889744941137920"
+          ],
+          "media_source_tweet_id": [
+            "2066073153361895485"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2066380197092601943",
+        "created_at": "2026-06-15T04:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066380197092601943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0nBVFdF4Jk",
+              "end": 98,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2066073153361895485/video/1",
+              "media_key": "13_2065889744941137920",
+              "start": 75,
+              "url": "https://t.co/0nBVFdF4Jk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066380197092601943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066073153361895485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 网友投稿：苹果手机更新至iOS27测试版后，自带的图乐园app生成图片内容填写19890604会固定生成蜡烛 https://t.co/0nBVFdF4Jk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065889744941137920"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2066073153361895485",
+        "created_at": "2026-06-14T08:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066073153361895485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0nBVFdF4Jk",
+              "end": 78,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2066073153361895485/video/1",
+              "media_key": "13_2065889744941137920",
+              "start": 55,
+              "url": "https://t.co/0nBVFdF4Jk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066073153361895485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 271,
+          "impression_count": 289242,
+          "like_count": 2344,
+          "quote_count": 9,
+          "reply_count": 317,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿：苹果手机更新至iOS27测试版后，自带的图乐园app生成图片内容填写19890604会固定生成蜡烛 https://t.co/0nBVFdF4Jk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 1739,
+          "like_count": 16659,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 7263
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2236554,
+          "following_count": 1070,
+          "like_count": 9702,
+          "listed_count": 8790,
+          "media_count": 48610,
+          "tweet_count": 55770
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

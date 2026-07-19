@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1930682743639417218",
+    "created_at": "2025-06-05T17:46:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T18:46:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930682743639417218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930682743639417218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 216
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929206304607809715",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 知乎网友提问：中药注射液这么可怕的东西为什么会被允许使用？\n说到底，这压根就不是一个单纯的医学问题，它是体现中医药“政治正确”的一种具体表现。\n为证证明“西医行的我中医也行”，患者的生命安全就被放在了次要位置。 https://t.co/…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1930682743639417218].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1930682743639417218",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1930682743639417218"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1169,
+        "media_key": "3_1929122703811702784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsWe4NDWcAAxdvt.jpg",
+        "width": 958
+      },
+      {
+        "height": 1021,
+        "media_key": "3_1929130976539561984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsWmZvXX0AAt6us.jpg",
+        "width": 944
+      },
+      {
+        "height": 1065,
+        "media_key": "3_1929131032512446464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsWmc_4WQAA_aFT.jpg",
+        "width": 944
+      },
+      {
+        "height": 1130,
+        "media_key": "3_1929131054129881088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsWmeQaWIAAfBPf.png",
+        "width": 919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929122703811702784",
+            "3_1929130976539561984",
+            "3_1929131032512446464",
+            "3_1929131054129881088"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1929206304607809715",
+        "created_at": "2025-06-01T16:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T17:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929206304607809715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wGM1a3tH7n",
+              "end": 129,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1929206304607809715/photo/1",
+              "media_key": "3_1929122703811702784",
+              "start": 106,
+              "url": "https://t.co/wGM1a3tH7n"
+            },
+            {
+              "display_url": "pic.x.com/wGM1a3tH7n",
+              "end": 129,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1929206304607809715/photo/1",
+              "media_key": "3_1929130976539561984",
+              "start": 106,
+              "url": "https://t.co/wGM1a3tH7n"
+            },
+            {
+              "display_url": "pic.x.com/wGM1a3tH7n",
+              "end": 129,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1929206304607809715/photo/1",
+              "media_key": "3_1929131032512446464",
+              "start": 106,
+              "url": "https://t.co/wGM1a3tH7n"
+            },
+            {
+              "display_url": "pic.x.com/wGM1a3tH7n",
+              "end": 129,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1929206304607809715/photo/1",
+              "media_key": "3_1929131054129881088",
+              "start": 106,
+              "url": "https://t.co/wGM1a3tH7n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929206304607809715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 311,
+          "impression_count": 308908,
+          "like_count": 1434,
+          "quote_count": 12,
+          "reply_count": 141,
+          "retweet_count": 216
+        },
+        "reply_settings": "everyone",
+        "text": "知乎网友提问：中药注射液这么可怕的东西为什么会被允许使用？\n说到底，这压根就不是一个单纯的医学问题，它是体现中医药“政治正确”的一种具体表现。\n为证证明“西医行的我中医也行”，患者的生命安全就被放在了次要位置。 https://t.co/wGM1a3tH7n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 1145,
+          "like_count": 8463,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 4354
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1930033346018480586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008137,
+          "following_count": 956,
+          "like_count": 6773,
+          "listed_count": 8152,
+          "media_count": 29396,
+          "tweet_count": 35934
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

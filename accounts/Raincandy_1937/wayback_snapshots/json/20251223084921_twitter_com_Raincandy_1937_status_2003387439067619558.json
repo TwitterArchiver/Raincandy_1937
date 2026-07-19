@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2003366252149104661",
+    "created_at": "2025-12-23T08:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T09:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003387439067619558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1937594393772589058",
+          "start": 0,
+          "username": "san45142"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003387439067619558",
+    "in_reply_to_user_id": "1937594393772589058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003366252149104661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@san45142 可能是因为人是生活在社会关系中的动物，亲密的情感关系会更进一步考验一个人的素质"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2003366252149104661",
+        "created_at": "2025-12-23T08:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T09:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003387439067619558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1937594393772589058",
+              "start": 0,
+              "username": "san45142"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003387439067619558",
+        "in_reply_to_user_id": "1937594393772589058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003366252149104661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@san45142 可能是因为人是生活在社会关系中的动物，亲密的情感关系会更进一步考验一个人的素质"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937594393772589058",
+        "conversation_id": "2003366252149104661",
+        "created_at": "2025-12-23T07:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T08:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003366252149104661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/carpediemx01/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/carpediemx01/status/2003118054243496268",
+              "start": 22,
+              "url": "https://t.co/EeLkmCxaRV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003366252149104661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 513,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003118054243496268",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不理解为什么人的价值非要通过情感生活衡量 https://t.co/EeLkmCxaRV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998397096031035392/5bZUUqPS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 1527,
+          "like_count": 12837,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 5900
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T19:32:41.000Z",
+        "description": "一切都是个人的，主观的，不媚女的，不媚男的，不厌男的，不厌女的，不崆峒的，不mtf的，不lgbtq的，但一定要born this way的。唯一主人@N0rthern_Land",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "N0rthern_Land"
+              }
+            ]
+          }
+        },
+        "id": "1937594393772589058",
+        "name": "小三暴打老公带我私奔的那个雨夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947580324973875200/oEhjJur4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 194,
+          "like_count": 3531,
+          "listed_count": 6,
+          "media_count": 97,
+          "tweet_count": 1154
+        },
+        "username": "san45142",
+        "verified": false
+      }
+    ]
+  }
+}

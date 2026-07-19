@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2006194052073414656",
+        "3_2006194053247897600",
+        "3_2006194053944094720",
+        "3_2006194055026294784"
+      ],
+      "media_source_tweet_id": [
+        "2006194087180095556",
+        "2006194087180095556",
+        "2006194087180095556",
+        "2006194087180095556"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2006216153979617604",
+    "created_at": "2025-12-31T04:09:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T05:09:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006216153979617604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1621709543750385664",
+          "start": 3,
+          "username": "quarktalksss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2SEpeTJ6Hi",
+          "end": 140,
+          "expanded_url": "https://x.com/quarktalksss/status/2006194087180095556/video/1",
+          "media_key": "7_2006194052073414656",
+          "start": 117,
+          "url": "https://t.co/2SEpeTJ6Hi"
+        },
+        {
+          "display_url": "pic.x.com/2SEpeTJ6Hi",
+          "end": 140,
+          "expanded_url": "https://x.com/quarktalksss/status/2006194087180095556/video/1",
+          "media_key": "3_2006194053247897600",
+          "start": 117,
+          "url": "https://t.co/2SEpeTJ6Hi"
+        },
+        {
+          "display_url": "pic.x.com/2SEpeTJ6Hi",
+          "end": 140,
+          "expanded_url": "https://x.com/quarktalksss/status/2006194087180095556/video/1",
+          "media_key": "3_2006194053944094720",
+          "start": 117,
+          "url": "https://t.co/2SEpeTJ6Hi"
+        },
+        {
+          "display_url": "pic.x.com/2SEpeTJ6Hi",
+          "end": 140,
+          "expanded_url": "https://x.com/quarktalksss/status/2006194087180095556/video/1",
+          "media_key": "3_2006194055026294784",
+          "start": 117,
+          "url": "https://t.co/2SEpeTJ6Hi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006216153979617604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006194087180095556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @quarktalksss: 牢A故事会热潮还没过。12月30日，一名露宿街头的男子就疑似冻死在了上海街头。热衷于议论美国斩杀线的粉红们从不知道，路有冻死骨这回事，每天其实都发生在你身边，只是官媒不报，发出来了，也会删除限流。 https://t.co/2SEpeTJ6Hi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20695,
+        "height": 1030,
+        "media_key": "7_2006194052073414656",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2006194052073414656/pu/img/v5BMmy3z7Wm3blDT.jpg",
+        "public_metrics": {
+          "view_count": 873
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006194052073414656/pu/vid/avc1/320x686/_1wTUVwmwsrN_AS7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006194052073414656/pu/vid/avc1/480x1030/R92DC0rxkbVXpQ5j.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2006194052073414656/pu/pl/WEDy5pP_6dXBmG5-.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 480
+      },
+      {
+        "height": 1442,
+        "media_key": "3_2006194053247897600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9du3LZXkAAzfK9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006194053944094720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9du3N_WsAAGpH3.jpg",
+        "width": 955
+      },
+      {
+        "height": 1927,
+        "media_key": "3_2006194055026294784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9du3SBXwAAtmQp.jpg",
+        "width": 1079
+      },
+      {
+        "duration_ms": 20695,
+        "height": 1030,
+        "media_key": "7_2006194052073414656",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2006194052073414656/pu/img/v5BMmy3z7Wm3blDT.jpg",
+        "public_metrics": {
+          "view_count": 921
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006194052073414656/pu/vid/avc1/320x686/_1wTUVwmwsrN_AS7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006194052073414656/pu/vid/avc1/480x1030/R92DC0rxkbVXpQ5j.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2006194052073414656/pu/pl/WEDy5pP_6dXBmG5-.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2006194052073414656",
+            "3_2006194053247897600",
+            "3_2006194053944094720",
+            "3_2006194055026294784"
+          ],
+          "media_source_tweet_id": [
+            "2006194087180095556",
+            "2006194087180095556",
+            "2006194087180095556",
+            "2006194087180095556"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006216153979617604",
+        "created_at": "2025-12-31T04:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T05:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006216153979617604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1621709543750385664",
+              "start": 3,
+              "username": "quarktalksss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2SEpeTJ6Hi",
+              "end": 140,
+              "expanded_url": "https://x.com/quarktalksss/status/2006194087180095556/video/1",
+              "media_key": "7_2006194052073414656",
+              "start": 117,
+              "url": "https://t.co/2SEpeTJ6Hi"
+            },
+            {
+              "display_url": "pic.x.com/2SEpeTJ6Hi",
+              "end": 140,
+              "expanded_url": "https://x.com/quarktalksss/status/2006194087180095556/video/1",
+              "media_key": "3_2006194053247897600",
+              "start": 117,
+              "url": "https://t.co/2SEpeTJ6Hi"
+            },
+            {
+              "display_url": "pic.x.com/2SEpeTJ6Hi",
+              "end": 140,
+              "expanded_url": "https://x.com/quarktalksss/status/2006194087180095556/video/1",
+              "media_key": "3_2006194053944094720",
+              "start": 117,
+              "url": "https://t.co/2SEpeTJ6Hi"
+            },
+            {
+              "display_url": "pic.x.com/2SEpeTJ6Hi",
+              "end": 140,
+              "expanded_url": "https://x.com/quarktalksss/status/2006194087180095556/video/1",
+              "media_key": "3_2006194055026294784",
+              "start": 117,
+              "url": "https://t.co/2SEpeTJ6Hi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006216153979617604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006194087180095556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @quarktalksss: 牢A故事会热潮还没过。12月30日，一名露宿街头的男子就疑似冻死在了上海街头。热衷于议论美国斩杀线的粉红们从不知道，路有冻死骨这回事，每天其实都发生在你身边，只是官媒不报，发出来了，也会删除限流。 https://t.co/2SEpeTJ6Hi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2006194052073414656",
+            "3_2006194053247897600",
+            "3_2006194053944094720",
+            "3_2006194055026294784"
+          ]
+        },
+        "author_id": "1621709543750385664",
+        "conversation_id": "2006194087180095556",
+        "created_at": "2025-12-31T02:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T03:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006194087180095556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2SEpeTJ6Hi",
+              "end": 122,
+              "expanded_url": "https://x.com/quarktalksss/status/2006194087180095556/video/1",
+              "media_key": "7_2006194052073414656",
+              "start": 99,
+              "url": "https://t.co/2SEpeTJ6Hi"
+            },
+            {
+              "display_url": "pic.x.com/2SEpeTJ6Hi",
+              "end": 122,
+              "expanded_url": "https://x.com/quarktalksss/status/2006194087180095556/video/1",
+              "media_key": "3_2006194053247897600",
+              "start": 99,
+              "url": "https://t.co/2SEpeTJ6Hi"
+            },
+            {
+              "display_url": "pic.x.com/2SEpeTJ6Hi",
+              "end": 122,
+              "expanded_url": "https://x.com/quarktalksss/status/2006194087180095556/video/1",
+              "media_key": "3_2006194053944094720",
+              "start": 99,
+              "url": "https://t.co/2SEpeTJ6Hi"
+            },
+            {
+              "display_url": "pic.x.com/2SEpeTJ6Hi",
+              "end": 122,
+              "expanded_url": "https://x.com/quarktalksss/status/2006194087180095556/video/1",
+              "media_key": "3_2006194055026294784",
+              "start": 99,
+              "url": "https://t.co/2SEpeTJ6Hi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006194087180095556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1913,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "牢A故事会热潮还没过。12月30日，一名露宿街头的男子就疑似冻死在了上海街头。热衷于议论美国斩杀线的粉红们从不知道，路有冻死骨这回事，每天其实都发生在你身边，只是官媒不报，发出来了，也会删除限流。 https://t.co/2SEpeTJ6Hi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998397096031035392/5bZUUqPS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 1527,
+          "like_count": 12950,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 5946
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T03:18:05.000Z",
+        "description": "youtube账号：夸克说",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E5%A4%B8%E5%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E5%A4%B8%E5%85%8B%E8%AF%B4",
+                "start": 0,
+                "url": "https://t.co/eZ6ILrdttM"
+              }
+            ]
+          }
+        },
+        "id": "1621709543750385664",
+        "location": "Canada",
+        "name": "夸克说",
+        "pinned_tweet_id": "2005659877264556370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969808918886105090/skT7BSEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13212,
+          "following_count": 16,
+          "like_count": 543,
+          "listed_count": 71,
+          "media_count": 330,
+          "tweet_count": 1457
+        },
+        "url": "https://t.co/eZ6ILrdttM",
+        "username": "quarktalksss",
+        "verified": false
+      }
+    ]
+  }
+}

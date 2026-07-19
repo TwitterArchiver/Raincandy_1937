@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "1904156325547827484",
+    "created_at": "2025-03-25T06:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T07:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904415162242682990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1511185667274907652",
+          "start": 0,
+          "username": "RevolutionTide"
+        },
+        {
+          "end": 29,
+          "id": "1478694030322008067",
+          "start": 16,
+          "username": "Nimahamanchu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904415162242682990",
+    "in_reply_to_user_id": "1511185667274907652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904358862460710983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RevolutionTide @Nimahamanchu 个人感觉上面那段总结更接近文学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1904156325547827484",
+        "created_at": "2025-03-25T06:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T07:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904415162242682990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1511185667274907652",
+              "start": 0,
+              "username": "RevolutionTide"
+            },
+            {
+              "end": 29,
+              "id": "1478694030322008067",
+              "start": 16,
+              "username": "Nimahamanchu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904415162242682990",
+        "in_reply_to_user_id": "1511185667274907652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904358862460710983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RevolutionTide @Nimahamanchu 个人感觉上面那段总结更接近文学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511185667274907652",
+        "conversation_id": "1904156325547827484",
+        "created_at": "2025-03-25T02:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T03:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904358862460710983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1478694030322008067",
+              "start": 0,
+              "username": "Nimahamanchu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904358862460710983",
+        "in_reply_to_user_id": "1478694030322008067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904156325547827484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nimahamanchu 你是读过神秘学吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 942,
+          "like_count": 6920,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 3612
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T03:35:22.000Z",
+        "description": "毁灭的激情就是创造的幸福 /自治主义马克思主义",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nightfall.buzz",
+                "end": 23,
+                "expanded_url": "https://nightfall.buzz/",
+                "start": 0,
+                "url": "https://t.co/T8Rq4vYSHW"
+              }
+            ]
+          }
+        },
+        "id": "1511185667274907652",
+        "location": "萨帕塔民族解放军",
+        "name": "Revolutionary Tide",
+        "pinned_tweet_id": "1847619356575817866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894010668816162816/M1chMGrq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4936,
+          "following_count": 2870,
+          "like_count": 80014,
+          "listed_count": 23,
+          "media_count": 348,
+          "tweet_count": 3705
+        },
+        "url": "https://t.co/T8Rq4vYSHW",
+        "username": "RevolutionTide",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-05T11:45:21.000Z",
+        "description": "solo soy un gato/\n Manchu vivir en Cataluña",
+        "id": "1478694030322008067",
+        "location": "Fiume",
+        "name": "Gata Yuri🏴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873735359776862208/wsevxGcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 977,
+          "like_count": 4978,
+          "listed_count": 4,
+          "media_count": 37,
+          "tweet_count": 846
+        },
+        "username": "Nimahamanchu",
+        "verified": false
+      }
+    ]
+  }
+}

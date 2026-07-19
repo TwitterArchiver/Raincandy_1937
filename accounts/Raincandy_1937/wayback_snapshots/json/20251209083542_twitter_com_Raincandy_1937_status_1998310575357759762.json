@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1997647395815899402",
+    "created_at": "2025-12-09T08:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T09:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998310575357759762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1693450364341948416",
+          "start": 0,
+          "username": "igeekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998310575357759762",
+    "in_reply_to_user_id": "1693450364341948416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997647395815899402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igeekbb 哇，还有选地图环节"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2058,
+        "media_key": "3_1997644074481008640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kOs6cawAA0f_j.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1997647395815899402",
+        "created_at": "2025-12-09T08:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T09:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998310575357759762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1693450364341948416",
+              "start": 0,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998310575357759762",
+        "in_reply_to_user_id": "1693450364341948416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997647395815899402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igeekbb 哇，还有选地图环节"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997644074481008640"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "1997647395815899402",
+        "created_at": "2025-12-07T12:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T13:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997647395815899402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MJqs3NwsqE",
+              "end": 72,
+              "expanded_url": "https://x.com/igeekbb/status/1997647395815899402/photo/1",
+              "media_key": "3_1997644074481008640",
+              "start": 49,
+              "url": "https://t.co/MJqs3NwsqE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997647395815899402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 694,
+          "impression_count": 339003,
+          "like_count": 2161,
+          "quote_count": 11,
+          "reply_count": 84,
+          "retweet_count": 291
+        },
+        "reply_settings": "everyone",
+        "text": "这是支付宝出国旅游险不承保地区，你可以不相信保险，但一定要相信保险公司精算师最高级别的安全提示。 https://t.co/MJqs3NwsqE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 1480,
+          "like_count": 12327,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 5752
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59976,
+          "following_count": 1,
+          "like_count": 8582,
+          "listed_count": 244,
+          "media_count": 5830,
+          "tweet_count": 8807
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

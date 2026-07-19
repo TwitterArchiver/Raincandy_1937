@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059578839312015360"
+      ],
+      "media_source_tweet_id": [
+        "2059578844835991805"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2060274522360860894",
+    "created_at": "2026-05-29T08:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060274522360860894"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 21,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        },
+        {
+          "end": 53,
+          "start": 43,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1354069442301317120",
+          "start": 3,
+          "username": "kiha_run"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C0CtLEJZUf",
+          "end": 77,
+          "expanded_url": "https://x.com/kiha_run/status/2059578844835991805/photo/1",
+          "media_key": "3_2059578839312015360",
+          "start": 54,
+          "url": "https://t.co/C0CtLEJZUf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060274522360860894",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 924
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059578844835991805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiha_run: あめちゃん🔪\n#NEEDY_GIRL_OVERDOSE\n #NEEDY_pic https://t.co/C0CtLEJZUf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059578839312015360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUYCtAaoAAGu8h.jpg",
+        "width": 1310
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059578839312015360"
+          ],
+          "media_source_tweet_id": [
+            "2059578844835991805"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2060274522360860894",
+        "created_at": "2026-05-29T08:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060274522360860894"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 21,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 53,
+              "start": 43,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1354069442301317120",
+              "start": 3,
+              "username": "kiha_run"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C0CtLEJZUf",
+              "end": 77,
+              "expanded_url": "https://x.com/kiha_run/status/2059578844835991805/photo/1",
+              "media_key": "3_2059578839312015360",
+              "start": 54,
+              "url": "https://t.co/C0CtLEJZUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060274522360860894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 924
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059578844835991805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiha_run: あめちゃん🔪\n#NEEDY_GIRL_OVERDOSE\n #NEEDY_pic https://t.co/C0CtLEJZUf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059578839312015360"
+          ]
+        },
+        "author_id": "1354069442301317120",
+        "conversation_id": "2059578844835991805",
+        "created_at": "2026-05-27T10:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059578844835991805"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 7,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 39,
+              "start": 29,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C0CtLEJZUf",
+              "end": 63,
+              "expanded_url": "https://x.com/kiha_run/status/2059578844835991805/photo/1",
+              "media_key": "3_2059578839312015360",
+              "start": 40,
+              "url": "https://t.co/C0CtLEJZUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059578844835991805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 581,
+          "impression_count": 47461,
+          "like_count": 6480,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 924
+        },
+        "reply_settings": "everyone",
+        "text": "あめちゃん🔪\n#NEEDY_GIRL_OVERDOSE\n #NEEDY_pic https://t.co/C0CtLEJZUf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 1710,
+          "like_count": 15931,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 6974
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-26T14:11:42.000Z",
+        "description": "Illustrator🎀お仕事募集中▶︎kiharun0917@gmail.com✒️skeb▶︎https://t.co/wvpOv1hlY5サブ垢 @haru_72727",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "haru_72727"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kiha_run",
+                "end": 72,
+                "expanded_url": "https://skeb.jp/@kiha_run",
+                "start": 49,
+                "url": "https://t.co/wvpOv1hlY5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kiharu",
+                "end": 23,
+                "expanded_url": "https://lit.link/kiharu",
+                "start": 0,
+                "url": "https://t.co/WWzd21S8MK"
+              }
+            ]
+          }
+        },
+        "id": "1354069442301317120",
+        "name": "きはる🌷",
+        "pinned_tweet_id": "1953392345006960914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839995201391366144/T7JzNWRY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7219,
+          "following_count": 712,
+          "like_count": 9338,
+          "listed_count": 79,
+          "media_count": 1045,
+          "tweet_count": 11160
+        },
+        "url": "https://t.co/WWzd21S8MK",
+        "username": "kiha_run",
+        "verified": true
+      }
+    ]
+  }
+}

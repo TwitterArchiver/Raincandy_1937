@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "1907397315402530826",
+    "created_at": "2025-04-02T11:38:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T12:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907397315402530826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/benevolels/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/benevolels/status/1906998662279856162",
+          "start": 5,
+          "url": "https://t.co/fxrMwFr50R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907397315402530826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906998662279856162",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这素在🤯 https://t.co/fxrMwFr50R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1906998652041867266",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GncFK5oasAInzmZ.jpg",
+        "width": 2876
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "1907397315402530826",
+        "created_at": "2025-04-02T11:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T12:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907397315402530826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/benevolels/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/benevolels/status/1906998662279856162",
+              "start": 5,
+              "url": "https://t.co/fxrMwFr50R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907397315402530826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906998662279856162",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这素在🤯 https://t.co/fxrMwFr50R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906998652041867266"
+          ]
+        },
+        "author_id": "1538097824826806273",
+        "conversation_id": "1906998662279856162",
+        "created_at": "2025-04-01T09:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T10:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906998662279856162"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "創作百合"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mli03jFDnu",
+              "end": 43,
+              "expanded_url": "https://x.com/benevolels/status/1906998662279856162/photo/1",
+              "media_key": "3_1906998652041867266",
+              "start": 20,
+              "url": "https://t.co/mli03jFDnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906998662279856162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3725,
+          "impression_count": 467597,
+          "like_count": 30676,
+          "quote_count": 110,
+          "reply_count": 26,
+          "retweet_count": 2162
+        },
+        "reply_settings": "everyone",
+        "text": "指が切れてしまったわ... #創作百合 https://t.co/mli03jFDnu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 967,
+          "like_count": 7393,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 3824
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-18T09:54:37.000Z",
+        "description": "イラストを描いています。百合とか神秘的な絵が好き。| FANBOX: https://t.co/MMIK8XXbLI | Skeb: https://t.co/Iii4d837O3 | お仕事: benebolepwd@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "benevolepwd.fanbox.cc",
+                "end": 58,
+                "expanded_url": "http://benevolepwd.fanbox.cc",
+                "start": 35,
+                "url": "https://t.co/MMIK8XXbLI"
+              },
+              {
+                "display_url": "skeb.jp/@benevolepwd",
+                "end": 90,
+                "expanded_url": "http://skeb.jp/@benevolepwd",
+                "start": 67,
+                "url": "https://t.co/Iii4d837O3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/10232687",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/10232687",
+                "start": 0,
+                "url": "https://t.co/BhfORodtkq"
+              }
+            ]
+          }
+        },
+        "id": "1538097824826806273",
+        "location": "日本",
+        "name": "べねぼれ",
+        "pinned_tweet_id": "1895022822139011344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1538098063499489280/CeR6CObC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206925,
+          "following_count": 87,
+          "like_count": 660,
+          "listed_count": 1197,
+          "media_count": 157,
+          "tweet_count": 199
+        },
+        "url": "https://t.co/BhfORodtkq",
+        "username": "benevolels",
+        "verified": true
+      }
+    ]
+  }
+}

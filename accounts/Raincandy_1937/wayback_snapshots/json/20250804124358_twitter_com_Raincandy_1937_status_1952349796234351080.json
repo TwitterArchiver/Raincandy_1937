@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1952349796234351080",
+    "created_at": "2025-08-04T12:43:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T13:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952349796234351080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 84,
+          "id": "10228272",
+          "start": 76,
+          "username": "YouTube"
+        }
+      ],
+      "urls": [
+        {
+          "description": "『Life Will Change』初音ミク × 鏡音リン × 鏡音レン作詞：Benjamin Franklin作曲：目黒将司 編曲：ぬゆり https://x.com/nulutイラスト：バツムラ https://x.com/BTMR_main動画：aco https://x.com/acco_0v0 公式サイ...",
+          "display_url": "youtu.be/wB62r76PMpc?si…",
+          "end": 72,
+          "expanded_url": "https://youtu.be/wB62r76PMpc?si=R18n7GN2p93t6fmT",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1952205155853836288/F2vFIyWk?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1952205155853836288/F2vFIyWk?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 49,
+          "status": 200,
+          "title": "Life Will Change / 初音ミク × 鏡音リン × 鏡音レン",
+          "unwound_url": "https://www.youtube.com/watch?si=R18n7GN2p93t6fmT&v=wB62r76PMpc&feature=youtu.be",
+          "url": "https://t.co/G6IjyYTgPy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952349796234351080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么和什么？谁和谁？\nLife Will Change / 初音ミク × 鏡音リン × 鏡音レン https://t.co/G6IjyYTgPy 來自 @YouTube"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1952349796234351080",
+        "created_at": "2025-08-04T12:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T13:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952349796234351080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 84,
+              "id": "10228272",
+              "start": 76,
+              "username": "YouTube"
+            }
+          ],
+          "urls": [
+            {
+              "description": "『Life Will Change』初音ミク × 鏡音リン × 鏡音レン作詞：Benjamin Franklin作曲：目黒将司 編曲：ぬゆり https://x.com/nulutイラスト：バツムラ https://x.com/BTMR_main動画：aco https://x.com/acco_0v0 公式サイ...",
+              "display_url": "youtu.be/wB62r76PMpc?si…",
+              "end": 72,
+              "expanded_url": "https://youtu.be/wB62r76PMpc?si=R18n7GN2p93t6fmT",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1952205155853836288/F2vFIyWk?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1952205155853836288/F2vFIyWk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 49,
+              "status": 200,
+              "title": "Life Will Change / 初音ミク × 鏡音リン × 鏡音レン",
+              "unwound_url": "https://www.youtube.com/watch?si=R18n7GN2p93t6fmT&v=wB62r76PMpc&feature=youtu.be",
+              "url": "https://t.co/G6IjyYTgPy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952349796234351080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么和什么？谁和谁？\nLife Will Change / 初音ミク × 鏡音リン × 鏡音レン https://t.co/G6IjyYTgPy 來自 @YouTube"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 1231,
+          "like_count": 9326,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 4836
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2007-11-13T21:43:46.000Z",
+        "description": "like & subscribe",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yt.be/3NDRz",
+                "end": 23,
+                "expanded_url": "https://yt.be/3NDRz",
+                "start": 0,
+                "url": "https://t.co/WBV5E1Rh1y"
+              }
+            ]
+          }
+        },
+        "id": "10228272",
+        "location": "San Bruno, CA",
+        "name": "YouTube",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915882040353837056/VbhPvueq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79005969,
+          "following_count": 1147,
+          "like_count": 6055,
+          "listed_count": 77651,
+          "media_count": 16019,
+          "tweet_count": 60088
+        },
+        "url": "https://t.co/WBV5E1Rh1y",
+        "username": "YouTube",
+        "verified": true
+      }
+    ]
+  }
+}

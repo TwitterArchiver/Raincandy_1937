@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1921240976044999066",
+    "created_at": "2025-05-10T16:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T17:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921240976044999066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1015788561088630791",
+          "start": 3,
+          "username": "neko_ruyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921240976044999066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918305295736160565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neko_ruyue: 你应该离开我五分钟就会死才对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1921240976044999066",
+        "created_at": "2025-05-10T16:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T17:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921240976044999066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1015788561088630791",
+              "start": 3,
+              "username": "neko_ruyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921240976044999066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918305295736160565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neko_ruyue: 你应该离开我五分钟就会死才对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1015788561088630791",
+        "conversation_id": "1918305295736160565",
+        "created_at": "2025-05-02T14:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T15:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918305295736160565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918305295736160565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2117,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你应该离开我五分钟就会死才对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 1087,
+          "like_count": 8156,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 4213
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-08T02:44:00.000Z",
+        "description": "含糖少女🍥/不反差而且很凶🌸/先看置顶推/门槛 🚪88➕vx/可以陪聊陪玩/私信只收口令@theodos1us最爱的兔狲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "theodos1us"
+              }
+            ]
+          }
+        },
+        "id": "1015788561088630791",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "小猫月月",
+        "pinned_tweet_id": "1853507939828723832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830584532141215744/PblY5QNI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32943,
+          "following_count": 4031,
+          "like_count": 137769,
+          "listed_count": 85,
+          "media_count": 2617,
+          "tweet_count": 28379
+        },
+        "username": "neko_ruyue",
+        "verified": false
+      }
+    ]
+  }
+}

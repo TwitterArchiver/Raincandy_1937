@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2040038636906054025",
+    "created_at": "2026-04-03T12:08:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T13:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040038636906054025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "861550421281619968",
+          "start": 3,
+          "username": "tmsxuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040038636906054025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039696146050789436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tmsxuan: 不是都说小日子看到白人腿就软了走不动道了吗，怎么小日子又突然歧视白人了，我党大外宣能不能统一下口径搞个严谨的叙事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2040038636906054025",
+        "created_at": "2026-04-03T12:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T13:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040038636906054025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "861550421281619968",
+              "start": 3,
+              "username": "tmsxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040038636906054025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039696146050789436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tmsxuan: 不是都说小日子看到白人腿就软了走不动道了吗，怎么小日子又突然歧视白人了，我党大外宣能不能统一下口径搞个严谨的叙事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "861550421281619968",
+        "conversation_id": "2039696146050789436",
+        "created_at": "2026-04-02T13:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039696146050789436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/geminiab0101/s…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/geminiab0101/status/2039618511111340202",
+              "start": 57,
+              "url": "https://t.co/jIo2ksvy8s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039696146050789436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 12873,
+          "like_count": 175,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039618511111340202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是都说小日子看到白人腿就软了走不动道了吗，怎么小日子又突然歧视白人了，我党大外宣能不能统一下口径搞个严谨的叙事 https://t.co/jIo2ksvy8s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 1610,
+          "like_count": 14287,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 6560
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-08T11:56:42.000Z",
+        "description": "🐮🐮🌸🌸🦈🦈超可爱",
+        "id": "861550421281619968",
+        "location": "バレなきゃ犯罪じゃないんですよ！",
+        "name": "Joshua Ng",
+        "pinned_tweet_id": "1841330466898444682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367577269342210/6p_Xz8hq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 1818,
+          "like_count": 83924,
+          "listed_count": 16,
+          "media_count": 1098,
+          "tweet_count": 43908
+        },
+        "username": "tmsxuan",
+        "verified": false
+      }
+    ]
+  }
+}

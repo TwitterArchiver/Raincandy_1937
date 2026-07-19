@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1999158671142780953",
+    "created_at": "2025-12-12T08:52:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T09:52:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999402030948073965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943802168353685504",
+          "start": 0,
+          "username": "O__mmmmmmm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999402030948073965",
+    "in_reply_to_user_id": "1943802168353685504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999158671142780953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@O__mmmmmmm 我觉得化妆这件事情全看个人喜好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1999158671142780953",
+        "created_at": "2025-12-12T08:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999402030948073965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943802168353685504",
+              "start": 0,
+              "username": "O__mmmmmmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999402030948073965",
+        "in_reply_to_user_id": "1943802168353685504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999158671142780953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@O__mmmmmmm 我觉得化妆这件事情全看个人喜好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943802168353685504",
+        "conversation_id": "1999158671142780953",
+        "created_at": "2025-12-11T16:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T17:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999158671142780953"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999158671142780953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 23595,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 86,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男生会歧视不化妆的女生吗？\n我感觉自己长得还行所以一直懒得学化妆 但是前两天和化妆的朋友一起拍照才感觉她们会化妆的真的好精致啊 我只能涂个防晒口红 和她们一比脸上一点阴影都没有 突然有点自卑……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998397096031035392/5bZUUqPS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 1470,
+          "like_count": 12457,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 5798
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T22:38:55.000Z",
+        "description": "在读女大 brat 喜欢碎碎念₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1943802168353685504",
+        "name": "mimi今天手冲了吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943802297223393280/RNfNf03U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4150,
+          "following_count": 63,
+          "like_count": 167,
+          "listed_count": 6,
+          "media_count": 33,
+          "tweet_count": 154
+        },
+        "username": "O__mmmmmmm",
+        "verified": false
+      }
+    ]
+  }
+}

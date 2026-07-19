@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "1927048908015886628",
+    "created_at": "2025-05-26T17:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T18:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927048908015886628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "791197",
+          "start": 3,
+          "username": "bbcchinese"
+        }
+      ],
+      "urls": [
+        {
+          "description": "北京一所高校被指要求女生脱裤子证明生理期，才有资格请病假，引发舆论争议。",
+          "display_url": "bbc.in/4jiWoEM",
+          "end": 107,
+          "expanded_url": "https://bbc.in/4jiWoEM",
+          "start": 84,
+          "status": 200,
+          "title": "中国有女大学生被要求生理期“脱裤子证明”？ 高校规定引争议 - BBC News 中文",
+          "unwound_url": "https://www.bbc.com/zhongwen/articles/c8xgr9k00e0o/simp?at_campaign=Social_Flow&at_format=link&at_link_type=web_link&at_bbc_team=editorial&at_ptr_name=twitter&at_link_origin=bbcchinese&at_medium=social&at_campaign_type=owned&at_link_id=EE3C8C7E-3A16-11F0-8CB1-8D0E9438415D",
+          "url": "https://t.co/0JCN9iEUGo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927048908015886628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926986739521921461",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbcchinese: 近日，北京一所高校被指要求女生脱裤子证明生理期，才有资格请病假，引起众怒。目前，涉事学生和耿丹学院均未就此事回应BBC新闻的置评请求。 https://t.co/0JCN9iEUGo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "1927048908015886628",
+        "created_at": "2025-05-26T17:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T18:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927048908015886628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "791197",
+              "start": 3,
+              "username": "bbcchinese"
+            }
+          ],
+          "urls": [
+            {
+              "description": "北京一所高校被指要求女生脱裤子证明生理期，才有资格请病假，引发舆论争议。",
+              "display_url": "bbc.in/4jiWoEM",
+              "end": 107,
+              "expanded_url": "https://bbc.in/4jiWoEM",
+              "start": 84,
+              "status": 200,
+              "title": "中国有女大学生被要求生理期“脱裤子证明”？ 高校规定引争议 - BBC News 中文",
+              "unwound_url": "https://www.bbc.com/zhongwen/articles/c8xgr9k00e0o/simp?at_campaign=Social_Flow&at_format=link&at_link_type=web_link&at_bbc_team=editorial&at_ptr_name=twitter&at_link_origin=bbcchinese&at_medium=social&at_campaign_type=owned&at_link_id=EE3C8C7E-3A16-11F0-8CB1-8D0E9438415D",
+              "url": "https://t.co/0JCN9iEUGo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927048908015886628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926986739521921461",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbcchinese: 近日，北京一所高校被指要求女生脱裤子证明生理期，才有资格请病假，引起众怒。目前，涉事学生和耿丹学院均未就此事回应BBC新闻的置评请求。 https://t.co/0JCN9iEUGo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "1926986739521921461",
+        "created_at": "2025-05-26T13:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T14:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926986739521921461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "北京一所高校被指要求女生脱裤子证明生理期，才有资格请病假，引发舆论争议。",
+              "display_url": "bbc.in/4jiWoEM",
+              "end": 91,
+              "expanded_url": "https://bbc.in/4jiWoEM",
+              "start": 68,
+              "status": 200,
+              "title": "中国有女大学生被要求生理期“脱裤子证明”？ 高校规定引争议 - BBC News 中文",
+              "unwound_url": "https://www.bbc.com/zhongwen/articles/c8xgr9k00e0o/simp?at_campaign=Social_Flow&at_format=link&at_link_type=web_link&at_bbc_team=editorial&at_ptr_name=twitter&at_link_origin=bbcchinese&at_medium=social&at_campaign_type=owned&at_link_id=EE3C8C7E-3A16-11F0-8CB1-8D0E9438415D",
+              "url": "https://t.co/0JCN9iEUGo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926986739521921461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 55534,
+          "like_count": 124,
+          "quote_count": 3,
+          "reply_count": 43,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "近日，北京一所高校被指要求女生脱裤子证明生理期，才有资格请病假，引起众怒。目前，涉事学生和耿丹学院均未就此事回应BBC新闻的置评请求。 https://t.co/0JCN9iEUGo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 1119,
+          "like_count": 8347,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 4292
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4939200,
+          "following_count": 73,
+          "like_count": 59,
+          "listed_count": 11737,
+          "media_count": 23377,
+          "tweet_count": 152736
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

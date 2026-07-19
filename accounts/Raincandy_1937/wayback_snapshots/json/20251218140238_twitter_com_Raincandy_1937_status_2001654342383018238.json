@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2001633858991853914",
+    "created_at": "2025-12-18T14:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T15:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001654342383018238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "734167130053201920",
+          "start": 0,
+          "username": "chefsevenn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001654342383018238",
+    "in_reply_to_user_id": "734167130053201920",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001633858991853914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chefsevenn 🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2001633844798054400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8c7YHGWYAA5jt1.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2001633858991853914",
+        "created_at": "2025-12-18T14:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T15:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001654342383018238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "734167130053201920",
+              "start": 0,
+              "username": "chefsevenn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001654342383018238",
+        "in_reply_to_user_id": "734167130053201920",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001633858991853914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chefsevenn 🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001633844798054400"
+          ]
+        },
+        "author_id": "734167130053201920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          }
+        ],
+        "conversation_id": "2001633858991853914",
+        "created_at": "2025-12-18T12:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T13:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001633858991853914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XOjvMmsjma",
+              "end": 56,
+              "expanded_url": "https://x.com/chefsevenn/status/2001633858991853914/photo/1",
+              "media_key": "3_2001633844798054400",
+              "start": 33,
+              "url": "https://t.co/XOjvMmsjma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001633858991853914",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6449,
+          "like_count": 239,
+          "quote_count": 2,
+          "reply_count": 64,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "Describe this meal in one word.. https://t.co/XOjvMmsjma"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998397096031035392/5bZUUqPS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 1505,
+          "like_count": 12688,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 5866
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-21T23:40:58.000Z",
+        "description": "Cooking the way it should be.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/chefsevenn?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/chefsevenn?igsh=MTc5cnJ6c3V5MHUxZQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/TW3wf5x6Ql"
+              }
+            ]
+          }
+        },
+        "id": "734167130053201920",
+        "name": "Chef 👩🏻‍🍳",
+        "pinned_tweet_id": "1881062489024290987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876133301095710720/oWZQPNz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311141,
+          "following_count": 12318,
+          "like_count": 3672,
+          "listed_count": 310,
+          "media_count": 5259,
+          "tweet_count": 39019
+        },
+        "url": "https://t.co/TW3wf5x6Ql",
+        "username": "chefsevenn",
+        "verified": true
+      }
+    ]
+  }
+}

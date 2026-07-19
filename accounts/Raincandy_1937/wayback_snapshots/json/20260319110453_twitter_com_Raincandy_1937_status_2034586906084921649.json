@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034569218058747904"
+      ],
+      "media_source_tweet_id": [
+        "2034569221531701484"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2034586906084921649",
+    "created_at": "2026-03-19T11:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T12:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034586906084921649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "111942564",
+          "start": 3,
+          "username": "boiledwater"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bjeGysdiBX",
+          "end": 78,
+          "expanded_url": "https://x.com/boiledwater/status/2034569221531701484/photo/1",
+          "media_key": "3_2034569218058747904",
+          "start": 55,
+          "url": "https://t.co/bjeGysdiBX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034586906084921649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034569221531701484",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boiledwater: 外教的吐槽很精准啊。\n\n中国的孩子一半行尸走肉，另一半惊弓之鸟。太可怜了。 https://t.co/bjeGysdiBX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1274,
+        "media_key": "3_2034569218058747904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDw97JlWAAA4HGf.jpg",
+        "width": 1075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034569218058747904"
+          ],
+          "media_source_tweet_id": [
+            "2034569221531701484"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2034586906084921649",
+        "created_at": "2026-03-19T11:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T12:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034586906084921649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "111942564",
+              "start": 3,
+              "username": "boiledwater"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjeGysdiBX",
+              "end": 78,
+              "expanded_url": "https://x.com/boiledwater/status/2034569221531701484/photo/1",
+              "media_key": "3_2034569218058747904",
+              "start": 55,
+              "url": "https://t.co/bjeGysdiBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034586906084921649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034569221531701484",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @boiledwater: 外教的吐槽很精准啊。\n\n中国的孩子一半行尸走肉，另一半惊弓之鸟。太可怜了。 https://t.co/bjeGysdiBX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034569218058747904"
+          ]
+        },
+        "author_id": "111942564",
+        "conversation_id": "2034569221531701484",
+        "created_at": "2026-03-19T09:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T10:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034569221531701484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjeGysdiBX",
+              "end": 61,
+              "expanded_url": "https://x.com/boiledwater/status/2034569221531701484/photo/1",
+              "media_key": "3_2034569218058747904",
+              "start": 38,
+              "url": "https://t.co/bjeGysdiBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034569221531701484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1812,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "外教的吐槽很精准啊。\n\n中国的孩子一半行尸走肉，另一半惊弓之鸟。太可怜了。 https://t.co/bjeGysdiBX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 1580,
+          "like_count": 13883,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 6415
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-06T17:49:59.000Z",
+        "description": "打破原生家庭之环的人，只能是你自己。",
+        "id": "111942564",
+        "location": "Stockholm, Sverige",
+        "name": "Jess",
+        "pinned_tweet_id": "1580537292925546496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983445356277841920/TJ0mJFDl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42766,
+          "following_count": 1722,
+          "like_count": 31832,
+          "listed_count": 154,
+          "media_count": 5121,
+          "tweet_count": 38884
+        },
+        "username": "boiledwater",
+        "verified": true
+      }
+    ]
+  }
+}

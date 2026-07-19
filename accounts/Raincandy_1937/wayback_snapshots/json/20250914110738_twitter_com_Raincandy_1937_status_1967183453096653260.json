@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1562303923947393024",
+          "name": "Partner Track"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1542896829347479554",
+          "name": "Legal drama"
+        }
+      }
+    ],
+    "conversation_id": "1967183453096653260",
+    "created_at": "2025-09-14T11:07:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T12:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967183453096653260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "531271311",
+          "start": 3,
+          "username": "wonderkidlu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967183453096653260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966521800977686994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wonderkidlu: 官方没有第一时间宣布Tyler Robinson是个左翼青年、同性恋、转性别，或者巴勒斯坦同情者，而是只字不提他本人的政治倾向，而他的全家则是重度枪支爱好者，深红嘛噶家庭。\n我向来不惮以最坏的恶意来揣测川普政府，这只能引向一种可能：他们还没找到…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1562303923947393024",
+              "name": "Partner Track"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1542896829347479554",
+              "name": "Legal drama"
+            }
+          }
+        ],
+        "conversation_id": "1967183453096653260",
+        "created_at": "2025-09-14T11:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T12:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967183453096653260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "531271311",
+              "start": 3,
+              "username": "wonderkidlu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967183453096653260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966521800977686994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wonderkidlu: 官方没有第一时间宣布Tyler Robinson是个左翼青年、同性恋、转性别，或者巴勒斯坦同情者，而是只字不提他本人的政治倾向，而他的全家则是重度枪支爱好者，深红嘛噶家庭。\n我向来不惮以最坏的恶意来揣测川普政府，这只能引向一种可能：他们还没找到…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "531271311",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1562303923947393024",
+              "name": "Partner Track"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1542896829347479554",
+              "name": "Legal drama"
+            }
+          }
+        ],
+        "conversation_id": "1966521800977686994",
+        "created_at": "2025-09-12T15:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T16:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966521800977686994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966521800977686994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 55470,
+          "like_count": 866,
+          "quote_count": 2,
+          "reply_count": 53,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "官方没有第一时间宣布Tyler Robinson是个左翼青年、同性恋、转性别，或者巴勒斯坦同情者，而是只字不提他本人的政治倾向，而他的全家则是重度枪支爱好者，深红嘛噶家庭。\n我向来不惮以最坏的恶意来揣测川普政府，这只能引向一种可能：他们还没找到拿得出手的证据给左翼泼脏水，or，他就是个极端嘛噶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 1328,
+          "like_count": 9973,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 5050
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-20T12:25:02.000Z",
+        "description": "Ex-mutual fund manager, Angel investor",
+        "id": "531271311",
+        "location": "旧金山",
+        "name": "硅谷散人 （蓝天同名ID）",
+        "pinned_tweet_id": "1856105472492978376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1328152987944960001/Sh73vRZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9638,
+          "following_count": 761,
+          "like_count": 9768,
+          "listed_count": 73,
+          "media_count": 411,
+          "tweet_count": 6429
+        },
+        "username": "wonderkidlu",
+        "verified": false
+      }
+    ]
+  }
+}

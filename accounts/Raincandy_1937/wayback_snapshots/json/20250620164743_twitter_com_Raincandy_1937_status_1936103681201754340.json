@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1936103681201754340",
+    "created_at": "2025-06-20T16:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T17:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936103681201754340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1767905395299983360",
+          "start": 3,
+          "username": "Kaerigumo1585"
+        },
+        {
+          "end": 31,
+          "id": "822715997081583618",
+          "start": 19,
+          "username": "yinchao_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936103681201754340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935686319239565330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kaerigumo1585: @yinchao_qaq 一个用男频向黄文练出来的ai都比有些人懂得不自恨，可见索多玛有些人的抽象程度是超出正常人类想象范围的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1936103681201754340",
+        "created_at": "2025-06-20T16:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T17:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936103681201754340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1767905395299983360",
+              "start": 3,
+              "username": "Kaerigumo1585"
+            },
+            {
+              "end": 31,
+              "id": "822715997081583618",
+              "start": 19,
+              "username": "yinchao_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936103681201754340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935686319239565330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kaerigumo1585: @yinchao_qaq 一个用男频向黄文练出来的ai都比有些人懂得不自恨，可见索多玛有些人的抽象程度是超出正常人类想象范围的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767905395299983360",
+        "conversation_id": "1935670159999693038",
+        "created_at": "2025-06-19T13:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T14:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935686319239565330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "822715997081583618",
+              "start": 0,
+              "username": "yinchao_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935686319239565330",
+        "in_reply_to_user_id": "822715997081583618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4331,
+          "like_count": 307,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935670159999693038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinchao_qaq 一个用男频向黄文练出来的ai都比有些人懂得不自恨，可见索多玛有些人的抽象程度是超出正常人类想象范围的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 1168,
+          "like_count": 8679,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 4472
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T13:28:08.000Z",
+        "description": "ようこそ ときめく世界へ",
+        "id": "1767905395299983360",
+        "location": "漫长的季节",
+        "name": "内岛氏理🐧",
+        "pinned_tweet_id": "1922927406198948211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922326890892951552/nrq8LDJp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2151,
+          "following_count": 1496,
+          "like_count": 14031,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 2665
+        },
+        "username": "Kaerigumo1585",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-21T08:02:33.000Z",
+        "description": "🚪68r 两杯奶茶～（私号128r）｜杭州/不要键政/she/her/残忍变性女巫｜🦋@yinchao-qaq.com｜一个人也要好好地活着｜⚠️不是男娘伪娘CD⚠️讨厌露阴癖⚠️谁跟你是同好了？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "yinchao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ychqaq",
+                "end": 23,
+                "expanded_url": "https://t.me/ychqaq",
+                "start": 0,
+                "url": "https://t.co/PJk4FY9AJx"
+              }
+            ]
+          }
+        },
+        "id": "822715997081583618",
+        "name": "隐潮🏳️‍⚧️",
+        "pinned_tweet_id": "1896409028957470930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776790104377602048/jQ2yJmrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4979,
+          "following_count": 1110,
+          "like_count": 9320,
+          "listed_count": 8,
+          "media_count": 1029,
+          "tweet_count": 6886
+        },
+        "url": "https://t.co/PJk4FY9AJx",
+        "username": "yinchao_qaq",
+        "verified": false
+      }
+    ]
+  }
+}

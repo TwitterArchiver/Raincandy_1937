@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2057786310300250274",
+    "created_at": "2026-05-22T11:31:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T12:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057786310300250274"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ArikanRobo/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/ArikanRobo/status/2057773378925416482",
+          "start": 4,
+          "url": "https://t.co/BVHLf7kJho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057786310300250274",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057773378925416482",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神降臨 https://t.co/BVHLf7kJho"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2057772376339959808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6tEuBa0AAW88C.jpg",
+        "width": 1596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2057786310300250274",
+        "created_at": "2026-05-22T11:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057786310300250274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ArikanRobo/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ArikanRobo/status/2057773378925416482",
+              "start": 4,
+              "url": "https://t.co/BVHLf7kJho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057786310300250274",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057773378925416482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神降臨 https://t.co/BVHLf7kJho"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057772376339959808"
+          ]
+        },
+        "author_id": "1215268226",
+        "conversation_id": "2057773378925416482",
+        "created_at": "2026-05-22T10:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057773378925416482"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 9,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MiiFdNCZSC",
+              "end": 43,
+              "expanded_url": "https://x.com/ArikanRobo/status/2057773378925416482/photo/1",
+              "media_key": "3_2057772376339959808",
+              "start": 20,
+              "url": "https://t.co/MiiFdNCZSC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057773378925416482",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1567,
+          "like_count": 90,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "🌅/fanart #NEEDY_pic https://t.co/MiiFdNCZSC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 1683,
+          "like_count": 15522,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 6864
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-24T11:48:35.000Z",
+        "description": "漫画家／イラストレーター｜KADOKAWA「漫画版 なぜ僕の世界を誰も覚えていないのか？」全14巻｜ご用命がございましたら｢arikanrobo@yahoo.co.jp｣までお願いします｜Please don't use&edit my work without permission.",
+        "id": "1215268226",
+        "name": "ありかん",
+        "pinned_tweet_id": "2057773378925416482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007822405033697280/VwwzP33p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22838,
+          "following_count": 992,
+          "like_count": 6569,
+          "listed_count": 259,
+          "media_count": 752,
+          "tweet_count": 16196
+        },
+        "username": "ArikanRobo",
+        "verified": false
+      }
+    ]
+  }
+}

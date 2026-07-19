@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052706619318996992"
+      ],
+      "media_source_tweet_id": [
+        "2052706624297705723"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2053377268576289027",
+    "created_at": "2026-05-10T07:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053377268576289027"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 34,
+          "tag": "イラスト"
+        },
+        {
+          "end": 50,
+          "start": 40,
+          "tag": "NEEDY_pic"
+        },
+        {
+          "end": 73,
+          "start": 53,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1518919142132547584",
+          "start": 3,
+          "username": "otukun_yami"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nForsoJ295",
+          "end": 97,
+          "expanded_url": "https://x.com/otukun_yami/status/2052706624297705723/photo/1",
+          "media_key": "3_2052706619318996992",
+          "start": 74,
+          "url": "https://t.co/nForsoJ295"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053377268576289027",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 124
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052706624297705723",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @otukun_yami: INTERNET YAMERO\n #イラスト\n#NEEDY_pic \n #NEEDY_GIRL_OVERDOSE https://t.co/nForsoJ295"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1522,
+        "media_key": "3_2052706619318996992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyty2iaEAAlucH.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052706619318996992"
+          ],
+          "media_source_tweet_id": [
+            "2052706624297705723"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2053377268576289027",
+        "created_at": "2026-05-10T07:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053377268576289027"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "イラスト"
+            },
+            {
+              "end": 50,
+              "start": 40,
+              "tag": "NEEDY_pic"
+            },
+            {
+              "end": 73,
+              "start": 53,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1518919142132547584",
+              "start": 3,
+              "username": "otukun_yami"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nForsoJ295",
+              "end": 97,
+              "expanded_url": "https://x.com/otukun_yami/status/2052706624297705723/photo/1",
+              "media_key": "3_2052706619318996992",
+              "start": 74,
+              "url": "https://t.co/nForsoJ295"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053377268576289027",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052706624297705723",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @otukun_yami: INTERNET YAMERO\n #イラスト\n#NEEDY_pic \n #NEEDY_GIRL_OVERDOSE https://t.co/nForsoJ295"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052706619318996992"
+          ]
+        },
+        "author_id": "1518919142132547584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2052706624297705723",
+        "created_at": "2026-05-08T11:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052706624297705723"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "イラスト"
+            },
+            {
+              "end": 33,
+              "start": 23,
+              "tag": "NEEDY_pic"
+            },
+            {
+              "end": 56,
+              "start": 36,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nForsoJ295",
+              "end": 80,
+              "expanded_url": "https://x.com/otukun_yami/status/2052706624297705723/photo/1",
+              "media_key": "3_2052706619318996992",
+              "start": 57,
+              "url": "https://t.co/nForsoJ295"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052706624297705723",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 6435,
+          "like_count": 1023,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "INTERNET YAMERO\n #イラスト\n#NEEDY_pic \n #NEEDY_GIRL_OVERDOSE https://t.co/nForsoJ295"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 1625,
+          "like_count": 14862,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 6720
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-26T11:47:30.000Z",
+        "description": "Illust(Needy_girl_overdose)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/otuknu_yami?s=…",
+                "end": 23,
+                "expanded_url": "https://x.com/otuknu_yami?s=21",
+                "start": 0,
+                "url": "https://t.co/MlICHu6Xds"
+              }
+            ]
+          }
+        },
+        "id": "1518919142132547584",
+        "name": "残高29円",
+        "pinned_tweet_id": "2043362069190475981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045174314761400320/S1Pg4uDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 33,
+          "like_count": 3338,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1328
+        },
+        "url": "https://t.co/MlICHu6Xds",
+        "username": "otukun_yami",
+        "verified": false
+      }
+    ]
+  }
+}

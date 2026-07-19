@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994979265750986752"
+      ],
+      "media_source_tweet_id": [
+        "1994979279520895392"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1995416432952455354",
+    "created_at": "2025-12-01T08:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T09:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995416432952455354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1682912923851841536",
+          "start": 3,
+          "username": "chan19890604t04"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DZHpFhnFu9",
+          "end": 53,
+          "expanded_url": "https://x.com/chan19890604t04/status/1994979279520895392/photo/1",
+          "media_key": "3_1994979265750986752",
+          "start": 30,
+          "url": "https://t.co/DZHpFhnFu9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995416432952455354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 307
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994979279520895392",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chan19890604t04: 出處香港FB社團 https://t.co/DZHpFhnFu9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1855,
+        "media_key": "3_1994979265750986752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-XEoVbcAAPKLb.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994979265750986752"
+          ],
+          "media_source_tweet_id": [
+            "1994979279520895392"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995416432952455354",
+        "created_at": "2025-12-01T08:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T09:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995416432952455354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1682912923851841536",
+              "start": 3,
+              "username": "chan19890604t04"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DZHpFhnFu9",
+              "end": 53,
+              "expanded_url": "https://x.com/chan19890604t04/status/1994979279520895392/photo/1",
+              "media_key": "3_1994979265750986752",
+              "start": 30,
+              "url": "https://t.co/DZHpFhnFu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995416432952455354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 307
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994979279520895392",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chan19890604t04: 出處香港FB社團 https://t.co/DZHpFhnFu9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994979265750986752"
+          ]
+        },
+        "author_id": "1682912923851841536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994979279520895392",
+        "created_at": "2025-11-30T03:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T04:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994979279520895392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DZHpFhnFu9",
+              "end": 32,
+              "expanded_url": "https://x.com/chan19890604t04/status/1994979279520895392/photo/1",
+              "media_key": "3_1994979265750986752",
+              "start": 9,
+              "url": "https://t.co/DZHpFhnFu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994979279520895392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 34508,
+          "like_count": 1393,
+          "quote_count": 11,
+          "reply_count": 35,
+          "retweet_count": 307
+        },
+        "reply_settings": "everyone",
+        "text": "出處香港FB社團 https://t.co/DZHpFhnFu9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 1461,
+          "like_count": 12047,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 5660
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T00:38:40.000Z",
+        "description": "不跟粉蛆🕷️🐷🐰對話 圖和影片皆是轉載的 備用號@chan19890604to5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "chan19890604to5"
+              }
+            ]
+          }
+        },
+        "id": "1682912923851841536",
+        "location": "Taiwan",
+        "name": "陳少4.0",
+        "pinned_tweet_id": "1992999502090031395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906652458711171072/LTlW2rI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2033,
+          "following_count": 1645,
+          "like_count": 64335,
+          "listed_count": 15,
+          "media_count": 12658,
+          "tweet_count": 31553
+        },
+        "username": "chan19890604t04",
+        "verified": false
+      }
+    ]
+  }
+}

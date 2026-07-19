@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2037907055462223872"
+      ],
+      "media_source_tweet_id": [
+        "2037911338484133951"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2038162815236923864",
+    "created_at": "2026-03-29T07:54:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T08:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038162815236923864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HgCfOHrw03",
+          "end": 101,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2037911338484133951/video/1",
+          "media_key": "13_2037907055462223872",
+          "start": 78,
+          "url": "https://t.co/HgCfOHrw03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038162815236923864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037911338484133951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: “未来已来？《1984》已来！”\n3月28日，哈尔滨理工技术学校发布视频\n展现校园内针对学生的全方位监视监控系统。 https://t.co/HgCfOHrw03"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55125,
+        "height": 800,
+        "media_key": "13_2037907055462223872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037907055462223872/img/Y1a2HD6KskD-zo5I.jpg",
+        "public_metrics": {
+          "view_count": 72116
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037907055462223872/vid/avc1/320x444/EA54lGZ4kck-2kf3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037907055462223872/vid/avc1/480x666/X16CQ4AaL14iRkqy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037907055462223872/vid/avc1/576x800/beIFBfwaXijSwBOG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037907055462223872/pl/GgtzIlaKsn1jbUuv.m3u8?v=a8e"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037907055462223872"
+          ],
+          "media_source_tweet_id": [
+            "2037911338484133951"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038162815236923864",
+        "created_at": "2026-03-29T07:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T08:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038162815236923864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HgCfOHrw03",
+              "end": 101,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2037911338484133951/video/1",
+              "media_key": "13_2037907055462223872",
+              "start": 78,
+              "url": "https://t.co/HgCfOHrw03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038162815236923864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037911338484133951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: “未来已来？《1984》已来！”\n3月28日，哈尔滨理工技术学校发布视频\n展现校园内针对学生的全方位监视监控系统。 https://t.co/HgCfOHrw03"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037907055462223872"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037911338484133951",
+        "created_at": "2026-03-28T15:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T16:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037911338484133951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HgCfOHrw03",
+              "end": 81,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2037911338484133951/video/1",
+              "media_key": "13_2037907055462223872",
+              "start": 58,
+              "url": "https://t.co/HgCfOHrw03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037911338484133951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 264,
+          "impression_count": 141110,
+          "like_count": 995,
+          "quote_count": 14,
+          "reply_count": 137,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "“未来已来？《1984》已来！”\n3月28日，哈尔滨理工技术学校发布视频\n展现校园内针对学生的全方位监视监控系统。 https://t.co/HgCfOHrw03"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 1598,
+          "like_count": 14172,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 6523
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2034624681609933025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196497,
+          "following_count": 1028,
+          "like_count": 9354,
+          "listed_count": 8635,
+          "media_count": 44300,
+          "tweet_count": 51365
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

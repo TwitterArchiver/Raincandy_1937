@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942809869708414976"
+      ],
+      "media_source_tweet_id": [
+        "1942809879225459066"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1942983721050869826",
+    "created_at": "2025-07-09T16:26:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T17:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942983721050869826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790370144755351552",
+          "start": 3,
+          "username": "FurinaDF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B5FI6RDHmC",
+          "end": 78,
+          "expanded_url": "https://x.com/FurinaDF/status/1942809879225459066/photo/1",
+          "media_key": "3_1942809869708414976",
+          "start": 55,
+          "url": "https://t.co/B5FI6RDHmC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942983721050869826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942809879225459066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FurinaDF: 微博网友：\n再喜欢的博主，只要说出或写出“当日本人整”这种文案，我都会立刻拉黑。 https://t.co/B5FI6RDHmC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1942809869708414976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvY_SHYX0AAbrte.jpg",
+        "width": 622
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942809869708414976"
+          ],
+          "media_source_tweet_id": [
+            "1942809879225459066"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1942983721050869826",
+        "created_at": "2025-07-09T16:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T17:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942983721050869826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790370144755351552",
+              "start": 3,
+              "username": "FurinaDF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B5FI6RDHmC",
+              "end": 78,
+              "expanded_url": "https://x.com/FurinaDF/status/1942809879225459066/photo/1",
+              "media_key": "3_1942809869708414976",
+              "start": 55,
+              "url": "https://t.co/B5FI6RDHmC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942983721050869826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942809879225459066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FurinaDF: 微博网友：\n再喜欢的博主，只要说出或写出“当日本人整”这种文案，我都会立刻拉黑。 https://t.co/B5FI6RDHmC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942809869708414976"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1942809879225459066",
+        "created_at": "2025-07-09T04:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T05:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942809879225459066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B5FI6RDHmC",
+              "end": 64,
+              "expanded_url": "https://x.com/FurinaDF/status/1942809879225459066/photo/1",
+              "media_key": "3_1942809869708414976",
+              "start": 41,
+              "url": "https://t.co/B5FI6RDHmC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942809879225459066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 61540,
+          "like_count": 949,
+          "quote_count": 8,
+          "reply_count": 36,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "微博网友：\n再喜欢的博主，只要说出或写出“当日本人整”这种文案，我都会立刻拉黑。 https://t.co/B5FI6RDHmC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 1215,
+          "like_count": 9173,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 4738
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "浪人新闻 Ronin News",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/realRoninNews",
+                "end": 23,
+                "expanded_url": "http://t.me/realRoninNews",
+                "start": 0,
+                "url": "https://t.co/nHbDzdtdX8"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "San Jose",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35155,
+          "following_count": 2245,
+          "like_count": 27026,
+          "listed_count": 81,
+          "media_count": 5587,
+          "tweet_count": 9847
+        },
+        "url": "https://t.co/nHbDzdtdX8",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

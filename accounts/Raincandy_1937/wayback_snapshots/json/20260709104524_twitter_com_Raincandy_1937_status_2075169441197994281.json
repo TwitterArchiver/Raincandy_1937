@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074950322779291648"
+      ],
+      "media_source_tweet_id": [
+        "2074950326457606402"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2075169441197994281",
+    "created_at": "2026-07-09T10:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T11:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075169441197994281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1287452162038136833",
+          "start": 3,
+          "username": "jason27873170"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kjFsaNpGhd",
+          "end": 42,
+          "expanded_url": "https://x.com/jason27873170/status/2074950326457606402/photo/1",
+          "media_key": "3_2074950322779291648",
+          "start": 19,
+          "url": "https://t.co/kjFsaNpGhd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075169441197994281",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074950326457606402",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jason27873170: https://t.co/kjFsaNpGhd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074950322779291648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMu0UzPXgAA7Bea.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074950322779291648"
+          ],
+          "media_source_tweet_id": [
+            "2074950326457606402"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2075169441197994281",
+        "created_at": "2026-07-09T10:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075169441197994281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1287452162038136833",
+              "start": 3,
+              "username": "jason27873170"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjFsaNpGhd",
+              "end": 42,
+              "expanded_url": "https://x.com/jason27873170/status/2074950326457606402/photo/1",
+              "media_key": "3_2074950322779291648",
+              "start": 19,
+              "url": "https://t.co/kjFsaNpGhd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075169441197994281",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074950326457606402",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jason27873170: https://t.co/kjFsaNpGhd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074950322779291648"
+          ]
+        },
+        "author_id": "1287452162038136833",
+        "conversation_id": "2074950326457606402",
+        "created_at": "2026-07-08T20:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T21:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074950326457606402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjFsaNpGhd",
+              "end": 23,
+              "expanded_url": "https://x.com/jason27873170/status/2074950326457606402/photo/1",
+              "media_key": "3_2074950322779291648",
+              "start": 0,
+              "url": "https://t.co/kjFsaNpGhd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074950326457606402",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 72530,
+          "like_count": 644,
+          "quote_count": 6,
+          "reply_count": 18,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kjFsaNpGhd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 1784,
+          "like_count": 17151,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 7453
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T18:18:47.000Z",
+        "description": "我的网站：https://t.co/6xmsUyleEa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "petzgarden.com/home/",
+                "end": 28,
+                "expanded_url": "http://www.petzgarden.com/home/",
+                "start": 5,
+                "url": "https://t.co/6xmsUyleEa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "petzgarden.com/home/",
+                "end": 23,
+                "expanded_url": "http://www.petzgarden.com/home/",
+                "start": 0,
+                "url": "https://t.co/6xmsUyleEa"
+              }
+            ]
+          }
+        },
+        "id": "1287452162038136833",
+        "location": "旧金山，CA",
+        "name": "jason wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967557972986368000/_ANB6rQM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138987,
+          "following_count": 71679,
+          "like_count": 9976,
+          "listed_count": 299,
+          "media_count": 52190,
+          "tweet_count": 64583
+        },
+        "url": "https://t.co/6xmsUyleEa",
+        "username": "jason27873170",
+        "verified": false
+      }
+    ]
+  }
+}

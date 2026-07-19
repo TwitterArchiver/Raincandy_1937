@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1871810126707044546",
+    "created_at": "2024-12-25T07:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T08:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871820121481830426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777532697281458176",
+          "start": 0,
+          "username": "ssxianluomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871820121481830426",
+    "in_reply_to_user_id": "1777532697281458176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871810126707044546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ssxianluomao 吃！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1871810126707044546",
+        "created_at": "2024-12-25T07:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T08:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871820121481830426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777532697281458176",
+              "start": 0,
+              "username": "ssxianluomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871820121481830426",
+        "in_reply_to_user_id": "1777532697281458176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871810126707044546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ssxianluomao 吃！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777532697281458176",
+        "conversation_id": "1871810126707044546",
+        "created_at": "2024-12-25T06:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T07:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871810126707044546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1871810126707044546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每天都在为我的“恋咪咪”而找借口🚬\n难道没有借口就不吃了吗？\n不会。\n\n我感觉咪咪就让我安心，吃咪咪是一种处于本能的追求，我会继续正视的，每个人有俩个咪咪头，我可以轮流吃，这样不会累吧（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 602,
+          "like_count": 3853,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 2093
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T03:03:38.000Z",
+        "description": "可能因为我是一只暹罗猫 ，已赛博转生。 全部都是碎碎念，别管猫猫的碎碎念！",
+        "id": "1777532697281458176",
+        "name": "ss暹罗猫",
+        "pinned_tweet_id": "1859310618177830978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871785931738648576/EdJZuGY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 553,
+          "like_count": 587,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 612
+        },
+        "username": "ssxianluomao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1871961460768944170",
+    "created_at": "2024-12-25T17:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T18:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871972108622078118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1802881154166800384",
+          "start": 0,
+          "username": "Yamikawayihime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871972108622078118",
+    "in_reply_to_user_id": "1802881154166800384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871961460768944170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamikawayihime 感觉他也不太正经🥲"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1871961460768944170].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1871961460768944170",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1871961460768944170"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1871961460768944170",
+        "created_at": "2024-12-25T17:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T18:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871972108622078118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1802881154166800384",
+              "start": 0,
+              "username": "Yamikawayihime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871972108622078118",
+        "in_reply_to_user_id": "1802881154166800384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871961460768944170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamikawayihime 感觉他也不太正经🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 606,
+          "like_count": 3916,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 2118
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T01:49:06.000Z",
+        "description": "感觉你会是婊子",
+        "id": "1802881154166800384",
+        "location": "東京 新宿区",
+        "name": "澪澪",
+        "pinned_tweet_id": "1855524466954326364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855236656976306176/metSaOSt_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 33,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 45
+        },
+        "username": "Yamikawayihime",
+        "verified": false
+      }
+    ]
+  }
+}

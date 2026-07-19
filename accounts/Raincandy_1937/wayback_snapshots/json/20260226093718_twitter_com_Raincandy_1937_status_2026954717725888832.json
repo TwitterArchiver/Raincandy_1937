@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2026954717725888832",
+    "created_at": "2026-02-26T09:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T10:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026954717725888832"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gimtaey9501771…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/gimtaey95017719/status/2026714443279905199",
+          "start": 9,
+          "url": "https://t.co/vnwVbR5VhI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026954717725888832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026714443279905199",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好結局...嗎？ https://t.co/vnwVbR5VhI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 628,
+        "media_key": "3_2026714438007664642",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCBWCxqaMAI-Zz-.jpg",
+        "width": 876
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2026954717725888832",
+        "created_at": "2026-02-26T09:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026954717725888832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gimtaey9501771…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/gimtaey95017719/status/2026714443279905199",
+              "start": 9,
+              "url": "https://t.co/vnwVbR5VhI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026954717725888832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026714443279905199",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好結局...嗎？ https://t.co/vnwVbR5VhI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026714438007664642"
+          ]
+        },
+        "author_id": "1476447028456878085",
+        "conversation_id": "2026714443279905199",
+        "created_at": "2026-02-25T17:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T18:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026714443279905199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ZworhpfMm",
+              "end": 42,
+              "expanded_url": "https://x.com/gimtaey95017719/status/2026714443279905199/photo/1",
+              "media_key": "3_2026714438007664642",
+              "start": 19,
+              "url": "https://t.co/1ZworhpfMm"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "2ad8cd5f34640066"
+        },
+        "id": "2026714443279905199",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 40285,
+          "like_count": 650,
+          "quote_count": 39,
+          "reply_count": 279,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "이거 너무너무 보기좋잖아 😍😍😍😍 https://t.co/1ZworhpfMm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 1562,
+          "like_count": 13461,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 6206
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-30T06:56:40.000Z",
+        "description": "Yoon Again 💙 공산당이 싫어요 정말 싫어요\n찢두루out 언팔노노 선팔맞팔 환영",
+        "id": "1476447028456878085",
+        "name": "Free Republic of Korea 🇰🇷🇺🇲🇯🇵",
+        "pinned_tweet_id": "2026416236469580256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026911384433471491/RoRjmoXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 2089,
+          "like_count": 9041,
+          "listed_count": 3,
+          "media_count": 1124,
+          "tweet_count": 9590
+        },
+        "username": "gimtaey95017719",
+        "verified": true
+      }
+    ]
+  }
+}

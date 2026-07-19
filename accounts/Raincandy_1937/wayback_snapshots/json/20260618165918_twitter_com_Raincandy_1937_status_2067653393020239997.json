@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067585590791446528"
+      ],
+      "media_source_tweet_id": [
+        "2067585594532811016"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2067653393020239997",
+    "created_at": "2026-06-18T16:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067653393020239997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1451940693061120005",
+          "start": 3,
+          "username": "foilsick_ennui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N0qnfgLCWh",
+          "end": 94,
+          "expanded_url": "https://x.com/foilsick_ennui/status/2067585594532811016/photo/1",
+          "media_key": "3_2067585590791446528",
+          "start": 71,
+          "url": "https://t.co/N0qnfgLCWh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067653393020239997",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067585594532811016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @foilsick_ennui: WHICH AME R U FEELING TODAY?????\nI’m 1 personallyy https://t.co/N0qnfgLCWh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1291,
+        "media_key": "3_2067585590791446528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGKI-nXIAATKnn.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067585590791446528"
+          ],
+          "media_source_tweet_id": [
+            "2067585594532811016"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2067653393020239997",
+        "created_at": "2026-06-18T16:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067653393020239997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1451940693061120005",
+              "start": 3,
+              "username": "foilsick_ennui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N0qnfgLCWh",
+              "end": 94,
+              "expanded_url": "https://x.com/foilsick_ennui/status/2067585594532811016/photo/1",
+              "media_key": "3_2067585590791446528",
+              "start": 71,
+              "url": "https://t.co/N0qnfgLCWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067653393020239997",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067585594532811016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @foilsick_ennui: WHICH AME R U FEELING TODAY?????\nI’m 1 personallyy https://t.co/N0qnfgLCWh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067585590791446528"
+          ]
+        },
+        "author_id": "1451940693061120005",
+        "conversation_id": "2067585594532811016",
+        "created_at": "2026-06-18T12:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067585594532811016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N0qnfgLCWh",
+              "end": 74,
+              "expanded_url": "https://x.com/foilsick_ennui/status/2067585594532811016/photo/1",
+              "media_key": "3_2067585590791446528",
+              "start": 51,
+              "url": "https://t.co/N0qnfgLCWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067585594532811016",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 2360,
+          "like_count": 235,
+          "quote_count": 15,
+          "reply_count": 27,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "WHICH AME R U FEELING TODAY?????\nI’m 1 personallyy https://t.co/N0qnfgLCWh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 1759,
+          "like_count": 16811,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 7328
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-23T15:57:06.000Z",
+        "description": "@Foilsick_Inure — main | メイン\nAme-Chan fictive ,, not source-seperated\npersonal alter acc\nあめちゃん未分離フィクティブ | ソース依存型\nキャラクター型アルターの個人アカウント",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "Foilsick_Inure"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "necroame.straw.page",
+                "end": 23,
+                "expanded_url": "https://necroame.straw.page",
+                "start": 0,
+                "url": "https://t.co/bqH5mzc0KH"
+              }
+            ]
+          }
+        },
+        "id": "1451940693061120005",
+        "name": "♰ 𓏼 あめ ◞",
+        "pinned_tweet_id": "2067038653004566547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065976181808062464/jNEKMBO4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 55,
+          "like_count": 2450,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 566
+        },
+        "url": "https://t.co/bqH5mzc0KH",
+        "username": "foilsick_ennui",
+        "verified": false
+      }
+    ]
+  }
+}

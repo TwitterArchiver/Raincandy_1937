@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1154838532638138368",
+          "name": "Berserk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1154838532638138368",
+          "name": "Berserk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2066488333338096100",
+    "created_at": "2026-06-15T11:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T12:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066488333338096100"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/morichankencha…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/morichankenchan/status/2065007004041769335",
+          "start": 26,
+          "url": "https://t.co/68fprdPDUL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066488333338096100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065007004041769335",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看到這一話我開始相信我能在活著的時候就看到它完結。 https://t.co/68fprdPDUL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065006995116351488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhg69KbYAATtTy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1154838532638138368",
+              "name": "Berserk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1154838532638138368",
+              "name": "Berserk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2066488333338096100",
+        "created_at": "2026-06-15T11:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066488333338096100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/morichankencha…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/morichankenchan/status/2065007004041769335",
+              "start": 26,
+              "url": "https://t.co/68fprdPDUL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066488333338096100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065007004041769335",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到這一話我開始相信我能在活著的時候就看到它完結。 https://t.co/68fprdPDUL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065006995116351488"
+          ]
+        },
+        "author_id": "1534120208247701504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1154838532638138368",
+              "name": "Berserk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1154838532638138368",
+              "name": "Berserk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2065007004041769335",
+        "created_at": "2026-06-11T09:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065007004041769335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hYaUWZvvkd",
+              "end": 163,
+              "expanded_url": "https://x.com/morichankenchan/status/2065007004041769335/photo/1",
+              "media_key": "3_2065006995116351488",
+              "start": 140,
+              "url": "https://t.co/hYaUWZvvkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065007004041769335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 206,
+                "start": 200,
+                "tag": "ベルセルク"
+              },
+              {
+                "end": 214,
+                "start": 207,
+                "tag": "スタジオガガ"
+              }
+            ]
+          },
+          "text": "明日発売するヤングアニマルでベルセルク掲載致します。だいぶ待たせてしまって本当に申し訳ありません。\nこの回は三浦が二十年も悩みに悩んだエピソードで何十回と聞いた私でもかなり難しかった。。。\n三浦と私の長年の師でもある当時担当の島田さんと何度も台詞確認しながらなんとかたどり着く。\n今回も黒崎君をはじめスタジオガガの皆さんは本当に素晴らしい仕事をしてくれました！！\n楽しんでいただけたら嬉しいです。\n\n#ベルセルク　#スタジオガガ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3342,
+          "impression_count": 2020089,
+          "like_count": 38854,
+          "quote_count": 626,
+          "reply_count": 511,
+          "retweet_count": 8104
+        },
+        "reply_settings": "everyone",
+        "text": "明日発売するヤングアニマルでベルセルク掲載致します。だいぶ待たせてしまって本当に申し訳ありません。\nこの回は三浦が二十年も悩みに悩んだエピソードで何十回と聞いた私でもかなり難しかった。。。\n三浦と私の長年の師でもある当時担当の島田さんと何度も台詞確認しながらなんとかたどり着く。 https://t.co/hYaUWZvvkd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 1742,
+          "like_count": 16687,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 7279
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-07T10:29:28.000Z",
+        "description": "森恒二個人のアカウントになります。\n日々の事　漫画の事　お知らせなど。\nどうかお手柔らかにお願い致します✨",
+        "id": "1534120208247701504",
+        "location": "東京都",
+        "name": "森恒二　Ｄダイバー　創世のタイガ　ベルセルク監修",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534121548302667777/Tgk0OqYa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30757,
+          "following_count": 316,
+          "like_count": 42103,
+          "listed_count": 114,
+          "media_count": 271,
+          "tweet_count": 4668
+        },
+        "username": "morichankenchan",
+        "verified": true
+      }
+    ]
+  }
+}

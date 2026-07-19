@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1991880924838154322",
+    "created_at": "2025-11-21T16:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T17:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991910930121458075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1646433542661115904",
+          "start": 0,
+          "username": "Lanyinwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991910930121458075",
+    "in_reply_to_user_id": "1646433542661115904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991880924838154322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lanyinwu 你评论区咋刷新这么多人机😱好可怕😱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7082,
+        "height": 1280,
+        "media_key": "7_1991880812866719745",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1991880812866719745/pu/img/WpNeQ7Sjuh_Qkd6_.jpg",
+        "public_metrics": {
+          "view_count": 1503
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1991880812866719745/pu/vid/avc1/320x568/CYxc74iU1n_YSEyX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1991880812866719745/pu/vid/avc1/480x852/o2dIEGzK_rnRYZno.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1991880812866719745/pu/vid/avc1/720x1280/QU7kRZnfLiGS3CN7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1991880812866719745/pu/pl/gju9Mzhg8rfKAPcT.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1991880924838154322",
+        "created_at": "2025-11-21T16:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T17:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991910930121458075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1646433542661115904",
+              "start": 0,
+              "username": "Lanyinwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991910930121458075",
+        "in_reply_to_user_id": "1646433542661115904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991880924838154322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lanyinwu 你评论区咋刷新这么多人机😱好可怕😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1991880812866719745"
+          ]
+        },
+        "author_id": "1646433542661115904",
+        "conversation_id": "1991880924838154322",
+        "created_at": "2025-11-21T14:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T15:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991880924838154322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aWquwP2tAF",
+              "end": 56,
+              "expanded_url": "https://x.com/Lanyinwu/status/1991880924838154322/video/1",
+              "media_key": "7_1991880812866719745",
+              "start": 33,
+              "url": "https://t.co/aWquwP2tAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991880924838154322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4989,
+          "like_count": 147,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "主页动物浓度太高了  我现在发自拍完全是为了证明我不是农业养殖户 https://t.co/aWquwP2tAF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 1444,
+          "like_count": 11819,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 5579
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T08:42:08.000Z",
+        "description": "个人日常",
+        "id": "1646433542661115904",
+        "location": "私信不开  不提供任何服务",
+        "name": "盛予",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945455357427400704/VCxXs25A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20107,
+          "following_count": 11,
+          "like_count": 2320,
+          "listed_count": 36,
+          "media_count": 144,
+          "tweet_count": 1867
+        },
+        "username": "Lanyinwu",
+        "verified": false
+      }
+    ]
+  }
+}

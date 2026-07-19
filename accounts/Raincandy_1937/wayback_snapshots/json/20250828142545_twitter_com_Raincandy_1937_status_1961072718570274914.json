@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960850789699584000"
+      ],
+      "media_source_tweet_id": [
+        "1960926315613446470"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1961072718570274914",
+    "created_at": "2025-08-28T14:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T15:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961072718570274914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IbD50coi9X",
+          "end": 48,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1960926315613446470/photo/1",
+          "media_key": "3_1960850789699584000",
+          "start": 25,
+          "url": "https://t.co/IbD50coi9X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961072718570274914",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960926315613446470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 网友投稿 https://t.co/IbD50coi9X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 378,
+        "media_key": "3_1960850789699584000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzZXZ3mWgAA5uE5.png",
+        "width": 812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960850789699584000"
+          ],
+          "media_source_tweet_id": [
+            "1960926315613446470"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1961072718570274914",
+        "created_at": "2025-08-28T14:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T15:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961072718570274914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IbD50coi9X",
+              "end": 48,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1960926315613446470/photo/1",
+              "media_key": "3_1960850789699584000",
+              "start": 25,
+              "url": "https://t.co/IbD50coi9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961072718570274914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960926315613446470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 网友投稿 https://t.co/IbD50coi9X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960850789699584000"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1960926315613446470",
+        "created_at": "2025-08-28T04:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T05:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960926315613446470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IbD50coi9X",
+              "end": 28,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1960926315613446470/photo/1",
+              "media_key": "3_1960850789699584000",
+              "start": 5,
+              "url": "https://t.co/IbD50coi9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960926315613446470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 184978,
+          "like_count": 1022,
+          "quote_count": 15,
+          "reply_count": 110,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿 https://t.co/IbD50coi9X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 1258,
+          "like_count": 9447,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 4915
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086332,
+          "following_count": 982,
+          "like_count": 8001,
+          "listed_count": 8288,
+          "media_count": 34046,
+          "tweet_count": 40810
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

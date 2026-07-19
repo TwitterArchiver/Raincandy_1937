@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995971599447511040",
+        "3_1995972390598160386",
+        "3_1995972400823894016",
+        "3_1995972409560539136"
+      ],
+      "media_source_tweet_id": [
+        "1996014018285433277",
+        "1996014018285433277",
+        "1996014018285433277",
+        "1996014018285433277"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1996274053259370614",
+    "created_at": "2025-12-03T17:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T18:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996274053259370614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EocUt5qTgy",
+          "end": 112,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1996014018285433277/photo/1",
+          "media_key": "3_1995971599447511040",
+          "start": 89,
+          "url": "https://t.co/EocUt5qTgy"
+        },
+        {
+          "display_url": "pic.x.com/EocUt5qTgy",
+          "end": 112,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1996014018285433277/photo/1",
+          "media_key": "3_1995972390598160386",
+          "start": 89,
+          "url": "https://t.co/EocUt5qTgy"
+        },
+        {
+          "display_url": "pic.x.com/EocUt5qTgy",
+          "end": 112,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1996014018285433277/photo/1",
+          "media_key": "3_1995972400823894016",
+          "start": 89,
+          "url": "https://t.co/EocUt5qTgy"
+        },
+        {
+          "display_url": "pic.x.com/EocUt5qTgy",
+          "end": 112,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1996014018285433277/photo/1",
+          "media_key": "3_1995972409560539136",
+          "start": 89,
+          "url": "https://t.co/EocUt5qTgy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996274053259370614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 197
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996014018285433277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 12月2日，美团外卖发布新规，禁止骑手对 App 内页面进行截图，一经发现将永久封号处理。\n根据公告内容，已有骑手因违规截图被永久封禁。 https://t.co/EocUt5qTgy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1995971599447511040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7MdmDbWUAAbyie.jpg",
+        "width": 714
+      },
+      {
+        "height": 2556,
+        "media_key": "3_1995972390598160386",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7MeUGsXMAIPsOa.jpg",
+        "width": 3537
+      },
+      {
+        "height": 2036,
+        "media_key": "3_1995972400823894016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7MeUsyXgAAfavf.jpg",
+        "width": 1032
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1995972409560539136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7MeVNVWIAA24sg.jpg",
+        "width": 691
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995971599447511040",
+            "3_1995972390598160386",
+            "3_1995972400823894016",
+            "3_1995972409560539136"
+          ],
+          "media_source_tweet_id": [
+            "1996014018285433277",
+            "1996014018285433277",
+            "1996014018285433277",
+            "1996014018285433277"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1996274053259370614",
+        "created_at": "2025-12-03T17:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T18:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996274053259370614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EocUt5qTgy",
+              "end": 112,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1996014018285433277/photo/1",
+              "media_key": "3_1995971599447511040",
+              "start": 89,
+              "url": "https://t.co/EocUt5qTgy"
+            },
+            {
+              "display_url": "pic.x.com/EocUt5qTgy",
+              "end": 112,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1996014018285433277/photo/1",
+              "media_key": "3_1995972390598160386",
+              "start": 89,
+              "url": "https://t.co/EocUt5qTgy"
+            },
+            {
+              "display_url": "pic.x.com/EocUt5qTgy",
+              "end": 112,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1996014018285433277/photo/1",
+              "media_key": "3_1995972400823894016",
+              "start": 89,
+              "url": "https://t.co/EocUt5qTgy"
+            },
+            {
+              "display_url": "pic.x.com/EocUt5qTgy",
+              "end": 112,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1996014018285433277/photo/1",
+              "media_key": "3_1995972409560539136",
+              "start": 89,
+              "url": "https://t.co/EocUt5qTgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996274053259370614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 197
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996014018285433277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 12月2日，美团外卖发布新规，禁止骑手对 App 内页面进行截图，一经发现将永久封号处理。\n根据公告内容，已有骑手因违规截图被永久封禁。 https://t.co/EocUt5qTgy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995971599447511040",
+            "3_1995972390598160386",
+            "3_1995972400823894016",
+            "3_1995972409560539136"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1996014018285433277",
+        "created_at": "2025-12-03T00:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T01:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996014018285433277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EocUt5qTgy",
+              "end": 92,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1996014018285433277/photo/1",
+              "media_key": "3_1995971599447511040",
+              "start": 69,
+              "url": "https://t.co/EocUt5qTgy"
+            },
+            {
+              "display_url": "pic.x.com/EocUt5qTgy",
+              "end": 92,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1996014018285433277/photo/1",
+              "media_key": "3_1995972390598160386",
+              "start": 69,
+              "url": "https://t.co/EocUt5qTgy"
+            },
+            {
+              "display_url": "pic.x.com/EocUt5qTgy",
+              "end": 92,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1996014018285433277/photo/1",
+              "media_key": "3_1995972400823894016",
+              "start": 69,
+              "url": "https://t.co/EocUt5qTgy"
+            },
+            {
+              "display_url": "pic.x.com/EocUt5qTgy",
+              "end": 92,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1996014018285433277/photo/1",
+              "media_key": "3_1995972409560539136",
+              "start": 69,
+              "url": "https://t.co/EocUt5qTgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996014018285433277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 302,
+          "impression_count": 466245,
+          "like_count": 2320,
+          "quote_count": 10,
+          "reply_count": 177,
+          "retweet_count": 197
+        },
+        "reply_settings": "everyone",
+        "text": "12月2日，美团外卖发布新规，禁止骑手对 App 内页面进行截图，一经发现将永久封号处理。\n根据公告内容，已有骑手因违规截图被永久封禁。 https://t.co/EocUt5qTgy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 1468,
+          "like_count": 12175,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 5694
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1991824796930187302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2151041,
+          "following_count": 981,
+          "like_count": 8396,
+          "listed_count": 8415,
+          "media_count": 38010,
+          "tweet_count": 44898
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

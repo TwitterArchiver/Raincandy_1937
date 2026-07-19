@@ -1,0 +1,306 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1611900414403956736",
+    "created_at": "2023-01-08T07:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2023-01-08T07:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1611988358691196929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1565988119941627905",
+          "start": 0,
+          "username": "BadgalTaffy_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1611988358691196929",
+    "in_reply_to_user_id": "1565988119941627905",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1611900414403956736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BadgalTaffy_ 哪怕脱开对性工作者的歧视，原神也是个烂游戏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1611900414403956736",
+        "created_at": "2023-01-08T07:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-08T07:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1611988358691196929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1565988119941627905",
+              "start": 0,
+              "username": "BadgalTaffy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1611988358691196929",
+        "in_reply_to_user_id": "1565988119941627905",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1611900414403956736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BadgalTaffy_ 哪怕脱开对性工作者的歧视，原神也是个烂游戏"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1611900396376829953",
+            "3_1611900404106948608",
+            "3_1611900409312088064"
+          ]
+        },
+        "author_id": "1565988119941627905",
+        "conversation_id": "1611900414403956736",
+        "created_at": "2023-01-08T01:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-08T02:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1611900414403956736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ikY2y49L3c",
+              "end": 33,
+              "expanded_url": "https://twitter.com/BadgalTaffy_/status/1611900414403956736/photo/1",
+              "media_key": "3_1611900396376829953",
+              "start": 10,
+              "url": "https://t.co/ikY2y49L3c"
+            },
+            {
+              "display_url": "pic.twitter.com/ikY2y49L3c",
+              "end": 33,
+              "expanded_url": "https://twitter.com/BadgalTaffy_/status/1611900414403956736/photo/1",
+              "media_key": "3_1611900404106948608",
+              "start": 10,
+              "url": "https://t.co/ikY2y49L3c"
+            },
+            {
+              "display_url": "pic.twitter.com/ikY2y49L3c",
+              "end": 33,
+              "expanded_url": "https://twitter.com/BadgalTaffy_/status/1611900414403956736/photo/1",
+              "media_key": "3_1611900409312088064",
+              "start": 10,
+              "url": "https://t.co/ikY2y49L3c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1611900414403956736",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我无法理解他的逻辑 https://t.co/ikY2y49L3c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "我们是最后一代。",
+        "id": "1522094771136831488",
+        "location": "Asuka-mura, Nara",
+        "name": "Raincandy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596381435165691904/6s80mveD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 254,
+          "listed_count": 0,
+          "tweet_count": 275
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T09:00:46.000Z",
+        "description": "别取fo我求你了，还有我不是托派",
+        "id": "1565988119941627905",
+        "location": "昭通工人革命造反总司令部",
+        "name": "娜娜米今天吃菠萝包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606097615229026304/EFc2ZSkh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2826,
+          "following_count": 1727,
+          "listed_count": 17,
+          "tweet_count": 5430
+        },
+        "username": "BadgalTaffy_",
+        "verified": false
+      }
+    ]
+  }
+}

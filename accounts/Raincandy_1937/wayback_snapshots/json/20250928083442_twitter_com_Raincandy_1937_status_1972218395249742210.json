@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972164727976742913"
+      ],
+      "media_source_tweet_id": [
+        "1972164734767321249"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1972218395249742210",
+    "created_at": "2025-09-28T08:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T09:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972218395249742210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1674281529852174341",
+          "start": 3,
+          "username": "Frost_SZH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NAI0w2goMU",
+          "end": 38,
+          "expanded_url": "https://x.com/Frost_SZH/status/1972164734767321249/photo/1",
+          "media_key": "3_1972164727976742913",
+          "start": 15,
+          "url": "https://t.co/NAI0w2goMU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972218395249742210",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972164734767321249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Frost_SZH: https://t.co/NAI0w2goMU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1300,
+        "media_key": "3_1972164727976742913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G16JXwGb0AEYYb7.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972164727976742913"
+          ],
+          "media_source_tweet_id": [
+            "1972164734767321249"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1972218395249742210",
+        "created_at": "2025-09-28T08:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T09:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972218395249742210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1674281529852174341",
+              "start": 3,
+              "username": "Frost_SZH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NAI0w2goMU",
+              "end": 38,
+              "expanded_url": "https://x.com/Frost_SZH/status/1972164734767321249/photo/1",
+              "media_key": "3_1972164727976742913",
+              "start": 15,
+              "url": "https://t.co/NAI0w2goMU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972218395249742210",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972164734767321249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Frost_SZH: https://t.co/NAI0w2goMU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972164727976742913"
+          ]
+        },
+        "author_id": "1674281529852174341",
+        "conversation_id": "1972164734767321249",
+        "created_at": "2025-09-28T05:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T06:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972164734767321249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NAI0w2goMU",
+              "end": 23,
+              "expanded_url": "https://x.com/Frost_SZH/status/1972164734767321249/photo/1",
+              "media_key": "3_1972164727976742913",
+              "start": 0,
+              "url": "https://t.co/NAI0w2goMU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972164734767321249",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 14118,
+          "like_count": 398,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NAI0w2goMU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 1361,
+          "like_count": 10436,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 5185
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-29T05:00:12.000Z",
+        "description": "苦批的半个大学生",
+        "id": "1674281529852174341",
+        "location": "Malaysia",
+        "name": "霜在華",
+        "pinned_tweet_id": "1830457791879971281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953915525354205189/3yeNoPX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 953,
+          "like_count": 28819,
+          "listed_count": 4,
+          "media_count": 796,
+          "tweet_count": 6881
+        },
+        "username": "Frost_SZH",
+        "verified": false
+      }
+    ]
+  }
+}

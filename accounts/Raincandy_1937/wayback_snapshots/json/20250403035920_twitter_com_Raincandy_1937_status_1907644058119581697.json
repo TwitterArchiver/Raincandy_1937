@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "1907644058119581697",
+    "created_at": "2025-04-03T03:59:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T04:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907644058119581697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "910798559125045248",
+          "start": 3,
+          "username": "majuismail1122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907644058119581697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907494635825455273",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @majuismail1122: 当维吾尔人的种族灭绝不可以在发生地被讨论，只能在中国之外被提及；这本身就是多么可怕的国家恐怖主义？\n那么，还有那些群体的惨遇不可以在你所身处的地方被提及呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1907644058119581697",
+        "created_at": "2025-04-03T03:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T04:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907644058119581697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "910798559125045248",
+              "start": 3,
+              "username": "majuismail1122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907644058119581697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907494635825455273",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @majuismail1122: 当维吾尔人的种族灭绝不可以在发生地被讨论，只能在中国之外被提及；这本身就是多么可怕的国家恐怖主义？\n那么，还有那些群体的惨遇不可以在你所身处的地方被提及呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "910798559125045248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1907494635825455273",
+        "created_at": "2025-04-02T18:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T19:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907494635825455273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zona0320/statu…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/zona0320/status/1907280013524963765",
+              "start": 79,
+              "url": "https://t.co/kqTSQ3CeXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907494635825455273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3381,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907280013524963765",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当维吾尔人的种族灭绝不可以在发生地被讨论，只能在中国之外被提及；这本身就是多么可怕的国家恐怖主义？\n那么，还有那些群体的惨遇不可以在你所身处的地方被提及呢？ https://t.co/kqTSQ3CeXw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 980,
+          "like_count": 7441,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 3851
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-21T09:31:13.000Z",
+        "description": "伊斯兰价值坚守者，尊重自由抉择权🌈、女权主义、没有国籍的流浪者，今日大地的祖国是天山和🇵🇸；私信一般看不到；留言带脏字儿，管你是谁就拉黑。油管：https://t.co/AYh2BDPWfT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCEB68…",
+                "end": 95,
+                "expanded_url": "https://youtube.com/channel/UCEB68eRJ0bZNpUvafnfjaiw?si=-CWTLB9ttOBVPcGC",
+                "start": 72,
+                "url": "https://t.co/AYh2BDPWfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/freeismailjuma…",
+                "end": 23,
+                "expanded_url": "https://t.me/freeismailjuma1122",
+                "start": 0,
+                "url": "https://t.co/sMWB4bQEuo"
+              }
+            ]
+          }
+        },
+        "id": "910798559125045248",
+        "location": "New York, USA",
+        "name": "马聚",
+        "pinned_tweet_id": "1625198395844399109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1135971292593709057/6W30yfQ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103206,
+          "following_count": 1501,
+          "like_count": 76438,
+          "listed_count": 296,
+          "media_count": 5005,
+          "tweet_count": 34691
+        },
+        "url": "https://t.co/sMWB4bQEuo",
+        "username": "majuismail1122",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2027417431090806843",
+    "created_at": "2026-02-27T16:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T17:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027417431090806843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1646433542661115904",
+          "start": 3,
+          "username": "Lanyinwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027417431090806843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027286223438401990",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lanyinwu: 感觉你是那种对留守儿童炫耀自己家庭美满的人，感觉你是那种在贫困户旁说幸好自己没这么穷的人，感觉你是那种别人刚分手就过去秀恩爱的人，感觉你是那种看到精神病患者情绪低落就说理解不了劝他想死就赶紧死的人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2027417431090806843",
+        "created_at": "2026-02-27T16:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027417431090806843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1646433542661115904",
+              "start": 3,
+              "username": "Lanyinwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027417431090806843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027286223438401990",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lanyinwu: 感觉你是那种对留守儿童炫耀自己家庭美满的人，感觉你是那种在贫困户旁说幸好自己没这么穷的人，感觉你是那种别人刚分手就过去秀恩爱的人，感觉你是那种看到精神病患者情绪低落就说理解不了劝他想死就赶紧死的人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646433542661115904",
+        "conversation_id": "2027286223438401990",
+        "created_at": "2026-02-27T07:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027286223438401990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027286223438401990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5584,
+          "like_count": 140,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "感觉你是那种对留守儿童炫耀自己家庭美满的人，感觉你是那种在贫困户旁说幸好自己没这么穷的人，感觉你是那种别人刚分手就过去秀恩爱的人，感觉你是那种看到精神病患者情绪低落就说理解不了劝他想死就赶紧死的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 1564,
+          "like_count": 13529,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 6230
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T08:42:08.000Z",
+        "description": "动物园园长",
+        "id": "1646433542661115904",
+        "name": "盛予",
+        "pinned_tweet_id": "2023435012025299427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945455357427400704/VCxXs25A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28272,
+          "following_count": 8,
+          "like_count": 3560,
+          "listed_count": 54,
+          "media_count": 175,
+          "tweet_count": 2166
+        },
+        "username": "Lanyinwu",
+        "verified": false
+      }
+    ]
+  }
+}

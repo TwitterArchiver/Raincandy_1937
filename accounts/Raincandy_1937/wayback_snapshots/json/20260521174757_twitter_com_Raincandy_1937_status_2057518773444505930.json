@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057518610885771264"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057518773444505930",
+    "created_at": "2026-05-21T17:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T18:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057518773444505930"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/s6HkVstEs1",
+          "end": 47,
+          "expanded_url": "https://x.com/Raincandy_1937/status/2057518773444505930/photo/1",
+          "media_key": "3_2057518610885771264",
+          "start": 24,
+          "url": "https://t.co/s6HkVstEs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057518773444505930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "動畫糖看多了導致現在看原作文案有種莫名的詭異感 https://t.co/s6HkVstEs1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 411,
+        "media_key": "3_2057518610885771264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3GRoCaAAA2qc_.png",
+        "width": 607
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057518610885771264"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057518773444505930",
+        "created_at": "2026-05-21T17:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T18:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057518773444505930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s6HkVstEs1",
+              "end": 47,
+              "expanded_url": "https://x.com/Raincandy_1937/status/2057518773444505930/photo/1",
+              "media_key": "3_2057518610885771264",
+              "start": 24,
+              "url": "https://t.co/s6HkVstEs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057518773444505930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "動畫糖看多了導致現在看原作文案有種莫名的詭異感 https://t.co/s6HkVstEs1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 1680,
+          "like_count": 15481,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 6858
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

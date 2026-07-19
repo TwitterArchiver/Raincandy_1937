@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2062591981386444992",
+    "created_at": "2026-06-04T17:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T18:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062591981386444992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1493107305402888192",
+          "start": 3,
+          "username": "nononin08292082"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062591981386444992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062488696046420298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nononin08292082: 原來第一个太空人又是女性：波琳娜·加加林娜。因为返回地球失敗而犧牲，她连存在都被抹去了。榮譽又归于莮人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2062591981386444992",
+        "created_at": "2026-06-04T17:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062591981386444992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1493107305402888192",
+              "start": 3,
+              "username": "nononin08292082"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062591981386444992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062488696046420298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nononin08292082: 原來第一个太空人又是女性：波琳娜·加加林娜。因为返回地球失敗而犧牲，她连存在都被抹去了。榮譽又归于莮人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493107305402888192",
+        "conversation_id": "2062488696046420298",
+        "created_at": "2026-06-04T10:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062488696046420298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huiying72067/s…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/huiying72067/status/2062233224986935561",
+              "start": 53,
+              "url": "https://t.co/RMwpxIhJSU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062488696046420298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1998,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062233224986935561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原來第一个太空人又是女性：波琳娜·加加林娜。因为返回地球失敗而犧牲，她连存在都被抹去了。榮譽又归于莮人。 https://t.co/RMwpxIhJSU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062390090383675392/ildwCzDS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 1719,
+          "like_count": 16353,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 7127
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-14T06:19:04.000Z",
+        "description": "",
+        "id": "1493107305402888192",
+        "name": "no",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991049881927233542/JWfaXKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 456,
+          "like_count": 21309,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 3944
+        },
+        "username": "nononin08292082",
+        "verified": false
+      }
+    ]
+  }
+}

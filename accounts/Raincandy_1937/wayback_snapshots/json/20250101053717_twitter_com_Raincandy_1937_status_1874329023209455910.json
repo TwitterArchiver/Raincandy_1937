@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1873658858713075720",
+    "created_at": "2025-01-01T05:37:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-01T06:37:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874329023209455910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312431896270266369",
+          "start": 0,
+          "username": "chuokian912"
+        },
+        {
+          "end": 27,
+          "id": "1815482193327935488",
+          "start": 13,
+          "username": "SOYO_2008_JPN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874329023209455910",
+    "in_reply_to_user_id": "1312431896270266369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874039041773232607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuokian912 @SOYO_2008_JPN 啊呀，骇死我力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1873658858713075720",
+        "created_at": "2025-01-01T05:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T06:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874329023209455910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1312431896270266369",
+              "start": 0,
+              "username": "chuokian912"
+            },
+            {
+              "end": 27,
+              "id": "1815482193327935488",
+              "start": 13,
+              "username": "SOYO_2008_JPN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874329023209455910",
+        "in_reply_to_user_id": "1312431896270266369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874039041773232607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuokian912 @SOYO_2008_JPN 啊呀，骇死我力"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874039038572978180"
+          ]
+        },
+        "author_id": "1312431896270266369",
+        "conversation_id": "1873658858713075720",
+        "created_at": "2024-12-31T10:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T11:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874039041773232607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1522094771136831488",
+              "start": 0,
+              "username": "Raincandy_1937"
+            },
+            {
+              "end": 30,
+              "id": "1815482193327935488",
+              "start": 16,
+              "username": "SOYO_2008_JPN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBjTYCWvsG",
+              "end": 54,
+              "expanded_url": "https://x.com/chuokian912/status/1874039041773232607/photo/1",
+              "media_key": "3_1874039038572978180",
+              "start": 31,
+              "url": "https://t.co/bBjTYCWvsG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874039041773232607",
+        "in_reply_to_user_id": "1522094771136831488",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 371,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873683991150366964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raincandy_1937 @SOYO_2008_JPN https://t.co/bBjTYCWvsG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 619,
+          "like_count": 4394,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 2285
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-03T16:38:54.000Z",
+        "description": "hi",
+        "id": "1312431896270266369",
+        "name": "chu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1312432086876221441/Db2QpevB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 1861,
+          "like_count": 3091,
+          "listed_count": 25,
+          "media_count": 16,
+          "tweet_count": 132
+        },
+        "username": "chuokian912",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T20:21:15.000Z",
+        "description": "o_O",
+        "id": "1815482193327935488",
+        "location": "东京都（开封府）",
+        "name": "长崎素世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867739756458627072/R-Ok1exc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 104,
+          "like_count": 3041,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 435
+        },
+        "username": "SOYO_2008_JPN",
+        "verified": false
+      }
+    ]
+  }
+}

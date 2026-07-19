@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928465726177964032"
+      ],
+      "media_source_tweet_id": [
+        "1928465729218613427"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1928773852445753585",
+    "created_at": "2025-05-31T11:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T12:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928773852445753585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1552308324338749440",
+          "start": 3,
+          "username": "UltimateOne_Arc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v6MApVVOvG",
+          "end": 44,
+          "expanded_url": "https://x.com/UltimateOne_Arc/status/1928465729218613427/photo/1",
+          "media_key": "3_1928465726177964032",
+          "start": 21,
+          "url": "https://t.co/v6MApVVOvG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928773852445753585",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928465729218613427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UltimateOne_Arc: https://t.co/v6MApVVOvG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1424,
+        "media_key": "3_1928465726177964032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsNJXEpacAAxtWq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928465726177964032"
+          ],
+          "media_source_tweet_id": [
+            "1928465729218613427"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1928773852445753585",
+        "created_at": "2025-05-31T11:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T12:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928773852445753585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1552308324338749440",
+              "start": 3,
+              "username": "UltimateOne_Arc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v6MApVVOvG",
+              "end": 44,
+              "expanded_url": "https://x.com/UltimateOne_Arc/status/1928465729218613427/photo/1",
+              "media_key": "3_1928465726177964032",
+              "start": 21,
+              "url": "https://t.co/v6MApVVOvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928773852445753585",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928465729218613427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UltimateOne_Arc: https://t.co/v6MApVVOvG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928465726177964032"
+          ]
+        },
+        "author_id": "1552308324338749440",
+        "conversation_id": "1928465729218613427",
+        "created_at": "2025-05-30T14:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T15:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928465729218613427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v6MApVVOvG",
+              "end": 23,
+              "expanded_url": "https://x.com/UltimateOne_Arc/status/1928465729218613427/photo/1",
+              "media_key": "3_1928465726177964032",
+              "start": 0,
+              "url": "https://t.co/v6MApVVOvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928465729218613427",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 33361,
+          "like_count": 548,
+          "quote_count": 8,
+          "reply_count": 25,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/v6MApVVOvG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 1125,
+          "like_count": 8373,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 4308
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T15:02:10.000Z",
+        "description": "本号的存在目的就是瞎骂解压",
+        "id": "1552308324338749440",
+        "location": "Brunestud",
+        "name": "老公姐我愿意把我的双头龙分你一半",
+        "pinned_tweet_id": "1916513282518659298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910593128865943552/lZJZE2Jn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1499,
+          "following_count": 1308,
+          "like_count": 44596,
+          "listed_count": 7,
+          "media_count": 1679,
+          "tweet_count": 19817
+        },
+        "username": "UltimateOne_Arc",
+        "verified": false
+      }
+    ]
+  }
+}

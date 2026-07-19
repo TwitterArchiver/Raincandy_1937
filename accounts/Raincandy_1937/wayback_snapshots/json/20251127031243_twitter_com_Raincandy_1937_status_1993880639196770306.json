@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1993880639196770306",
+    "created_at": "2025-11-27T03:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T04:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993880639196770306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "111942564",
+          "start": 3,
+          "username": "boiledwater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993880639196770306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993773511727567339",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boiledwater: 作为中国人，我想提醒一下我同胞：\n\n在香港这样的大灾难面前，请管好自己的嘴。\n\n此时此刻，最起码的同情与沉默，都比那些打着“科普”、“技术分析”名义的自以为是更重要。\n\n别忘了过去这些年我们是站在加害者的位置。别忘了我们欠香港很多。\n\n哪怕真的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1993880639196770306",
+        "created_at": "2025-11-27T03:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T04:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993880639196770306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "111942564",
+              "start": 3,
+              "username": "boiledwater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993880639196770306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993773511727567339",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @boiledwater: 作为中国人，我想提醒一下我同胞：\n\n在香港这样的大灾难面前，请管好自己的嘴。\n\n此时此刻，最起码的同情与沉默，都比那些打着“科普”、“技术分析”名义的自以为是更重要。\n\n别忘了过去这些年我们是站在加害者的位置。别忘了我们欠香港很多。\n\n哪怕真的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "111942564",
+        "conversation_id": "1993773511727567339",
+        "created_at": "2025-11-26T20:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T21:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993773511727567339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993773511727567339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 34062,
+          "like_count": 451,
+          "quote_count": 8,
+          "reply_count": 252,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "作为中国人，我想提醒一下我同胞：\n\n在香港这样的大灾难面前，请管好自己的嘴。\n\n此时此刻，最起码的同情与沉默，都比那些打着“科普”、“技术分析”名义的自以为是更重要。\n\n别忘了过去这些年我们是站在加害者的位置。别忘了我们欠香港很多。\n\n哪怕真的没有恶意，在这种时候谨言慎行也是最低限度的善良。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 1448,
+          "like_count": 11919,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 5608
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-06T17:49:59.000Z",
+        "description": "打破原生家庭之环的人，只能是你自己。",
+        "id": "111942564",
+        "location": "Stockholm, Sverige",
+        "name": "Jess",
+        "pinned_tweet_id": "1940516537993252971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983445356277841920/TJ0mJFDl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42699,
+          "following_count": 1745,
+          "like_count": 31725,
+          "listed_count": 152,
+          "media_count": 5058,
+          "tweet_count": 38561
+        },
+        "username": "boiledwater",
+        "verified": true
+      }
+    ]
+  }
+}

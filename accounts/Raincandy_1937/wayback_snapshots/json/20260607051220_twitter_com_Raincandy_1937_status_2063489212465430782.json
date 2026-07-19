@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2063489212465430782",
+    "created_at": "2026-06-07T05:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T06:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063489212465430782"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2063486107434746288",
+          "start": 18,
+          "url": "https://t.co/3BMOHhJsTQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063489212465430782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063486107434746288",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然後這些傻屌盤盤以為都是女權搞的😅 https://t.co/3BMOHhJsTQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 432,
+        "media_key": "3_2063257120494227456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIpa2NakAAZ9KP.jpg",
+        "width": 1841
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063257142761869312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIpcJKb0AAogOC.jpg",
+        "width": 942
+      },
+      {
+        "height": 425,
+        "media_key": "3_2063257142698913792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIpcI7bMAAWge4.jpg",
+        "width": 635
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063257142707232768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIpcI9aIAAa0sy.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2063489212465430782",
+        "created_at": "2026-06-07T05:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063489212465430782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2063486107434746288",
+              "start": 18,
+              "url": "https://t.co/3BMOHhJsTQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063489212465430782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063486107434746288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然後這些傻屌盤盤以為都是女權搞的😅 https://t.co/3BMOHhJsTQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063257120494227456",
+            "3_2063257142761869312",
+            "3_2063257142698913792",
+            "3_2063257142707232768"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063486107434746288",
+        "created_at": "2026-06-07T05:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063486107434746288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uzSEdDpuNe",
+              "end": 159,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2063486107434746288/photo/1",
+              "media_key": "3_2063257120494227456",
+              "start": 136,
+              "url": "https://t.co/uzSEdDpuNe"
+            },
+            {
+              "display_url": "pic.x.com/uzSEdDpuNe",
+              "end": 159,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2063486107434746288/photo/1",
+              "media_key": "3_2063257142761869312",
+              "start": 136,
+              "url": "https://t.co/uzSEdDpuNe"
+            },
+            {
+              "display_url": "pic.x.com/uzSEdDpuNe",
+              "end": 159,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2063486107434746288/photo/1",
+              "media_key": "3_2063257142698913792",
+              "start": 136,
+              "url": "https://t.co/uzSEdDpuNe"
+            },
+            {
+              "display_url": "pic.x.com/uzSEdDpuNe",
+              "end": 159,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2063486107434746288/photo/1",
+              "media_key": "3_2063257142707232768",
+              "start": 136,
+              "url": "https://t.co/uzSEdDpuNe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063486107434746288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "国服《游戏王》卡名“鲜花”“蜡烛””坦克““64”“37“因六四联想被修改\n\n近日，网易代理的国服《游戏王：决斗链接》被玩家发现修改了多张卡牌名称。\n\n“鲜花女男爵”被改成“锦簇女男爵”，“魔神仪-蜡烛人偶”被改成“魔神仪-红泪人偶”，“科技属 坦克幼虫”被改成“科技属 甲壳车幼虫”，卡名中的数字“64”“37”被直接删除。解包文件中卡牌编号“89”也被删除。\n\n这些修改与敏感词审查有关：“鲜花”“蜡烛”“坦克”以及“64”“37”“89”等词汇可能被认为会引发六四相关联想，其中“37”对应今年六四37周年。\n\n有网友尝试发送“37周年”时，被提示“输入内容包含敏感词汇”，最终该用户账号也被封禁\n\n在公开讨论中，一些只看到“鲜花女男爵”被改名的网友去询问AI，AI给出了“鲜花女”可能是“捞女”含义的解释，随后这一说法被部分玩家传播。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2687,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "国服《游戏王》卡名“鲜花”“蜡烛””坦克““64”“37“因六四联想被修改\n\n近日，网易代理的国服《游戏王：决斗链接》被玩家发现修改了多张卡牌名称。\n\n“鲜花女男爵”被改成“锦簇女男爵”，“魔神仪-蜡烛人偶”被改成“魔神仪-红泪人偶”，“科技属 坦克幼虫”被改成“科技属 https://t.co/uzSEdDpuNe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 1726,
+          "like_count": 16473,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 7174
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235864,
+          "following_count": 1070,
+          "like_count": 9640,
+          "listed_count": 8794,
+          "media_count": 48076,
+          "tweet_count": 55227
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

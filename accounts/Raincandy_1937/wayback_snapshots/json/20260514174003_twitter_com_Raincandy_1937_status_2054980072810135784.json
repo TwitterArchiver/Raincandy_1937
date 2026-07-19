@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1441472383211114515",
+          "name": "Stuffed toys"
+        }
+      }
+    ],
+    "conversation_id": "2054980072810135784",
+    "created_at": "2026-05-14T17:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T18:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054980072810135784"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bushi_prize/st…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/bushi_prize/status/2054471753406337142",
+          "start": 30,
+          "url": "https://t.co/gzOIBUtxHO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054980072810135784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054471753406337142",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天要介紹的SCP是這個！\n擁有之後就能變幸福的神奇玩偶！ https://t.co/gzOIBUtxHO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2054381874437566464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIKhbiLaMAAKvYh.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "2054980072810135784",
+        "created_at": "2026-05-14T17:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054980072810135784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bushi_prize/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/bushi_prize/status/2054471753406337142",
+              "start": 30,
+              "url": "https://t.co/gzOIBUtxHO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054980072810135784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054471753406337142",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天要介紹的SCP是這個！\n擁有之後就能變幸福的神奇玩偶！ https://t.co/gzOIBUtxHO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054381874437566464"
+          ]
+        },
+        "author_id": "1894648135596871686",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "2054471753406337142",
+        "created_at": "2026-05-13T08:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054471753406337142"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "ニディガ"
+            },
+            {
+              "end": 119,
+              "start": 113,
+              "tag": "ぷちっしゅ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ブシロードプライズの景品情報をお届けします。",
+              "display_url": "prize.bushiroad-creative.com/product/10459/",
+              "end": 156,
+              "expanded_url": "https://prize.bushiroad-creative.com/product/10459/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2054601543807025152/g3Kyx-Yu?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2054601543807025152/g3Kyx-Yu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 133,
+              "status": 404,
+              "title": "ぷちっしゅ！　NEEDY GIRL OVERDOSE｜景品情報｜ブシロードプライズ公式サイト",
+              "unwound_url": "https://prize.bushiroad-creative.com/product/10459/",
+              "url": "https://t.co/WgP8zHM6O8"
+            },
+            {
+              "display_url": "pic.x.com/o3Ee0inbqk",
+              "end": 188,
+              "expanded_url": "https://x.com/bushi_prize/status/2054471753406337142/photo/1",
+              "media_key": "3_2054381874437566464",
+              "start": 165,
+              "url": "https://t.co/o3Ee0inbqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054471753406337142",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 955,
+          "impression_count": 173589,
+          "like_count": 7080,
+          "quote_count": 331,
+          "reply_count": 9,
+          "retweet_count": 1339
+        },
+        "reply_settings": "everyone",
+        "text": "📣新着プライズ情報！\n✦・┈┈┈┈┈┈┈┈┈┈┈・✦\n　　ぷちっしゅ！　\n　　NEEDY GIRL OVERDOSE\n✦・┈┈┈┈┈┈┈┈┈┈┈・✦\n\n#ニディガ のキャラクターが\nおめめぱっちりの”ぷち”サイズぬいぐるみ\n「#ぷちっしゅ！」に✨\n\n▼詳細はこちら\nhttps://t.co/WgP8zHM6O8\n\nお楽しみに♡ https://t.co/o3Ee0inbqk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 1663,
+          "like_count": 15197,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 6792
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T07:19:16.000Z",
+        "description": "ブシロードクリエイティブが展開するプライズ(クレーンゲーム専用景品)の情報を発信する公式アカウントです。\n最新のプライズ情報やキャンペーンなどの発信を行います！\n#たいにぃぎふと　#ぷちっしゅ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "たいにぃぎふと"
+              },
+              {
+                "end": 96,
+                "start": 90,
+                "tag": "ぷちっしゅ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "prize.bushiroad-creative.com",
+                "end": 23,
+                "expanded_url": "https://prize.bushiroad-creative.com/",
+                "start": 0,
+                "url": "https://t.co/UGDnQpoOja"
+              }
+            ]
+          }
+        },
+        "id": "1894648135596871686",
+        "name": "ブシロードプライズ",
+        "pinned_tweet_id": "2049035933350265122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899773113191014400/rfF-kC7D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22437,
+          "following_count": 19,
+          "like_count": 178,
+          "listed_count": 35,
+          "media_count": 357,
+          "tweet_count": 594
+        },
+        "url": "https://t.co/UGDnQpoOja",
+        "username": "bushi_prize",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1904104719984791934",
+    "created_at": "2025-03-25T02:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T03:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904363650061930725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1843319670138720256",
+          "start": 0,
+          "username": "WangPu90983"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904363650061930725",
+    "in_reply_to_user_id": "1843319670138720256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904104719984791934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WangPu90983 泥豪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1904104719984791934",
+        "created_at": "2025-03-25T02:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T03:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904363650061930725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1843319670138720256",
+              "start": 0,
+              "username": "WangPu90983"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904363650061930725",
+        "in_reply_to_user_id": "1843319670138720256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904104719984791934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WangPu90983 泥豪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843319670138720256",
+        "conversation_id": "1904104719984791934",
+        "created_at": "2025-03-24T09:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T10:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904104719984791934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904104719984791934",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 682,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好累啊今天\n此文底下留句话我一定回你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 938,
+          "like_count": 6892,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 3599
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T15:57:24.000Z",
+        "description": "大家好 来找我说话",
+        "id": "1843319670138720256",
+        "location": "自己猜吧",
+        "name": "玻璃鱼_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878403926355255296/O91yAHUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 424,
+          "like_count": 2622,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 112
+        },
+        "username": "WangPu90983",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to Foreign Relation in Japan 日本の外交に関する会話",
+          "id": "1144330382864556032",
+          "name": "Japanese Foreign Relation "
+        }
+      }
+    ],
+    "conversation_id": "2004093065456505182",
+    "created_at": "2025-12-25T07:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T08:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004093065456505182"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 78,
+          "normalized_text": "日本企業",
+          "probability": 0.3967,
+          "start": 75,
+          "type": "Organization"
+        },
+        {
+          "end": 92,
+          "normalized_text": "中国",
+          "probability": 0.5653,
+          "start": 91,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1345333468213874688",
+          "start": 3,
+          "username": "SakunaiHinata"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004093065456505182",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004036505824907334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakunaiHinata: 日中関係悪化のメリット↓\n\n・迷惑中国人団体客が来なくなる、在日中国人も減らせる、中国人による犯罪が減らせる\n・日本企業の中国依存は減らせる\n・中国国内の日本関連の海賊版コンテンツサイトが閉鎖される…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to Foreign Relation in Japan 日本の外交に関する会話",
+              "id": "1144330382864556032",
+              "name": "Japanese Foreign Relation "
+            }
+          }
+        ],
+        "conversation_id": "2004093065456505182",
+        "created_at": "2025-12-25T07:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T08:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004093065456505182"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 78,
+              "normalized_text": "日本企業",
+              "probability": 0.3967,
+              "start": 75,
+              "type": "Organization"
+            },
+            {
+              "end": 92,
+              "normalized_text": "中国",
+              "probability": 0.5653,
+              "start": 91,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1345333468213874688",
+              "start": 3,
+              "username": "SakunaiHinata"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004093065456505182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004036505824907334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakunaiHinata: 日中関係悪化のメリット↓\n\n・迷惑中国人団体客が来なくなる、在日中国人も減らせる、中国人による犯罪が減らせる\n・日本企業の中国依存は減らせる\n・中国国内の日本関連の海賊版コンテンツサイトが閉鎖される…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1345333468213874688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to Foreign Relation in Japan 日本の外交に関する会話",
+              "id": "1144330382864556032",
+              "name": "Japanese Foreign Relation "
+            }
+          }
+        ],
+        "conversation_id": "2004036505824907334",
+        "created_at": "2025-12-25T03:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T04:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004036505824907334"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 59,
+              "normalized_text": "日本企業",
+              "probability": 0.3997,
+              "start": 56,
+              "type": "Organization"
+            },
+            {
+              "end": 73,
+              "normalized_text": "中国",
+              "probability": 0.573,
+              "start": 72,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004036505824907334",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "日中関係悪化のメリット↓\n\n・迷惑中国人団体客が来なくなる、在日中国人も減らせる、中国人による犯罪が減らせる\n・日本企業の中国依存は減らせる\n・中国国内の日本関連の海賊版コンテンツサイトが閉鎖される\n・中国企業は日本でのシェアが無くなり、日本から撤退もあり得る、日本の製造業が再起しやすい\n・台湾及びその他親日国や西側諸国との交流は多くなる\n・日本国内の中国人スパイが摘発されしやすくなる\n・中国への無駄なODAや技術供与が止める\n\n日中関係悪化のデメリット↓\n\nほぼない"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 319,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日中関係悪化のメリット↓\n\n・迷惑中国人団体客が来なくなる、在日中国人も減らせる、中国人による犯罪が減らせる\n・日本企業の中国依存は減らせる\n・中国国内の日本関連の海賊版コンテンツサイトが閉鎖される"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998397096031035392/5bZUUqPS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 1530,
+          "like_count": 12868,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 5913
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-02T11:38:04.000Z",
+        "description": "Japanese Railfan // デジタル模型鉄 // 川越市出身非ネイティブ日本人 // 中国漢語母語話者(台湾中文・日本語訛り) // 知中派&親台家 // 日台友好一中一台 //多趣味雑多 // 台派・台湾建国派と連帯 // 反ポリコレ // キャラ設は東津萌米穂姫 // 我不是台灣人",
+        "id": "1345333468213874688",
+        "location": "武蔵共和国高麗郡飯能市",
+        "name": "咲内ひなた",
+        "pinned_tweet_id": "1923294483338142093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980225230376140800/3jNzeU85_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12046,
+          "following_count": 2230,
+          "like_count": 49462,
+          "listed_count": 35,
+          "media_count": 14700,
+          "tweet_count": 31434
+        },
+        "username": "SakunaiHinata",
+        "verified": true
+      }
+    ]
+  }
+}

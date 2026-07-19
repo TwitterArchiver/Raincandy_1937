@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063584991645466624"
+      ],
+      "media_source_tweet_id": [
+        "2063585000902304026"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2064068047938396417",
+    "created_at": "2026-06-08T19:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T20:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064068047938396417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2011405521245634560",
+          "start": 3,
+          "username": "Rimea_Chord"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oHs7eufwp0",
+          "end": 40,
+          "expanded_url": "https://x.com/Rimea_Chord/status/2063585000902304026/photo/1",
+          "media_key": "3_2063584991645466624",
+          "start": 17,
+          "url": "https://t.co/oHs7eufwp0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064068047938396417",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063585000902304026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rimea_Chord: https://t.co/oHs7eufwp0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2063584991645466624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNTndbbAAATy8L.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063584991645466624"
+          ],
+          "media_source_tweet_id": [
+            "2063585000902304026"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2064068047938396417",
+        "created_at": "2026-06-08T19:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T20:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064068047938396417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2011405521245634560",
+              "start": 3,
+              "username": "Rimea_Chord"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oHs7eufwp0",
+              "end": 40,
+              "expanded_url": "https://x.com/Rimea_Chord/status/2063585000902304026/photo/1",
+              "media_key": "3_2063584991645466624",
+              "start": 17,
+              "url": "https://t.co/oHs7eufwp0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064068047938396417",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063585000902304026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rimea_Chord: https://t.co/oHs7eufwp0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063584991645466624"
+          ]
+        },
+        "author_id": "2011405521245634560",
+        "conversation_id": "2063585000902304026",
+        "created_at": "2026-06-07T11:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063585000902304026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oHs7eufwp0",
+              "end": 23,
+              "expanded_url": "https://x.com/Rimea_Chord/status/2063585000902304026/photo/1",
+              "media_key": "3_2063584991645466624",
+              "start": 0,
+              "url": "https://t.co/oHs7eufwp0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063585000902304026",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 304,
+          "impression_count": 846821,
+          "like_count": 4221,
+          "quote_count": 19,
+          "reply_count": 372,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oHs7eufwp0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 1724,
+          "like_count": 16494,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 7184
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T11:50:35.000Z",
+        "description": "GPT @neyu_kaori 重度依赖 ｜ 药罐子｜ 我的钱很好割 ｜ 娘們X ｜ 是甜妹嗎…｜ 生物恐懼 ｜ 轻 亮 薄 灵 空 高 透 清 仙 飘 音声控 ｜ 破碎可爱又大女主的我…\n\n “纵我心若烙铁炽热，亦难融你千尺寒冰”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "neyu_kaori"
+              }
+            ]
+          }
+        },
+        "id": "2011405521245634560",
+        "location": "17km",
+        "name": "柑橘气味 ——【浮生“十三”梦】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059236262574530560/LDaQFvXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 169,
+          "like_count": 2131,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 1666
+        },
+        "username": "Rimea_Chord",
+        "verified": true
+      }
+    ]
+  }
+}

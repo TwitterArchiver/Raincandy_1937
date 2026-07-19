@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1885866063797350428",
+    "created_at": "2025-02-02T07:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T08:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885954358929658286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1573346877080469504",
+          "start": 0,
+          "username": "yuhane8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885954358929658286",
+    "in_reply_to_user_id": "1573346877080469504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885866063797350428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuhane8964 支持批量阉割"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1885866063797350428].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1885866063797350428",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1885866063797350428"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1885866063797350428",
+        "created_at": "2025-02-02T07:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T08:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885954358929658286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1573346877080469504",
+              "start": 0,
+              "username": "yuhane8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885954358929658286",
+        "in_reply_to_user_id": "1573346877080469504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885866063797350428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuhane8964 支持批量阉割"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 699,
+          "like_count": 5365,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 2729
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T16:21:51.000Z",
+        "description": "lesfem/晚期资本主义人人有病，但是织男是病的最重的一群人，支持对织男的正义大屠杀",
+        "id": "1573346877080469504",
+        "location": "织男点进来默认死爹",
+        "name": "夢羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885582686930296833/U-zfKK8X_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 91,
+          "like_count": 6933,
+          "listed_count": 3,
+          "media_count": 126,
+          "tweet_count": 1371
+        },
+        "username": "yuhane8964",
+        "verified": false
+      }
+    ]
+  }
+}

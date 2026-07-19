@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1999878626742067200",
+        "3_1999881115889459200",
+        "3_1999881115927187456",
+        "3_1999881115885289472"
+      ],
+      "media_source_tweet_id": [
+        "2000038043873607941",
+        "2000038043873607941",
+        "2000038043873607941",
+        "2000038043873607941"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2000510171949461611",
+    "created_at": "2025-12-15T10:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T11:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000510171949461611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kC7LDCQoC7",
+          "end": 137,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2000038043873607941/video/1",
+          "media_key": "13_1999878626742067200",
+          "start": 114,
+          "url": "https://t.co/kC7LDCQoC7"
+        },
+        {
+          "display_url": "pic.x.com/kC7LDCQoC7",
+          "end": 137,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2000038043873607941/video/1",
+          "media_key": "3_1999881115889459200",
+          "start": 114,
+          "url": "https://t.co/kC7LDCQoC7"
+        },
+        {
+          "display_url": "pic.x.com/kC7LDCQoC7",
+          "end": 137,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2000038043873607941/video/1",
+          "media_key": "3_1999881115927187456",
+          "start": 114,
+          "url": "https://t.co/kC7LDCQoC7"
+        },
+        {
+          "display_url": "pic.x.com/kC7LDCQoC7",
+          "end": 137,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2000038043873607941/video/1",
+          "media_key": "3_1999881115885289472",
+          "start": 114,
+          "url": "https://t.co/kC7LDCQoC7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000510171949461611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 167
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000038043873607941",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 网友投稿：12月11日，安徽省安庆市岳西县，岳西实验小学正式命名为中国工农红军岳西红军小学，此消息发布后，许多网友在评论区留言：“我绝对会给孩子转学”“立刻转学”“立刻转学，不要犹豫”。 https://t.co/kC7LDCQoC7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10054,
+        "height": 1920,
+        "media_key": "13_1999878626742067200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1999878626742067200/img/ayUJbclQ-BknIvcW.jpg",
+        "public_metrics": {
+          "view_count": 137247
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999878626742067200/vid/avc1/1080x1920/3TtqkAxMW5dwsTT1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999878626742067200/vid/avc1/720x1280/YFhJDEkzORPClxKL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1999878626742067200/pl/mnItgcyWYEewKlA6.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999878626742067200/vid/avc1/320x568/gZ8cIaovBibS-wIJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999878626742067200/vid/avc1/480x852/hBG8RlGVgqidoNmO.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 1223,
+        "media_key": "3_1999881115889459200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8EBR3GaYAA3nC0.jpg",
+        "width": 590
+      },
+      {
+        "height": 1208,
+        "media_key": "3_1999881115927187456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8EBR3PaEAAAvVk.jpg",
+        "width": 590
+      },
+      {
+        "height": 1225,
+        "media_key": "3_1999881115885289472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8EBR3FawAAqGJm.jpg",
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1999878626742067200",
+            "3_1999881115889459200",
+            "3_1999881115927187456",
+            "3_1999881115885289472"
+          ],
+          "media_source_tweet_id": [
+            "2000038043873607941",
+            "2000038043873607941",
+            "2000038043873607941",
+            "2000038043873607941"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000510171949461611",
+        "created_at": "2025-12-15T10:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T11:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000510171949461611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kC7LDCQoC7",
+              "end": 137,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2000038043873607941/video/1",
+              "media_key": "13_1999878626742067200",
+              "start": 114,
+              "url": "https://t.co/kC7LDCQoC7"
+            },
+            {
+              "display_url": "pic.x.com/kC7LDCQoC7",
+              "end": 137,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2000038043873607941/video/1",
+              "media_key": "3_1999881115889459200",
+              "start": 114,
+              "url": "https://t.co/kC7LDCQoC7"
+            },
+            {
+              "display_url": "pic.x.com/kC7LDCQoC7",
+              "end": 137,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2000038043873607941/video/1",
+              "media_key": "3_1999881115927187456",
+              "start": 114,
+              "url": "https://t.co/kC7LDCQoC7"
+            },
+            {
+              "display_url": "pic.x.com/kC7LDCQoC7",
+              "end": 137,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2000038043873607941/video/1",
+              "media_key": "3_1999881115885289472",
+              "start": 114,
+              "url": "https://t.co/kC7LDCQoC7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000510171949461611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 167
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000038043873607941",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 网友投稿：12月11日，安徽省安庆市岳西县，岳西实验小学正式命名为中国工农红军岳西红军小学，此消息发布后，许多网友在评论区留言：“我绝对会给孩子转学”“立刻转学”“立刻转学，不要犹豫”。 https://t.co/kC7LDCQoC7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1999878626742067200",
+            "3_1999881115889459200",
+            "3_1999881115927187456",
+            "3_1999881115885289472"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000038043873607941",
+        "created_at": "2025-12-14T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000038043873607941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kC7LDCQoC7",
+              "end": 117,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2000038043873607941/video/1",
+              "media_key": "13_1999878626742067200",
+              "start": 94,
+              "url": "https://t.co/kC7LDCQoC7"
+            },
+            {
+              "display_url": "pic.x.com/kC7LDCQoC7",
+              "end": 117,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2000038043873607941/video/1",
+              "media_key": "3_1999881115889459200",
+              "start": 94,
+              "url": "https://t.co/kC7LDCQoC7"
+            },
+            {
+              "display_url": "pic.x.com/kC7LDCQoC7",
+              "end": 117,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2000038043873607941/video/1",
+              "media_key": "3_1999881115927187456",
+              "start": 94,
+              "url": "https://t.co/kC7LDCQoC7"
+            },
+            {
+              "display_url": "pic.x.com/kC7LDCQoC7",
+              "end": 117,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2000038043873607941/video/1",
+              "media_key": "3_1999881115885289472",
+              "start": 94,
+              "url": "https://t.co/kC7LDCQoC7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000038043873607941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 268713,
+          "like_count": 1519,
+          "quote_count": 11,
+          "reply_count": 133,
+          "retweet_count": 167
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿：12月11日，安徽省安庆市岳西县，岳西实验小学正式命名为中国工农红军岳西红军小学，此消息发布后，许多网友在评论区留言：“我绝对会给孩子转学”“立刻转学”“立刻转学，不要犹豫”。 https://t.co/kC7LDCQoC7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998397096031035392/5bZUUqPS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 1480,
+          "like_count": 12567,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 5832
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1991824796930187302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998464594226839552/OmoQEWXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2160221,
+          "following_count": 986,
+          "like_count": 8458,
+          "listed_count": 8412,
+          "media_count": 38545,
+          "tweet_count": 45449
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1901555505543160219",
+    "created_at": "2025-03-17T10:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T11:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901577125863596125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809557966229762051",
+          "start": 0,
+          "username": "anananln"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901577125863596125",
+    "in_reply_to_user_id": "1809557966229762051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901576993751343493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anananln 好厉害😯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1901555505543160219",
+        "created_at": "2025-03-17T10:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T11:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901577125863596125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809557966229762051",
+              "start": 0,
+              "username": "anananln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901577125863596125",
+        "in_reply_to_user_id": "1809557966229762051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901576993751343493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anananln 好厉害😯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809557966229762051",
+        "conversation_id": "1901555505543160219",
+        "created_at": "2025-03-17T10:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T11:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901576993751343493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1522094771136831488",
+              "start": 0,
+              "username": "Raincandy_1937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901576993751343493",
+        "in_reply_to_user_id": "1522094771136831488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901576770987393180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raincandy_1937 额会占卜？嘻嘻嘻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 906,
+          "like_count": 6487,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 3346
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T12:00:24.000Z",
+        "description": "安安的碎碎念日记",
+        "id": "1809557966229762051",
+        "name": "安安",
+        "pinned_tweet_id": "1900725786921033865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899627693924085760/CMdkJ3Bu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 54,
+          "like_count": 13300,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1747
+        },
+        "username": "anananln",
+        "verified": false
+      }
+    ]
+  }
+}

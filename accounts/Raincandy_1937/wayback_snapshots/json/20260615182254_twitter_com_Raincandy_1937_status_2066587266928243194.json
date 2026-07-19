@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2066587266928243194",
+    "created_at": "2026-06-15T18:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T19:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066587266928243194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086xe/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/hsn8086xe/status/2066278034379059593",
+          "start": 6,
+          "url": "https://t.co/2XF9fyA58t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066587266928243194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066278034379059593",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也要喝嗎 https://t.co/2XF9fyA58t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_2066278012774187008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzk566bAAATUBy.jpg",
+        "width": 522
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2066587266928243194",
+        "created_at": "2026-06-15T18:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066587266928243194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/2066278034379059593",
+              "start": 6,
+              "url": "https://t.co/2XF9fyA58t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066587266928243194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066278034379059593",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也要喝嗎 https://t.co/2XF9fyA58t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066278012774187008"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2066278034379059593",
+        "created_at": "2026-06-14T21:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T22:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066278034379059593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/boM160Ld9L",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2066278034379059593/photo/1",
+              "media_key": "3_2066278012774187008",
+              "start": 0,
+              "url": "https://t.co/boM160Ld9L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066278034379059593",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 38149,
+          "like_count": 475,
+          "quote_count": 10,
+          "reply_count": 16,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/boM160Ld9L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 1744,
+          "like_count": 16700,
+          "listed_count": 1,
+          "media_count": 224,
+          "tweet_count": 7284
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36450,
+          "following_count": 372,
+          "like_count": 229,
+          "listed_count": 106,
+          "media_count": 15729,
+          "tweet_count": 15812
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

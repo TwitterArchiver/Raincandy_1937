@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039914733546164224"
+      ],
+      "media_source_tweet_id": [
+        "2039914738499592362"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2039992734984077513",
+    "created_at": "2026-04-03T09:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T10:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039992734984077513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1017243072520859648",
+          "start": 3,
+          "username": "Estetism_jp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GBoQjPRwsa",
+          "end": 96,
+          "expanded_url": "https://x.com/Estetism_jp/status/2039914738499592362/photo/1",
+          "media_key": "3_2039914733546164224",
+          "start": 73,
+          "url": "https://t.co/GBoQjPRwsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039992734984077513",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039914738499592362",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Estetism_jp: ルイ＝レオポルド・ボワイー（フランス、1761〜1845）『接吻を交わす二人の若い女』（1790〜1794年） https://t.co/GBoQjPRwsa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2039914733546164224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE87pGka0AA5tyW.jpg",
+        "width": 1312
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039914733546164224"
+          ],
+          "media_source_tweet_id": [
+            "2039914738499592362"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2039992734984077513",
+        "created_at": "2026-04-03T09:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039992734984077513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1017243072520859648",
+              "start": 3,
+              "username": "Estetism_jp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GBoQjPRwsa",
+              "end": 96,
+              "expanded_url": "https://x.com/Estetism_jp/status/2039914738499592362/photo/1",
+              "media_key": "3_2039914733546164224",
+              "start": 73,
+              "url": "https://t.co/GBoQjPRwsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039992734984077513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039914738499592362",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Estetism_jp: ルイ＝レオポルド・ボワイー（フランス、1761〜1845）『接吻を交わす二人の若い女』（1790〜1794年） https://t.co/GBoQjPRwsa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039914733546164224"
+          ]
+        },
+        "author_id": "1017243072520859648",
+        "conversation_id": "2039914738499592362",
+        "created_at": "2026-04-03T03:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T04:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039914738499592362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GBoQjPRwsa",
+              "end": 79,
+              "expanded_url": "https://x.com/Estetism_jp/status/2039914738499592362/photo/1",
+              "media_key": "3_2039914733546164224",
+              "start": 56,
+              "url": "https://t.co/GBoQjPRwsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039914738499592362",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 21772,
+          "like_count": 1038,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "ルイ＝レオポルド・ボワイー（フランス、1761〜1845）『接吻を交わす二人の若い女』（1790〜1794年） https://t.co/GBoQjPRwsa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 1609,
+          "like_count": 14282,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 6556
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-12T03:03:42.000Z",
+        "description": "古今東西の耽美なるモノを蒐集した宝石箱のようなアカウントを目指してます。芸術のための芸術へ。崇高なる美に酔いしれましょう。19世紀〜20世紀初頭の西洋画が中心。中の人（@iskusstvo_shop）の美術書もRPにて紹介。 その他書籍紹介はAmazonアソシエイト・プログラムを利用しています。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 84,
+                "username": "iskusstvo_shop"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "iskusstvo-jp.com",
+                "end": 23,
+                "expanded_url": "https://iskusstvo-jp.com",
+                "start": 0,
+                "url": "https://t.co/4OQrSLn48x"
+              }
+            ]
+          }
+        },
+        "id": "1017243072520859648",
+        "name": "耽美なる絵画とモノ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1017253610323709952/LwWtDgO4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272256,
+          "following_count": 157,
+          "like_count": 2782,
+          "listed_count": 2433,
+          "media_count": 8368,
+          "tweet_count": 26708
+        },
+        "url": "https://t.co/4OQrSLn48x",
+        "username": "Estetism_jp",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966915617338126343"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1966915620014027152",
+    "created_at": "2025-09-13T17:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T18:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966915620014027152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e7H7F6pZhK",
+          "end": 72,
+          "expanded_url": "https://x.com/Raincandy_1937/status/1966915620014027152/photo/1",
+          "media_key": "3_1966915617338126343",
+          "start": 49,
+          "url": "https://t.co/e7H7F6pZhK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966915620014027152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "OMG在粉站刷到一个同人中配的王塚真唯坠楼这段台词是“因为我运气好得没边边”，求同款精神状态真的 https://t.co/e7H7F6pZhK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 451,
+        "media_key": "3_1966915617338126343",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0vjVTKbcAcUjy_.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966915617338126343"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1966915620014027152",
+        "created_at": "2025-09-13T17:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T18:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966915620014027152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e7H7F6pZhK",
+              "end": 72,
+              "expanded_url": "https://x.com/Raincandy_1937/status/1966915620014027152/photo/1",
+              "media_key": "3_1966915617338126343",
+              "start": 49,
+              "url": "https://t.co/e7H7F6pZhK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966915620014027152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "OMG在粉站刷到一个同人中配的王塚真唯坠楼这段台词是“因为我运气好得没边边”，求同款精神状态真的 https://t.co/e7H7F6pZhK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 1316,
+          "like_count": 9881,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 5022
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

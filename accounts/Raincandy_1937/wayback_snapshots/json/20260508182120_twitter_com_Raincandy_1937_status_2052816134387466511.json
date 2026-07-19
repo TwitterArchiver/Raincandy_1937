@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2052816134387466511",
+    "created_at": "2026-05-08T18:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T19:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052816134387466511"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Raincandy_1937…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/Raincandy_1937/status/2052815912890483155",
+          "start": 43,
+          "url": "https://t.co/YaNKXC3fSs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052816134387466511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052815912890483155",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這麽說有點對不起原著但是如果要我選一個主播作爲ta的經紀人我可能會先選美血華也説不定 https://t.co/YaNKXC3fSs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2052816134387466511",
+        "created_at": "2026-05-08T18:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T19:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052816134387466511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Raincandy_1937…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/Raincandy_1937/status/2052815912890483155",
+              "start": 43,
+              "url": "https://t.co/YaNKXC3fSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052816134387466511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052815912890483155",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這麽說有點對不起原著但是如果要我選一個主播作爲ta的經紀人我可能會先選美血華也説不定 https://t.co/YaNKXC3fSs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2052815912890483155",
+        "created_at": "2026-05-08T18:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T19:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052815912890483155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyalra/status/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/nyalra/status/2052609777470210514",
+              "start": 27,
+              "url": "https://t.co/oeEAOQ4PXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052815912890483155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052609777470210514",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這動畫的原創角色也超棒你們懂嗎你們根本不懂我跟你們説 https://t.co/oeEAOQ4PXr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 1626,
+          "like_count": 14845,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 6715
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Fruits",
+          "id": "841969352828112896",
+          "name": "Fruits"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fruits",
+          "id": "841969352828112896",
+          "name": "Fruits"
+        }
+      }
+    ],
+    "conversation_id": "2043056854797029878",
+    "created_at": "2026-04-11T20:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T21:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043056854797029878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1962310590241894400",
+          "start": 3,
+          "username": "meromeromoemoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043056854797029878",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 170
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042193489564438824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @meromeromoemoe: 女の子と女の子の愛を〝レズビアン〟と解釈されると妙な気持ちになるのは、女の子と女の子の愛は摂理的だからなの♡ショートケーキを見てもだれもいちごと生クリームの関係を不自然に思わないみたいに、女の子と女の子の関係は不自然じゃないの♡\nなんにも…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          }
+        ],
+        "conversation_id": "2043056854797029878",
+        "created_at": "2026-04-11T20:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T21:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043056854797029878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1962310590241894400",
+              "start": 3,
+              "username": "meromeromoemoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043056854797029878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 170
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042193489564438824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @meromeromoemoe: 女の子と女の子の愛を〝レズビアン〟と解釈されると妙な気持ちになるのは、女の子と女の子の愛は摂理的だからなの♡ショートケーキを見てもだれもいちごと生クリームの関係を不自然に思わないみたいに、女の子と女の子の関係は不自然じゃないの♡\nなんにも…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962310590241894400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          }
+        ],
+        "conversation_id": "2042193489564438824",
+        "created_at": "2026-04-09T10:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042193489564438824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042193489564438824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 37254,
+          "like_count": 1885,
+          "quote_count": 51,
+          "reply_count": 5,
+          "retweet_count": 170
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "女の子と女の子の愛を〝レズビアン〟と解釈されると妙な気持ちになるのは、女の子と女の子の愛は摂理的だからなの♡ショートケーキを見てもだれもいちごと生クリームの関係を不自然に思わないみたいに、女の子と女の子の関係は不自然じゃないの♡\nなんにも解釈しないでね🍰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 1608,
+          "like_count": 14355,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 6594
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T00:25:06.000Z",
+        "description": "https://t.co/Fpbdiv0PCh 🎀 https://t.co/amMsIhpMKq 🎀 https://t.co/UqcPW5ne3V 🎀 #もえチェキ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 84,
+                "start": 78,
+                "tag": "もえチェキ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "note.com/moemoemeromero",
+                "end": 23,
+                "expanded_url": "http://note.com/moemoemeromero",
+                "start": 0,
+                "url": "https://t.co/Fpbdiv0PCh"
+              },
+              {
+                "display_url": "note.com/meromeromoemoe",
+                "end": 49,
+                "expanded_url": "https://note.com/meromeromoemoe",
+                "start": 26,
+                "url": "https://t.co/amMsIhpMKq"
+              },
+              {
+                "display_url": "Instagram.com/moemoemeromero",
+                "end": 75,
+                "expanded_url": "http://Instagram.com/moemoemeromero",
+                "start": 52,
+                "url": "https://t.co/UqcPW5ne3V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/meromeromoe…",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/meromeromoemoe/",
+                "start": 0,
+                "url": "https://t.co/WYR4k1HfOt"
+              }
+            ]
+          }
+        },
+        "id": "1962310590241894400",
+        "location": "♡インターネットメイド♡",
+        "name": "愛 いちご",
+        "pinned_tweet_id": "1989627505314337179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968554158631596032/JHxvgtnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1872,
+          "following_count": 28,
+          "like_count": 706,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 483
+        },
+        "url": "https://t.co/WYR4k1HfOt",
+        "username": "meromeromoemoe",
+        "verified": false
+      }
+    ]
+  }
+}

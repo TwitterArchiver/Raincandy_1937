@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1913524483429978152",
+    "created_at": "2025-04-19T09:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T10:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913524483429978152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664934625443971077",
+          "start": 3,
+          "username": "orcastactics"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913524483429978152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913523666828116113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @orcastactics: Radical 不要去看中文释义【屌语男贼翻译简直不要太多】，直接去查英文释义，就会发现，最接近的含义是彻底的，我们是要彻底解决问题。你可以说激进，但是激进(是手段)了就能彻底解决问题吗? 做的事情是女本位的，自然而然地就解决问题了吗？我们要…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 693,
+        "media_key": "3_1913523662453354496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go4zofnWMAApV0E.jpg",
+        "width": 1080
+      },
+      {
+        "height": 636,
+        "media_key": "3_1913523660469501952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go4zoYOXAAAiTy_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1913524483429978152",
+        "created_at": "2025-04-19T09:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T10:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913524483429978152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664934625443971077",
+              "start": 3,
+              "username": "orcastactics"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913524483429978152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913523666828116113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @orcastactics: Radical 不要去看中文释义【屌语男贼翻译简直不要太多】，直接去查英文释义，就会发现，最接近的含义是彻底的，我们是要彻底解决问题。你可以说激进，但是激进(是手段)了就能彻底解决问题吗? 做的事情是女本位的，自然而然地就解决问题了吗？我们要…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913523662453354496",
+            "3_1913523660469501952"
+          ]
+        },
+        "author_id": "1664934625443971077",
+        "conversation_id": "1913523666828116113",
+        "created_at": "2025-04-19T09:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T10:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913523666828116113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qwV0hFA15E",
+              "end": 171,
+              "expanded_url": "https://x.com/orcastactics/status/1913523666828116113/photo/1",
+              "media_key": "3_1913523662453354496",
+              "start": 148,
+              "url": "https://t.co/qwV0hFA15E"
+            },
+            {
+              "display_url": "pic.x.com/qwV0hFA15E",
+              "end": 171,
+              "expanded_url": "https://x.com/orcastactics/status/1913523666828116113/photo/1",
+              "media_key": "3_1913523660469501952",
+              "start": 148,
+              "url": "https://t.co/qwV0hFA15E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913523666828116113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Radical 不要去看中文释义【屌语男贼翻译简直不要太多】，直接去查英文释义，就会发现，最接近的含义是彻底的，我们是要彻底解决问题。你可以说激进，但是激进(是手段)了就能彻底解决问题吗? 做的事情是女本位的，自然而然地就解决问题了吗？我们要的还是从根本上解决问题，是彻底地(是目标)解决问题。 https://t.co/qwV0hFA15E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 1056,
+          "like_count": 7975,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 4113
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T09:59:38.000Z",
+        "description": "Radfem, 8b4t+3+5 include anti-sex-based relationship. I’m not here for the fragile — I’m here for the fierce.",
+        "id": "1664934625443971077",
+        "name": "Orcastactics",
+        "pinned_tweet_id": "1912887232316187042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907266456749834240/1-nQwFhG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 125,
+          "like_count": 2434,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 928
+        },
+        "username": "orcastactics",
+        "verified": false
+      }
+    ]
+  }
+}

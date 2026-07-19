@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1970418544837042625",
+    "created_at": "2025-09-23T09:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T10:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970418544837042625"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BeiJing_LV/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/BeiJing_LV/status/1970257535761309825",
+          "start": 15,
+          "url": "https://t.co/cYneiqjde2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970418544837042625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970257535761309825",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在前世一定是犯下了某项重罪 https://t.co/cYneiqjde2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970257528085704704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1fCyG2WcAABhaW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1970418544837042625",
+        "created_at": "2025-09-23T09:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T10:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970418544837042625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BeiJing_LV/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/BeiJing_LV/status/1970257535761309825",
+              "start": 15,
+              "url": "https://t.co/cYneiqjde2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970418544837042625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970257535761309825",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在前世一定是犯下了某项重罪 https://t.co/cYneiqjde2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970257528085704704"
+          ]
+        },
+        "author_id": "1220627112295428096",
+        "conversation_id": "1970257535761309825",
+        "created_at": "2025-09-22T22:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T23:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970257535761309825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jpo0gxFlbW",
+              "end": 71,
+              "expanded_url": "https://x.com/BeiJing_LV/status/1970257535761309825/photo/1",
+              "media_key": "3_1970257528085704704",
+              "start": 48,
+              "url": "https://t.co/jpo0gxFlbW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970257535761309825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3070,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我為什麼不出生在日本？\n我為什麼不出生在韓國？\n我為什麼不出生在法國？\n我為什麼會出生在中國？ https://t.co/jpo0gxFlbW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 1346,
+          "like_count": 10204,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 5122
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-24T08:39:30.000Z",
+        "description": "「一」「天市」「獄門疆」「虛舟之呂」作者 / 個人電子書店 https://t.co/Ldv01VdKvZ / 攝影師 https://t.co/1pNpWmbIAV / 觀念師 油管頻道「北靜 不靜音」不静音派对 & 2084 STUDIO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Bei-Jing.myshopify.com",
+                "end": 53,
+                "expanded_url": "http://Bei-Jing.myshopify.com",
+                "start": 30,
+                "url": "https://t.co/Ldv01VdKvZ"
+              },
+              {
+                "display_url": "Instagram.com/BeiJing_LV",
+                "end": 83,
+                "expanded_url": "http://Instagram.com/BeiJing_LV",
+                "start": 60,
+                "url": "https://t.co/1pNpWmbIAV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "YouTube.com/@BeiJing_LV",
+                "end": 23,
+                "expanded_url": "http://YouTube.com/@BeiJing_LV",
+                "start": 0,
+                "url": "https://t.co/GZFdhuD966"
+              }
+            ]
+          }
+        },
+        "id": "1220627112295428096",
+        "location": "Tian City",
+        "name": "北靜 Bei.Jing",
+        "pinned_tweet_id": "1956132976347242566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910661183155146753/BuUPece2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5741,
+          "following_count": 1139,
+          "like_count": 23956,
+          "listed_count": 29,
+          "media_count": 3828,
+          "tweet_count": 28476
+        },
+        "url": "https://t.co/GZFdhuD966",
+        "username": "BeiJing_LV",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "1902257007173967954",
+    "created_at": "2025-03-19T19:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T20:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902435749192200426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1856869593052237824",
+          "start": 0,
+          "username": "cyberknight4396"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902435749192200426",
+    "in_reply_to_user_id": "1856869593052237824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902257007173967954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyberknight4396 名著跟纯文学还是不能画等，名著看知名度和传世程度，优秀的纯文学不一定传世，传世的不一定是严肃文学，传世的纯文学也不一定是同时代最优。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2195,
+        "media_key": "3_1902256996549881856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmYsqObbcAAZOes.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1902257007173967954",
+        "created_at": "2025-03-19T19:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T20:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902435749192200426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1856869593052237824",
+              "start": 0,
+              "username": "cyberknight4396"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902435749192200426",
+        "in_reply_to_user_id": "1856869593052237824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902257007173967954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyberknight4396 名著跟纯文学还是不能画等，名著看知名度和传世程度，优秀的纯文学不一定传世，传世的不一定是严肃文学，传世的纯文学也不一定是同时代最优。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902256996549881856"
+          ]
+        },
+        "author_id": "1856869593052237824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1902257007173967954",
+        "created_at": "2025-03-19T07:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T08:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902257007173967954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A9IDaG1BTj",
+              "end": 165,
+              "expanded_url": "https://x.com/cyberknight4396/status/1902257007173967954/photo/1",
+              "media_key": "3_1902256996549881856",
+              "start": 142,
+              "url": "https://t.co/A9IDaG1BTj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902257007173967954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1456,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "再说一遍，名著和网文没有明显的分界线\n几百年前下里巴人的东西放现在就是阳春白雪\n\n基督山伯爵男频大男主无脑爽文\n简爱霸道爵爷爱上我，虽然我是出身清贫母父双亡身材矮小的家庭教师，但是贵族老爷不爱同阶级的贵族小姐只爱我\n\n别说远的了近的几十年前的金庸都成名著、文学大家了\n一整个的没区别 https://t.co/A9IDaG1BTj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 915,
+          "like_count": 6591,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 3414
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T01:20:03.000Z",
+        "description": "激进跨权主义｜无政府共产主义｜推翻性别二元｜打倒父亲｜摧毁婚姻制｜极左恐怖分子☠️｜超人类主义👾｜全世界被压迫者联合起来🏳️‍🌈🏳️‍⚧️🏴‍☠️🏴🚩🌐💪🏾🦾🔥🍾｜🧙: @BAnarchistKUNIN｜📡: @Fareastelecommi ｜🌐: @gherojamslava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "BAnarchistKUNIN"
+              },
+              {
+                "end": 121,
+                "start": 105,
+                "username": "Fareastelecommi"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "gherojamslava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/synthetic_dawn",
+                "end": 23,
+                "expanded_url": "https://t.me/synthetic_dawn",
+                "start": 0,
+                "url": "https://t.co/7ojej5TXBN"
+              }
+            ]
+          }
+        },
+        "id": "1856869593052237824",
+        "location": "凯尔·莫罕",
+        "name": "Ⓐ赛博骑士☭ 🗣️瞎骂飞舞💃",
+        "pinned_tweet_id": "1894281590043545783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880706994031714304/b38bVTZb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 341,
+          "like_count": 15285,
+          "listed_count": 5,
+          "media_count": 360,
+          "tweet_count": 6597
+        },
+        "url": "https://t.co/7ojej5TXBN",
+        "username": "cyberknight4396",
+        "verified": false
+      }
+    ]
+  }
+}

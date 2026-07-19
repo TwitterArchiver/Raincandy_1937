@@ -1,0 +1,535 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1492214719792381956",
+          "name": "Uruha Rushia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1492214719792381956",
+          "name": "Uruha Rushia"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1492214719792381956",
+          "name": "Uruha Rushia"
+        }
+      }
+    ],
+    "conversation_id": "2038083324137345331",
+    "created_at": "2026-03-29T02:38:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T03:38:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038083324137345331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "843071863303671808",
+          "start": 3,
+          "username": "YMG_HeroeZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038083324137345331",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037217349644783747",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YMG_HeroeZ: I Just Want My Hololive Queen Uruha Rushia In Hololive Dreams Already, and I Won't Care If She's Really Terminated From Hol…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1385,
+        "media_key": "3_2037216939513110528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWmA0oWYAAg__d.jpg",
+        "width": 1000
+      },
+      {
+        "height": 720,
+        "media_key": "3_2037217020471570432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWmFiOWcAAC5D5.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1492214719792381956",
+              "name": "Uruha Rushia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1492214719792381956",
+              "name": "Uruha Rushia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492214719792381956",
+              "name": "Uruha Rushia"
+            }
+          }
+        ],
+        "conversation_id": "2038083324137345331",
+        "created_at": "2026-03-29T02:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T03:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038083324137345331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "843071863303671808",
+              "start": 3,
+              "username": "YMG_HeroeZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038083324137345331",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037217349644783747",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YMG_HeroeZ: I Just Want My Hololive Queen Uruha Rushia In Hololive Dreams Already, and I Won't Care If She's Really Terminated From Hol…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037216939513110528",
+            "3_2037217020471570432"
+          ]
+        },
+        "author_id": "843071863303671808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1492214719792381956",
+              "name": "Uruha Rushia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1492214719792381956",
+              "name": "Uruha Rushia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492214719792381956",
+              "name": "Uruha Rushia"
+            }
+          }
+        ],
+        "conversation_id": "2037217349644783747",
+        "created_at": "2026-03-26T17:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T18:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037217349644783747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yEHTrlVTTJ",
+              "end": 168,
+              "expanded_url": "https://x.com/YMG_HeroeZ/status/2037217349644783747/photo/1",
+              "media_key": "3_2037216939513110528",
+              "start": 145,
+              "url": "https://t.co/yEHTrlVTTJ"
+            },
+            {
+              "display_url": "pic.x.com/yEHTrlVTTJ",
+              "end": 168,
+              "expanded_url": "https://x.com/YMG_HeroeZ/status/2037217349644783747/photo/1",
+              "media_key": "3_2037217020471570432",
+              "start": 145,
+              "url": "https://t.co/yEHTrlVTTJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037217349644783747",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 21897,
+          "like_count": 338,
+          "quote_count": 6,
+          "reply_count": 20,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "I Just Want My Hololive Queen Uruha Rushia In Hololive Dreams Already, and I Won't Care If She's Really Terminated From Hololive In 4 Years Ago. https://t.co/yEHTrlVTTJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 1597,
+          "like_count": 14139,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 6515
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-18T12:09:30.000Z",
+        "description": "BlazBlue, Hololive, LL, PriPara, Naruto, UNI, Senran Kagura, Re:Stage, DOA, TokiMemo, Gochiusa, Ochifuru, Kinmosa, KoiAs, YuruYuri, D4DJ, exA, STG's and etc.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@YMG_HeroeZ",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@YMG_HeroeZ",
+                "start": 0,
+                "url": "https://t.co/dMbl2OJvkw"
+              }
+            ]
+          }
+        },
+        "id": "843071863303671808",
+        "location": "Turkey",
+        "name": "YMG's World (DOA IS SO FREAKING BACK, BABY!) 🧡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035789806509469696/XeDJm7AF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 5005,
+          "like_count": 415181,
+          "listed_count": 7,
+          "media_count": 10213,
+          "tweet_count": 418345
+        },
+        "url": "https://t.co/dMbl2OJvkw",
+        "username": "YMG_HeroeZ",
+        "verified": false
+      }
+    ]
+  }
+}

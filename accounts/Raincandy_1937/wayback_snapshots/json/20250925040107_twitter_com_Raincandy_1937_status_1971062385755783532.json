@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971062383268462593"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1971062385755783532",
+    "created_at": "2025-09-25T04:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T05:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971062385755783532"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dv1wxvURNV",
+          "end": 41,
+          "expanded_url": "https://x.com/Raincandy_1937/status/1971062385755783532/photo/1",
+          "media_key": "3_1971062383268462593",
+          "start": 18,
+          "url": "https://t.co/Dv1wxvURNV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971062385755783532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卡普空和腾子，我还能再相信你们吗🥲 https://t.co/Dv1wxvURNV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1962,
+        "media_key": "3_1971062383268462593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1qey2DaAAEqxTp.jpg",
+        "width": 1002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971062383268462593"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1971062385755783532",
+        "created_at": "2025-09-25T04:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T05:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971062385755783532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dv1wxvURNV",
+              "end": 41,
+              "expanded_url": "https://x.com/Raincandy_1937/status/1971062385755783532/photo/1",
+              "media_key": "3_1971062383268462593",
+              "start": 18,
+              "url": "https://t.co/Dv1wxvURNV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971062385755783532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卡普空和腾子，我还能再相信你们吗🥲 https://t.co/Dv1wxvURNV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 1355,
+          "like_count": 10318,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 5147
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1938646235088593104",
+    "created_at": "2025-06-27T17:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T18:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938646235088593104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1620741539441045504",
+          "start": 3,
+          "username": "integrallnxcosx"
+        },
+        {
+          "end": 37,
+          "id": "1620367275273633792",
+          "start": 21,
+          "username": "Alina_Medverova"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938646235088593104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938525043073716632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @integrallnxcosx: @Alina_Medverova 真是悖论，刻板印象让男生学理工女孩学文商，最后女孩学了这么长时间历史被爹味男说女人懂个p政治懂个p历史"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1938646235088593104",
+        "created_at": "2025-06-27T17:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T18:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938646235088593104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1620741539441045504",
+              "start": 3,
+              "username": "integrallnxcosx"
+            },
+            {
+              "end": 37,
+              "id": "1620367275273633792",
+              "start": 21,
+              "username": "Alina_Medverova"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938646235088593104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938525043073716632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @integrallnxcosx: @Alina_Medverova 真是悖论，刻板印象让男生学理工女孩学文商，最后女孩学了这么长时间历史被爹味男说女人懂个p政治懂个p历史"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620741539441045504",
+        "conversation_id": "1938476249158193496",
+        "created_at": "2025-06-27T09:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T10:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938525043073716632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620367275273633792",
+              "start": 0,
+              "username": "Alina_Medverova"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938525043073716632",
+        "in_reply_to_user_id": "1620367275273633792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1325,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938476249158193496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alina_Medverova 真是悖论，刻板印象让男生学理工女孩学文商，最后女孩学了这么长时间历史被爹味男说女人懂个p政治懂个p历史"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 1182,
+          "like_count": 8848,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 4585
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T11:11:35.000Z",
+        "description": "AP Econ & Calc teacher",
+        "id": "1620741539441045504",
+        "location": "距您2.9km",
+        "name": "不定积分要➕c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886074161145245696/CNUXsWXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 98,
+          "like_count": 12691,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 460
+        },
+        "username": "integrallnxcosx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T10:24:13.000Z",
+        "description": "Приятно познакомиться...или,  наверное？",
+        "id": "1620367275273633792",
+        "location": "21世纪",
+        "name": "Алина-Медвежова🇫🇮",
+        "pinned_tweet_id": "1938255961363517892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937045943628496896/Zpe_tGkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 1041,
+          "like_count": 37492,
+          "listed_count": 2,
+          "media_count": 519,
+          "tweet_count": 9490
+        },
+        "username": "Alina_Medverova",
+        "verified": false
+      }
+    ]
+  }
+}

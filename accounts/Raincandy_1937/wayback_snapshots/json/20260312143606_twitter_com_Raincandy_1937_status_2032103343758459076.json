@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2032103343758459076",
+    "created_at": "2026-03-12T14:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T15:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032103343758459076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3588057438",
+          "start": 3,
+          "username": "imaginmanchuria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032103343758459076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031855841696235538",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @imaginmanchuria: 牢🀄️的心理学其实是管理学，而且分上册《如何管理》和下册《如何被管》。所有人拿到的都是下册。上册更幽默——牢🀄️的《如何管理》甚至停留在二次工业革命时期拿人填流水线的“泰勒主义”🫠\n\n现代管理最注重心理学和行为学，管理学第一门课就是组织…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2032103343758459076",
+        "created_at": "2026-03-12T14:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T15:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032103343758459076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3588057438",
+              "start": 3,
+              "username": "imaginmanchuria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032103343758459076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031855841696235538",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @imaginmanchuria: 牢🀄️的心理学其实是管理学，而且分上册《如何管理》和下册《如何被管》。所有人拿到的都是下册。上册更幽默——牢🀄️的《如何管理》甚至停留在二次工业革命时期拿人填流水线的“泰勒主义”🫠\n\n现代管理最注重心理学和行为学，管理学第一门课就是组织…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3588057438",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2031855841696235538",
+        "created_at": "2026-03-11T22:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T23:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031855841696235538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suanrongyouyux…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/suanrongyouyuxu/status/2031745227212431690",
+              "start": 146,
+              "url": "https://t.co/5RoOHI5p2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031855841696235538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2034,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031745227212431690",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牢🀄️的心理学其实是管理学，而且分上册《如何管理》和下册《如何被管》。所有人拿到的都是下册。上册更幽默——牢🀄️的《如何管理》甚至停留在二次工业革命时期拿人填流水线的“泰勒主义”🫠\n\n现代管理最注重心理学和行为学，管理学第一门课就是组织行为学，第一堂课就是“人是情绪动物，有情绪天经地义”🙂 https://t.co/5RoOHI5p2o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 1567,
+          "like_count": 13716,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 6349
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-17T00:14:48.000Z",
+        "description": "谁说老毛死了， 我昨天梦见了他。中山装下没有裤衩， 追赶五年计划。｜逃难地：https://t.co/e9mFEgPi0b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "imaginemanchuria.bsky.social",
+                "end": 61,
+                "expanded_url": "http://imaginemanchuria.bsky.social",
+                "start": 38,
+                "url": "https://t.co/e9mFEgPi0b"
+              }
+            ]
+          }
+        },
+        "id": "3588057438",
+        "location": "Japanese Pacific States",
+        "name": "Takeshi🐈Kido",
+        "pinned_tweet_id": "2030774716362015025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583279624615645184/6vj8X9EN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 3467,
+          "like_count": 36194,
+          "listed_count": 10,
+          "media_count": 2840,
+          "tweet_count": 24551
+        },
+        "username": "imaginmanchuria",
+        "verified": false
+      }
+    ]
+  }
+}

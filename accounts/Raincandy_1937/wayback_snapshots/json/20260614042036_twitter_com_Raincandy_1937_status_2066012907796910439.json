@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      }
+    ],
+    "conversation_id": "2066012907796910439",
+    "created_at": "2026-06-14T04:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T05:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066012907796910439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "700669278295498752",
+          "start": 3,
+          "username": "tknhn1234_tknhn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066012907796910439",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 976
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065833882185068827",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tknhn1234_tknhn: アニメ「NEEDY GIRL OVERDOSE」\n\n11話公開記念楽曲\n  『savior sindrome』\nのOfficial MVに\n\n超てんちゃん、あめちゃん一人二役で出演させて頂きました🧬( ⁎ᵕᴗᵕ⁎ )🧬\n\n実写はかなり賛…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 657,
+        "media_key": "3_2065833875788701696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtQ9vtaoAAe6sP.jpg",
+        "width": 1125
+      },
+      {
+        "height": 663,
+        "media_key": "3_2065833875809705984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtQ9vybIAAB85p.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2066012907796910439",
+        "created_at": "2026-06-14T04:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066012907796910439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "700669278295498752",
+              "start": 3,
+              "username": "tknhn1234_tknhn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066012907796910439",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 976
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065833882185068827",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tknhn1234_tknhn: アニメ「NEEDY GIRL OVERDOSE」\n\n11話公開記念楽曲\n  『savior sindrome』\nのOfficial MVに\n\n超てんちゃん、あめちゃん一人二役で出演させて頂きました🧬( ⁎ᵕᴗᵕ⁎ )🧬\n\n実写はかなり賛…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065833875788701696",
+            "3_2065833875809705984"
+          ]
+        },
+        "author_id": "700669278295498752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2065833882185068827",
+        "created_at": "2026-06-13T16:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065833882185068827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U46LuHiml7",
+              "end": 195,
+              "expanded_url": "https://x.com/tknhn1234_tknhn/status/2065833882185068827/photo/1",
+              "media_key": "3_2065833875788701696",
+              "start": 172,
+              "url": "https://t.co/U46LuHiml7"
+            },
+            {
+              "display_url": "pic.x.com/U46LuHiml7",
+              "end": 195,
+              "expanded_url": "https://x.com/tknhn1234_tknhn/status/2065833882185068827/photo/1",
+              "media_key": "3_2065833875809705984",
+              "start": 172,
+              "url": "https://t.co/U46LuHiml7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065833882185068827",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 203,
+                "start": 198,
+                "tag": "ニディガ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtu.be/oxqjzuKjbag?si…",
+                "end": 196,
+                "expanded_url": "https://youtu.be/oxqjzuKjbag?si=S7G7YqAm-XjU9XJr",
+                "start": 173,
+                "url": "https://t.co/47sQCQjRwU"
+              }
+            ]
+          },
+          "text": "アニメ「NEEDY GIRL OVERDOSE」\n\n11話公開記念楽曲\n  『savior sindrome』\nのOfficial MVに\n\n超てんちゃん、あめちゃん一人二役で出演させて頂きました🧬( ⁎ᵕᴗᵕ⁎ )🧬\n\n実写はかなり賛否両論あるかとは思いますが、、、！\nとても素敵なMVに仕上げて頂きましたので、是非ご覧頂けますと幸いです。\n\nhttps://t.co/47sQCQjRwU\n\n#ニディガ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 961,
+          "impression_count": 306993,
+          "like_count": 10216,
+          "quote_count": 127,
+          "reply_count": 43,
+          "retweet_count": 976
+        },
+        "reply_settings": "everyone",
+        "text": "アニメ「NEEDY GIRL OVERDOSE」\n\n11話公開記念楽曲\n  『savior sindrome』\nのOfficial MVに\n\n超てんちゃん、あめちゃん一人二役で出演させて頂きました🧬( ⁎ᵕᴗᵕ⁎ )🧬\n\n実写はかなり賛否両論あるかとは思いますが、、、！\nとても素敵なMVに仕上げて頂きましたので、是非ご覧頂けますと幸いです。 https://t.co/U46LuHiml7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 1736,
+          "like_count": 16619,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 7250
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-19T13:12:28.000Z",
+        "description": "たかねです🇯🇵 身長170cm弱、地毛1m黒髪姫カット ◎モデル/コスプレ/デザイナー◎ 仕事依頼はDMへ。偶像(加工)崇拝 https://t.co/ywyQroUV2F ←ファンクラブ プロデュース→@THEODOL_TKN/アパレル",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 102,
+                "username": "THEODOL_TKN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/19868",
+                "end": 86,
+                "expanded_url": "https://fantia.jp/fanclubs/19868",
+                "start": 63,
+                "url": "https://t.co/ywyQroUV2F"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.co.jp/dp/4594090311/…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.co.jp/dp/4594090311/ref=cm_sw_r_cp_api_glt_i_X3DTJGF3G252DRD29DQM",
+                "start": 0,
+                "url": "https://t.co/5psgnTlW6W"
+              }
+            ]
+          }
+        },
+        "id": "700669278295498752",
+        "location": "フォトブック→",
+        "name": "🚭🥀高嶺ヒナ🥀🚭1stフォトブック発売",
+        "pinned_tweet_id": "1361646563165052929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1245221743964205057/E_-zHuY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305993,
+          "following_count": 68,
+          "like_count": 58141,
+          "listed_count": 1429,
+          "media_count": 454,
+          "tweet_count": 7325
+        },
+        "url": "https://t.co/5psgnTlW6W",
+        "username": "tknhn1234_tknhn",
+        "verified": true
+      }
+    ]
+  }
+}

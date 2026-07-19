@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1902369674383528190",
+    "created_at": "2025-03-19T14:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T15:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1902369674383528190"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mangguorulaoba…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/mangguorulaobao/status/1901811807658111263",
+          "start": 28,
+          "url": "https://t.co/XCkZuKqmO2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902369674383528190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901811807658111263",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想用私信跟我的互关们聊天，但是怕你们嫌弃我打扰你们😿 https://t.co/XCkZuKqmO2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1902369674383528190",
+        "created_at": "2025-03-19T14:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T15:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902369674383528190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mangguorulaoba…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/mangguorulaobao/status/1901811807658111263",
+              "start": 28,
+              "url": "https://t.co/XCkZuKqmO2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902369674383528190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901811807658111263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想用私信跟我的互关们聊天，但是怕你们嫌弃我打扰你们😿 https://t.co/XCkZuKqmO2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646503754924175360",
+        "conversation_id": "1901811807658111263",
+        "created_at": "2025-03-18T01:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T02:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901811807658111263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901811807658111263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 22449,
+          "like_count": 215,
+          "quote_count": 4,
+          "reply_count": 32,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "原来你们真用推特聊天…我说这个推特我怎么越玩越单机，不加微信只在推特我真的回消息很慢…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 915,
+          "like_count": 6559,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 3388
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T13:21:11.000Z",
+        "description": "你好，我是欧包。没收到吗？我是欧包。/\n安全出口在→@lang_youk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "lang_youk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pome.vip/b2263a8924",
+                "end": 23,
+                "expanded_url": "https://pome.vip/b2263a8924",
+                "start": 0,
+                "url": "https://t.co/FXFCvirPnE"
+              }
+            ]
+          }
+        },
+        "id": "1646503754924175360",
+        "location": "提问箱→",
+        "name": "芒果乳酪包",
+        "pinned_tweet_id": "1791875898981138924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870491175632941056/ivIso4yv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4398,
+          "following_count": 311,
+          "like_count": 231743,
+          "listed_count": 41,
+          "media_count": 1721,
+          "tweet_count": 19814
+        },
+        "url": "https://t.co/FXFCvirPnE",
+        "username": "mangguorulaobao",
+        "verified": false
+      }
+    ]
+  }
+}

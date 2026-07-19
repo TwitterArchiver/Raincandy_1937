@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2053826211793801481",
+    "created_at": "2026-05-11T13:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T14:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053826211793801481"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0b7cm/status/2…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/0b7cm/status/2053667743057240415",
+          "start": 4,
+          "url": "https://t.co/A6nswx9i4N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053826211793801481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053667743057240415",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "何意味 https://t.co/A6nswx9i4N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 871,
+        "media_key": "3_2053667735343906816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAX7KvawAA-Q56.jpg",
+        "width": 643
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2053826211793801481",
+        "created_at": "2026-05-11T13:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053826211793801481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0b7cm/status/2…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/0b7cm/status/2053667743057240415",
+              "start": 4,
+              "url": "https://t.co/A6nswx9i4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053826211793801481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053667743057240415",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/A6nswx9i4N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053667735343906816"
+          ]
+        },
+        "author_id": "810779795214581760",
+        "conversation_id": "2053667743057240415",
+        "created_at": "2026-05-11T02:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T03:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053667743057240415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZOEb1U4d8",
+              "end": 29,
+              "expanded_url": "https://x.com/0b7cm/status/2053667743057240415/photo/1",
+              "media_key": "3_2053667735343906816",
+              "start": 6,
+              "url": "https://t.co/LZOEb1U4d8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053667743057240415",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2507,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪里怪怪的 https://t.co/LZOEb1U4d8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 1644,
+          "like_count": 15007,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 6749
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-19T09:32:21.000Z",
+        "description": "樹洞、戀愛學、男生女生那些事🫧、热梗、分享慾、秘密を話せる場所、女子の本音、男女のあれこれ、討伐型人格、INFJ",
+        "id": "810779795214581760",
+        "location": "树洞｜男女のあれこれ",
+        "name": "草莓🍓女の子",
+        "pinned_tweet_id": "2048206095970378224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028355402879098881/VTdmZDUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8721,
+          "following_count": 1099,
+          "like_count": 10653,
+          "listed_count": 19,
+          "media_count": 1453,
+          "tweet_count": 13281
+        },
+        "username": "0b7cm",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1999887862184202418",
+    "created_at": "2025-12-14T05:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T06:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000077917557313585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1575765089030139905",
+          "start": 0,
+          "username": "wodanggangqiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000077917557313585",
+    "in_reply_to_user_id": "1575765089030139905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999887862184202418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wodanggangqiang 这是哪里的书店呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999887855443951619",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8EHaJ5awAMjVnZ.jpg",
+        "width": 1014
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999887855477514240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8EHaKBa4AAERrc.jpg",
+        "width": 1072
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999887855460769792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8EHaJ9bYAAIKXv.jpg",
+        "width": 998
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999887855473328128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8EHaKAbAAA0XcE.jpg",
+        "width": 1014
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1999887862184202418",
+        "created_at": "2025-12-14T05:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T06:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000077917557313585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1575765089030139905",
+              "start": 0,
+              "username": "wodanggangqiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000077917557313585",
+        "in_reply_to_user_id": "1575765089030139905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999887862184202418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wodanggangqiang 这是哪里的书店呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999887855443951619",
+            "3_1999887855477514240",
+            "3_1999887855460769792",
+            "3_1999887855473328128"
+          ]
+        },
+        "author_id": "1575765089030139905",
+        "conversation_id": "1999887862184202418",
+        "created_at": "2025-12-13T17:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T18:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999887862184202418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OAfLubMFJw",
+              "end": 116,
+              "expanded_url": "https://x.com/wodanggangqiang/status/1999887862184202418/photo/1",
+              "media_key": "3_1999887855443951619",
+              "start": 93,
+              "url": "https://t.co/OAfLubMFJw"
+            },
+            {
+              "display_url": "pic.x.com/OAfLubMFJw",
+              "end": 116,
+              "expanded_url": "https://x.com/wodanggangqiang/status/1999887862184202418/photo/1",
+              "media_key": "3_1999887855477514240",
+              "start": 93,
+              "url": "https://t.co/OAfLubMFJw"
+            },
+            {
+              "display_url": "pic.x.com/OAfLubMFJw",
+              "end": 116,
+              "expanded_url": "https://x.com/wodanggangqiang/status/1999887862184202418/photo/1",
+              "media_key": "3_1999887855460769792",
+              "start": 93,
+              "url": "https://t.co/OAfLubMFJw"
+            },
+            {
+              "display_url": "pic.x.com/OAfLubMFJw",
+              "end": 116,
+              "expanded_url": "https://x.com/wodanggangqiang/status/1999887862184202418/photo/1",
+              "media_key": "3_1999887855473328128",
+              "start": 93,
+              "url": "https://t.co/OAfLubMFJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999887862184202418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "开女性主义书店半年，终于被扔了臭鸡蛋。\n店里正办活动呢，客人突然告诉我门口出事。\n我跑出去一看竟然有人给我们店扔了臭鸡蛋。\n在犹豫是否要擦掉污渍的时候，突然意识到这才是战士真正的勋章。\n我们打算把这个痕迹尽可能保存下来，并且欢迎所有的来访者姊妹共同，以我们的店门为媒介，创作这件“装置”——《圣诞节彩蛋》。\n大家可以在上面添加任何元素。\n这是属于所有女性主义者的荣耀。来自小红书博主——栖息地Habitat \n我没记错的话之前武汉开的全女酒吧也被男的砸了，好像多次报警无果，有些男的根本见不得女人好起来。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 11842,
+          "like_count": 193,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "开女性主义书店半年，终于被扔了臭鸡蛋。\n店里正办活动呢，客人突然告诉我门口出事。\n我跑出去一看竟然有人给我们店扔了臭鸡蛋。\n在犹豫是否要擦掉污渍的时候，突然意识到这才是战士真正的勋章。 https://t.co/OAfLubMFJw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998397096031035392/5bZUUqPS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 1475,
+          "like_count": 12495,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 5810
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25397,
+          "following_count": 516,
+          "like_count": 30411,
+          "listed_count": 87,
+          "media_count": 9056,
+          "tweet_count": 24200
+        },
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

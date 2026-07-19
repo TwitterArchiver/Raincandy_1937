@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1886050512526807169",
+    "created_at": "2025-02-04T17:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T18:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886822256904692060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781308864438345728",
+          "start": 0,
+          "username": "FoxRed695449"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886822256904692060",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886050512526807169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoxRed695449 希望缠着你不放的人找到更合理合法的途径去消解自己的痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-04T17:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T18:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886822256904692060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886822256904692060",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886050512526807169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 希望缠着你不放的人找到更合理合法的途径去消解自己的痛苦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886050509381079040"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-02T13:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T14:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886050512526807169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GTedOiCov1",
+              "end": 35,
+              "expanded_url": "https://x.com/FoxRed695449/status/1886050512526807169/photo/1",
+              "media_key": "3_1886050509381079040",
+              "start": 12,
+              "url": "https://t.co/GTedOiCov1"
+            },
+            {
+              "display_url": "x.com/Jane_S_Eye/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Jane_S_Eye/status/1885721982639243452",
+              "start": 36,
+              "url": "https://t.co/ivVWs97v0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886050512526807169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 69984,
+          "like_count": 472,
+          "quote_count": 12,
+          "reply_count": 75,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885721982639243452",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完蛋，我不是中國孩子了 https://t.co/GTedOiCov1 https://t.co/ivVWs97v0B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 705,
+          "like_count": 5453,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 2762
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3660,
+          "following_count": 457,
+          "like_count": 1354,
+          "listed_count": 6,
+          "media_count": 276,
+          "tweet_count": 853
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061279709363834881"
+      ],
+      "media_source_tweet_id": [
+        "2061279721959358771"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2061472614628086256",
+    "created_at": "2026-06-01T15:39:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T16:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061472614628086256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "810779795214581760",
+          "start": 3,
+          "username": "0b7cm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v6hSGdqMHa",
+          "end": 78,
+          "expanded_url": "https://x.com/0b7cm/status/2061279721959358771/photo/1",
+          "media_key": "3_2061279709363834881",
+          "start": 55,
+          "url": "https://t.co/v6hSGdqMHa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061472614628086256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061279721959358771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0b7cm: 近期刷到视频里各国状态：\n韩国：校庆\n日本：花火大会\n泰国：6月骄傲节\n中国：高考加油 https://t.co/v6hSGdqMHa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1181,
+        "media_key": "3_2061279709363834881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsi-XtaEAERcyA.jpg",
+        "width": 1331
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061279709363834881"
+          ],
+          "media_source_tweet_id": [
+            "2061279721959358771"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2061472614628086256",
+        "created_at": "2026-06-01T15:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061472614628086256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "810779795214581760",
+              "start": 3,
+              "username": "0b7cm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v6hSGdqMHa",
+              "end": 78,
+              "expanded_url": "https://x.com/0b7cm/status/2061279721959358771/photo/1",
+              "media_key": "3_2061279709363834881",
+              "start": 55,
+              "url": "https://t.co/v6hSGdqMHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061472614628086256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061279721959358771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0b7cm: 近期刷到视频里各国状态：\n韩国：校庆\n日本：花火大会\n泰国：6月骄傲节\n中国：高考加油 https://t.co/v6hSGdqMHa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061279709363834881"
+          ]
+        },
+        "author_id": "810779795214581760",
+        "conversation_id": "2061279721959358771",
+        "created_at": "2026-06-01T02:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061279721959358771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v6hSGdqMHa",
+              "end": 67,
+              "expanded_url": "https://x.com/0b7cm/status/2061279721959358771/photo/1",
+              "media_key": "3_2061279709363834881",
+              "start": 44,
+              "url": "https://t.co/v6hSGdqMHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061279721959358771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 78987,
+          "like_count": 1075,
+          "quote_count": 8,
+          "reply_count": 168,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "近期刷到视频里各国状态：\n韩国：校庆\n日本：花火大会\n泰国：6月骄傲节\n中国：高考加油 https://t.co/v6hSGdqMHa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 1720,
+          "like_count": 16227,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 7081
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-19T09:32:21.000Z",
+        "description": "樹洞、戀愛學、男生女生那些事🫧、热梗、熱點新聞、分享慾、秘密を話せる場所、女子の本音、男女のあれこれ、好奇心害死流量",
+        "id": "810779795214581760",
+        "location": "树洞｜男女のあれこれ",
+        "name": "草莓🍓女の子",
+        "pinned_tweet_id": "2060197582174040436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028355402879098881/VTdmZDUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11256,
+          "following_count": 1288,
+          "like_count": 12136,
+          "listed_count": 22,
+          "media_count": 2520,
+          "tweet_count": 16641
+        },
+        "username": "0b7cm",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907046341970161664"
+      ],
+      "media_source_tweet_id": [
+        "1907046349066977712"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1907262931697627505",
+    "created_at": "2025-04-02T02:44:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T03:44:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907262931697627505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1602328096622800896",
+          "start": 3,
+          "username": "dutyge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GeqnijiUPK",
+          "end": 73,
+          "expanded_url": "https://x.com/dutyge/status/1907046349066977712/photo/1",
+          "media_key": "3_1907046341970161664",
+          "start": 50,
+          "url": "https://t.co/GeqnijiUPK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907262931697627505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 190
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907046349066977712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dutyge: 40岁的你想告诉30岁的人什么人生道理？\n\n不要做一辈子的工蚁、工蜂。\n👇 https://t.co/GeqnijiUPK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1625,
+        "media_key": "3_1907046341970161664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gncwi0dW8AA5qgQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907046341970161664"
+          ],
+          "media_source_tweet_id": [
+            "1907046349066977712"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1907262931697627505",
+        "created_at": "2025-04-02T02:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T03:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907262931697627505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1602328096622800896",
+              "start": 3,
+              "username": "dutyge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GeqnijiUPK",
+              "end": 73,
+              "expanded_url": "https://x.com/dutyge/status/1907046349066977712/photo/1",
+              "media_key": "3_1907046341970161664",
+              "start": 50,
+              "url": "https://t.co/GeqnijiUPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907262931697627505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 190
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907046349066977712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dutyge: 40岁的你想告诉30岁的人什么人生道理？\n\n不要做一辈子的工蚁、工蜂。\n👇 https://t.co/GeqnijiUPK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907046341970161664"
+          ]
+        },
+        "author_id": "1602328096622800896",
+        "conversation_id": "1907046349066977712",
+        "created_at": "2025-04-01T12:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T13:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907046349066977712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GeqnijiUPK",
+              "end": 61,
+              "expanded_url": "https://x.com/dutyge/status/1907046349066977712/photo/1",
+              "media_key": "3_1907046341970161664",
+              "start": 38,
+              "url": "https://t.co/GeqnijiUPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907046349066977712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 403,
+          "impression_count": 200992,
+          "like_count": 1209,
+          "quote_count": 10,
+          "reply_count": 36,
+          "retweet_count": 190
+        },
+        "reply_settings": "everyone",
+        "text": "40岁的你想告诉30岁的人什么人生道理？\n\n不要做一辈子的工蚁、工蜂。\n👇 https://t.co/GeqnijiUPK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 961,
+          "like_count": 7340,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 3800
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:42:59.000Z",
+        "description": "西方失业知识青年孕育出嬉皮士运动与垮掉的一代，东方则催生出孔乙己文化与躺平啃老族。今天，北大毕业生也开始失业，事情正在起变化……",
+        "id": "1602328096622800896",
+        "location": "颐和园路，duty哥小号，失业报道采集检索",
+        "name": "失业观察日报",
+        "pinned_tweet_id": "1704100809909080560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639227414084730880/CbkaCiNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9616,
+          "following_count": 98,
+          "like_count": 0,
+          "listed_count": 45,
+          "media_count": 6048,
+          "tweet_count": 7338
+        },
+        "username": "dutyge",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2040077245197455435",
+    "created_at": "2026-04-03T14:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T15:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040077245197455435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fengyi1811/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/fengyi1811/status/2040039180924010560",
+          "start": 7,
+          "url": "https://t.co/bT3GK0APpA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040077245197455435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040039180924010560",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什麼殺人？！ https://t.co/bT3GK0APpA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2040077245197455435",
+        "created_at": "2026-04-03T14:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040077245197455435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fengyi1811/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/fengyi1811/status/2040039180924010560",
+              "start": 7,
+              "url": "https://t.co/bT3GK0APpA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040077245197455435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040039180924010560",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什麼殺人？！ https://t.co/bT3GK0APpA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "704534947",
+        "conversation_id": "2040039180924010560",
+        "created_at": "2026-04-03T12:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:47:03.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040033335834206443",
+          "2040039180924010560"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2040039180924010560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2164,
+          "like_count": 60,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "verified",
+        "text": "在台湾即使小事也不会被隐瞒，在大陆很多大事老百姓都没有知情权。所以昨天台湾的厨师出包会被报道，所以前几天北京房山铲车杀人事件大陆媒体都不敢报道，这就是言论自由与否的巨大体现。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 1611,
+          "like_count": 14294,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 6564
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-19T06:58:18.000Z",
+        "description": "追求免于恐惧的自由",
+        "id": "704534947",
+        "location": "台灣",
+        "name": "Gavinly",
+        "pinned_tweet_id": "2034164516062425563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880929955141627904/7zHyRka8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13939,
+          "following_count": 3903,
+          "like_count": 8521,
+          "listed_count": 28,
+          "media_count": 1148,
+          "tweet_count": 5183
+        },
+        "username": "Fengyi1811",
+        "verified": true
+      }
+    ]
+  }
+}

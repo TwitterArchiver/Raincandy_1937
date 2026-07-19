@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+          "id": "1011352563667558400",
+          "name": "Economic Issues in Japan"
+        }
+      }
+    ],
+    "conversation_id": "1995559849422475660",
+    "created_at": "2025-12-01T18:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T19:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995559849422475660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2578666621",
+          "start": 3,
+          "username": "yiyun_dan1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995559849422475660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 147
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995335660010664316",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yiyun_dan1: 最近身边的朋友，一个接一个开始研究出国：\n日本的签证，新加坡的永居，迪拜的税，澳洲的教育，泰国的生活成本，越南的红利，还有隔壁 HK 的自由度。\n\n以前大家聊天是房价、币价、项目、工作，\n现在聊天变成了护照、签证、居住证、全球资产配置。\n不是突然…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          }
+        ],
+        "conversation_id": "1995559849422475660",
+        "created_at": "2025-12-01T18:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T19:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995559849422475660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2578666621",
+              "start": 3,
+              "username": "yiyun_dan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995559849422475660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 147
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995335660010664316",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yiyun_dan1: 最近身边的朋友，一个接一个开始研究出国：\n日本的签证，新加坡的永居，迪拜的税，澳洲的教育，泰国的生活成本，越南的红利，还有隔壁 HK 的自由度。\n\n以前大家聊天是房价、币价、项目、工作，\n现在聊天变成了护照、签证、居住证、全球资产配置。\n不是突然…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2578666621",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          }
+        ],
+        "conversation_id": "1995335660010664316",
+        "created_at": "2025-12-01T03:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T04:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995335660010664316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995335660010664316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近身边的朋友，一个接一个开始研究出国：\n日本的签证，新加坡的永居，迪拜的税，澳洲的教育，泰国的生活成本，越南的红利，还有隔壁 HK 的自由度。\n\n以前大家聊天是房价、币价、项目、工作，\n现在聊天变成了护照、签证、居住证、全球资产配置。\n不是突然醒悟了，而是突然发现：\n留在原地不动的人，风险反而越来越大。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 573,
+          "impression_count": 476785,
+          "like_count": 1596,
+          "quote_count": 15,
+          "reply_count": 173,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "最近身边的朋友，一个接一个开始研究出国：\n日本的签证，新加坡的永居，迪拜的税，澳洲的教育，泰国的生活成本，越南的红利，还有隔壁 HK 的自由度。\n\n以前大家聊天是房价、币价、项目、工作，\n现在聊天变成了护照、签证、居住证、全球资产配置。\n不是突然醒悟了，而是突然发现："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 1467,
+          "like_count": 12117,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 5677
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-20T13:09:10.000Z",
+        "description": "资深老韭菜，13年从业者。隐山观察链上分析师\nSOL大额监控信号频道：https://t.co/JajrDKLFtL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/solBigamout",
+                "end": 58,
+                "expanded_url": "https://t.me/solBigamout",
+                "start": 35,
+                "url": "https://t.co/JajrDKLFtL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/yinshanguancha",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/yinshanguancha",
+                "start": 0,
+                "url": "https://t.co/2w6Ripul8b"
+              }
+            ]
+          }
+        },
+        "id": "2578666621",
+        "location": "Hongkong",
+        "name": "Joshua.D",
+        "pinned_tweet_id": "1888866372152934528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720349568536297472/QVzPS5Rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18501,
+          "following_count": 1611,
+          "like_count": 1852,
+          "listed_count": 693,
+          "media_count": 1614,
+          "tweet_count": 3356
+        },
+        "url": "https://t.co/2w6Ripul8b",
+        "username": "yiyun_dan1",
+        "verified": true
+      }
+    ]
+  }
+}

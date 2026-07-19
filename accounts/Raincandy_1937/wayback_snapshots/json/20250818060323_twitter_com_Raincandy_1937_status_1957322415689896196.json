@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956813980145709056"
+      ],
+      "media_source_tweet_id": [
+        "1956813991520723248"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1957322415689896196",
+    "created_at": "2025-08-18T06:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T07:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957322415689896196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1549011946871336960",
+          "start": 3,
+          "username": "Alantur57426778"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pLCqzdl1U3",
+          "end": 80,
+          "expanded_url": "https://x.com/Alantur57426778/status/1956813991520723248/photo/1",
+          "media_key": "3_1956813980145709056",
+          "start": 57,
+          "url": "https://t.co/pLCqzdl1U3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957322415689896196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956813991520723248",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alantur57426778: B站居然也有冻子在号召举报，绝了，不要放过这群顺直。\n守护这位女老师！ https://t.co/pLCqzdl1U3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956813980145709056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyf_8oIacAAFMK_.jpg",
+        "width": 949
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956813980145709056"
+          ],
+          "media_source_tweet_id": [
+            "1956813991520723248"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1957322415689896196",
+        "created_at": "2025-08-18T06:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T07:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957322415689896196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1549011946871336960",
+              "start": 3,
+              "username": "Alantur57426778"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pLCqzdl1U3",
+              "end": 80,
+              "expanded_url": "https://x.com/Alantur57426778/status/1956813991520723248/photo/1",
+              "media_key": "3_1956813980145709056",
+              "start": 57,
+              "url": "https://t.co/pLCqzdl1U3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957322415689896196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956813991520723248",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alantur57426778: B站居然也有冻子在号召举报，绝了，不要放过这群顺直。\n守护这位女老师！ https://t.co/pLCqzdl1U3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956813980145709056"
+          ]
+        },
+        "author_id": "1549011946871336960",
+        "conversation_id": "1956813991520723248",
+        "created_at": "2025-08-16T20:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T21:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956813991520723248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pLCqzdl1U3",
+              "end": 59,
+              "expanded_url": "https://x.com/Alantur57426778/status/1956813991520723248/photo/1",
+              "media_key": "3_1956813980145709056",
+              "start": 36,
+              "url": "https://t.co/pLCqzdl1U3"
+            },
+            {
+              "display_url": "x.com/Alantur5742677…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/Alantur57426778/status/1956423348856279259",
+              "start": 60,
+              "url": "https://t.co/z0RPTkZOJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956813991520723248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11136,
+          "like_count": 227,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956423348856279259",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "B站居然也有冻子在号召举报，绝了，不要放过这群顺直。\n守护这位女老师！ https://t.co/pLCqzdl1U3 https://t.co/z0RPTkZOJw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 1230,
+          "like_count": 9355,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 4859
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T12:43:31.000Z",
+        "description": "Obama, are you listening？？？！！！",
+        "id": "1549011946871336960",
+        "location": "Hi,there!",
+        "name": "咸福宫日记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672247087621197824/st59jOX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 141,
+          "like_count": 8280,
+          "listed_count": 4,
+          "media_count": 376,
+          "tweet_count": 1167
+        },
+        "username": "Alantur57426778",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912697452140126208"
+      ],
+      "media_source_tweet_id": [
+        "1912697455097041103"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1913785217707565328",
+    "created_at": "2025-04-20T02:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T03:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913785217707565328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1272847257029668864",
+          "start": 3,
+          "username": "CiShengWeiAiACG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ctdKYvnuTX",
+          "end": 44,
+          "expanded_url": "https://x.com/CiShengWeiAiACG/status/1912697455097041103/photo/1",
+          "media_key": "3_1912697452140126208",
+          "start": 21,
+          "url": "https://t.co/ctdKYvnuTX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913785217707565328",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 571
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912697455097041103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CiShengWeiAiACG: https://t.co/ctdKYvnuTX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1324,
+        "media_key": "3_1912697452140126208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GotEMuWbYAAWdT8.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912697452140126208"
+          ],
+          "media_source_tweet_id": [
+            "1912697455097041103"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1913785217707565328",
+        "created_at": "2025-04-20T02:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T03:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913785217707565328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1272847257029668864",
+              "start": 3,
+              "username": "CiShengWeiAiACG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ctdKYvnuTX",
+              "end": 44,
+              "expanded_url": "https://x.com/CiShengWeiAiACG/status/1912697455097041103/photo/1",
+              "media_key": "3_1912697452140126208",
+              "start": 21,
+              "url": "https://t.co/ctdKYvnuTX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913785217707565328",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 571
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912697455097041103",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CiShengWeiAiACG: https://t.co/ctdKYvnuTX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912697452140126208"
+          ]
+        },
+        "author_id": "1272847257029668864",
+        "conversation_id": "1912697455097041103",
+        "created_at": "2025-04-17T02:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T03:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912697455097041103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ctdKYvnuTX",
+              "end": 23,
+              "expanded_url": "https://x.com/CiShengWeiAiACG/status/1912697455097041103/photo/1",
+              "media_key": "3_1912697452140126208",
+              "start": 0,
+              "url": "https://t.co/ctdKYvnuTX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912697455097041103",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 337,
+          "impression_count": 655584,
+          "like_count": 5584,
+          "quote_count": 48,
+          "reply_count": 22,
+          "retweet_count": 571
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ctdKYvnuTX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 1065,
+          "like_count": 8072,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 4163
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-16T11:03:40.000Z",
+        "description": "想個自我介紹好麻煩啊，也不知道要寫什麼，隨便寫寫算了| |愛打遊戲，喜歡ACGN，且只是個臭看番的死宅（偶爾也會看看黃圖）| |政治立場：個人覺得算是中間偏左?偶爾鍵政| |不支持但也不反對LGBTQ，你（妳）覺得自己是什麼性別我就會以社會上相對應的性別和以及個人習慣來和你（妳）相處。（瘋狂疊甲）| |這沒位置寫了QQ",
+        "id": "1272847257029668864",
+        "location": "你家門口",
+        "name": "此生唯愛二次元",
+        "pinned_tweet_id": "1802589888686289165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1272847367293685762/ea0WF4n4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 627,
+          "like_count": 17160,
+          "listed_count": 0,
+          "media_count": 750,
+          "tweet_count": 6838
+        },
+        "username": "CiShengWeiAiACG",
+        "verified": false
+      }
+    ]
+  }
+}

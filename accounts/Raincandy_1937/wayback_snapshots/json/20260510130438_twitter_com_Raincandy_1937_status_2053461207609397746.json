@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2053461207609397746",
+    "created_at": "2026-05-10T13:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T14:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053461207609397746"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jirai_keii/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/jirai_keii/status/2052863228544196862",
+          "start": 14,
+          "url": "https://t.co/I6IQUYfjm5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053461207609397746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052863228544196862",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第一次看這裏的時候走馬燈了 https://t.co/I6IQUYfjm5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 679,
+        "media_key": "3_2052863207153229825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH08NdrWYAEAb_1.jpg",
+        "width": 1200
+      },
+      {
+        "height": 679,
+        "media_key": "3_2052863207149105155",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH08NdqXcAM-gd0.jpg",
+        "width": 1200
+      },
+      {
+        "height": 679,
+        "media_key": "3_2052863207157485568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH08NdsXUAAXQaf.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2053461207609397746",
+        "created_at": "2026-05-10T13:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053461207609397746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jirai_keii/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/jirai_keii/status/2052863228544196862",
+              "start": 14,
+              "url": "https://t.co/I6IQUYfjm5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053461207609397746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052863228544196862",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一次看這裏的時候走馬燈了 https://t.co/I6IQUYfjm5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052863207153229825",
+            "3_2052863207149105155",
+            "3_2052863207157485568"
+          ]
+        },
+        "author_id": "1889032009835560960",
+        "conversation_id": "2052863228544196862",
+        "created_at": "2026-05-08T21:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T22:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052863228544196862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ddpart2yUO",
+              "end": 39,
+              "expanded_url": "https://x.com/jirai_keii/status/2052863228544196862/photo/1",
+              "media_key": "3_2052863207153229825",
+              "start": 16,
+              "url": "https://t.co/ddpart2yUO"
+            },
+            {
+              "display_url": "pic.x.com/ddpart2yUO",
+              "end": 39,
+              "expanded_url": "https://x.com/jirai_keii/status/2052863228544196862/photo/1",
+              "media_key": "3_2052863207149105155",
+              "start": 16,
+              "url": "https://t.co/ddpart2yUO"
+            },
+            {
+              "display_url": "pic.x.com/ddpart2yUO",
+              "end": 39,
+              "expanded_url": "https://x.com/jirai_keii/status/2052863228544196862/photo/1",
+              "media_key": "3_2052863207157485568",
+              "start": 16,
+              "url": "https://t.co/ddpart2yUO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052863228544196862",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 175,
+          "impression_count": 19655,
+          "like_count": 2763,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 347
+        },
+        "reply_settings": "everyone",
+        "text": "she’s so pretty https://t.co/ddpart2yUO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 1631,
+          "like_count": 14925,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 6731
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T19:21:49.000Z",
+        "description": "Lonely internet girl\nig : satellagoddess\nᛝ(ᴗ͈ˬᴗ͈ )ᛝ",
+        "id": "1889032009835560960",
+        "name": "amelia ཐི ❤︎ ཋྀ",
+        "pinned_tweet_id": "2049716057774989506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053170985558233094/MaiSuHuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 25,
+          "like_count": 229,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 84
+        },
+        "username": "jirai_keii",
+        "verified": false
+      }
+    ]
+  }
+}

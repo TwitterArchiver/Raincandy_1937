@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1943226220726095945",
+    "created_at": "2025-07-10T08:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T09:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943226220726095945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kilig_i777/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/kilig_i777/status/1942523834814587383",
+          "start": 5,
+          "url": "https://t.co/3ru3k3FBCk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943226220726095945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942523834814587383",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "简直是我 https://t.co/3ru3k3FBCk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1943226220726095945",
+        "created_at": "2025-07-10T08:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T09:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943226220726095945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kilig_i777/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/kilig_i777/status/1942523834814587383",
+              "start": 5,
+              "url": "https://t.co/3ru3k3FBCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943226220726095945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942523834814587383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "简直是我 https://t.co/3ru3k3FBCk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691791250670895105",
+        "conversation_id": "1942523834814587383",
+        "created_at": "2025-07-08T09:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T10:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942523834814587383"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942523834814587383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 69661,
+          "like_count": 780,
+          "quote_count": 9,
+          "reply_count": 84,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "我玩推特有一种身边人都互相认识只有我是局外人的感觉🤯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 1215,
+          "like_count": 9171,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 4741
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T12:37:33.000Z",
+        "description": "pansexual｜互关随缘｜不经常互动的我会双取｜没🚪只加女孩和互关｜匿名📪 https://t.co/xEONfKhYzW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%88%91%E6%9…",
+                "end": 63,
+                "expanded_url": "https://ngl.link/%E6%88%91%E6%9C%8D%E4%BA%86%E5%AE%9D%E5%AE%9D",
+                "start": 40,
+                "url": "https://t.co/xEONfKhYzW"
+              }
+            ]
+          }
+        },
+        "id": "1691791250670895105",
+        "location": "答应我会幸福",
+        "name": "宝宝我服了宝宝",
+        "pinned_tweet_id": "1942525747786310141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941451907437858818/-TZObtUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9070,
+          "following_count": 306,
+          "like_count": 12789,
+          "listed_count": 16,
+          "media_count": 191,
+          "tweet_count": 7135
+        },
+        "username": "kilig_i777",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1938517262069379077",
+    "created_at": "2025-06-27T14:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T15:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938607789573812415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857335218673483776",
+          "start": 0,
+          "username": "xiao_mengyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938607789573812415",
+    "in_reply_to_user_id": "1857335218673483776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938517262069379077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiao_mengyu 没太ooc("
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1938517258177019904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gub_LPSbAAAtaQE.jpg",
+        "width": 836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1938517262069379077",
+        "created_at": "2025-06-27T14:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T15:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938607789573812415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "xiao_mengyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938607789573812415",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938517262069379077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiao_mengyu 没太ooc("
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938517258177019904"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1938517262069379077",
+        "created_at": "2025-06-27T08:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T09:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938517262069379077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h02UWTmAJz",
+              "end": 35,
+              "expanded_url": "https://x.com/xiao_mengyu/status/1938517262069379077/photo/1",
+              "media_key": "3_1938517258177019904",
+              "start": 12,
+              "url": "https://t.co/h02UWTmAJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938517262069379077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1578,
+          "like_count": 44,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请让我干涉你的人生吧！ https://t.co/h02UWTmAJz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 1180,
+          "like_count": 8814,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 4572
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "性别：小雨//可以叫我小雨//亚文化//电波系//阴湿//ACG//GalGame//精神状态不定//小孩不懂事发着玩//情绪不稳定会自伤//有点抽象//小女孩或者有意思的男生和我互fo//女生或者有意思的男生互fo//",
+        "id": "1857335218673483776",
+        "location": "江汉路",
+        "name": "永雏小雨",
+        "pinned_tweet_id": "1924890836325826971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937790543150632960/1ck2qcyb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 292,
+          "like_count": 2243,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1073
+        },
+        "username": "xiao_mengyu",
+        "verified": false
+      }
+    ]
+  }
+}

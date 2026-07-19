@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053808976886960128"
+      ],
+      "media_source_tweet_id": [
+        "2053808985384645039"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053826024144797970",
+    "created_at": "2026-05-11T13:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T14:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053826024144797970"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "ニディガ"
+        },
+        {
+          "end": 43,
+          "start": 33,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042260840070746112",
+          "start": 3,
+          "username": "carbon__CO2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YJLrQXNsgC",
+          "end": 67,
+          "expanded_url": "https://x.com/carbon__CO2/status/2053808985384645039/photo/1",
+          "media_key": "3_2053808976886960128",
+          "start": 44,
+          "url": "https://t.co/YJLrQXNsgC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053826024144797970",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053808985384645039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @carbon__CO2: 一緒にジョイポリー\n#ニディガ\n#NEEDY_pic https://t.co/YJLrQXNsgC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1535,
+        "media_key": "3_2053808976886960128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICYYgfbEAAffN5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053808976886960128"
+          ],
+          "media_source_tweet_id": [
+            "2053808985384645039"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053826024144797970",
+        "created_at": "2026-05-11T13:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053826024144797970"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "ニディガ"
+            },
+            {
+              "end": 43,
+              "start": 33,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042260840070746112",
+              "start": 3,
+              "username": "carbon__CO2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YJLrQXNsgC",
+              "end": 67,
+              "expanded_url": "https://x.com/carbon__CO2/status/2053808985384645039/photo/1",
+              "media_key": "3_2053808976886960128",
+              "start": 44,
+              "url": "https://t.co/YJLrQXNsgC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053826024144797970",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053808985384645039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @carbon__CO2: 一緒にジョイポリー\n#ニディガ\n#NEEDY_pic https://t.co/YJLrQXNsgC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053808976886960128"
+          ]
+        },
+        "author_id": "2042260840070746112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053808985384645039",
+        "created_at": "2026-05-11T12:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053808985384645039"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "ニディガ"
+            },
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YJLrQXNsgC",
+              "end": 50,
+              "expanded_url": "https://x.com/carbon__CO2/status/2053808985384645039/photo/1",
+              "media_key": "3_2053808976886960128",
+              "start": 27,
+              "url": "https://t.co/YJLrQXNsgC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053808985384645039",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 864,
+          "like_count": 119,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "一緒にジョイポリー\n#ニディガ\n#NEEDY_pic https://t.co/YJLrQXNsgC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 1644,
+          "like_count": 15004,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 6748
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T15:20:07.000Z",
+        "description": "ニディガのファン、ニディガー",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/bca695e3-17d9-…",
+                "end": 23,
+                "expanded_url": "https://lit.link/bca695e3-17d9-4832-980d-f7f3c00e5cf5",
+                "start": 0,
+                "url": "https://t.co/AE8ZZSPG4w"
+              }
+            ]
+          }
+        },
+        "id": "2042260840070746112",
+        "name": "二酸化炭素‼️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051995827888082944/aOzwOCx-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 31,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 207
+        },
+        "url": "https://t.co/AE8ZZSPG4w",
+        "username": "carbon__CO2",
+        "verified": false
+      }
+    ]
+  }
+}

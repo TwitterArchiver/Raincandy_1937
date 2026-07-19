@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052775023526715392"
+      ],
+      "media_source_tweet_id": [
+        "2052775389223924062"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2053500636164186498",
+    "created_at": "2026-05-10T15:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T16:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053500636164186498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1396716502737321985",
+          "start": 3,
+          "username": "eardoor_1022"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QydmYwip5l",
+          "end": 46,
+          "expanded_url": "https://x.com/eardoor_1022/status/2052775389223924062/photo/1",
+          "media_key": "3_2052775023526715392",
+          "start": 23,
+          "url": "https://t.co/QydmYwip5l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053500636164186498",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5177
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052775389223924062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eardoor_1022: 기주지온 https://t.co/QydmYwip5l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2052775023526715392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzsAgEaoAAjclw.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052775023526715392"
+          ],
+          "media_source_tweet_id": [
+            "2052775389223924062"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2053500636164186498",
+        "created_at": "2026-05-10T15:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053500636164186498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1396716502737321985",
+              "start": 3,
+              "username": "eardoor_1022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QydmYwip5l",
+              "end": 46,
+              "expanded_url": "https://x.com/eardoor_1022/status/2052775389223924062/photo/1",
+              "media_key": "3_2052775023526715392",
+              "start": 23,
+              "url": "https://t.co/QydmYwip5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053500636164186498",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5177
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052775389223924062",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eardoor_1022: 기주지온 https://t.co/QydmYwip5l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052775023526715392"
+          ]
+        },
+        "author_id": "1396716502737321985",
+        "conversation_id": "2052775389223924062",
+        "created_at": "2026-05-08T15:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052775389223924062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QydmYwip5l",
+              "end": 28,
+              "expanded_url": "https://x.com/eardoor_1022/status/2052775389223924062/photo/1",
+              "media_key": "3_2052775023526715392",
+              "start": 5,
+              "url": "https://t.co/QydmYwip5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052775389223924062",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11410,
+          "impression_count": 687919,
+          "like_count": 85663,
+          "quote_count": 189,
+          "reply_count": 21,
+          "retweet_count": 5177
+        },
+        "reply_settings": "everyone",
+        "text": "기주지온 https://t.co/QydmYwip5l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 1634,
+          "like_count": 14934,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 6735
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-24T06:35:45.000Z",
+        "description": "잡덕 ㅎㅎ   only GL",
+        "id": "1396716502737321985",
+        "name": "귀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883603154903982080/1FDk6kob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26733,
+          "following_count": 74,
+          "like_count": 2523,
+          "listed_count": 74,
+          "media_count": 260,
+          "tweet_count": 3939
+        },
+        "username": "eardoor_1022",
+        "verified": false
+      }
+    ]
+  }
+}

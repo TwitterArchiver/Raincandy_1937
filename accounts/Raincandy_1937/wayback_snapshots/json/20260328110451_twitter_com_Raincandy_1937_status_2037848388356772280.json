@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037616093045604353"
+      ],
+      "media_source_tweet_id": [
+        "2037616099374584095"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2037848388356772280",
+    "created_at": "2026-03-28T11:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T12:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037848388356772280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1220627112295428096",
+          "start": 3,
+          "username": "BeiJing_Talking"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L1SCYjwjoH",
+          "end": 56,
+          "expanded_url": "https://x.com/BeiJing_Talking/status/2037616099374584095/photo/1",
+          "media_key": "3_2037616093045604353",
+          "start": 33,
+          "url": "https://t.co/L1SCYjwjoH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037848388356772280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037616099374584095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BeiJing_Talking: 中國的垃圾媒體矩陣 🚮 https://t.co/L1SCYjwjoH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1250,
+        "media_key": "3_2037616093045604353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEcRCnaaQAEmw3c.jpg",
+        "width": 1182
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037616093045604353"
+          ],
+          "media_source_tweet_id": [
+            "2037616099374584095"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2037848388356772280",
+        "created_at": "2026-03-28T11:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037848388356772280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1220627112295428096",
+              "start": 3,
+              "username": "BeiJing_Talking"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L1SCYjwjoH",
+              "end": 56,
+              "expanded_url": "https://x.com/BeiJing_Talking/status/2037616099374584095/photo/1",
+              "media_key": "3_2037616093045604353",
+              "start": 33,
+              "url": "https://t.co/L1SCYjwjoH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037848388356772280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037616099374584095",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BeiJing_Talking: 中國的垃圾媒體矩陣 🚮 https://t.co/L1SCYjwjoH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037616093045604353"
+          ]
+        },
+        "author_id": "1220627112295428096",
+        "conversation_id": "2037616099374584095",
+        "created_at": "2026-03-27T19:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T20:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037616099374584095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L1SCYjwjoH",
+              "end": 35,
+              "expanded_url": "https://x.com/BeiJing_Talking/status/2037616099374584095/photo/1",
+              "media_key": "3_2037616093045604353",
+              "start": 12,
+              "url": "https://t.co/L1SCYjwjoH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037616099374584095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 7213,
+          "like_count": 156,
+          "quote_count": 3,
+          "reply_count": 17,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "中國的垃圾媒體矩陣 🚮 https://t.co/L1SCYjwjoH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 1597,
+          "like_count": 14124,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 6509
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-24T08:39:30.000Z",
+        "description": "觀念師 / 油管頻道「北靜 不靜音」BeiJing Talking：https://t.co/usTPllyehN / 作家 / 小說作品：「一」「天市」「獄門疆」「虛舟之呂」 / 劇本作品：「時空隱士」 / 個人電子書店：https://t.co/Ldv01VdKvZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "YouTube.com/@BeiJing_Talki…",
+                "end": 57,
+                "expanded_url": "http://YouTube.com/@BeiJing_Talking",
+                "start": 34,
+                "url": "https://t.co/usTPllyehN"
+              },
+              {
+                "display_url": "Bei-Jing.myshopify.com",
+                "end": 135,
+                "expanded_url": "http://Bei-Jing.myshopify.com",
+                "start": 112,
+                "url": "https://t.co/Ldv01VdKvZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "2084Studio.com",
+                "end": 23,
+                "expanded_url": "http://2084Studio.com",
+                "start": 0,
+                "url": "https://t.co/zJnOPrXJPN"
+              }
+            ]
+          }
+        },
+        "id": "1220627112295428096",
+        "location": "Tian City",
+        "name": "北靜 Bei.Jing",
+        "pinned_tweet_id": "2019390911424172505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998754039576592384/BjmwYKHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6750,
+          "following_count": 1159,
+          "like_count": 26891,
+          "listed_count": 32,
+          "media_count": 4377,
+          "tweet_count": 33212
+        },
+        "url": "https://t.co/zJnOPrXJPN",
+        "username": "BeiJing_Talking",
+        "verified": true
+      }
+    ]
+  }
+}

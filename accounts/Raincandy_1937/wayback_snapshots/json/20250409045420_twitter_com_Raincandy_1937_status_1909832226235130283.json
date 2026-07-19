@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1909651947667513546",
+    "created_at": "2025-04-09T04:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T05:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909832226235130283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1619021081238732802",
+          "start": 0,
+          "username": "love__bbh__lks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909832226235130283",
+    "in_reply_to_user_id": "1619021081238732802",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909651947667513546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love__bbh__lks 切！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1909651938960150528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoByUhpbEAAlr2u.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1909651943158669312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoByUxSbYAA_YDk.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1909651947667513546",
+        "created_at": "2025-04-09T04:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T05:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909832226235130283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1619021081238732802",
+              "start": 0,
+              "username": "love__bbh__lks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909832226235130283",
+        "in_reply_to_user_id": "1619021081238732802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909651947667513546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love__bbh__lks 切！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909651938960150528",
+            "3_1909651943158669312"
+          ]
+        },
+        "author_id": "1619021081238732802",
+        "conversation_id": "1909651947667513546",
+        "created_at": "2025-04-08T16:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T17:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909651947667513546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oiPQ5nTNUQ",
+              "end": 37,
+              "expanded_url": "https://x.com/love__bbh__lks/status/1909651947667513546/photo/1",
+              "media_key": "3_1909651938960150528",
+              "start": 14,
+              "url": "https://t.co/oiPQ5nTNUQ"
+            },
+            {
+              "display_url": "pic.x.com/oiPQ5nTNUQ",
+              "end": 37,
+              "expanded_url": "https://x.com/love__bbh__lks/status/1909651947667513546/photo/1",
+              "media_key": "3_1909651943158669312",
+              "start": 14,
+              "url": "https://t.co/oiPQ5nTNUQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909651947667513546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1700,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老子都不理你了你嗨你麻痹呢 https://t.co/oiPQ5nTNUQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 1005,
+          "like_count": 7698,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 3948
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T17:14:49.000Z",
+        "description": "清水文字推，别骚扰我，问隐私打钱",
+        "id": "1619021081238732802",
+        "name": "珏",
+        "pinned_tweet_id": "1891429284020957559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891325267286900736/PG6jOCBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 129,
+          "like_count": 4433,
+          "listed_count": 5,
+          "media_count": 438,
+          "tweet_count": 3724
+        },
+        "username": "love__bbh__lks",
+        "verified": false
+      }
+    ]
+  }
+}

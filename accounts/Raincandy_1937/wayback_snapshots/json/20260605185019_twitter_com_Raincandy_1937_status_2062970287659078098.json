@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2062970287659078098",
+    "created_at": "2026-06-05T18:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T19:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062970287659078098"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jirai_keii/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/jirai_keii/status/2062740253786493242",
+          "start": 10,
+          "url": "https://t.co/zSbLYDk1xs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062970287659078098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062740253786493242",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "超級無敵美麗小女孩 https://t.co/zSbLYDk1xs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2062740245137747968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBTUvdWcAAUh7W.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2062970287659078098",
+        "created_at": "2026-06-05T18:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062970287659078098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jirai_keii/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/jirai_keii/status/2062740253786493242",
+              "start": 10,
+              "url": "https://t.co/zSbLYDk1xs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062970287659078098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062740253786493242",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "超級無敵美麗小女孩 https://t.co/zSbLYDk1xs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062740245137747968"
+          ]
+        },
+        "author_id": "1889032009835560960",
+        "conversation_id": "2062740253786493242",
+        "created_at": "2026-06-05T03:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062740253786493242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QrqvUkyFvp",
+              "end": 23,
+              "expanded_url": "https://x.com/jirai_keii/status/2062740253786493242/photo/1",
+              "media_key": "3_2062740245137747968",
+              "start": 0,
+              "url": "https://t.co/QrqvUkyFvp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062740253786493242",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 3859,
+          "like_count": 583,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QrqvUkyFvp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 1723,
+          "like_count": 16409,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 7145
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T19:21:49.000Z",
+        "description": "Lonely internet girl\nig : satellagoddess\nᛝ(ᴗ͈ˬᴗ͈ )ᛝ",
+        "id": "1889032009835560960",
+        "name": "amelia ཐི ❤︎ ཋྀ",
+        "pinned_tweet_id": "2049716057774989506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062868177336274944/H0CELZ7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 17,
+          "like_count": 269,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 126
+        },
+        "username": "jirai_keii",
+        "verified": false
+      }
+    ]
+  }
+}

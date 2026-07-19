@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2065393466763628954",
+    "created_at": "2026-06-12T11:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065393466763628954"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/magazine_pash/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/magazine_pash/status/2064648773909766456",
+          "start": 18,
+          "url": "https://t.co/MVVagRHlzI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065393466763628954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064648773909766456",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "圖四的糖糖好嗯今天晚上就夢這個睡覺 https://t.co/MVVagRHlzI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "3_2064642886625566721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcVxDVaoAE4rlN.jpg",
+        "width": 800
+      },
+      {
+        "height": 450,
+        "media_key": "3_2064642886638182400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcVxDYbIAAXmlG.jpg",
+        "width": 800
+      },
+      {
+        "height": 450,
+        "media_key": "3_2064642886629781504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcVxDWa8AA8ddk.jpg",
+        "width": 800
+      },
+      {
+        "height": 450,
+        "media_key": "3_2064642886621368321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcVxDUakAE3Oup.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2065393466763628954",
+        "created_at": "2026-06-12T11:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065393466763628954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/magazine_pash/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/magazine_pash/status/2064648773909766456",
+              "start": 18,
+              "url": "https://t.co/MVVagRHlzI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065393466763628954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064648773909766456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "圖四的糖糖好嗯今天晚上就夢這個睡覺 https://t.co/MVVagRHlzI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064642886625566721",
+            "3_2064642886638182400",
+            "3_2064642886629781504",
+            "3_2064642886621368321"
+          ]
+        },
+        "author_id": "214749684",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2064648773909766456",
+        "created_at": "2026-06-10T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064648773909766456"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 152,
+              "start": 132,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 158,
+              "start": 153,
+              "tag": "ニディガ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HUnlM6eiWB",
+              "end": 182,
+              "expanded_url": "https://x.com/magazine_pash/status/2064648773909766456/photo/1",
+              "media_key": "3_2064642886625566721",
+              "start": 159,
+              "url": "https://t.co/HUnlM6eiWB"
+            },
+            {
+              "display_url": "pic.x.com/HUnlM6eiWB",
+              "end": 182,
+              "expanded_url": "https://x.com/magazine_pash/status/2064648773909766456/photo/1",
+              "media_key": "3_2064642886638182400",
+              "start": 159,
+              "url": "https://t.co/HUnlM6eiWB"
+            },
+            {
+              "display_url": "pic.x.com/HUnlM6eiWB",
+              "end": 182,
+              "expanded_url": "https://x.com/magazine_pash/status/2064648773909766456/photo/1",
+              "media_key": "3_2064642886629781504",
+              "start": 159,
+              "url": "https://t.co/HUnlM6eiWB"
+            },
+            {
+              "display_url": "pic.x.com/HUnlM6eiWB",
+              "end": 182,
+              "expanded_url": "https://x.com/magazine_pash/status/2064648773909766456/photo/1",
+              "media_key": "3_2064642886621368321",
+              "start": 159,
+              "url": "https://t.co/HUnlM6eiWB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064648773909766456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 152,
+                "start": 132,
+                "tag": "NEEDY_GIRL_OVERDOSE"
+              },
+              {
+                "end": 158,
+                "start": 153,
+                "tag": "ニディガ"
+              }
+            ]
+          },
+          "text": "【ニディガ】「わたしは天使を殺してしまいました」ロリポップの言葉のとおり、超てんちゃんは崩壊する…！ アニメ『NEEDY GIRL OVERDOSE』第11話「Canon a 3 Violinis con Basso c. / Gigue」あらすじ＆先行カット\n\n#NEEDY_GIRL_OVERDOSE #ニディガ\n\n現実か、妄想か、聞こえてくるのは罵詈雑言。ごめんなさい、助けて。その言葉は、無数の嘲笑に呑みこまれる――"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 105549,
+          "like_count": 1691,
+          "quote_count": 31,
+          "reply_count": 4,
+          "retweet_count": 220
+        },
+        "reply_settings": "everyone",
+        "text": "【ニディガ】「わたしは天使を殺してしまいました」ロリポップの言葉のとおり、超てんちゃんは崩壊する…！ アニメ『NEEDY GIRL OVERDOSE』第11話「Canon a 3 Violinis con Basso c. / Gigue」あらすじ＆先行カット\n\n#NEEDY_GIRL_OVERDOSE #ニディガ https://t.co/HUnlM6eiWB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 1733,
+          "like_count": 16575,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 7232
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-12T03:54:34.000Z",
+        "description": "月刊アニメマガジン『PASH!』編集部公式アカウント。\n編集部発行の本の情報→ https://t.co/sF9JA0G9bd \n特典付バックナンバー購入→https://t.co/2ejxqq69Cn\nお問い合わせ→ pash@mb.shufu.co.jp\n※リプライ、DMでのお問い合わせはお答えしかねます",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pashplus.jp/blog",
+                "end": 63,
+                "expanded_url": "http://pashplus.jp/blog",
+                "start": 40,
+                "url": "https://t.co/sF9JA0G9bd"
+              },
+              {
+                "display_url": "pashstore.base.shop",
+                "end": 101,
+                "expanded_url": "https://pashstore.base.shop/",
+                "start": 78,
+                "url": "https://t.co/2ejxqq69Cn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pashplus.jp",
+                "end": 23,
+                "expanded_url": "https://www.pashplus.jp/",
+                "start": 0,
+                "url": "https://t.co/b90800c935"
+              }
+            ]
+          }
+        },
+        "id": "214749684",
+        "location": "東京都",
+        "name": "PASH!編集部",
+        "pinned_tweet_id": "2062108006922523082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625430666870677505/v7EvEb3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166838,
+          "following_count": 9922,
+          "like_count": 406,
+          "listed_count": 1402,
+          "media_count": 49299,
+          "tweet_count": 72535
+        },
+        "url": "https://t.co/b90800c935",
+        "username": "magazine_pash",
+        "verified": true
+      }
+    ]
+  }
+}

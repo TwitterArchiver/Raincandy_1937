@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1899970018290655653",
+    "created_at": "2025-04-19T10:28:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T11:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913540206546079836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1747146335323844609",
+          "start": 0,
+          "username": "aozn24428"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913540206546079836",
+    "in_reply_to_user_id": "1747146335323844609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899970018290655653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aozn24428 哇起猛了伊索尔德从箱子里走出来了🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1899970010363142144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl4MqG-XIAANvb1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1899970010174676993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl4MqGRbYAExzxD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1899970010178822144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl4MqGSaoAAtUX-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1899970018290655653",
+        "created_at": "2025-04-19T10:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T11:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913540206546079836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747146335323844609",
+              "start": 0,
+              "username": "aozn24428"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913540206546079836",
+        "in_reply_to_user_id": "1747146335323844609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899970018290655653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aozn24428 哇起猛了伊索尔德从箱子里走出来了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899970010363142144",
+            "3_1899970010174676993",
+            "3_1899970010178822144"
+          ]
+        },
+        "author_id": "1747146335323844609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "1899970018290655653",
+        "created_at": "2025-03-12T23:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T00:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899970018290655653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OFd9x7h8iC",
+              "end": 176,
+              "expanded_url": "https://x.com/aozn24428/status/1899970018290655653/photo/1",
+              "media_key": "3_1899970010363142144",
+              "start": 153,
+              "url": "https://t.co/OFd9x7h8iC"
+            },
+            {
+              "display_url": "pic.x.com/OFd9x7h8iC",
+              "end": 176,
+              "expanded_url": "https://x.com/aozn24428/status/1899970018290655653/photo/1",
+              "media_key": "3_1899970010174676993",
+              "start": 153,
+              "url": "https://t.co/OFd9x7h8iC"
+            },
+            {
+              "display_url": "pic.x.com/OFd9x7h8iC",
+              "end": 176,
+              "expanded_url": "https://x.com/aozn24428/status/1899970018290655653/photo/1",
+              "media_key": "3_1899970010178822144",
+              "start": 153,
+              "url": "https://t.co/OFd9x7h8iC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899970018290655653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13531,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "OK啊这是一个自介条\n这里是妹子无人在意你，因为我真的无人在意\n各种风格都喜欢搞一点，高街/地雷系/lolita/jk/cos不等\n毛都是自己摸索的，可以找我约毛喵喵喵\n然后游戏也是什么都粘一点，第五人格/王者/金铲铲/p5x/重返未来/光遇等\n入🚪可以和我一起打游戏聊天，朋友圈公开😋😋\n快来找我玩吧🌚 https://t.co/OFd9x7h8iC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 1056,
+          "like_count": 7980,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 4117
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:38:51.000Z",
+        "description": "臭贝贝让你视奸我了吗🙄💅🏻你没有被邀请｜无🚪不加v但是欢迎投喂🥺｜匿名信箱在这https://t.co/EsRkxEq3wT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%A6%B9%E5%A…",
+                "end": 62,
+                "expanded_url": "https://ngl.link/%E5%A6%B9%E5%AD%90%E6%97%A0%E4%BA%BA%E5%9C%A8%E6%84%8F%E4%BD%A0",
+                "start": 39,
+                "url": "https://t.co/EsRkxEq3wT"
+              }
+            ]
+          }
+        },
+        "id": "1747146335323844609",
+        "location": "你心里❤️",
+        "name": "妹子无人在意你",
+        "pinned_tweet_id": "1899970018290655653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879835045579624448/jO2JXuKG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 145,
+          "like_count": 2169,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 2727
+        },
+        "username": "aozn24428",
+        "verified": false
+      }
+    ]
+  }
+}

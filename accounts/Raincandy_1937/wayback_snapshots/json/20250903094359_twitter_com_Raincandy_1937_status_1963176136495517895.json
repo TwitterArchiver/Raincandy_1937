@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963176133618536448"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1963176136495517895",
+    "created_at": "2025-09-03T09:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T10:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963176136495517895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4ONYRySWkJ",
+          "end": 95,
+          "expanded_url": "https://x.com/Raincandy_1937/status/1963176136495517895/photo/1",
+          "media_key": "3_1963176133618536448",
+          "start": 72,
+          "url": "https://t.co/4ONYRySWkJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963176136495517895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "無人深空的免費更新質量，結合遊戲內的劇情，讓我覺得製作組想要表達“即使遊戲終有一天會無人問津，但我們可以將這有限的時間拓寬到無窮無盡”的想法。 https://t.co/4ONYRySWkJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_1963176133618536448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz6aSsvbkAAScVO.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963176133618536448"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1963176136495517895",
+        "created_at": "2025-09-03T09:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T10:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963176136495517895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ONYRySWkJ",
+              "end": 95,
+              "expanded_url": "https://x.com/Raincandy_1937/status/1963176136495517895/photo/1",
+              "media_key": "3_1963176133618536448",
+              "start": 72,
+              "url": "https://t.co/4ONYRySWkJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963176136495517895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "無人深空的免費更新質量，結合遊戲內的劇情，讓我覺得製作組想要表達“即使遊戲終有一天會無人問津，但我們可以將這有限的時間拓寬到無窮無盡”的想法。 https://t.co/4ONYRySWkJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 1268,
+          "like_count": 9528,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 4947
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1932640194983047297",
+    "created_at": "2025-06-11T03:25:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T04:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932640194983047297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wind_dmr/statu…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/wind_dmr/status/1931966012251120034",
+          "start": 43,
+          "url": "https://t.co/ValjqDJYU1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932640194983047297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931966012251120034",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我感觉偷偷做出来这种设计还能接受，大声说出来就给我一种新三国曹操刘备之流的癫感... https://t.co/ValjqDJYU1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 918,
+        "media_key": "3_1931966009310875649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs-42XcakAEo7yV.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1932640194983047297",
+        "created_at": "2025-06-11T03:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T04:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932640194983047297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wind_dmr/statu…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/wind_dmr/status/1931966012251120034",
+              "start": 43,
+              "url": "https://t.co/ValjqDJYU1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932640194983047297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931966012251120034",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我感觉偷偷做出来这种设计还能接受，大声说出来就给我一种新三国曹操刘备之流的癫感... https://t.co/ValjqDJYU1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931966009310875649"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "1931966012251120034",
+        "created_at": "2025-06-09T06:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T07:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931966012251120034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wVe0NjrcgH",
+              "end": 27,
+              "expanded_url": "https://x.com/wind_dmr/status/1931966012251120034/photo/1",
+              "media_key": "3_1931966009310875649",
+              "start": 4,
+              "url": "https://t.co/wVe0NjrcgH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931966012251120034",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 369154,
+          "like_count": 1892,
+          "quote_count": 17,
+          "reply_count": 91,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "666 https://t.co/wVe0NjrcgH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 1147,
+          "like_count": 8495,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 4366
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 714,
+          "like_count": 115718,
+          "listed_count": 8,
+          "media_count": 2829,
+          "tweet_count": 23448
+        },
+        "username": "wind_dmr",
+        "verified": false
+      }
+    ]
+  }
+}

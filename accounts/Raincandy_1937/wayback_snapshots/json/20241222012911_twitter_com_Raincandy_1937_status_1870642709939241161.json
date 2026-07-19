@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1870493209899766125",
+    "created_at": "2024-12-22T01:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T02:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870642709939241161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1822877849277378560",
+          "start": 0,
+          "username": "049hate_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870642709939241161",
+    "in_reply_to_user_id": "1822877849277378560",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870493209899766125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@049hate_ 🫳🫳"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1870493209899766125].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1870493209899766125",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1870493209899766125"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1870493209899766125",
+        "created_at": "2024-12-22T01:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T02:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870642709939241161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1822877849277378560",
+              "start": 0,
+              "username": "049hate_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870642709939241161",
+        "in_reply_to_user_id": "1822877849277378560",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870493209899766125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@049hate_ 🫳🫳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 566,
+          "like_count": 3586,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1988
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T06:08:48.000Z",
+        "description": "11.4//留在了 回不去的昨天",
+        "id": "1822877849277378560",
+        "location": "あいしてるのに",
+        "name": "根号二",
+        "pinned_tweet_id": "1860262581409317018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850591848752107520/JjRU7p_z_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 21,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 203
+        },
+        "username": "049hate_",
+        "verified": false
+      }
+    ]
+  }
+}

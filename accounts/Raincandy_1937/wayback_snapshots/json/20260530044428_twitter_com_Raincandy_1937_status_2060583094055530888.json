@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2060441847667871947",
+    "created_at": "2026-05-30T04:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T05:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060583094055530888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2032313131746410497",
+          "start": 0,
+          "username": "shairnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060583094055530888",
+    "in_reply_to_user_id": "2032313131746410497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060441847667871947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shairnn 11，先算乘除，再算加減，乘除法從左往右運算，加減法也一樣。8÷2*3的結果是12，6+12-7就會得到11。，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 698,
+        "media_key": "3_2060441841317597187",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgo8CAWUAMezFV.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2060441847667871947",
+        "created_at": "2026-05-30T04:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060583094055530888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2032313131746410497",
+              "start": 0,
+              "username": "shairnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060583094055530888",
+        "in_reply_to_user_id": "2032313131746410497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060441847667871947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shairnn 11，先算乘除，再算加減，乘除法從左往右運算，加減法也一樣。8÷2*3的結果是12，6+12-7就會得到11。，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060441841317597187"
+          ]
+        },
+        "author_id": "2032313131746410497",
+        "conversation_id": "2060441847667871947",
+        "created_at": "2026-05-29T19:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060441847667871947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TJBG9JZHyO",
+              "end": 92,
+              "expanded_url": "https://x.com/shairnn/status/2060441847667871947/photo/1",
+              "media_key": "3_2060441841317597187",
+              "start": 69,
+              "url": "https://t.co/TJBG9JZHyO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060441847667871947",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 163,
+          "impression_count": 232674,
+          "like_count": 437,
+          "quote_count": 65,
+          "reply_count": 2804,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "bunu çözersen, IQ seviyen ortalamanın üstündedir.\n\n çözebilir misin? https://t.co/TJBG9JZHyO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 1715,
+          "like_count": 16039,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 7006
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-13T04:30:44.000Z",
+        "description": "Takip etmeyene kara büyü yapıyorum ☄️",
+        "id": "2032313131746410497",
+        "name": "Canan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055920137442672641/60kt4oGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3030,
+          "following_count": 3090,
+          "like_count": 6975,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 6346
+        },
+        "username": "shairnn",
+        "verified": true
+      }
+    ]
+  }
+}

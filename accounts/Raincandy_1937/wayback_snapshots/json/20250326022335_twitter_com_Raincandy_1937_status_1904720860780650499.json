@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1904720860780650499",
+    "created_at": "2025-03-26T02:23:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T03:23:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904720860780650499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1586332050528915457",
+          "start": 3,
+          "username": "lilaoshizuikeai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904720860780650499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904504765154836653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilaoshizuikeai: 我需要更正一下，寻衅滋事那还是白纸运动之后给我的定性。李克强逝世这件事之后我已经被升格为煽动颠覆国家政权了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1904720860780650499",
+        "created_at": "2025-03-26T02:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T03:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904720860780650499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1586332050528915457",
+              "start": 3,
+              "username": "lilaoshizuikeai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904720860780650499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904504765154836653",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilaoshizuikeai: 我需要更正一下，寻衅滋事那还是白纸运动之后给我的定性。李克强逝世这件事之后我已经被升格为煽动颠覆国家政权了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586332050528915457",
+        "conversation_id": "1904504765154836653",
+        "created_at": "2025-03-25T12:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T13:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904504765154836653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CDTChinese/sta…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/CDTChinese/status/1904429782529605777",
+              "start": 55,
+              "url": "https://t.co/UaYevfvctk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904504765154836653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 188901,
+          "like_count": 1450,
+          "quote_count": 6,
+          "reply_count": 80,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904429782529605777",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我需要更正一下，寻衅滋事那还是白纸运动之后给我的定性。李克强逝世这件事之后我已经被升格为煽动颠覆国家政权了。 https://t.co/UaYevfvctk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 946,
+          "like_count": 7002,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 3640
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T12:20:25.000Z",
+        "description": "与你进退也共鸣",
+        "id": "1586332050528915457",
+        "location": "猴管",
+        "name": "Lee1ng",
+        "pinned_tweet_id": "1657814793439289346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600861407104335873/PIQM5Ii9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236096,
+          "following_count": 665,
+          "like_count": 4760,
+          "listed_count": 1279,
+          "media_count": 1325,
+          "tweet_count": 6722
+        },
+        "username": "lilaoshizuikeai",
+        "verified": true
+      }
+    ]
+  }
+}

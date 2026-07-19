@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062694349331214336"
+      ],
+      "media_source_tweet_id": [
+        "2062750258182975805"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2062879939725304142",
+    "created_at": "2026-06-05T12:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062879939725304142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975500696427581440",
+          "start": 3,
+          "username": "TReverie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bYOL7VCHDX",
+          "end": 58,
+          "expanded_url": "https://x.com/TReverie/status/2062750258182975805/photo/1",
+          "media_key": "3_2062694349331214336",
+          "start": 35,
+          "url": "https://t.co/bYOL7VCHDX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062879939725304142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062750258182975805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TReverie: 中国最优秀的一批年轻人最后死的死，逃的逃 https://t.co/bYOL7VCHDX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1084,
+        "media_key": "3_2062694349331214336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKAplQQXsAAJMUv.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062694349331214336"
+          ],
+          "media_source_tweet_id": [
+            "2062750258182975805"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2062879939725304142",
+        "created_at": "2026-06-05T12:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062879939725304142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975500696427581440",
+              "start": 3,
+              "username": "TReverie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYOL7VCHDX",
+              "end": 58,
+              "expanded_url": "https://x.com/TReverie/status/2062750258182975805/photo/1",
+              "media_key": "3_2062694349331214336",
+              "start": 35,
+              "url": "https://t.co/bYOL7VCHDX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062879939725304142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062750258182975805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TReverie: 中国最优秀的一批年轻人最后死的死，逃的逃 https://t.co/bYOL7VCHDX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062694349331214336"
+          ]
+        },
+        "author_id": "1975500696427581440",
+        "conversation_id": "2062750258182975805",
+        "created_at": "2026-06-05T04:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062750258182975805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYOL7VCHDX",
+              "end": 44,
+              "expanded_url": "https://x.com/TReverie/status/2062750258182975805/photo/1",
+              "media_key": "3_2062694349331214336",
+              "start": 21,
+              "url": "https://t.co/bYOL7VCHDX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062750258182975805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 6266,
+          "like_count": 407,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "中国最优秀的一批年轻人最后死的死，逃的逃 https://t.co/bYOL7VCHDX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 1719,
+          "like_count": 16374,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 7134
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "Taiwan is an independent country",
+        "id": "1975500696427581440",
+        "location": "China",
+        "name": "Tiny Reverie🇺🇸✝️",
+        "pinned_tweet_id": "2048649828381626554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058842339347759104/3B_gYklj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11360,
+          "following_count": 1805,
+          "like_count": 23748,
+          "listed_count": 91,
+          "media_count": 1758,
+          "tweet_count": 5283
+        },
+        "username": "TReverie",
+        "verified": true
+      }
+    ]
+  }
+}

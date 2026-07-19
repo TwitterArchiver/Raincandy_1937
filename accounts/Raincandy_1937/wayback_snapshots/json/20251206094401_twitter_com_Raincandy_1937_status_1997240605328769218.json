@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1997240605328769218",
+    "created_at": "2025-12-06T09:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T10:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997240605328769218"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jianlvup/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/jianlvup/status/1997084749253562401",
+          "start": 5,
+          "url": "https://t.co/LQttgjtxYP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997240605328769218",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997084749253562401",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "拭目以待 https://t.co/LQttgjtxYP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1023,
+        "media_key": "3_1997084746455846912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7cR_vLaEAAAeZM.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1997240605328769218",
+        "created_at": "2025-12-06T09:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T10:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997240605328769218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jianlvup/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/jianlvup/status/1997084749253562401",
+              "start": 5,
+              "url": "https://t.co/LQttgjtxYP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997240605328769218",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997084749253562401",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拭目以待 https://t.co/LQttgjtxYP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997084746455846912"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "1997084749253562401",
+        "created_at": "2025-12-05T23:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T00:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997084749253562401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQKsWQ3OG3",
+              "end": 45,
+              "expanded_url": "https://x.com/jianlvup/status/1997084749253562401/photo/1",
+              "media_key": "3_1997084746455846912",
+              "start": 22,
+              "url": "https://t.co/PQKsWQ3OG3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997084749253562401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 177442,
+          "like_count": 1029,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "如何评价良子12月1日最新公开的体检报告? https://t.co/PQKsWQ3OG3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 1467,
+          "like_count": 12232,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 5717
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人  INTJ 欢迎讨论交流 爱评论点赞 华北人\n逃生舱：@jianlvya\n搭档:@KawawaDiana8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "jianlvya"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1997085469730132373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992981633105113088/ZtR4hyl0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13123,
+          "following_count": 1119,
+          "like_count": 61769,
+          "listed_count": 46,
+          "media_count": 2169,
+          "tweet_count": 4905
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

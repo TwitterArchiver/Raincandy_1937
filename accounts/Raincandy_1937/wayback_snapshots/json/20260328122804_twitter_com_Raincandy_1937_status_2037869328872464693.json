@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037847483553124352"
+      ],
+      "media_source_tweet_id": [
+        "2037847485969060340"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2037869328872464693",
+    "created_at": "2026-03-28T12:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T13:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037869328872464693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1968187553695272960",
+          "start": 3,
+          "username": "EzraRan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pTEsxP2qMa",
+          "end": 52,
+          "expanded_url": "https://x.com/EzraRan_/status/2037847485969060340/photo/1",
+          "media_key": "3_2037847483553124352",
+          "start": 29,
+          "url": "https://t.co/pTEsxP2qMa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037869328872464693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037847485969060340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EzraRan_: 作者在未被警告前发布的声明： https://t.co/pTEsxP2qMa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1410,
+        "media_key": "3_2037847483553124352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfjfUObkAAhCin.jpg",
+        "width": 324
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037847483553124352"
+          ],
+          "media_source_tweet_id": [
+            "2037847485969060340"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2037869328872464693",
+        "created_at": "2026-03-28T12:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T13:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037869328872464693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1968187553695272960",
+              "start": 3,
+              "username": "EzraRan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pTEsxP2qMa",
+              "end": 52,
+              "expanded_url": "https://x.com/EzraRan_/status/2037847485969060340/photo/1",
+              "media_key": "3_2037847483553124352",
+              "start": 29,
+              "url": "https://t.co/pTEsxP2qMa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037869328872464693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037847485969060340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EzraRan_: 作者在未被警告前发布的声明： https://t.co/pTEsxP2qMa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037847483553124352"
+          ]
+        },
+        "author_id": "1968187553695272960",
+        "conversation_id": "2037777181603197437",
+        "created_at": "2026-03-28T11:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037847485969060340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pTEsxP2qMa",
+              "end": 38,
+              "expanded_url": "https://x.com/EzraRan_/status/2037847485969060340/photo/1",
+              "media_key": "3_2037847483553124352",
+              "start": 15,
+              "url": "https://t.co/pTEsxP2qMa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037847485969060340",
+        "in_reply_to_user_id": "1968187553695272960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 735,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037777181603197437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "作者在未被警告前发布的声明： https://t.co/pTEsxP2qMa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 1597,
+          "like_count": 14134,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 6514
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T05:37:44.000Z",
+        "description": "Become who you are.\n自由主義。レン エジュラ\n「我希望我的生活與選擇，能夠由我本身來決定，而不取決於任何外界的力量。我希望成為我自己的意志，而不是別人意志的工具；希望成為主體，而不是他人行為的對象；我希望我的行為出於我自己的理性、有意識之目的，而不是出於外來的原因。」\n–以賽亞•柏林《兩種自由概念》",
+        "id": "1968187553695272960",
+        "location": "先有獨立人格之國民，\n才有強大安寧之國家。",
+        "name": "漣 絵樹羅",
+        "pinned_tweet_id": "1982437804266442854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993195957132181506/QEgIPinV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 2250,
+          "like_count": 30251,
+          "listed_count": 5,
+          "media_count": 1284,
+          "tweet_count": 9587
+        },
+        "username": "EzraRan_",
+        "verified": false
+      }
+    ]
+  }
+}

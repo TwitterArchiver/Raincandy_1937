@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900552308949006",
+          "name": "MOBAs"
+        }
+      }
+    ],
+    "conversation_id": "1976981079086284966",
+    "created_at": "2025-10-11T12:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T13:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976984897375060319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1597567529303437315",
+          "start": 0,
+          "username": "dzhdo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976984897375060319",
+    "in_reply_to_user_id": "1597567529303437315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976981079086284966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dzhdo2 未来随着MOBA游戏本身发展和类型合并，可能有游戏将会延续现下部分社交MOBA的发展方向，制造一个每场对局都只为个别用户量身打造的“竞技”箱庭。游戏开发，运营者从玩家手中回收控制权的力度在加大，多人游戏将抢先沦为控制玩家的电子囚笼。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1976981064846635008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-lzdHbcAAvjpE.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          }
+        ],
+        "conversation_id": "1976981079086284966",
+        "created_at": "2025-10-11T12:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T13:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976984897375060319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1597567529303437315",
+              "start": 0,
+              "username": "dzhdo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976984897375060319",
+        "in_reply_to_user_id": "1597567529303437315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976981079086284966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzhdo2 未来随着MOBA游戏本身发展和类型合并，可能有游戏将会延续现下部分社交MOBA的发展方向，制造一个每场对局都只为个别用户量身打造的“竞技”箱庭。游戏开发，运营者从玩家手中回收控制权的力度在加大，多人游戏将抢先沦为控制玩家的电子囚笼。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976981064846635008"
+          ]
+        },
+        "author_id": "1597567529303437315",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          }
+        ],
+        "conversation_id": "1976981079086284966",
+        "created_at": "2025-10-11T11:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T12:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976981079086284966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NtQmQIzcOb",
+              "end": 172,
+              "expanded_url": "https://x.com/dzhdo2/status/1976981079086284966/photo/1",
+              "media_key": "3_1976981064846635008",
+              "start": 149,
+              "url": "https://t.co/NtQmQIzcOb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976981079086284966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "MOBA游戏——是以如何消费“人”与拟象“ai”并以如何重新以更完备的欲望去完善下一次对抗，其“技术”表面的差异，而依然让或自然秩序井然如同面多加水，水多加面运行下去。当面临危机（守护基地）“人类”做出在这种情况下仍然要同队友竞争中立资源无机物争吵，虐杀。仍然是这种游戏如何不在全场只有你一个真人 https://t.co/NtQmQIzcOb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 1380,
+          "like_count": 10707,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 5258
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T12:26:15.000Z",
+        "description": "シュポガキたちの雑魚\n请勿骚扰与模拟（）\nhttps://t.co/s2g6Madzmv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jfdhxgj/",
+                "end": 44,
+                "expanded_url": "https://ngl.link/jfdhxgj/",
+                "start": 21,
+                "url": "https://t.co/s2g6Madzmv"
+              }
+            ]
+          }
+        },
+        "id": "1597567529303437315",
+        "location": "阴影",
+        "name": "攫备饴（ungrounding）",
+        "pinned_tweet_id": "1908339027066954228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730306563435335680/AssLtYPK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 822,
+          "like_count": 7648,
+          "listed_count": 4,
+          "media_count": 491,
+          "tweet_count": 1842
+        },
+        "username": "dzhdo2",
+        "verified": false
+      }
+    ]
+  }
+}

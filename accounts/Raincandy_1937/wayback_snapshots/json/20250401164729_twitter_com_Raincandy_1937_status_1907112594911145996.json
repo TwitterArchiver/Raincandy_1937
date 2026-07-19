@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906848106190188544"
+      ],
+      "media_source_tweet_id": [
+        "1906848108123942959"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1907112594911145996",
+    "created_at": "2025-04-01T16:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T17:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907112594911145996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1816168705199333376",
+          "start": 3,
+          "username": "kowloonnathan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WCO9oWDyTy",
+          "end": 69,
+          "expanded_url": "https://x.com/kowloonnathan/status/1906848108123942959/photo/1",
+          "media_key": "3_1906848106190188544",
+          "start": 46,
+          "url": "https://t.co/WCO9oWDyTy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907112594911145996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906848108123942959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kowloonnathan: 推特上用母狗骂人的-÷黄推，会被真正的母狗掏缸而亖。 https://t.co/WCO9oWDyTy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 925,
+        "media_key": "3_1906848106190188544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnZ8P-oXsAArF-m.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906848106190188544"
+          ],
+          "media_source_tweet_id": [
+            "1906848108123942959"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1907112594911145996",
+        "created_at": "2025-04-01T16:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T17:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907112594911145996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1816168705199333376",
+              "start": 3,
+              "username": "kowloonnathan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WCO9oWDyTy",
+              "end": 69,
+              "expanded_url": "https://x.com/kowloonnathan/status/1906848108123942959/photo/1",
+              "media_key": "3_1906848106190188544",
+              "start": 46,
+              "url": "https://t.co/WCO9oWDyTy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907112594911145996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906848108123942959",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kowloonnathan: 推特上用母狗骂人的-÷黄推，会被真正的母狗掏缸而亖。 https://t.co/WCO9oWDyTy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906848106190188544"
+          ]
+        },
+        "author_id": "1816168705199333376",
+        "conversation_id": "1906848108123942959",
+        "created_at": "2025-03-31T23:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T00:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906848108123942959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WCO9oWDyTy",
+              "end": 50,
+              "expanded_url": "https://x.com/kowloonnathan/status/1906848108123942959/photo/1",
+              "media_key": "3_1906848106190188544",
+              "start": 27,
+              "url": "https://t.co/WCO9oWDyTy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906848108123942959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4529,
+          "like_count": 197,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "推特上用母狗骂人的-÷黄推，会被真正的母狗掏缸而亖。 https://t.co/WCO9oWDyTy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 961,
+          "like_count": 7329,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 3791
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T17:49:06.000Z",
+        "description": "RadFem🦖🍽️🍇 | 树洞小号 | 关注不代表认同",
+        "id": "1816168705199333376",
+        "location": "TerfIsland",
+        "name": "89Nathan64",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872304540147490816/Pj5RWQhD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 192,
+          "like_count": 13728,
+          "listed_count": 5,
+          "media_count": 17,
+          "tweet_count": 1097
+        },
+        "username": "kowloonnathan",
+        "verified": false
+      }
+    ]
+  }
+}

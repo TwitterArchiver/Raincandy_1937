@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1906925088798294339",
+    "created_at": "2025-04-01T04:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T05:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906925088798294339"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1906707743756652963",
+          "start": 17,
+          "url": "https://t.co/Gyr1452L9p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906925088798294339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906707743756652963",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "从此之后两不亏欠，开启新的人生吧 https://t.co/Gyr1452L9p"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 113130,
+        "height": 720,
+        "media_key": "7_1906704756741140480",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1906704756741140480/pu/img/JrgxPvn2gzQaAyHY.jpg",
+        "public_metrics": {
+          "view_count": 91399
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906704756741140480/pu/vid/avc1/320x564/KoPumBc7Ncb_N97E.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906704756741140480/pu/vid/avc1/408x720/rjZshg5x-CYttD7d.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1906704756741140480/pu/pl/T7E5nt_rrps_GZU9.m3u8?tag=12&v=05c"
+          }
+        ],
+        "width": 408
+      },
+      {
+        "height": 1669,
+        "media_key": "3_1906705033154207744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnX6ICCbIAA78K1.jpg",
+        "width": 1290
+      },
+      {
+        "duration_ms": 26213,
+        "height": 1280,
+        "media_key": "7_1906705797880692736",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1906705797880692736/pu/img/Wh7bC6nSbFr6TKKD.jpg",
+        "public_metrics": {
+          "view_count": 11111
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906705797880692736/pu/vid/avc1/320x568/we6s8fo5W9kUmAsU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906705797880692736/pu/vid/avc1/480x852/JQZgrPIvR6CMByGW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906705797880692736/pu/vid/avc1/720x1280/VC62xa0776FThnQ9.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1906705797880692736/pu/pl/YqTUlbjLEG5_kgOW.m3u8?tag=12&v=c5a"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1906925088798294339",
+        "created_at": "2025-04-01T04:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T05:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906925088798294339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1906707743756652963",
+              "start": 17,
+              "url": "https://t.co/Gyr1452L9p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906925088798294339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906707743756652963",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从此之后两不亏欠，开启新的人生吧 https://t.co/Gyr1452L9p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1906704756741140480",
+            "3_1906705033154207744",
+            "7_1906705797880692736"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1906707743756652963",
+        "created_at": "2025-03-31T13:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T14:56:58.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906707294714576937",
+          "1906707743756652963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5aLtWgp9z0",
+              "end": 160,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1906707743756652963/video/1",
+              "media_key": "7_1906704756741140480",
+              "start": 137,
+              "url": "https://t.co/5aLtWgp9z0"
+            },
+            {
+              "display_url": "pic.x.com/5aLtWgp9z0",
+              "end": 160,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1906707743756652963/video/1",
+              "media_key": "3_1906705033154207744",
+              "start": 137,
+              "url": "https://t.co/5aLtWgp9z0"
+            },
+            {
+              "display_url": "pic.x.com/5aLtWgp9z0",
+              "end": 160,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1906707743756652963/video/1",
+              "media_key": "7_1906705797880692736",
+              "start": 137,
+              "url": "https://t.co/5aLtWgp9z0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906707743756652963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "3月30日，浙江嘉兴。一名女子站在桥边欲跳桥，并拍视频称：“爹妈，我这辈子投胎投错了，我知道你们恨我不是男孩子，怪我没出息，怪我买不起车买不起房，我对不起你们，我现在把命还给你们” 女子将视频发给父亲，结果还遭到父亲指责：“你死就死啊，你以为谁会留你吗？你死了也没多大事”\n 最终女子被三名男生救下，路人也安慰她，她还收到了数百条慰问的私信。女子表示嘉兴是一座温暖的城市，好像这个世界也没那么糟糕。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 229842,
+          "like_count": 808,
+          "quote_count": 15,
+          "reply_count": 147,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "3月30日，浙江嘉兴。一名女子站在桥边欲跳桥，并拍视频称：“爹妈，我这辈子投胎投错了，我知道你们恨我不是男孩子，怪我没出息，怪我买不起车买不起房，我对不起你们，我现在把命还给你们” 女子将视频发给父亲，结果还遭到父亲指责：“你死就死啊，你以为谁会留你吗？你死了也没多大事” https://t.co/5aLtWgp9z0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 959,
+          "like_count": 7267,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 3756
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1964206,
+          "following_count": 946,
+          "like_count": 6133,
+          "listed_count": 8077,
+          "media_count": 25724,
+          "tweet_count": 32136
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

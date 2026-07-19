@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1918254560675783090",
+    "created_at": "2025-05-02T13:41:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T14:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918299713541165300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1856869593052237824",
+          "start": 0,
+          "username": "cyberknight4396"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918299713541165300",
+    "in_reply_to_user_id": "1856869593052237824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918254560675783090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyberknight4396 我也蹲一个关于warlock的解释"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_1918254545521844224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp8CWIaboAAHv5X.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1918254560675783090",
+        "created_at": "2025-05-02T13:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T14:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918299713541165300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1856869593052237824",
+              "start": 0,
+              "username": "cyberknight4396"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918299713541165300",
+        "in_reply_to_user_id": "1856869593052237824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918254560675783090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyberknight4396 我也蹲一个关于warlock的解释"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918254545521844224"
+          ]
+        },
+        "author_id": "1856869593052237824",
+        "conversation_id": "1918254560675783090",
+        "created_at": "2025-05-02T10:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T11:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918254560675783090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JKCedu47hF",
+              "end": 88,
+              "expanded_url": "https://x.com/cyberknight4396/status/1918254560675783090/photo/1",
+              "media_key": "3_1918254545521844224",
+              "start": 65,
+              "url": "https://t.co/JKCedu47hF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918254560675783090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不错\n终于不把巫师=男巫了\n给翻译点个赞\n\n不过他这不是wizard是warlock\n我不知道区别，warlock是专指男觋吗？ https://t.co/JKCedu47hF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 1086,
+          "like_count": 8111,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 4195
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T01:20:03.000Z",
+        "description": "激进跨权主义｜无政府共产主义｜推翻性别二元｜打倒父亲｜摧毁婚姻制｜极左恐怖分子☠️｜超人类主义👾｜全世界被压迫者联合起来🏳️‍🌈🏳️‍⚧️🏴‍☠️🏴🚩🌐💪🏾🦾🔥🍾｜🧙: @BAnarchistKUNIN｜📡: @Fareastelecommi ｜🌐: @gherojamslava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "BAnarchistKUNIN"
+              },
+              {
+                "end": 121,
+                "start": 105,
+                "username": "Fareastelecommi"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "gherojamslava"
+              }
+            ]
+          }
+        },
+        "id": "1856869593052237824",
+        "location": "蚁村",
+        "name": "Ⓐ赛博骑士☭ 🎃轻蔑时代📜",
+        "pinned_tweet_id": "1911990837778722921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910987337342857216/kd1lpULX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 373,
+          "like_count": 18599,
+          "listed_count": 5,
+          "media_count": 468,
+          "tweet_count": 8470
+        },
+        "username": "cyberknight4396",
+        "verified": false
+      }
+    ]
+  }
+}

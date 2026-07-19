@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2054559192384680022",
+    "created_at": "2026-05-13T13:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T14:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054559192384680022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727273302857822208",
+          "start": 3,
+          "username": "sisi7758"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054559192384680022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054252430922268900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sisi7758: 最能体现一个人不被爱没安全感的事情就是晚睡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2054559192384680022",
+        "created_at": "2026-05-13T13:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054559192384680022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727273302857822208",
+              "start": 3,
+              "username": "sisi7758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054559192384680022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054252430922268900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sisi7758: 最能体现一个人不被爱没安全感的事情就是晚睡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727273302857822208",
+        "conversation_id": "2054252430922268900",
+        "created_at": "2026-05-12T17:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T18:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054252430922268900"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054252430922268900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 26913,
+          "like_count": 442,
+          "quote_count": 9,
+          "reply_count": 62,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "最能体现一个人不被爱没安全感的事情就是晚睡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 1655,
+          "like_count": 15141,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 6773
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T10:30:33.000Z",
+        "description": "喜欢女生 小小思@sisidawang123 盗图替我挡灾 推广自辨 谢谢你的喜欢^_^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "sisidawang123"
+              }
+            ]
+          }
+        },
+        "id": "1727273302857822208",
+        "location": "加联系方式需要过🚪(｡ì _ í｡) 188/520",
+        "name": "sisi",
+        "pinned_tweet_id": "1849324033722179911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833178858688032768/L96o5aM8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12897,
+          "following_count": 12,
+          "like_count": 2210,
+          "listed_count": 32,
+          "media_count": 163,
+          "tweet_count": 1411
+        },
+        "username": "sisi7758",
+        "verified": false
+      }
+    ]
+  }
+}

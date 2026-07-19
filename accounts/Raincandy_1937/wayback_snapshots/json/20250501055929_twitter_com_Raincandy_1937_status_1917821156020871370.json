@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917746304043868161"
+      ],
+      "media_source_tweet_id": [
+        "1917746324780507396"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1917821156020871370",
+    "created_at": "2025-05-01T05:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T06:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917821156020871370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1042070984663162880",
+          "start": 3,
+          "username": "tw111111111111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mdev6lsn5F",
+          "end": 43,
+          "expanded_url": "https://x.com/tw111111111111/status/1917746324780507396/photo/1",
+          "media_key": "3_1917746304043868161",
+          "start": 20,
+          "url": "https://t.co/mdev6lsn5F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917821156020871370",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917746324780507396",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tw111111111111: https://t.co/mdev6lsn5F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 845,
+        "media_key": "3_1917746304043868161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp00GlXaYAE-STK.jpg",
+        "width": 678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917746304043868161"
+          ],
+          "media_source_tweet_id": [
+            "1917746324780507396"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1917821156020871370",
+        "created_at": "2025-05-01T05:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T06:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917821156020871370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1042070984663162880",
+              "start": 3,
+              "username": "tw111111111111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdev6lsn5F",
+              "end": 43,
+              "expanded_url": "https://x.com/tw111111111111/status/1917746324780507396/photo/1",
+              "media_key": "3_1917746304043868161",
+              "start": 20,
+              "url": "https://t.co/mdev6lsn5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917821156020871370",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917746324780507396",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tw111111111111: https://t.co/mdev6lsn5F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917746304043868161"
+          ]
+        },
+        "author_id": "1042070984663162880",
+        "conversation_id": "1917746324780507396",
+        "created_at": "2025-05-01T01:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T02:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917746324780507396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdev6lsn5F",
+              "end": 23,
+              "expanded_url": "https://x.com/tw111111111111/status/1917746324780507396/photo/1",
+              "media_key": "3_1917746304043868161",
+              "start": 0,
+              "url": "https://t.co/mdev6lsn5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917746324780507396",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 7810,
+          "like_count": 456,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mdev6lsn5F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 1072,
+          "like_count": 8100,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 4187
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-18T15:20:58.000Z",
+        "description": "本推帳資訊如果想轉出鎖推或平台，請自便且不用附上來源。\n\n0407防災包清單：（免洗帳號，手機下載檔名可能會變成亂碼）\n\nhttps://t.co/oIswLApsjo\n\n下面的網址是東京防災手冊",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "drive.google.com/drive/folders/…",
+                "end": 84,
+                "expanded_url": "https://drive.google.com/drive/folders/1v8KN9c_h42Onhy_WDuS8jwFQ8EPv6OJM",
+                "start": 61,
+                "url": "https://t.co/oIswLApsjo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "metro.tokyo.lg.jp/chinese/guide/…",
+                "end": 23,
+                "expanded_url": "https://www.metro.tokyo.lg.jp/chinese/guide/bosai/index.html",
+                "start": 0,
+                "url": "https://t.co/lDr9z6ujdM"
+              }
+            ]
+          }
+        },
+        "id": "1042070984663162880",
+        "name": "🌑",
+        "pinned_tweet_id": "1907782853649379833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746219569201692672/QdyQSplc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15177,
+          "following_count": 965,
+          "like_count": 243703,
+          "listed_count": 57,
+          "media_count": 40057,
+          "tweet_count": 104600
+        },
+        "url": "https://t.co/lDr9z6ujdM",
+        "username": "tw111111111111",
+        "verified": false
+      }
+    ]
+  }
+}

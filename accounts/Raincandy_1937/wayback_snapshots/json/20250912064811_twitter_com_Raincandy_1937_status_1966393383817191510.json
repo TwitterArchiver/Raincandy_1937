@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965756095848501248"
+      ],
+      "media_source_tweet_id": [
+        "1965756098323112384"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1966393383817191510",
+    "created_at": "2025-09-12T06:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T07:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966393383817191510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1164004665027022849",
+          "start": 3,
+          "username": "hkguy1988"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H3Tld6B3WK",
+          "end": 60,
+          "expanded_url": "https://x.com/hkguy1988/status/1965756098323112384/photo/1",
+          "media_key": "3_1965756095848501248",
+          "start": 37,
+          "url": "https://t.co/H3Tld6B3WK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966393383817191510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 126
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965756098323112384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hkguy1988: 六年前的今天，大家又在做什麼？\n勿忘初心。 https://t.co/H3Tld6B3WK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 970,
+        "media_key": "3_1965756095848501248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0fEwRAb0AAiCQH.jpg",
+        "width": 764
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965756095848501248"
+          ],
+          "media_source_tweet_id": [
+            "1965756098323112384"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1966393383817191510",
+        "created_at": "2025-09-12T06:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T07:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966393383817191510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1164004665027022849",
+              "start": 3,
+              "username": "hkguy1988"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H3Tld6B3WK",
+              "end": 60,
+              "expanded_url": "https://x.com/hkguy1988/status/1965756098323112384/photo/1",
+              "media_key": "3_1965756095848501248",
+              "start": 37,
+              "url": "https://t.co/H3Tld6B3WK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966393383817191510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965756098323112384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hkguy1988: 六年前的今天，大家又在做什麼？\n勿忘初心。 https://t.co/H3Tld6B3WK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965756095848501248"
+          ]
+        },
+        "author_id": "1164004665027022849",
+        "conversation_id": "1965756098323112384",
+        "created_at": "2025-09-10T12:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T13:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965756098323112384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H3Tld6B3WK",
+              "end": 45,
+              "expanded_url": "https://x.com/hkguy1988/status/1965756098323112384/photo/1",
+              "media_key": "3_1965756095848501248",
+              "start": 22,
+              "url": "https://t.co/H3Tld6B3WK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965756098323112384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 400447,
+          "like_count": 1871,
+          "quote_count": 6,
+          "reply_count": 50,
+          "retweet_count": 126
+        },
+        "reply_settings": "everyone",
+        "text": "六年前的今天，大家又在做什麼？\n勿忘初心。 https://t.co/H3Tld6B3WK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 1315,
+          "like_count": 9861,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 5012
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-21T02:42:05.000Z",
+        "description": "香港網絡漫畫家\n典型買唔到樓嘅廢青，唔甘心就咁樣被社會埋沒，努力於用火柴人發聲！我係2021年開始了全職創作漫畫，目標是讓更多人包括外國關注香港發生緊嘅事。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/oneaguy",
+                "end": 23,
+                "expanded_url": "http://patreon.com/oneaguy",
+                "start": 0,
+                "url": "https://t.co/UUTsgmoqvv"
+              }
+            ]
+          }
+        },
+        "id": "1164004665027022849",
+        "location": "Hong Kong",
+        "name": "一個人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1405384274056937474/c2HEsXU1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16750,
+          "following_count": 460,
+          "like_count": 910,
+          "listed_count": 77,
+          "media_count": 1001,
+          "tweet_count": 1194
+        },
+        "url": "https://t.co/UUTsgmoqvv",
+        "username": "hkguy1988",
+        "verified": false
+      }
+    ]
+  }
+}

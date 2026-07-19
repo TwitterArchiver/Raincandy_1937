@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883143991727964160"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1883144928798322884",
+    "created_at": "2025-01-25T13:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T14:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883144928798322884"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I5qltxsRJO",
+          "end": 42,
+          "expanded_url": "https://x.com/Raincandy_1937/status/1883144928798322884/photo/1",
+          "media_key": "3_1883143991727964160",
+          "start": 19,
+          "url": "https://t.co/I5qltxsRJO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883144928798322884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就此作别……\n再启\n愿你们一生平安。 https://t.co/I5qltxsRJO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1028,
+        "media_key": "3_1883143991727964160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiJFe6_bQAALSwi.jpg",
+        "width": 1881
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883143991727964160"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1883144928798322884",
+        "created_at": "2025-01-25T13:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T14:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883144928798322884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I5qltxsRJO",
+              "end": 42,
+              "expanded_url": "https://x.com/Raincandy_1937/status/1883144928798322884/photo/1",
+              "media_key": "3_1883143991727964160",
+              "start": 19,
+              "url": "https://t.co/I5qltxsRJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883144928798322884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就此作别……\n再启\n愿你们一生平安。 https://t.co/I5qltxsRJO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 699,
+          "like_count": 5255,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 2660
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1898737421384298806",
+    "created_at": "2025-03-10T03:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T04:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898934925614776327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842423358216142849",
+          "start": 0,
+          "username": "keeganlike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898934925614776327",
+    "in_reply_to_user_id": "1842423358216142849",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898737421384298806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keeganlike 小岛秀夫（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11783,
+        "height": 1280,
+        "media_key": "13_1898737361711996928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1898737361711996928/img/8VBXGZv4nR7hybrp.jpg",
+        "public_metrics": {
+          "view_count": 418
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898737361711996928/vid/avc1/320x568/pDsQMnWCTKH4s2ZQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898737361711996928/vid/avc1/480x852/Nn0kun1aMqA-Os99.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898737361711996928/vid/avc1/720x1280/nzxBnjhlgt3y7lYF.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1898737361711996928/pl/9H8HEZeMiX8YyttL.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1898737421384298806",
+        "created_at": "2025-03-10T03:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T04:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898934925614776327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842423358216142849",
+              "start": 0,
+              "username": "keeganlike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898934925614776327",
+        "in_reply_to_user_id": "1842423358216142849",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898737421384298806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keeganlike 小岛秀夫（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1898737361711996928"
+          ]
+        },
+        "author_id": "1842423358216142849",
+        "conversation_id": "1898737421384298806",
+        "created_at": "2025-03-09T14:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T15:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898737421384298806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QKlQLQR9PF",
+              "end": 45,
+              "expanded_url": "https://x.com/keeganlike/status/1898737421384298806/video/1",
+              "media_key": "13_1898737361711996928",
+              "start": 22,
+              "url": "https://t.co/QKlQLQR9PF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898737421384298806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1077,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叠了四层特效 这下应该不会被发现是我吧（？ https://t.co/QKlQLQR9PF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 841,
+          "like_count": 6305,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 3241
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T04:36:02.000Z",
+        "description": "只是发泄罢了 纯绿 随缘加墙外 私信发屌死全家 不爱看就滚出去 欢迎女宝互动互fo 不和男的闲聊",
+        "id": "1842423358216142849",
+        "name": "泡泡",
+        "pinned_tweet_id": "1894778361903489177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843181486243287041/5smTRKPB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 293,
+          "like_count": 1167,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 2726
+        },
+        "username": "keeganlike",
+        "verified": false
+      }
+    ]
+  }
+}

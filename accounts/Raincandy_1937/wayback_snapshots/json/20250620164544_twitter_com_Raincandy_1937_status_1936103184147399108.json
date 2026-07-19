@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1936053168003334372",
+    "created_at": "2025-06-20T16:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T17:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936103184147399108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1796944071367467008",
+          "start": 0,
+          "username": "vkontakteluv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936103184147399108",
+    "in_reply_to_user_id": "1796944071367467008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936053168003334372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vkontakteluv 这种人是赢学入脑，只要能赢，哪怕自己扇自己大嘴巴子都行。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_1936052520406683648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt49gnlXEAAKTHO.jpg",
+        "width": 1192
+      },
+      {
+        "height": 1734,
+        "media_key": "3_1936052972481314816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt4967sWgAA-0mG.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1936053168003334372",
+        "created_at": "2025-06-20T16:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T17:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936103184147399108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1796944071367467008",
+              "start": 0,
+              "username": "vkontakteluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936103184147399108",
+        "in_reply_to_user_id": "1796944071367467008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936053168003334372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vkontakteluv 这种人是赢学入脑，只要能赢，哪怕自己扇自己大嘴巴子都行。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936052520406683648",
+            "3_1936052972481314816"
+          ]
+        },
+        "author_id": "1796944071367467008",
+        "conversation_id": "1936053168003334372",
+        "created_at": "2025-06-20T13:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T14:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936053168003334372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g9VKVjDvsZ",
+              "end": 85,
+              "expanded_url": "https://x.com/vkontakteluv/status/1936053168003334372/photo/1",
+              "media_key": "3_1936052520406683648",
+              "start": 62,
+              "url": "https://t.co/g9VKVjDvsZ"
+            },
+            {
+              "display_url": "pic.x.com/g9VKVjDvsZ",
+              "end": 85,
+              "expanded_url": "https://x.com/vkontakteluv/status/1936053168003334372/photo/1",
+              "media_key": "3_1936052972481314816",
+              "start": 62,
+              "url": "https://t.co/g9VKVjDvsZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936053168003334372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 522,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是我不懂幽默，但是看这些内容真的恶心到我）））我只能苦笑这个群体为什么能出这么奇葩的玩意儿，以后只好礼貌 mute 处理 https://t.co/g9VKVjDvsZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 1168,
+          "like_count": 8675,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 4469
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:37:18.000Z",
+        "description": "天天开心哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yesmtf.com",
+                "end": 23,
+                "expanded_url": "http://www.yesmtf.com",
+                "start": 0,
+                "url": "https://t.co/5117Ur78cr"
+              }
+            ]
+          }
+        },
+        "id": "1796944071367467008",
+        "location": "China",
+        "name": "YesMTF | Mahiro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916004288255455232/yoUjtWC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 1657,
+          "like_count": 5739,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 2944
+        },
+        "url": "https://t.co/5117Ur78cr",
+        "username": "vkontakteluv",
+        "verified": false
+      }
+    ]
+  }
+}

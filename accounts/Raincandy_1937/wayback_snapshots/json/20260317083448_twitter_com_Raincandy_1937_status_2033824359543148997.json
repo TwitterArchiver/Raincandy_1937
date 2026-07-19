@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2033824359543148997",
+    "created_at": "2026-03-17T08:34:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T09:34:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033824359543148997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033824359543148997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033808020325445873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: 上周四，特朗普政府宣布将性别焦虑重新划定为一种「心理疾病」，停止监狱中所有跨性别者的药物供应，没收ta们所有进行性别肯定的物品（包括化妆品，内衣，裹胸等等），并以心理治疗和抗抑郁药物取代，直到「性别焦虑被解决」。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2033824359543148997",
+        "created_at": "2026-03-17T08:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T09:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033824359543148997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033824359543148997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033808020325445873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: 上周四，特朗普政府宣布将性别焦虑重新划定为一种「心理疾病」，停止监狱中所有跨性别者的药物供应，没收ta们所有进行性别肯定的物品（包括化妆品，内衣，裹胸等等），并以心理治疗和抗抑郁药物取代，直到「性别焦虑被解决」。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "2033808020325445873",
+        "created_at": "2026-03-17T07:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T08:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033808020325445873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ogblackredguar…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/ogblackredguard/status/2033738542522741245",
+              "start": 107,
+              "url": "https://t.co/cXDhOZrZrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033808020325445873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3388,
+          "like_count": 72,
+          "quote_count": 4,
+          "reply_count": 14,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033738542522741245",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上周四，特朗普政府宣布将性别焦虑重新划定为一种「心理疾病」，停止监狱中所有跨性别者的药物供应，没收ta们所有进行性别肯定的物品（包括化妆品，内衣，裹胸等等），并以心理治疗和抗抑郁药物取代，直到「性别焦虑被解决」。 https://t.co/cXDhOZrZrk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 1573,
+          "like_count": 13793,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 6377
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "🏳️‍⚧️ ⚢ / ☭ / ɪɴᴛᴘ / ᴘʜᴅ @wgsi / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 25,
+                "username": "wgsi"
+              },
+              {
+                "end": 49,
+                "start": 36,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/HULOGnMPVV"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22943,
+          "following_count": 2657,
+          "like_count": 38544,
+          "listed_count": 1,
+          "media_count": 518,
+          "tweet_count": 20528
+        },
+        "url": "https://t.co/HULOGnMPVV",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

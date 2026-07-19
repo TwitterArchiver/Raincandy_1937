@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2060957459976728681",
+    "created_at": "2026-05-31T05:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T06:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060957459976728681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1321613388288577537",
+          "start": 3,
+          "username": "w3bli4_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060957459976728681",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 322
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060712318917361740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @w3bli4_: top piores coisas que um homem pode ser\n\n-agressivo\n-preconceituoso\n-machista\n-manipulador\n-insensível \n-violento\n-abusivo \n-e…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2060957459976728681",
+        "created_at": "2026-05-31T05:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060957459976728681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1321613388288577537",
+              "start": 3,
+              "username": "w3bli4_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060957459976728681",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 322
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060712318917361740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @w3bli4_: top piores coisas que um homem pode ser\n\n-agressivo\n-preconceituoso\n-machista\n-manipulador\n-insensível \n-violento\n-abusivo \n-e…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1321613388288577537",
+        "conversation_id": "2060712318917361740",
+        "created_at": "2026-05-30T13:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060712318917361740"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060712318917361740",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 34768,
+          "like_count": 1241,
+          "quote_count": 124,
+          "reply_count": 287,
+          "retweet_count": 322
+        },
+        "reply_settings": "everyone",
+        "text": "top piores coisas que um homem pode ser\n\n-agressivo\n-preconceituoso\n-machista\n-manipulador\n-insensível \n-violento\n-abusivo \n-egoísta \n-narcisista"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 1720,
+          "like_count": 16167,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 7048
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-29T00:42:56.000Z",
+        "description": "my boyfriend is very hot",
+        "id": "1321613388288577537",
+        "location": "hospício",
+        "name": "⋆ ˚｡⋆୨୧˚ lia ˚୨୧⋆｡˚ ⋆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059028570442264577/lstu6s1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8646,
+          "following_count": 2774,
+          "like_count": 34804,
+          "listed_count": 14,
+          "media_count": 61,
+          "tweet_count": 39233
+        },
+        "username": "w3bli4_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1890307450483663046",
+    "created_at": "2025-02-15T03:22:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T04:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890602655619133717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1819972017229369344",
+          "start": 0,
+          "username": "Happytreelover"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890602655619133717",
+    "in_reply_to_user_id": "1819972017229369344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890307450483663046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Happytreelover 是嘟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1890307450483663046",
+        "created_at": "2025-02-15T03:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T04:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890602655619133717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1819972017229369344",
+              "start": 0,
+              "username": "Happytreelover"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890602655619133717",
+        "in_reply_to_user_id": "1819972017229369344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890307450483663046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Happytreelover 是嘟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819972017229369344",
+        "conversation_id": "1890307450483663046",
+        "created_at": "2025-02-14T07:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T08:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890307450483663046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890307450483663046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13654,
+          "like_count": 118,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "简介上标了一句“取关随意”的意思是如果你没写这句对方把你取关了你会扔刀过去？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 792,
+          "like_count": 5973,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 3019
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T05:42:08.000Z",
+        "description": "真的抽象，抽的真相｜不会再爱上男推",
+        "id": "1819972017229369344",
+        "location": "真假之海",
+        "name": "柠檬马鞭草",
+        "pinned_tweet_id": "1868210111849914518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883603867646201856/75RsABUh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 177,
+          "like_count": 5770,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 3071
+        },
+        "username": "Happytreelover",
+        "verified": false
+      }
+    ]
+  }
+}

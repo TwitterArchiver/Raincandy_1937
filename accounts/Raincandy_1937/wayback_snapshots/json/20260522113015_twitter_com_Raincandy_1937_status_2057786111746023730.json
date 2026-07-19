@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2057518773444505930",
+    "created_at": "2026-05-22T11:30:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T12:30:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057786111746023730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1850747541257916416",
+          "start": 0,
+          "username": "A_Fake_Menma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057786111746023730",
+    "in_reply_to_user_id": "1850747541257916416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057783268460876191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A_Fake_Menma 我覺得可能是情節安排問題+超天/糖糖和卡拉馬佐夫的關係問題，這一部的超天/糖糖是前輩役，大家又是從上帝視點看這個故事的，可能糖糖給外人的印象就是不一樣（更像RUN WITH MY SICK的感覺？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2057518773444505930",
+        "created_at": "2026-05-22T11:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057786111746023730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1850747541257916416",
+              "start": 0,
+              "username": "A_Fake_Menma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057786111746023730",
+        "in_reply_to_user_id": "1850747541257916416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057783268460876191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A_Fake_Menma 我覺得可能是情節安排問題+超天/糖糖和卡拉馬佐夫的關係問題，這一部的超天/糖糖是前輩役，大家又是從上帝視點看這個故事的，可能糖糖給外人的印象就是不一樣（更像RUN WITH MY SICK的感覺？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850747541257916416",
+        "conversation_id": "2057518773444505930",
+        "created_at": "2026-05-22T11:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057783268460876191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1522094771136831488",
+              "start": 0,
+              "username": "Raincandy_1937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057783268460876191",
+        "in_reply_to_user_id": "1522094771136831488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057518773444505930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raincandy_1937 怎么说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 1683,
+          "like_count": 15515,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 6863
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T03:53:08.000Z",
+        "description": "🇨🇳From PRC/2005.11./大学专科生/ISFP/友跨顺男（大抵不会翻🏳️‍⚧）中🇨🇳日🇯🇵友好/中文/Eng ok/日本語が分かりません/头像带旭日旗的滚开谢谢\n（@TianqiChen666 & @LCG_Akiball愿你在另一个世界安好）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 89,
+                "username": "TianqiChen666"
+              },
+              {
+                "end": 118,
+                "start": 106,
+                "username": "LCG_Akiball"
+              }
+            ]
+          }
+        },
+        "id": "1850747541257916416",
+        "location": "未知之地",
+        "name": "Nikaido🌺Hiro (Witched)",
+        "pinned_tweet_id": "1904476676651888797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019084950730113024/G01nE7HX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 352,
+          "like_count": 4979,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 5370
+        },
+        "username": "A_Fake_Menma",
+        "verified": false
+      }
+    ]
+  }
+}

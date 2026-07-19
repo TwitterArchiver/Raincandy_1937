@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1968053380045291686",
+    "created_at": "2025-09-25T09:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T10:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971139120161579374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1109080684419670017",
+          "start": 0,
+          "username": "KillerBeeSweety"
+        },
+        {
+          "end": 23,
+          "id": "1592172867189293057",
+          "start": 17,
+          "username": "cxszb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971139120161579374",
+    "in_reply_to_user_id": "1109080684419670017",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968055395773198505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KillerBeeSweety @cxszb 🫂🫂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1968055395773198505].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1968055395773198505",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1968055395773198505"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1968053380045291686",
+        "created_at": "2025-09-25T09:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T10:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971139120161579374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1109080684419670017",
+              "start": 0,
+              "username": "KillerBeeSweety"
+            },
+            {
+              "end": 23,
+              "id": "1592172867189293057",
+              "start": 17,
+              "username": "cxszb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971139120161579374",
+        "in_reply_to_user_id": "1109080684419670017",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968055395773198505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KillerBeeSweety @cxszb 🫂🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 1356,
+          "like_count": 10350,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 5156
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-22T13:13:35.000Z",
+        "description": "已停止任何社交行为的里垢号，取关随意\n锁推/自用/心情/负面\n给你造成的不便我很荣幸",
+        "id": "1109080684419670017",
+        "name": "ミズキ",
+        "pinned_tweet_id": "1965298679058956410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944187600211693568/mU5VXh-x_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 16150,
+          "following_count": 2,
+          "like_count": 29570,
+          "listed_count": 20,
+          "media_count": 2269,
+          "tweet_count": 20885
+        },
+        "username": "KillerBeeSweety",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T15:09:37.000Z",
+        "description": "03/非二元MTX药娘🍥/性冷淡/抖s👿/收ATM🤑/毒舌/水仙/阴暗逼/负能量警告⚠️/现居北京/已拆蛋/随缘发",
+        "id": "1592172867189293057",
+        "location": "🚪好友位88",
+        "name": "直花今天不嘴臭(互推私",
+        "pinned_tweet_id": "1836806921233617051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914757234996994056/9DnzxE3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6323,
+          "following_count": 404,
+          "like_count": 12724,
+          "listed_count": 18,
+          "media_count": 213,
+          "tweet_count": 16972
+        },
+        "username": "cxszb",
+        "verified": false
+      }
+    ]
+  }
+}

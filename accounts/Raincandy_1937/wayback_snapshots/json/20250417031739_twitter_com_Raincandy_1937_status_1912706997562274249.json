@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1912577212135665866",
+    "created_at": "2025-04-17T03:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T04:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912706997562274249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1627413864756424704",
+          "start": 0,
+          "username": "Aphrodite_mis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912706997562274249",
+    "in_reply_to_user_id": "1627413864756424704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912577212135665866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aphrodite_mis 好帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1912577201264029699",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GorW1M7acAMt5zW.jpg",
+        "width": 1518
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1912577212135665866",
+        "created_at": "2025-04-17T03:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T04:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912706997562274249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1627413864756424704",
+              "start": 0,
+              "username": "Aphrodite_mis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912706997562274249",
+        "in_reply_to_user_id": "1627413864756424704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912577212135665866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aphrodite_mis 好帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912577201264029699"
+          ]
+        },
+        "author_id": "1627413864756424704",
+        "conversation_id": "1912577212135665866",
+        "created_at": "2025-04-16T18:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T19:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912577212135665866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EnLpma01w1",
+              "end": 45,
+              "expanded_url": "https://x.com/Aphrodite_mis/status/1912577212135665866/photo/1",
+              "media_key": "3_1912577201264029699",
+              "start": 22,
+              "url": "https://t.co/EnLpma01w1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912577212135665866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 480,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过去的就让它过去 曾经毕竟只是曾经\n忘了愛 https://t.co/EnLpma01w1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 1050,
+          "like_count": 8032,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 4092
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T21:04:56.000Z",
+        "description": "戰鬥蘿莉鵝🔱",
+        "id": "1627413864756424704",
+        "name": "阿尔忒弥斯",
+        "pinned_tweet_id": "1912154859198947370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903764116789141504/eFpD_PhE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17880,
+          "following_count": 595,
+          "like_count": 188527,
+          "listed_count": 36,
+          "media_count": 2684,
+          "tweet_count": 46434
+        },
+        "username": "Aphrodite_mis",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2063174067973423492",
+    "created_at": "2026-06-06T08:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T09:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063174067973423492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/xiaolujiang77/…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/xiaolujiang77/status/2062890573233819731",
+          "start": 20,
+          "url": "https://t.co/x3Gwha27L5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063174067973423492",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062890573233819731",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Grok is that true？ https://t.co/x3Gwha27L5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2063174067973423492",
+        "created_at": "2026-06-06T08:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063174067973423492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xiaolujiang77/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/xiaolujiang77/status/2062890573233819731",
+              "start": 20,
+              "url": "https://t.co/x3Gwha27L5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063174067973423492",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062890573233819731",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Grok is that true？ https://t.co/x3Gwha27L5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576504772210761730",
+        "conversation_id": "2062890573233819731",
+        "created_at": "2026-06-05T13:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062890573233819731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062890573233819731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 140051,
+          "like_count": 1355,
+          "quote_count": 12,
+          "reply_count": 237,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "谈过几次恋爱就知道了：\n纯爱的那些人都幼稚、拧巴、情绪化；\n相处舒服的人，你会发现都是骚货。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 1725,
+          "like_count": 16440,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 7159
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8791903,
+          "following_count": 5,
+          "like_count": 101,
+          "listed_count": 6939,
+          "media_count": 9015000,
+          "tweet_count": 128155043
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-02T09:30:14.000Z",
+        "description": "我只会撒娇",
+        "id": "1576504772210761730",
+        "location": "🚪99",
+        "name": "小鹿酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052394256728576000/Gs1KknEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13196,
+          "following_count": 5,
+          "like_count": 138,
+          "listed_count": 9,
+          "media_count": 31,
+          "tweet_count": 151
+        },
+        "username": "xiaolujiang77",
+        "verified": false
+      }
+    ]
+  }
+}

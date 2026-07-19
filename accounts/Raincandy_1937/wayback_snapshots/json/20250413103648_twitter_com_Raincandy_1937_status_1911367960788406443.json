@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1911249900807004634",
+    "created_at": "2025-04-13T10:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T11:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911367960788406443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1884978250876895232",
+          "start": 0,
+          "username": "blacksblacks226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911367960788406443",
+    "in_reply_to_user_id": "1884978250876895232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911249900807004634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blacksblacks226 袭来！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 571,
+        "media_key": "3_1911249898231529472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoYfp_0XgAAVeq9.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1911249900807004634",
+        "created_at": "2025-04-13T10:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T11:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911367960788406443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1884978250876895232",
+              "start": 0,
+              "username": "blacksblacks226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911367960788406443",
+        "in_reply_to_user_id": "1884978250876895232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911249900807004634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blacksblacks226 袭来！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911249898231529472"
+          ]
+        },
+        "author_id": "1884978250876895232",
+        "conversation_id": "1911249900807004634",
+        "created_at": "2025-04-13T02:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T03:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911249900807004634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bIOxJ5WGig",
+              "end": 37,
+              "expanded_url": "https://x.com/blacksblacks226/status/1911249900807004634/photo/1",
+              "media_key": "3_1911249898231529472",
+              "start": 14,
+              "url": "https://t.co/bIOxJ5WGig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911249900807004634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虚荣心作怪了，谁和我互fo https://t.co/bIOxJ5WGig"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 1012,
+          "like_count": 7821,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 3994
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T14:53:53.000Z",
+        "description": "",
+        "id": "1884978250876895232",
+        "name": "乌漆嘛黑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884979013732700160/hDZPKATG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 29,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 18
+        },
+        "username": "blacksblacks226",
+        "verified": false
+      }
+    ]
+  }
+}

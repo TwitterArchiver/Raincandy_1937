@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1898307343705878757",
+    "created_at": "2025-03-08T09:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T10:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898307343705878757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ainonaka8964/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/ainonaka8964/status/1898279511931982288",
+          "start": 9,
+          "url": "https://t.co/PC6VJCOIK7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898307343705878757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898279511931982288",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "转发代表本人观点 https://t.co/PC6VJCOIK7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1898307343705878757",
+        "created_at": "2025-03-08T09:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T10:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898307343705878757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ainonaka8964/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/ainonaka8964/status/1898279511931982288",
+              "start": 9,
+              "url": "https://t.co/PC6VJCOIK7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898307343705878757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898279511931982288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "转发代表本人观点 https://t.co/PC6VJCOIK7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874082291800301570",
+        "conversation_id": "1898279511931982288",
+        "created_at": "2025-03-08T07:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T08:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898279511931982288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898279511931982288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拉黑了好几个互关 共产主义信徒请互b 还是你真的信苏联本来是好的 后来苏修执行坏了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 820,
+          "like_count": 6245,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 3199
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T13:17:04.000Z",
+        "description": "無言フォロー失礼します。",
+        "id": "1874082291800301570",
+        "name": "酒カス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896967791644721152/XWy8ELVg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 286,
+          "like_count": 15296,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 550
+        },
+        "username": "ainonaka8964",
+        "verified": false
+      }
+    ]
+  }
+}

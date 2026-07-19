@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058597899567820800",
+        "3_2058598091897663488"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2058598279865332129",
+    "created_at": "2026-05-24T17:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T18:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058598279865332129"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/45SA6SMppH",
+          "end": 41,
+          "expanded_url": "https://x.com/Raincandy_1937/status/2058598279865332129/photo/1",
+          "media_key": "3_2058597899567820800",
+          "start": 18,
+          "url": "https://t.co/45SA6SMppH"
+        },
+        {
+          "display_url": "pic.x.com/45SA6SMppH",
+          "end": 41,
+          "expanded_url": "https://x.com/Raincandy_1937/status/2058598279865332129/photo/1",
+          "media_key": "3_2058598091897663488",
+          "start": 18,
+          "url": "https://t.co/45SA6SMppH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058598279865332129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "名爲未來的道路是伸手不見五指的霧海 https://t.co/45SA6SMppH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 139,
+        "media_key": "3_2058597899567820800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGb4fsa8AAnrCm.png",
+        "width": 545
+      },
+      {
+        "height": 197,
+        "media_key": "3_2058598091897663488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGcDsLbcAAV3RT.png",
+        "width": 524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058597899567820800",
+            "3_2058598091897663488"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2058598279865332129",
+        "created_at": "2026-05-24T17:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058598279865332129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/45SA6SMppH",
+              "end": 41,
+              "expanded_url": "https://x.com/Raincandy_1937/status/2058598279865332129/photo/1",
+              "media_key": "3_2058597899567820800",
+              "start": 18,
+              "url": "https://t.co/45SA6SMppH"
+            },
+            {
+              "display_url": "pic.x.com/45SA6SMppH",
+              "end": 41,
+              "expanded_url": "https://x.com/Raincandy_1937/status/2058598279865332129/photo/1",
+              "media_key": "3_2058598091897663488",
+              "start": 18,
+              "url": "https://t.co/45SA6SMppH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058598279865332129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "名爲未來的道路是伸手不見五指的霧海 https://t.co/45SA6SMppH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 1694,
+          "like_count": 15713,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 6911
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2023381018330423490",
+    "created_at": "2026-02-16T12:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T13:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023381018330423490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MofaJapan_en/s…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/MofaJapan_en/status/2022970808654803254",
+          "start": 44,
+          "url": "https://t.co/rC8kKlNrni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023381018330423490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022970808654803254",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老中什么时候能意识到撒泼打滚这招已经不顶用了，这又不是五六十年代，文明国家谁几把惯着你 https://t.co/rC8kKlNrni"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2023381018330423490",
+        "created_at": "2026-02-16T12:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T13:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023381018330423490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MofaJapan_en/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/MofaJapan_en/status/2022970808654803254",
+              "start": 44,
+              "url": "https://t.co/rC8kKlNrni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023381018330423490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022970808654803254",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老中什么时候能意识到撒泼打滚这招已经不顶用了，这又不是五六十年代，文明国家谁几把惯着你 https://t.co/rC8kKlNrni"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "303735625",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1378812322249015297",
+              "name": "Japan Ministry of Foreign Affairs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378812322249015297",
+              "name": "Japan Ministry of Foreign Affairs"
+            }
+          }
+        ],
+        "conversation_id": "2022970808654803254",
+        "created_at": "2026-02-15T09:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T10:41:01.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022969386580213845",
+          "2022970262472593545",
+          "2022970808654803254"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 83,
+              "normalized_text": "Munich Security",
+              "probability": 0.7121,
+              "start": 69,
+              "type": "Organization"
+            },
+            {
+              "end": 227,
+              "normalized_text": "Munich Security Conference",
+              "probability": 0.7184,
+              "start": 202,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022970808654803254",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "【Regarding the inappropriate remarks by a Chinese participant to the Munich Security】\n\nA Chinese participant made inappropriate remarks regarding the security policies of the Japanese government at the Munich Security Conference on February 14. Responding to the statement, Foreign Minister MOTEGI Toshimitsu made his case clear at another session of the Conference, followed by a stern demarche against the Chinese side through diplomatic channels. Given that the China’s assertions are factually incorrect and ungrounded, the Government of Japan hereby reiterates its position.\n\nThere are countries in the international community that have been rapidly increasing their military capabilities in a non-transparent manner for many years and continuously intensifying unilateral attempts to change the status quo by force or coercion. Japan opposes such moves and distances itself from them. Japan’s consistent contributions to international peace and stability are widely recognized. Japan’s efforts to strengthen its defense capabilities are in response to an increasingly severe security environment and are not directed against any specific third country. We expect that the issue surrounding Taiwan will be resolved peacefully through dialogue, and this stance remains unchanged.\n\nIt is precisely because there are pending issues and challenges, it is all the more important for Japan and China to communicate with each other. The Government of Japan remains open to dialogue with China and intends to continue responding calmly and appropriately going forward."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 540,
+          "impression_count": 1720463,
+          "like_count": 11164,
+          "quote_count": 135,
+          "reply_count": 167,
+          "retweet_count": 3053
+        },
+        "reply_settings": "everyone",
+        "text": "【Regarding the inappropriate remarks by a Chinese participant to the Munich Security】\n\nA Chinese participant made inappropriate remarks regarding the security policies of the Japanese government at the Munich Security Conference on February 14. Responding to the statement,"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 1550,
+          "like_count": 13179,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 6114
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-23T10:32:05.000Z",
+        "description": "The Official English Account of the Ministry of Foreign Affairs of Japan.\nSocial Media List: https://t.co/PnH9N7WcqL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mofa.go.jp/about/list_en.…",
+                "end": 116,
+                "expanded_url": "https://www.mofa.go.jp/about/list_en.html",
+                "start": 93,
+                "url": "https://t.co/PnH9N7WcqL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mofa.go.jp",
+                "end": 23,
+                "expanded_url": "http://www.mofa.go.jp/",
+                "start": 0,
+                "url": "https://t.co/jDWRcTicQE"
+              }
+            ]
+          }
+        },
+        "id": "303735625",
+        "location": "Tokyo",
+        "name": "MOFA of Japan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1082102640077467649/QaRdW4oU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130243,
+          "following_count": 179,
+          "like_count": 30,
+          "listed_count": 1763,
+          "media_count": 7798,
+          "tweet_count": 18381
+        },
+        "url": "https://t.co/jDWRcTicQE",
+        "username": "MofaJapan_en",
+        "verified": true
+      }
+    ]
+  }
+}

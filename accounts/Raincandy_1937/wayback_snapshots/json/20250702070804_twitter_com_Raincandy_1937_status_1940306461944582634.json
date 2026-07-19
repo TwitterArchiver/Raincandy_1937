@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1940306461944582634",
+    "created_at": "2025-07-02T07:08:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T08:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940306461944582634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1865040323899998208",
+          "start": 3,
+          "username": "irohalanzeguang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940306461944582634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939689725130084516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @irohalanzeguang: 中国人的一生是不是只有做题\n上大学\n找份好工作\n结婚买房买车\n生二胎\n老后领社保\n快死的时候大把钱花给医院"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1940306461944582634",
+        "created_at": "2025-07-02T07:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T08:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940306461944582634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1865040323899998208",
+              "start": 3,
+              "username": "irohalanzeguang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940306461944582634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939689725130084516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @irohalanzeguang: 中国人的一生是不是只有做题\n上大学\n找份好工作\n结婚买房买车\n生二胎\n老后领社保\n快死的时候大把钱花给医院"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865040323899998208",
+        "conversation_id": "1939689725130084516",
+        "created_at": "2025-06-30T14:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T15:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939689725130084516"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939689725130084516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 231712,
+          "like_count": 1029,
+          "quote_count": 11,
+          "reply_count": 152,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "中国人的一生是不是只有做题\n上大学\n找份好工作\n结婚买房买车\n生二胎\n老后领社保\n快死的时候大把钱花给医院"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 1212,
+          "like_count": 9021,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 4662
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T14:27:35.000Z",
+        "description": "🇰🇵\n🤚😭🤚\n小号@ruoyemu64",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ruoyemu64"
+              }
+            ]
+          }
+        },
+        "id": "1865040323899998208",
+        "location": "天堂or地狱",
+        "name": "坂下星川蓝泽光",
+        "pinned_tweet_id": "1867194505067417803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885343937789124609/-zleKXqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 1163,
+          "like_count": 33087,
+          "listed_count": 4,
+          "media_count": 117,
+          "tweet_count": 4180
+        },
+        "username": "irohalanzeguang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1898320972064719349",
+    "created_at": "2025-03-08T10:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T11:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898321649923203336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1677530479782768641",
+          "start": 0,
+          "username": "bai57248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898321649923203336",
+    "in_reply_to_user_id": "1677530479782768641",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898320972064719349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai57248 i want～ i want～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1898320972064719349",
+        "created_at": "2025-03-08T10:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T11:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898321649923203336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1677530479782768641",
+              "start": 0,
+              "username": "bai57248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898321649923203336",
+        "in_reply_to_user_id": "1677530479782768641",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898320972064719349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai57248 i want～ i want～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677530479782768641",
+        "conversation_id": "1898320972064719349",
+        "created_at": "2025-03-08T10:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T11:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898320972064719349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SakuraHougetsu…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/SakuraHougetsu/status/1898202614086652351",
+              "start": 20,
+              "url": "https://t.co/ijg5HvrByi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898320972064719349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898202614086652351",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下面这位在唱兄弟香草泥，换谁来都难绷吧 https://t.co/ijg5HvrByi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 825,
+          "like_count": 6267,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 3213
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T04:10:14.000Z",
+        "description": "泉//类日记，包含无意义喊话//恋人：@YunxMu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 19,
+                "username": "YunxMu"
+              }
+            ]
+          }
+        },
+        "id": "1677530479782768641",
+        "name": "白水✰✰✰",
+        "pinned_tweet_id": "1782114967715729596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842627624369106944/PT5HoBhP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6135,
+          "following_count": 715,
+          "like_count": 32988,
+          "listed_count": 8,
+          "media_count": 1463,
+          "tweet_count": 8832
+        },
+        "username": "bai57248",
+        "verified": false
+      }
+    ]
+  }
+}

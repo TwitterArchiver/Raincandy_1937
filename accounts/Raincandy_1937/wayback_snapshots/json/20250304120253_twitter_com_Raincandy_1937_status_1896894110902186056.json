@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1896894110902186056",
+    "created_at": "2025-03-04T12:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T13:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896894110902186056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1n_fhtagn/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/1n_fhtagn/status/1896724737898025151",
+          "start": 11,
+          "url": "https://t.co/SeLxSthusK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896894110902186056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896724737898025151",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "「有一天會代替太陽」 https://t.co/SeLxSthusK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1896724730696388608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlKFF-HbUAAX4EL.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1896894110902186056",
+        "created_at": "2025-03-04T12:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T13:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896894110902186056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1n_fhtagn/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/1n_fhtagn/status/1896724737898025151",
+              "start": 11,
+              "url": "https://t.co/SeLxSthusK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896894110902186056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896724737898025151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「有一天會代替太陽」 https://t.co/SeLxSthusK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896724730696388608"
+          ]
+        },
+        "author_id": "1832834649493762048",
+        "conversation_id": "1896724737898025151",
+        "created_at": "2025-03-04T00:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T01:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896724737898025151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IZkmG9JVER",
+              "end": 28,
+              "expanded_url": "https://x.com/1n_fhtagn/status/1896724737898025151/photo/1",
+              "media_key": "3_1896724730696388608",
+              "start": 5,
+              "url": "https://t.co/IZkmG9JVER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896724737898025151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 12158,
+          "like_count": 284,
+          "quote_count": 7,
+          "reply_count": 12,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜您。 https://t.co/IZkmG9JVER"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 800,
+          "like_count": 6050,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 3102
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T17:34:06.000Z",
+        "description": "🥺",
+        "id": "1832834649493762048",
+        "name": "雪他妈的山葵",
+        "pinned_tweet_id": "1888601125664051682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888600101402419200/Vnl1CWLh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3034,
+          "following_count": 1217,
+          "like_count": 27111,
+          "listed_count": 4,
+          "media_count": 2359,
+          "tweet_count": 10793
+        },
+        "username": "1n_fhtagn",
+        "verified": false
+      }
+    ]
+  }
+}

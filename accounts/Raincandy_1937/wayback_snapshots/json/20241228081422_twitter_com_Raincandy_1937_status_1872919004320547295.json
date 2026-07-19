@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1872918488647647693",
+    "created_at": "2024-12-28T08:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T09:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872919004320547295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1824091152980815872",
+          "start": 0,
+          "username": "mousou_naikana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872919004320547295",
+    "in_reply_to_user_id": "1824091152980815872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872918488647647693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mousou_naikana 让自己觉得累的那种人主动删了就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1872918488647647693",
+        "created_at": "2024-12-28T08:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T09:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872919004320547295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1824091152980815872",
+              "start": 0,
+              "username": "mousou_naikana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872919004320547295",
+        "in_reply_to_user_id": "1824091152980815872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872918488647647693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mousou_naikana 让自己觉得累的那种人主动删了就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824091152980815872",
+        "conversation_id": "1872918488647647693",
+        "created_at": "2024-12-28T08:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T09:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872918488647647693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1872918488647647693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闹紫砂的小孩哥发癫被我骂了一顿破防删好友了 我是不是应该继续假装温柔大姐姐的啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 611,
+          "like_count": 4087,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 2177
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T14:30:06.000Z",
+        "description": "病み垢| 不安定",
+        "id": "1824091152980815872",
+        "name": "鐘の音が鳴る。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858401324196569089/58mRq1Ud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 370,
+          "like_count": 29407,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 211
+        },
+        "username": "mousou_naikana",
+        "verified": false
+      }
+    ]
+  }
+}

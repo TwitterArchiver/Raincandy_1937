@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014416786934915073"
+      ],
+      "media_source_tweet_id": [
+        "2014416789069869444"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2014733074169479354",
+    "created_at": "2026-01-23T16:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T17:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014733074169479354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1972989998333861888",
+          "start": 3,
+          "username": "LiteralMem3s"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LV5bbq91Rr",
+          "end": 41,
+          "expanded_url": "https://x.com/LiteralMem3s/status/2014416789069869444/photo/1",
+          "media_key": "3_2014416786934915073",
+          "start": 18,
+          "url": "https://t.co/LV5bbq91Rr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014733074169479354",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4500
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014416789069869444",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LiteralMem3s: https://t.co/LV5bbq91Rr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 851,
+        "media_key": "3_2014416786934915073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_SlZRbW4AEJ1QC.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014416786934915073"
+          ],
+          "media_source_tweet_id": [
+            "2014416789069869444"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014733074169479354",
+        "created_at": "2026-01-23T16:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T17:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014733074169479354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1972989998333861888",
+              "start": 3,
+              "username": "LiteralMem3s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LV5bbq91Rr",
+              "end": 41,
+              "expanded_url": "https://x.com/LiteralMem3s/status/2014416789069869444/photo/1",
+              "media_key": "3_2014416786934915073",
+              "start": 18,
+              "url": "https://t.co/LV5bbq91Rr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014733074169479354",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4500
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014416789069869444",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LiteralMem3s: https://t.co/LV5bbq91Rr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014416786934915073"
+          ]
+        },
+        "author_id": "1972989998333861888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014416789069869444",
+        "created_at": "2026-01-22T19:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T20:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014416789069869444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LV5bbq91Rr",
+              "end": 23,
+              "expanded_url": "https://x.com/LiteralMem3s/status/2014416789069869444/photo/1",
+              "media_key": "3_2014416786934915073",
+              "start": 0,
+              "url": "https://t.co/LV5bbq91Rr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014416789069869444",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1585,
+          "impression_count": 394422,
+          "like_count": 45576,
+          "quote_count": 92,
+          "reply_count": 42,
+          "retweet_count": 4500
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LV5bbq91Rr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 1524,
+          "like_count": 12992,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 6023
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T11:40:57.000Z",
+        "description": "literal memes | powered by @memelordtech | make viral memes easily 👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "memelordtech"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "signup.memelord.com/literalmemes",
+                "end": 23,
+                "expanded_url": "https://signup.memelord.com/literalmemes",
+                "start": 0,
+                "url": "https://t.co/5VCFFZ7lof"
+              }
+            ]
+          }
+        },
+        "id": "1972989998333861888",
+        "name": "literal memes",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10311,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 11,
+          "media_count": 708,
+          "tweet_count": 1229
+        },
+        "url": "https://t.co/5VCFFZ7lof",
+        "username": "LiteralMem3s",
+        "verified": true
+      }
+    ]
+  }
+}

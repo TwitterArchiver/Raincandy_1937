@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970125081113497600",
+        "3_1970125081100886016",
+        "3_1970125081134387200"
+      ],
+      "media_source_tweet_id": [
+        "1970127379139059982",
+        "1970127379139059982",
+        "1970127379139059982"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1970413240476934562",
+    "created_at": "2025-09-23T09:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T10:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970413240476934562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1332712954047856641",
+          "start": 3,
+          "username": "xinwendiaocha"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wrEh5SDY1S",
+          "end": 103,
+          "expanded_url": "https://x.com/xinwendiaocha/status/1970127379139059982/photo/1",
+          "media_key": "3_1970125081113497600",
+          "start": 80,
+          "url": "https://t.co/wrEh5SDY1S"
+        },
+        {
+          "display_url": "pic.x.com/wrEh5SDY1S",
+          "end": 103,
+          "expanded_url": "https://x.com/xinwendiaocha/status/1970127379139059982/photo/1",
+          "media_key": "3_1970125081100886016",
+          "start": 80,
+          "url": "https://t.co/wrEh5SDY1S"
+        },
+        {
+          "display_url": "pic.x.com/wrEh5SDY1S",
+          "end": 103,
+          "expanded_url": "https://x.com/xinwendiaocha/status/1970127379139059982/photo/1",
+          "media_key": "3_1970125081134387200",
+          "start": 80,
+          "url": "https://t.co/wrEh5SDY1S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970413240476934562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970127379139059982",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xinwendiaocha: 于朦胧的名字被从《三生三世十里桃花》中删除。\n欲盖弥彰，技俩拙劣\n下一步就是证明这个人从来没有存在过，让13亿人都忘记他 https://t.co/wrEh5SDY1S"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1970413240476934562].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1970413240476934562",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1970413240476934562"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1970125081113497600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1dKUrbbkAAZi_2.jpg",
+        "width": 576
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1970125081100886016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1dKUrYbIAAC2oh.jpg",
+        "width": 590
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1970125081134387200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1dKUrgaUAAZ2bB.jpg",
+        "width": 619
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970125081113497600",
+            "3_1970125081100886016",
+            "3_1970125081134387200"
+          ]
+        },
+        "author_id": "1332712954047856641",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1970127379139059982",
+        "created_at": "2025-09-22T14:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T14:56:38.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970125084741521885",
+          "1970125200663732649",
+          "1970127379139059982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wrEh5SDY1S",
+              "end": 84,
+              "expanded_url": "https://x.com/xinwendiaocha/status/1970127379139059982/photo/1",
+              "media_key": "3_1970125081113497600",
+              "start": 61,
+              "url": "https://t.co/wrEh5SDY1S"
+            },
+            {
+              "display_url": "pic.x.com/wrEh5SDY1S",
+              "end": 84,
+              "expanded_url": "https://x.com/xinwendiaocha/status/1970127379139059982/photo/1",
+              "media_key": "3_1970125081100886016",
+              "start": 61,
+              "url": "https://t.co/wrEh5SDY1S"
+            },
+            {
+              "display_url": "pic.x.com/wrEh5SDY1S",
+              "end": 84,
+              "expanded_url": "https://x.com/xinwendiaocha/status/1970127379139059982/photo/1",
+              "media_key": "3_1970125081134387200",
+              "start": 61,
+              "url": "https://t.co/wrEh5SDY1S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970127379139059982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 29473,
+          "like_count": 366,
+          "quote_count": 9,
+          "reply_count": 29,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "于朦胧的名字被从《三生三世十里桃花》中删除。\n欲盖弥彰，技俩拙劣\n下一步就是证明这个人从来没有存在过，让13亿人都忘记他 https://t.co/wrEh5SDY1S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 1345,
+          "like_count": 10193,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 5119
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-28T15:48:33.000Z",
+        "description": "追踪新闻，调查真相！ 投稿、商务合作邮箱：charles811203@gmail.com 蓝天号：https://t.co/jAbho9ANSf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/xinwen…",
+                "end": 72,
+                "expanded_url": "https://bsky.app/profile/xinwendiaocha2025.bsky.social",
+                "start": 49,
+                "url": "https://t.co/jAbho9ANSf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@caijinglengya…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@caijinglengyan?si=c8_FduFeV9Xu3KnO",
+                "start": 0,
+                "url": "https://t.co/7tHKzRuGFb"
+              }
+            ]
+          }
+        },
+        "id": "1332712954047856641",
+        "name": "新闻调查",
+        "pinned_tweet_id": "1967098978899816474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347827975383760896/6aV1UyGk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606084,
+          "following_count": 84,
+          "like_count": 3593,
+          "listed_count": 1583,
+          "media_count": 34921,
+          "tweet_count": 52586
+        },
+        "url": "https://t.co/7tHKzRuGFb",
+        "username": "xinwendiaocha",
+        "verified": true
+      }
+    ]
+  }
+}

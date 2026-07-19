@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1905119604005097475",
+    "created_at": "2025-03-27T04:48:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T05:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905119604005097475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1812419719691186176",
+          "start": 3,
+          "username": "qweomy10364583"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905119604005097475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904876808815718487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qweomy10364583: 墙内在以嘲笑抑郁症和精神疾病患者为潮流，果然中国人的认知配得上他们的苦难"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1905119604005097475",
+        "created_at": "2025-03-27T04:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T05:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905119604005097475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1812419719691186176",
+              "start": 3,
+              "username": "qweomy10364583"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905119604005097475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904876808815718487",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qweomy10364583: 墙内在以嘲笑抑郁症和精神疾病患者为潮流，果然中国人的认知配得上他们的苦难"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812419719691186176",
+        "conversation_id": "1904876808815718487",
+        "created_at": "2025-03-26T12:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T13:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904876808815718487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904876808815718487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5712,
+          "like_count": 151,
+          "quote_count": 5,
+          "reply_count": 18,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "墙内在以嘲笑抑郁症和精神疾病患者为潮流，果然中国人的认知配得上他们的苦难"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 946,
+          "like_count": 7046,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 3659
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T09:32:04.000Z",
+        "description": "爱人:@ygao1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "ygao1314"
+              }
+            ]
+          }
+        },
+        "id": "1812419719691186176",
+        "location": "支黑",
+        "name": "新世纪の雨",
+        "pinned_tweet_id": "1895853364401033254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904172314117513216/4C-mQycM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 718,
+          "like_count": 12113,
+          "listed_count": 3,
+          "media_count": 159,
+          "tweet_count": 5388
+        },
+        "username": "qweomy10364583",
+        "verified": false
+      }
+    ]
+  }
+}

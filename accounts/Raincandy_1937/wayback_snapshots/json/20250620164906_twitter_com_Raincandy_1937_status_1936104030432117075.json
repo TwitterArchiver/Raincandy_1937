@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1935742542072709410",
+    "created_at": "2025-06-20T16:49:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T17:49:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936104030432117075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1490333538972958720",
+          "start": 0,
+          "username": "huddvjhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936104030432117075",
+    "in_reply_to_user_id": "1490333538972958720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935742542072709410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huddvjhh 有点像去年流行的身体恐怖电影和荒诞小说的结合"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1935742542072709410",
+        "created_at": "2025-06-20T16:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T17:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936104030432117075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1490333538972958720",
+              "start": 0,
+              "username": "huddvjhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936104030432117075",
+        "in_reply_to_user_id": "1490333538972958720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935742542072709410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huddvjhh 有点像去年流行的身体恐怖电影和荒诞小说的结合"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490333538972958720",
+        "conversation_id": "1935742542072709410",
+        "created_at": "2025-06-19T16:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T17:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935742542072709410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huddvjhh/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/huddvjhh/status/1935741870497579051",
+              "start": 14,
+              "url": "https://t.co/qhNuu4IZ6l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935742542072709410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5668,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935741870497579051",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我有时候会被自己的灵感折服 https://t.co/qhNuu4IZ6l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 1168,
+          "like_count": 8680,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 4474
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-06T14:36:32.000Z",
+        "description": "当日记本发，欢迎提问交友，会回关。 如果我没有和你及时互动，或者不小心“甩大牌”请私信或者提问箱抨击我，宝宝们，我不是故意的💖 沉默的日子也没在偷偷幸福是快死了～深交欢迎私联，不谈恋爱，不玩门槛那一套哈😙❤️全平台都是同一副贱人面孔，熟人见到更是无所谓 早已经和所有圣母割席 防断联小号：@LofiCM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 144,
+                "username": "LofiCM"
+              }
+            ]
+          }
+        },
+        "id": "1490333538972958720",
+        "name": "HeteroMorph……",
+        "pinned_tweet_id": "1931027909239554085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901586687270260736/6ZwcUToK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 736,
+          "like_count": 12731,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1817
+        },
+        "username": "huddvjhh",
+        "verified": false
+      }
+    ]
+  }
+}

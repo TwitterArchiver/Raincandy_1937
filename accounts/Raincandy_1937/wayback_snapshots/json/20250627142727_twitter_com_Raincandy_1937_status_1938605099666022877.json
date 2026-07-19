@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938141390464012288"
+      ],
+      "media_source_tweet_id": [
+        "1938198052826976374"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1938605099666022877",
+    "created_at": "2025-06-27T14:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T15:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938605099666022877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZacNgmrdbp",
+          "end": 87,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1938198052826976374/photo/1",
+          "media_key": "3_1938141390464012288",
+          "start": 64,
+          "url": "https://t.co/ZacNgmrdbp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938605099666022877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 385
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938198052826976374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 6月26日，有博主透露，网信办现在对国内AI大模型备案要求的拦截词数量高达近70万条。 https://t.co/ZacNgmrdbp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1938141390464012288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuWpU28W0AAlTpr.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938141390464012288"
+          ],
+          "media_source_tweet_id": [
+            "1938198052826976374"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1938605099666022877",
+        "created_at": "2025-06-27T14:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T15:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938605099666022877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZacNgmrdbp",
+              "end": 87,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1938198052826976374/photo/1",
+              "media_key": "3_1938141390464012288",
+              "start": 64,
+              "url": "https://t.co/ZacNgmrdbp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938605099666022877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 385
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938198052826976374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 6月26日，有博主透露，网信办现在对国内AI大模型备案要求的拦截词数量高达近70万条。 https://t.co/ZacNgmrdbp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938141390464012288"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1938198052826976374",
+        "created_at": "2025-06-26T11:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T12:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938198052826976374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZacNgmrdbp",
+              "end": 67,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1938198052826976374/photo/1",
+              "media_key": "3_1938141390464012288",
+              "start": 44,
+              "url": "https://t.co/ZacNgmrdbp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938198052826976374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 892,
+          "impression_count": 818859,
+          "like_count": 3524,
+          "quote_count": 37,
+          "reply_count": 303,
+          "retweet_count": 385
+        },
+        "reply_settings": "everyone",
+        "text": "6月26日，有博主透露，网信办现在对国内AI大模型备案要求的拦截词数量高达近70万条。 https://t.co/ZacNgmrdbp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 1180,
+          "like_count": 8809,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 4570
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 132,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 109,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1933896398610526577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2022915,
+          "following_count": 974,
+          "like_count": 7145,
+          "listed_count": 8178,
+          "media_count": 30637,
+          "tweet_count": 37227
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

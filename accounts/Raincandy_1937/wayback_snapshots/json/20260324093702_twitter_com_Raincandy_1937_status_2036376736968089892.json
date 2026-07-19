@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2036376736968089892",
+    "created_at": "2026-03-24T09:37:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T10:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036376736968089892"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TNY_Alice/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/TNY_Alice/status/2035950283180957715",
+          "start": 12,
+          "url": "https://t.co/MGcMxqXze3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036376736968089892",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035950283180957715",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直在哭我一直在哭😭 https://t.co/MGcMxqXze3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2035950277640273920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEEl_ZcbQAA5U9Y.jpg",
+        "width": 553
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2036376736968089892",
+        "created_at": "2026-03-24T09:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T10:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036376736968089892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TNY_Alice/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/TNY_Alice/status/2035950283180957715",
+              "start": 12,
+              "url": "https://t.co/MGcMxqXze3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036376736968089892",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035950283180957715",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直在哭我一直在哭😭 https://t.co/MGcMxqXze3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035950277640273920"
+          ]
+        },
+        "author_id": "1352431426331832324",
+        "conversation_id": "2035950283180957715",
+        "created_at": "2026-03-23T05:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T06:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035950283180957715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uT9du2CFSw",
+              "end": 39,
+              "expanded_url": "https://x.com/TNY_Alice/status/2035950283180957715/photo/1",
+              "media_key": "3_2035950277640273920",
+              "start": 16,
+              "url": "https://t.co/uT9du2CFSw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035950283180957715",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 14130,
+          "like_count": 1042,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "制服衣装好きだから描こうかな🫶 https://t.co/uT9du2CFSw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 1583,
+          "like_count": 13967,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 6452
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-22T01:48:00.000Z",
+        "description": "🖤*⋆꒰ঌ┈ 可愛いもの好き ┈໒꒱⋆*🤍\nDQX￤FF￤APEX￤EDF￤バイオ\n▼ ホロ推し 🛸💜😈🦋🥐\n▼ 本垢 【@Tanaka_Yutti】\n▼ HP【https://t.co/RsdgCgKP1N】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "Tanaka_Yutti"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "piku.page/@tanaka_no_yut…",
+                "end": 104,
+                "expanded_url": "https://piku.page/@tanaka_no_yutti",
+                "start": 81,
+                "url": "https://t.co/RsdgCgKP1N"
+              }
+            ]
+          }
+        },
+        "id": "1352431426331832324",
+        "name": "‎なゅ💀🖤",
+        "pinned_tweet_id": "1970368538188882384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034162224923873281/P7KZ_amr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 210,
+          "like_count": 12126,
+          "listed_count": 11,
+          "media_count": 178,
+          "tweet_count": 9409
+        },
+        "username": "TNY_Alice",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "1909832107339489381",
+    "created_at": "2025-04-09T04:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T05:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909832107339489381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/clonerobotics/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/clonerobotics/status/1892250639360561234",
+          "start": 24,
+          "url": "https://t.co/g4SlZMAILE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909832107339489381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892250639360561234",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "设计感还是有的，把我很早以前的幻想变成了现实。 https://t.co/g4SlZMAILE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40073,
+        "height": 3840,
+        "media_key": "7_1892250259763449856",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1892250259763449856/pu/img/DL45w8Sca8U5BdNi.jpg",
+        "public_metrics": {
+          "view_count": 16665540
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1892250259763449856/pu/vid/avc1/1080x1920/frKIJ_7KZK0u1xRW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1892250259763449856/pu/vid/avc1/320x568/XezILYIJZXvt7a11.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1892250259763449856/pu/vid/avc1/480x852/6USy35Xj9DPCag-5.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1892250259763449856/pu/pl/-wAquizUuLXOIMBe.m3u8?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1892250259763449856/pu/vid/avc1/720x1280/40jdXcRN-1Mda16_.mp4?tag=14"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "1909832107339489381",
+        "created_at": "2025-04-09T04:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T05:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909832107339489381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/clonerobotics/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/clonerobotics/status/1892250639360561234",
+              "start": 24,
+              "url": "https://t.co/g4SlZMAILE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909832107339489381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892250639360561234",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "设计感还是有的，把我很早以前的幻想变成了现实。 https://t.co/g4SlZMAILE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1892250259763449856"
+          ]
+        },
+        "author_id": "1450806886899531787",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "1892250639360561234",
+        "created_at": "2025-02-19T16:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T17:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892250639360561234"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Protoclone",
+              "probability": 0.8403,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 36,
+              "normalized_text": "bipedal",
+              "probability": 0.6067,
+              "start": 30,
+              "type": "Other"
+            },
+            {
+              "end": 53,
+              "normalized_text": "musculoskeletal",
+              "probability": 0.7219,
+              "start": 39,
+              "type": "Other"
+            },
+            {
+              "end": 61,
+              "normalized_text": "android",
+              "probability": 0.5786,
+              "start": 55,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oIV1yaMSyE",
+              "end": 87,
+              "expanded_url": "https://x.com/clonerobotics/status/1892250639360561234/video/1",
+              "media_key": "7_1892250259763449856",
+              "start": 64,
+              "url": "https://t.co/oIV1yaMSyE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892250639360561234",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19538,
+          "impression_count": 51779022,
+          "like_count": 58342,
+          "quote_count": 19519,
+          "reply_count": 8461,
+          "retweet_count": 7318
+        },
+        "reply_settings": "everyone",
+        "text": "Protoclone, the world's first bipedal, musculoskeletal android. https://t.co/oIV1yaMSyE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 1005,
+          "like_count": 7696,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 3947
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-20T12:51:46.000Z",
+        "description": "Musculoskeletal, superintelligent androids.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "clonerobotics.com",
+                "end": 23,
+                "expanded_url": "http://www.clonerobotics.com",
+                "start": 0,
+                "url": "https://t.co/Dak464wdod"
+              }
+            ]
+          }
+        },
+        "id": "1450806886899531787",
+        "location": "Atherton, CA",
+        "name": "Clone",
+        "pinned_tweet_id": "1865175872850006258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661399389003194369/1VnMmLCH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66679,
+          "following_count": 45,
+          "like_count": 557,
+          "listed_count": 437,
+          "media_count": 39,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/Dak464wdod",
+        "username": "clonerobotics",
+        "verified": true
+      }
+    ]
+  }
+}

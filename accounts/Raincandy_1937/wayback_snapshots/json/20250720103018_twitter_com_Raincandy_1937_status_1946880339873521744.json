@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1946880339873521744",
+    "created_at": "2025-07-20T10:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T11:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946880339873521744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705309152791117824",
+          "start": 3,
+          "username": "duyuming6489"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946880339873521744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946809963835482146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @duyuming6489: 龙国  z国  兔国  咱妈的，为什么不能直接说中国吗？尤其是咱妈这个词我TM越听越恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1946880339873521744",
+        "created_at": "2025-07-20T10:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T11:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946880339873521744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705309152791117824",
+              "start": 3,
+              "username": "duyuming6489"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946880339873521744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946809963835482146",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @duyuming6489: 龙国  z国  兔国  咱妈的，为什么不能直接说中国吗？尤其是咱妈这个词我TM越听越恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705309152791117824",
+        "conversation_id": "1946809963835482146",
+        "created_at": "2025-07-20T05:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T06:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946809963835482146"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946809963835482146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8091,
+          "like_count": 225,
+          "quote_count": 5,
+          "reply_count": 47,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "龙国  z国  兔国  咱妈的，为什么不能直接说中国吗？尤其是咱妈这个词我TM越听越恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 1225,
+          "like_count": 9162,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 4782
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-22T19:52:55.000Z",
+        "description": "改行影评推 特摄  美漫 西部 岁静小号：",
+        "id": "1705309152791117824",
+        "location": "伤心坡公墓",
+        "name": "杜聿明谈8964（冰封中）",
+        "pinned_tweet_id": "1862871214135668746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946543333037244416/0CdlU3bL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 368,
+          "like_count": 2471,
+          "listed_count": 7,
+          "media_count": 956,
+          "tweet_count": 6000
+        },
+        "username": "duyuming6489",
+        "verified": false
+      }
+    ]
+  }
+}

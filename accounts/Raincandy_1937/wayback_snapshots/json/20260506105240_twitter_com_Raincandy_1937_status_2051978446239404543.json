@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2051978446239404543",
+    "created_at": "2026-05-06T10:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T11:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051978446239404543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1356583549",
+          "start": 3,
+          "username": "kagurazakayashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051978446239404543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051906777076453653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kagurazakayashi: 拿着简体中文的画面以为别人都是在造谣，难绷。你猜为什么简体中文下苹果没写？是它不想写吗？你猜连个系统自带的其中几个桌面主题的名称都不敢提某些单词的情况下，这些群体所在的视角上大多面对的是什么样子的社会？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2051978446239404543",
+        "created_at": "2026-05-06T10:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051978446239404543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1356583549",
+              "start": 3,
+              "username": "kagurazakayashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051978446239404543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051906777076453653",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kagurazakayashi: 拿着简体中文的画面以为别人都是在造谣，难绷。你猜为什么简体中文下苹果没写？是它不想写吗？你猜连个系统自带的其中几个桌面主题的名称都不敢提某些单词的情况下，这些群体所在的视角上大多面对的是什么样子的社会？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356583549",
+        "conversation_id": "2051906777076453653",
+        "created_at": "2026-05-06T06:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T07:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051906777076453653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ljk750515Ljk/s…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/Ljk750515Ljk/status/2051885598869504372",
+              "start": 102,
+              "url": "https://t.co/tILobgKIAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051906777076453653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7793,
+          "like_count": 153,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051885598869504372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拿着简体中文的画面以为别人都是在造谣，难绷。你猜为什么简体中文下苹果没写？是它不想写吗？你猜连个系统自带的其中几个桌面主题的名称都不敢提某些单词的情况下，这些群体所在的视角上大多面对的是什么样子的社会？ https://t.co/tILobgKIAI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 1619,
+          "like_count": 14733,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 6692
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-16T10:37:57.000Z",
+        "description": "这里是3周目账号(2023.7-)，希望认识更多同好。没头像/没推/发广告/抽象会拉黑。女装不发R18(但有擦边的)，不讨论政治。喜欢女装、COS、KIG，无性SM(Switch)。友跨顺男偶尔发跨权。G+难民。女装和kig照看账号tag #雅诗自曝 。二次元纯净版+备号 @KagurazakaMasae 。更多见置顶",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 120,
+                "tag": "雅诗自曝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 153,
+                "start": 137,
+                "username": "KagurazakaMasae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KagurazakaYashi",
+                "end": 23,
+                "expanded_url": "https://t.me/KagurazakaYashi",
+                "start": 0,
+                "url": "https://t.co/s9yovgqV77"
+              }
+            ]
+          }
+        },
+        "id": "1356583549",
+        "location": "東京都新宿区神楽坂５丁目７",
+        "name": "神楽坂雅詩",
+        "pinned_tweet_id": "2015424289886134737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974773629704708096/lVYzrnzS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15746,
+          "following_count": 6062,
+          "like_count": 22670,
+          "listed_count": 66,
+          "media_count": 563,
+          "tweet_count": 4372
+        },
+        "url": "https://t.co/s9yovgqV77",
+        "username": "kagurazakayashi",
+        "verified": true
+      }
+    ]
+  }
+}

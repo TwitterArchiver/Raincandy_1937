@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1892332349678825922",
+    "created_at": "2025-02-20T04:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T05:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892426237366210702"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "育碧",
+          "probability": 0.8931,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1814278258189533184",
+          "start": 0,
+          "username": "Asphyxia_v_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892426237366210702",
+    "in_reply_to_user_id": "1814278258189533184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892332349678825922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asphyxia_v_ 育碧说是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 953,
+        "media_key": "3_1892332341676429312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkLqPR6bUAA1ORr.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1892332349678825922",
+        "created_at": "2025-02-20T04:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T05:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892426237366210702"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "育碧",
+              "probability": 0.8931,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1814278258189533184",
+              "start": 0,
+              "username": "Asphyxia_v_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892426237366210702",
+        "in_reply_to_user_id": "1814278258189533184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892332349678825922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asphyxia_v_ 育碧说是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892332341676429312"
+          ]
+        },
+        "author_id": "1814278258189533184",
+        "conversation_id": "1892332349678825922",
+        "created_at": "2025-02-19T21:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T22:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892332349678825922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9aWCPZZBwB",
+              "end": 26,
+              "expanded_url": "https://x.com/Asphyxia_v_/status/1892332349678825922/photo/1",
+              "media_key": "3_1892332341676429312",
+              "start": 3,
+              "url": "https://t.co/9aWCPZZBwB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892332349678825922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 351,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "芋头 https://t.co/9aWCPZZBwB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 801,
+          "like_count": 6047,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 3074
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T12:37:12.000Z",
+        "description": "🚪？我家大🚪常打开～ 聊天直接私信就好了但是我会提前看看你成分，网易云的话同名，偶尔搁b站播一播，目前也就玩脚臭的那个粥和塔科夫，可以叫我一起坐牢，还喜欢摄影唱歌和摆烂",
+        "id": "1814278258189533184",
+        "location": "诺文斯克经济开发区",
+        "name": "废熊Asphyxia",
+        "pinned_tweet_id": "1889026827408294013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880768493429444608/e_3TLluG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2790,
+          "following_count": 345,
+          "like_count": 42390,
+          "listed_count": 6,
+          "media_count": 2943,
+          "tweet_count": 28320
+        },
+        "username": "Asphyxia_v_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2052352021920108787",
+    "created_at": "2026-05-07T11:37:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:37:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052352021920108787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1987948528472387585",
+          "start": 3,
+          "username": "WillyundAya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052352021920108787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052014732937175177",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WillyundAya: 中国女孩没经历过metoo\n\n所以被侵犯了不敢说出来\n\n中国人没经历过民主选票\n\n所以被剥夺了人权觉得正常"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2052352021920108787",
+        "created_at": "2026-05-07T11:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052352021920108787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1987948528472387585",
+              "start": 3,
+              "username": "WillyundAya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052352021920108787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052014732937175177",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WillyundAya: 中国女孩没经历过metoo\n\n所以被侵犯了不敢说出来\n\n中国人没经历过民主选票\n\n所以被剥夺了人权觉得正常"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987948528472387585",
+        "conversation_id": "2052014732937175177",
+        "created_at": "2026-05-06T13:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052014732937175177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052014732937175177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8873,
+          "like_count": 557,
+          "quote_count": 1,
+          "reply_count": 40,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "中国女孩没经历过metoo\n\n所以被侵犯了不敢说出来\n\n中国人没经历过民主选票\n\n所以被剥夺了人权觉得正常"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 1619,
+          "like_count": 14744,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 6696
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T18:20:53.000Z",
+        "description": "中国全国总罢工罢课临时联络人，六四大请假运动发起人，需要投稿和联络的朋友，signal联络群链接https://t.co/T57aX0VBdo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "signal.group/#CjQKIOc1Yhr3Z…",
+                "end": 71,
+                "expanded_url": "https://signal.group/#CjQKIOc1Yhr3Zt4C8hsoN-aeBtnTzQnyetbLD6e31W451WoqEhCqZChMSa0PVC5nU2ylZTcX",
+                "start": 48,
+                "url": "https://t.co/T57aX0VBdo"
+              }
+            ]
+          }
+        },
+        "id": "1987948528472387585",
+        "location": "Germany",
+        "name": "Willy想做活动家",
+        "pinned_tweet_id": "2036366630452654165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023147645410443265/_6b-Ht_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7480,
+          "following_count": 548,
+          "like_count": 15732,
+          "listed_count": 41,
+          "media_count": 376,
+          "tweet_count": 4003
+        },
+        "username": "WillyundAya",
+        "verified": true
+      }
+    ]
+  }
+}

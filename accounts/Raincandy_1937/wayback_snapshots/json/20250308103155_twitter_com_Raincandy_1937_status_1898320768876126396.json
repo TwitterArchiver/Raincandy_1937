@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1898320768876126396",
+    "created_at": "2025-03-08T10:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T11:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898320768876126396"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kirakira4th/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/kirakira4th/status/1898161574210351271",
+          "start": 2,
+          "url": "https://t.co/WQhifF3SsS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898320768876126396",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898161574210351271",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥹 https://t.co/WQhifF3SsS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1898320768876126396",
+        "created_at": "2025-03-08T10:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T11:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898320768876126396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kirakira4th/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/kirakira4th/status/1898161574210351271",
+              "start": 2,
+              "url": "https://t.co/WQhifF3SsS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898320768876126396",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898161574210351271",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥹 https://t.co/WQhifF3SsS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666599054917218305",
+        "conversation_id": "1898161574210351271",
+        "created_at": "2025-03-07T23:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T00:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898161574210351271"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898161574210351271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6509,
+          "like_count": 165,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "今天记得跟妈妈说节日快乐 生你养你的那个 不是穿黑丝袜用高跟鞋踩你的那个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 824,
+          "like_count": 6263,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 3210
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "我不是河南人",
+        "id": "1666599054917218305",
+        "location": "52/88/128",
+        "name": "消失的井盖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898153553585463296/Rd3rjRfu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12563,
+          "following_count": 2667,
+          "like_count": 49605,
+          "listed_count": 18,
+          "media_count": 312,
+          "tweet_count": 13750
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

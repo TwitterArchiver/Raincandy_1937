@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1908731755072544776",
+    "created_at": "2025-04-06T04:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T05:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908742597683929362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1672161099108749312",
+          "start": 0,
+          "username": "yyyrainy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908742597683929362",
+    "in_reply_to_user_id": "1672161099108749312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908731755072544776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyyrainy 起这么早！🤯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1908731755072544776",
+        "created_at": "2025-04-06T04:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T05:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908742597683929362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1672161099108749312",
+              "start": 0,
+              "username": "yyyrainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908742597683929362",
+        "in_reply_to_user_id": "1672161099108749312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908731755072544776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyyrainy 起这么早！🤯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672161099108749312",
+        "conversation_id": "1908731755072544776",
+        "created_at": "2025-04-06T04:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T05:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908731755072544776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908731755072544776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上提前打开播放器在《Tiny Night》前奏处暂停 这样即使是凌晨四点 只要用最后一点力气点开播放 听到那段旋律就会立马从混沌朦胧状态变成悲伤状态 然后边哭边起床收拾房间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 994,
+          "like_count": 7531,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 3882
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-23T08:35:09.000Z",
+        "description": "谢谢你爱我，我很幸福。",
+        "id": "1672161099108749312",
+        "name": "阴饮欲雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900929104368775168/UBKFXpBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 155,
+          "like_count": 11166,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 64
+        },
+        "username": "yyyrainy",
+        "verified": false
+      }
+    ]
+  }
+}

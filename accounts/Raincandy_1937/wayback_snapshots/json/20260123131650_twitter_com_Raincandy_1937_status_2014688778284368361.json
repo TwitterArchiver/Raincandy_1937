@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2014688778284368361",
+    "created_at": "2026-01-23T13:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T14:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014688778284368361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1715380059278831619",
+          "start": 3,
+          "username": "Killer_Haruhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014688778284368361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014637225825460299",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Killer_Haruhi: 为什么我没有评论那个什么牢A呢，因为让这种玩意占用我宝贵的时间是一种悲剧。关心这事的人我看都挺闲的。\n中国人的本质用乡巴佬三个字就足以概括了，多说无益。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2014688778284368361",
+        "created_at": "2026-01-23T13:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T14:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014688778284368361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1715380059278831619",
+              "start": 3,
+              "username": "Killer_Haruhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014688778284368361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014637225825460299",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Killer_Haruhi: 为什么我没有评论那个什么牢A呢，因为让这种玩意占用我宝贵的时间是一种悲剧。关心这事的人我看都挺闲的。\n中国人的本质用乡巴佬三个字就足以概括了，多说无益。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715380059278831619",
+        "conversation_id": "2014637225825460299",
+        "created_at": "2026-01-23T09:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T10:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014637225825460299"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014637225825460299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1056,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我没有评论那个什么牢A呢，因为让这种玩意占用我宝贵的时间是一种悲剧。关心这事的人我看都挺闲的。\n中国人的本质用乡巴佬三个字就足以概括了，多说无益。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 1524,
+          "like_count": 12988,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 6021
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-20T14:51:03.000Z",
+        "description": "外籍低端人口。",
+        "id": "1715380059278831619",
+        "location": "Nakano City, Tokyo",
+        "name": "はるひ",
+        "pinned_tweet_id": "1796937239974625518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762474898814062592/wXU5QQn4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1746,
+          "following_count": 529,
+          "like_count": 42883,
+          "listed_count": 20,
+          "media_count": 839,
+          "tweet_count": 13154
+        },
+        "username": "Killer_Haruhi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1873244226571649241",
+    "created_at": "2024-12-30T11:17:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T12:17:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873689830426923088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1824091152980815872",
+          "start": 0,
+          "username": "mousou_naikana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873689830426923088",
+    "in_reply_to_user_id": "1824091152980815872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873244226571649241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mousou_naikana 美国人日本人英国人法国人意大利人洛斯里克人罗德尔人卢比孔人怎么这么坏😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1873244226571649241",
+        "created_at": "2024-12-30T11:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T12:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873689830426923088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1824091152980815872",
+              "start": 0,
+              "username": "mousou_naikana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873689830426923088",
+        "in_reply_to_user_id": "1824091152980815872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873244226571649241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mousou_naikana 美国人日本人英国人法国人意大利人洛斯里克人罗德尔人卢比孔人怎么这么坏😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824091152980815872",
+        "conversation_id": "1873244226571649241",
+        "created_at": "2024-12-29T05:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T06:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873244226571649241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1873244226571649241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美国人怎么这么傻逼卧槽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 618,
+          "like_count": 4334,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 2263
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T14:30:06.000Z",
+        "description": "病み垢| 不安定",
+        "id": "1824091152980815872",
+        "name": "鐘の音が鳴る。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858401324196569089/58mRq1Ud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 371,
+          "like_count": 29995,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 228
+        },
+        "username": "mousou_naikana",
+        "verified": false
+      }
+    ]
+  }
+}

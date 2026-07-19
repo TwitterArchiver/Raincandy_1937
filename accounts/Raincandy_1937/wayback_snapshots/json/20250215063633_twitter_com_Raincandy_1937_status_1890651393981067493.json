@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1890477985523704156",
+    "created_at": "2025-02-15T06:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T07:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890651393981067493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1663112063009574912",
+          "start": 0,
+          "username": "Lanyinwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890651393981067493",
+    "in_reply_to_user_id": "1663112063009574912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890477985523704156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lanyinwu 好幸福👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1890477985523704156",
+        "created_at": "2025-02-15T06:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T07:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890651393981067493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1663112063009574912",
+              "start": 0,
+              "username": "Lanyinwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890651393981067493",
+        "in_reply_to_user_id": "1663112063009574912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890477985523704156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lanyinwu 好幸福👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663112063009574912",
+        "conversation_id": "1890477985523704156",
+        "created_at": "2025-02-14T19:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T20:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890477985523704156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890477985523704156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 31120,
+          "like_count": 278,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大家好像都觉得我和我老公面对面发微信是件很奇怪的事情\n可是\n很多东西就得发微信才好玩啊\n我经常给他复制文案发癫，又或者公共场合里表面上正襟危坐的实际上我在一脸正经给他发裸照或者骚话，发完就语气平淡地让他看手机，他要是硬了骂我骚逼我就无辜反问我怎么了\n这不好玩吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 792,
+          "like_count": 5990,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 3023
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T09:16:36.000Z",
+        "description": "个人日常推丨私信不开丨小号 @kiraxiaoyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "kiraxiaoyao"
+              }
+            ]
+          }
+        },
+        "id": "1663112063009574912",
+        "location": "不玩任何社交软件，在除了这个号以外的地方看到我照片均为盗图",
+        "name": "盛予",
+        "pinned_tweet_id": "1887139555901378927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880567980238553089/MRil5HYK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55666,
+          "following_count": 8,
+          "like_count": 5628,
+          "listed_count": 97,
+          "media_count": 142,
+          "tweet_count": 2336
+        },
+        "username": "Lanyinwu",
+        "verified": false
+      }
+    ]
+  }
+}

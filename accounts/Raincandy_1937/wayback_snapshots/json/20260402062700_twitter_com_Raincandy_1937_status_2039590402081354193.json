@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2039590402081354193",
+    "created_at": "2026-04-02T06:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T07:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039590402081354193"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoshunli/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/xiaoshunli/status/2039268700428345490",
+          "start": 3,
+          "url": "https://t.co/wwGY9hnXHR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039590402081354193",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039268700428345490",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "低了 https://t.co/wwGY9hnXHR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2039590402081354193",
+        "created_at": "2026-04-02T06:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T07:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039590402081354193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoshunli/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/xiaoshunli/status/2039268700428345490",
+              "start": 3,
+              "url": "https://t.co/wwGY9hnXHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039590402081354193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039268700428345490",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "低了 https://t.co/wwGY9hnXHR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452505528106569729",
+        "conversation_id": "2039268700428345490",
+        "created_at": "2026-04-01T09:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T10:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039268700428345490"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039268700428345490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 176,
+          "impression_count": 143072,
+          "like_count": 1840,
+          "quote_count": 8,
+          "reply_count": 210,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "说一个让你们绝望的事情：\n\n2026年的今天，80%的中国家庭还没过上《家有儿女》2005年的生活。\n\n95%的中国家庭还没过上《猫和老鼠》1940年的生活。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 1609,
+          "like_count": 14256,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 6547
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-25T05:22:35.000Z",
+        "description": "中文顶级作者，千万畅销书作家，20年内拿诺贝尔文学奖。All IN Crypto。擅长空投和Meme。上轮大结果：ARB,虫洞,Sats ,ARC,Trump, 4",
+        "id": "1452505528106569729",
+        "location": "Palo Alto, CA",
+        "name": "大顺利",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034563017992765440/0bmswBC__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28590,
+          "following_count": 7010,
+          "like_count": 24912,
+          "listed_count": 518,
+          "media_count": 266,
+          "tweet_count": 10816
+        },
+        "username": "xiaoshunli",
+        "verified": true
+      }
+    ]
+  }
+}

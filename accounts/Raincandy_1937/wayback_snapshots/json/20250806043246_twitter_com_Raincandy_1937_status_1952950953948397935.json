@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952950945425539072",
+        "3_1952950945429725184"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1952950953948397935",
+    "created_at": "2025-08-06T04:32:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T05:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952950953948397935"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8kjDvBbRR9",
+          "end": 50,
+          "expanded_url": "https://x.com/Raincandy_1937/status/1952950953948397935/photo/1",
+          "media_key": "3_1952950945425539072",
+          "start": 27,
+          "url": "https://t.co/8kjDvBbRR9"
+        },
+        {
+          "display_url": "pic.x.com/8kjDvBbRR9",
+          "end": 50,
+          "expanded_url": "https://x.com/Raincandy_1937/status/1952950953948397935/photo/1",
+          "media_key": "3_1952950945429725184",
+          "start": 27,
+          "url": "https://t.co/8kjDvBbRR9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952950953948397935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "希望列表里的每个人都能遇到自己的和田同学和山本同学🥰 https://t.co/8kjDvBbRR9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 445,
+        "media_key": "3_1952950945425539072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxpGiaXaQAAk-ce.jpg",
+        "width": 800
+      },
+      {
+        "height": 450,
+        "media_key": "3_1952950945429725184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxpGiaYaIAAlybh.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952950945425539072",
+            "3_1952950945429725184"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1952950953948397935",
+        "created_at": "2025-08-06T04:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T05:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952950953948397935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8kjDvBbRR9",
+              "end": 50,
+              "expanded_url": "https://x.com/Raincandy_1937/status/1952950953948397935/photo/1",
+              "media_key": "3_1952950945425539072",
+              "start": 27,
+              "url": "https://t.co/8kjDvBbRR9"
+            },
+            {
+              "display_url": "pic.x.com/8kjDvBbRR9",
+              "end": 50,
+              "expanded_url": "https://x.com/Raincandy_1937/status/1952950953948397935/photo/1",
+              "media_key": "3_1952950945429725184",
+              "start": 27,
+              "url": "https://t.co/8kjDvBbRR9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952950953948397935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "希望列表里的每个人都能遇到自己的和田同学和山本同学🥰 https://t.co/8kjDvBbRR9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 1231,
+          "like_count": 9347,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 4843
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

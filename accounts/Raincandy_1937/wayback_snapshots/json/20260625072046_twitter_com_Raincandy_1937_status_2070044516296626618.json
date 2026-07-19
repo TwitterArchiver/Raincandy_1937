@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070014232520003585"
+      ],
+      "media_source_tweet_id": [
+        "2070014239939658038"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2070044516296626618",
+    "created_at": "2026-06-25T07:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T08:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070044516296626618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2046283772455485440",
+          "start": 3,
+          "username": "AubreyCamilleuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dYihmdM4Pb",
+          "end": 60,
+          "expanded_url": "https://x.com/AubreyCamilleuu/status/2070014239939658038/photo/1",
+          "media_key": "3_2070014232520003585",
+          "start": 37,
+          "url": "https://t.co/dYihmdM4Pb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070044516296626618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070014239939658038",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AubreyCamilleuu: 搞酷儿创作但创作者必须是顺女哦 https://t.co/dYihmdM4Pb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 605,
+        "media_key": "3_2070014232520003585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoq-iFbkAE-Qxh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070014232520003585"
+          ],
+          "media_source_tweet_id": [
+            "2070014239939658038"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2070044516296626618",
+        "created_at": "2026-06-25T07:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070044516296626618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2046283772455485440",
+              "start": 3,
+              "username": "AubreyCamilleuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dYihmdM4Pb",
+              "end": 60,
+              "expanded_url": "https://x.com/AubreyCamilleuu/status/2070014239939658038/photo/1",
+              "media_key": "3_2070014232520003585",
+              "start": 37,
+              "url": "https://t.co/dYihmdM4Pb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070044516296626618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070014239939658038",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AubreyCamilleuu: 搞酷儿创作但创作者必须是顺女哦 https://t.co/dYihmdM4Pb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070014232520003585"
+          ]
+        },
+        "author_id": "2046283772455485440",
+        "conversation_id": "2070014239939658038",
+        "created_at": "2026-06-25T05:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070014239939658038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dYihmdM4Pb",
+              "end": 39,
+              "expanded_url": "https://x.com/AubreyCamilleuu/status/2070014239939658038/photo/1",
+              "media_key": "3_2070014232520003585",
+              "start": 16,
+              "url": "https://t.co/dYihmdM4Pb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070014239939658038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1212,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "搞酷儿创作但创作者必须是顺女哦 https://t.co/dYihmdM4Pb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 1776,
+          "like_count": 17010,
+          "listed_count": 1,
+          "media_count": 229,
+          "tweet_count": 7387
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T17:44:16.000Z",
+        "description": "你要当个不闻窗外事的痴女孩",
+        "id": "2046283772455485440",
+        "name": "沅子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069385662277754880/WVsxZWOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 169,
+          "like_count": 1073,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 309
+        },
+        "url": "",
+        "username": "AubreyCamilleuu",
+        "verified": false
+      }
+    ]
+  }
+}

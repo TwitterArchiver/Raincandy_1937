@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1900105131330593043",
+    "created_at": "2025-03-13T08:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T09:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900105131330593043"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuu00401/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/yuu00401/status/1900089516976697779",
+          "start": 9,
+          "url": "https://t.co/wGLfEfjkFK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900105131330593043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900089516976697779",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "性压抑真的好恶心 https://t.co/wGLfEfjkFK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1900105131330593043",
+        "created_at": "2025-03-13T08:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T09:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900105131330593043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuu00401/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/yuu00401/status/1900089516976697779",
+              "start": 9,
+              "url": "https://t.co/wGLfEfjkFK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900105131330593043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900089516976697779",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "性压抑真的好恶心 https://t.co/wGLfEfjkFK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554424317483655175",
+        "conversation_id": "1900089516976697779",
+        "created_at": "2025-03-13T07:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T08:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900089516976697779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900089516976697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 877,
+          "like_count": 41,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是真的被你们吓到了，把那个数学插画女孩，二创成做成数学和性挂钩的图"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 852,
+          "like_count": 6363,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 3269
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T11:10:23.000Z",
+        "description": "时光啊就像潮水，带来一切，又送走一切",
+        "id": "1554424317483655175",
+        "location": "拉尼亚凯亚超星系",
+        "name": "yuu🎀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848599077329756160/QtNPMZSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2808,
+          "following_count": 658,
+          "like_count": 60911,
+          "listed_count": 4,
+          "media_count": 1895,
+          "tweet_count": 26655
+        },
+        "username": "yuu00401",
+        "verified": false
+      }
+    ]
+  }
+}

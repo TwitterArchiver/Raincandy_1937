@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1887829472487068078",
+    "created_at": "2025-02-07T11:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T12:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887829472487068078"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hhngki7292924/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/hhngki7292924/status/1887761821354119294",
+          "start": 3,
+          "url": "https://t.co/TJN4rc5GQ7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887829472487068078",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887761821354119294",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我来 https://t.co/TJN4rc5GQ7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1887829472487068078",
+        "created_at": "2025-02-07T11:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T12:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887829472487068078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hhngki7292924/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/hhngki7292924/status/1887761821354119294",
+              "start": 3,
+              "url": "https://t.co/TJN4rc5GQ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887829472487068078",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887761821354119294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我来 https://t.co/TJN4rc5GQ7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887761819252736000"
+          ]
+        },
+        "author_id": "1813191847264854019",
+        "conversation_id": "1887761821354119294",
+        "created_at": "2025-02-07T07:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T08:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887761821354119294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IfYN5NjJ4O",
+              "end": 29,
+              "expanded_url": "https://x.com/hhngki7292924/status/1887761821354119294/photo/1",
+              "media_key": "3_1887761819252736000",
+              "start": 6,
+              "url": "https://t.co/IfYN5NjJ4O"
+            },
+            {
+              "display_url": "x.com/Ijichi_Kotomi/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Ijichi_Kotomi/status/1883170326256959959",
+              "start": 30,
+              "url": "https://t.co/MEFyClTZyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887761821354119294",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883170326256959959",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "emmmm https://t.co/IfYN5NjJ4O https://t.co/MEFyClTZyl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 733,
+          "like_count": 5635,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 2844
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T12:40:39.000Z",
+        "description": "09年丨🏳️‍⚧️无糖可乐哦丨乐子人丨喜欢二游丨偶尔发疯丨不定期复活丨可能有负能量丨性别认知混乱丨避难所@hhk1546562丨最可爱的宝宝@moremoreagain丨最好的姐姐@jinsenala丨很好的妈咪@qingshixiang258丨懒懒的芙芙厨@wuminzhe45",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 52,
+                "username": "hhk1546562"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "moremoreagain"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "username": "jinsenala"
+              },
+              {
+                "end": 122,
+                "start": 106,
+                "username": "qingshixiang258"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "wuminzhe45"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhngki7262624",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hhngki7262624",
+                "start": 0,
+                "url": "https://t.co/eTZfSf7jUs"
+              }
+            ]
+          }
+        },
+        "id": "1813191847264854019",
+        "location": "圣洛夫基金会",
+        "name": "37（😇）",
+        "pinned_tweet_id": "1883407456551993453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886741785088811010/Pjlc-4bU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 340,
+          "like_count": 676,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 1492
+        },
+        "url": "https://t.co/eTZfSf7jUs",
+        "username": "hhngki7292924",
+        "verified": false
+      }
+    ]
+  }
+}

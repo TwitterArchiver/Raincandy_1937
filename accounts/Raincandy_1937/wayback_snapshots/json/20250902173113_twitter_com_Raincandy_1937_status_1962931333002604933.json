@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962931326564384768",
+        "3_1962931326560174083"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1962931333002604933",
+    "created_at": "2025-09-02T17:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T18:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962931333002604933"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PmFXLBF9Ps",
+          "end": 33,
+          "expanded_url": "https://x.com/Raincandy_1937/status/1962931333002604933/photo/1",
+          "media_key": "3_1962931326564384768",
+          "start": 10,
+          "url": "https://t.co/PmFXLBF9Ps"
+        },
+        {
+          "display_url": "pic.x.com/PmFXLBF9Ps",
+          "end": 33,
+          "expanded_url": "https://x.com/Raincandy_1937/status/1962931333002604933/photo/1",
+          "media_key": "3_1962931326560174083",
+          "start": 10,
+          "url": "https://t.co/PmFXLBF9Ps"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962931333002604933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "放一个紫阳花在这里 https://t.co/PmFXLBF9Ps"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 802,
+        "media_key": "3_1962931326564384768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz27pDZbQAACfwZ.jpg",
+        "width": 800
+      },
+      {
+        "height": 450,
+        "media_key": "3_1962931326560174083",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz27pDYbAAMPaH5.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962931326564384768",
+            "3_1962931326560174083"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1962931333002604933",
+        "created_at": "2025-09-02T17:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T18:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962931333002604933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PmFXLBF9Ps",
+              "end": 33,
+              "expanded_url": "https://x.com/Raincandy_1937/status/1962931333002604933/photo/1",
+              "media_key": "3_1962931326564384768",
+              "start": 10,
+              "url": "https://t.co/PmFXLBF9Ps"
+            },
+            {
+              "display_url": "pic.x.com/PmFXLBF9Ps",
+              "end": 33,
+              "expanded_url": "https://x.com/Raincandy_1937/status/1962931333002604933/photo/1",
+              "media_key": "3_1962931326560174083",
+              "start": 10,
+              "url": "https://t.co/PmFXLBF9Ps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962931333002604933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放一个紫阳花在这里 https://t.co/PmFXLBF9Ps"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 1267,
+          "like_count": 9503,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 4933
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

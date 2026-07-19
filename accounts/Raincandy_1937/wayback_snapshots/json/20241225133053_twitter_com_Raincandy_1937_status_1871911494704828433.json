@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871909329848455168"
+      ],
+      "media_source_tweet_id": [
+        "1871909494260908509"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1871911494704828433",
+    "created_at": "2024-12-25T13:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T14:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871911494704828433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XFbUFSmpIL",
+          "end": 128,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1871909494260908509/photo/1",
+          "media_key": "3_1871909329848455168",
+          "start": 105,
+          "url": "https://t.co/XFbUFSmpIL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871911494704828433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871909494260908509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 12月25日，广东梅州。网曝五华县水寨中学要求所有学生签署承诺书：\n“如果我出现自杀自残行为，均与学校无关，本人及家长或监护人、不会以任何理由向学校主张任何损失和赔偿” https://t.co/XFbUFSmpIL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1577,
+        "media_key": "3_1871909329848455168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfpbniFbUAAB58N.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871909329848455168"
+          ],
+          "media_source_tweet_id": [
+            "1871909494260908509"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1871911494704828433",
+        "created_at": "2024-12-25T13:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T14:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871911494704828433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XFbUFSmpIL",
+              "end": 128,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1871909494260908509/photo/1",
+              "media_key": "3_1871909329848455168",
+              "start": 105,
+              "url": "https://t.co/XFbUFSmpIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871911494704828433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871909494260908509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 12月25日，广东梅州。网曝五华县水寨中学要求所有学生签署承诺书：\n“如果我出现自杀自残行为，均与学校无关，本人及家长或监护人、不会以任何理由向学校主张任何损失和赔偿” https://t.co/XFbUFSmpIL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871909329848455168"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1871909494260908509",
+        "created_at": "2024-12-25T13:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T14:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871909494260908509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XFbUFSmpIL",
+              "end": 108,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1871909494260908509/photo/1",
+              "media_key": "3_1871909329848455168",
+              "start": 85,
+              "url": "https://t.co/XFbUFSmpIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871909494260908509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4276,
+          "like_count": 40,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "12月25日，广东梅州。网曝五华县水寨中学要求所有学生签署承诺书：\n“如果我出现自杀自残行为，均与学校无关，本人及家长或监护人、不会以任何理由向学校主张任何损失和赔偿” https://t.co/XFbUFSmpIL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 604,
+          "like_count": 3877,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 2107
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1869409838121521363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1882312,
+          "following_count": 927,
+          "like_count": 5520,
+          "listed_count": 8002,
+          "media_count": 20906,
+          "tweet_count": 27145
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

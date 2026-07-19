@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1885838390743977984",
+        "3_1885838390722990080",
+        "3_1885838390714634241",
+        "3_1885838390718763008"
+      ],
+      "media_source_tweet_id": [
+        "1885838481491886161",
+        "1885838481491886161",
+        "1885838481491886161",
+        "1885838481491886161"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1885980536080072752",
+    "created_at": "2025-02-02T09:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T10:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885980536080072752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "111942564",
+          "start": 3,
+          "username": "boiledwater"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zJbQBIgh04",
+          "end": 104,
+          "expanded_url": "https://x.com/boiledwater/status/1885838481491886161/video/1",
+          "media_key": "13_1885838390743977984",
+          "start": 81,
+          "url": "https://t.co/zJbQBIgh04"
+        },
+        {
+          "display_url": "pic.x.com/zJbQBIgh04",
+          "end": 104,
+          "expanded_url": "https://x.com/boiledwater/status/1885838481491886161/video/1",
+          "media_key": "3_1885838390722990080",
+          "start": 81,
+          "url": "https://t.co/zJbQBIgh04"
+        },
+        {
+          "display_url": "pic.x.com/zJbQBIgh04",
+          "end": 104,
+          "expanded_url": "https://x.com/boiledwater/status/1885838481491886161/video/1",
+          "media_key": "3_1885838390714634241",
+          "start": 81,
+          "url": "https://t.co/zJbQBIgh04"
+        },
+        {
+          "display_url": "pic.x.com/zJbQBIgh04",
+          "end": 104,
+          "expanded_url": "https://x.com/boiledwater/status/1885838481491886161/video/1",
+          "media_key": "3_1885838390718763008",
+          "start": 81,
+          "url": "https://t.co/zJbQBIgh04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885980536080072752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885838481491886161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boiledwater: 网友投稿：\n\n让我们复习一下亲手捅死儿子被判12年vs写百合文被判10年\n\n区别在哪呢？后者是政治犯。政治高于一切，包括人命。 https://t.co/zJbQBIgh04"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45331,
+        "height": 1280,
+        "media_key": "13_1885838390743977984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1885838390743977984/img/VmizuKUVQZgzHyyJ.jpg",
+        "public_metrics": {
+          "view_count": 1605
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1885838390743977984/vid/avc1/320x568/WSZRPVO_gXf1_FbK.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1885838390743977984/vid/avc1/480x852/mGCplEl_oBb_zqP7.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1885838390743977984/vid/avc1/720x1280/-hS3OK5EvOp7ABBN.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1885838390743977984/pl/M_2xoqYREtghB157.m3u8?tag=16"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 329,
+        "media_key": "3_1885838390722990080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GivYBlbWkAAgTlm.jpg",
+        "width": 640
+      },
+      {
+        "height": 335,
+        "media_key": "3_1885838390714634241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GivYBlZXEAESSYZ.jpg",
+        "width": 640
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1885838390718763008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GivYBlaWEAA-vys.jpg",
+        "width": 914
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1885838390743977984",
+            "3_1885838390722990080",
+            "3_1885838390714634241",
+            "3_1885838390718763008"
+          ],
+          "media_source_tweet_id": [
+            "1885838481491886161",
+            "1885838481491886161",
+            "1885838481491886161",
+            "1885838481491886161"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1885980536080072752",
+        "created_at": "2025-02-02T09:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T10:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885980536080072752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "111942564",
+              "start": 3,
+              "username": "boiledwater"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zJbQBIgh04",
+              "end": 104,
+              "expanded_url": "https://x.com/boiledwater/status/1885838481491886161/video/1",
+              "media_key": "13_1885838390743977984",
+              "start": 81,
+              "url": "https://t.co/zJbQBIgh04"
+            },
+            {
+              "display_url": "pic.x.com/zJbQBIgh04",
+              "end": 104,
+              "expanded_url": "https://x.com/boiledwater/status/1885838481491886161/video/1",
+              "media_key": "3_1885838390722990080",
+              "start": 81,
+              "url": "https://t.co/zJbQBIgh04"
+            },
+            {
+              "display_url": "pic.x.com/zJbQBIgh04",
+              "end": 104,
+              "expanded_url": "https://x.com/boiledwater/status/1885838481491886161/video/1",
+              "media_key": "3_1885838390714634241",
+              "start": 81,
+              "url": "https://t.co/zJbQBIgh04"
+            },
+            {
+              "display_url": "pic.x.com/zJbQBIgh04",
+              "end": 104,
+              "expanded_url": "https://x.com/boiledwater/status/1885838481491886161/video/1",
+              "media_key": "3_1885838390718763008",
+              "start": 81,
+              "url": "https://t.co/zJbQBIgh04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885980536080072752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885838481491886161",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @boiledwater: 网友投稿：\n\n让我们复习一下亲手捅死儿子被判12年vs写百合文被判10年\n\n区别在哪呢？后者是政治犯。政治高于一切，包括人命。 https://t.co/zJbQBIgh04"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1885838390743977984",
+            "3_1885838390722990080",
+            "3_1885838390714634241",
+            "3_1885838390718763008"
+          ]
+        },
+        "author_id": "111942564",
+        "conversation_id": "1885838481491886161",
+        "created_at": "2025-02-01T23:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T00:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885838481491886161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zJbQBIgh04",
+              "end": 87,
+              "expanded_url": "https://x.com/boiledwater/status/1885838481491886161/video/1",
+              "media_key": "13_1885838390743977984",
+              "start": 64,
+              "url": "https://t.co/zJbQBIgh04"
+            },
+            {
+              "display_url": "pic.x.com/zJbQBIgh04",
+              "end": 87,
+              "expanded_url": "https://x.com/boiledwater/status/1885838481491886161/video/1",
+              "media_key": "3_1885838390722990080",
+              "start": 64,
+              "url": "https://t.co/zJbQBIgh04"
+            },
+            {
+              "display_url": "pic.x.com/zJbQBIgh04",
+              "end": 87,
+              "expanded_url": "https://x.com/boiledwater/status/1885838481491886161/video/1",
+              "media_key": "3_1885838390714634241",
+              "start": 64,
+              "url": "https://t.co/zJbQBIgh04"
+            },
+            {
+              "display_url": "pic.x.com/zJbQBIgh04",
+              "end": 87,
+              "expanded_url": "https://x.com/boiledwater/status/1885838481491886161/video/1",
+              "media_key": "3_1885838390718763008",
+              "start": 64,
+              "url": "https://t.co/zJbQBIgh04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885838481491886161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3545,
+          "like_count": 84,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿：\n\n让我们复习一下亲手捅死儿子被判12年vs写百合文被判10年\n\n区别在哪呢？后者是政治犯。政治高于一切，包括人命。 https://t.co/zJbQBIgh04"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 699,
+          "like_count": 5370,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 2736
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-06T17:49:59.000Z",
+        "description": "打破原生家庭之环的人，只能是你自己。",
+        "id": "111942564",
+        "location": "Stockholm, Sweden",
+        "name": "Jess",
+        "pinned_tweet_id": "1879966795433734528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601123559812009984/2vI25CZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41261,
+          "following_count": 1760,
+          "like_count": 28299,
+          "listed_count": 158,
+          "media_count": 4280,
+          "tweet_count": 34001
+        },
+        "username": "boiledwater",
+        "verified": true
+      }
+    ]
+  }
+}

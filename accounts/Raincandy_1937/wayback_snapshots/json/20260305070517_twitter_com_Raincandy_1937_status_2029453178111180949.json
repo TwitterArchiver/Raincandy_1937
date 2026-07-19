@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2029453178111180949",
+    "created_at": "2026-03-05T07:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T08:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029453178111180949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1715380059278831619",
+          "start": 3,
+          "username": "Killer_Haruhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029453178111180949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029254221393215740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Killer_Haruhi: 应试教育培养出来的想象力：\n人列计算机\n做题拯救地球\n外星人喜欢古诗词\n黑人会飞摧毁美国舰队\n委内瑞拉人手一个巡航导弹击败美军😂\n……\n以及图里面这个傻屌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2029453178111180949",
+        "created_at": "2026-03-05T07:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T08:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029453178111180949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1715380059278831619",
+              "start": 3,
+              "username": "Killer_Haruhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029453178111180949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029254221393215740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Killer_Haruhi: 应试教育培养出来的想象力：\n人列计算机\n做题拯救地球\n外星人喜欢古诗词\n黑人会飞摧毁美国舰队\n委内瑞拉人手一个巡航导弹击败美军😂\n……\n以及图里面这个傻屌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715380059278831619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2029254221393215740",
+        "created_at": "2026-03-04T17:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T18:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029254221393215740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kivi888888/sta…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/kivi888888/status/2029000170818683172",
+              "start": 78,
+              "url": "https://t.co/yqVvHkptgC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029254221393215740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 27090,
+          "like_count": 380,
+          "quote_count": 5,
+          "reply_count": 24,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029000170818683172",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "应试教育培养出来的想象力：\n人列计算机\n做题拯救地球\n外星人喜欢古诗词\n黑人会飞摧毁美国舰队\n委内瑞拉人手一个巡航导弹击败美军😂\n……\n以及图里面这个傻屌 https://t.co/yqVvHkptgC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 1567,
+          "like_count": 13619,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 6273
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-20T14:51:03.000Z",
+        "description": "外籍低端人口。",
+        "id": "1715380059278831619",
+        "location": "Nakano City, Tokyo",
+        "name": "はるひ",
+        "pinned_tweet_id": "1796937239974625518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762474898814062592/wXU5QQn4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1948,
+          "following_count": 530,
+          "like_count": 44845,
+          "listed_count": 21,
+          "media_count": 874,
+          "tweet_count": 13579
+        },
+        "username": "Killer_Haruhi",
+        "verified": false
+      }
+    ]
+  }
+}

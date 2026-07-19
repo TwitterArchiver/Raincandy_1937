@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2056431320566464695",
+    "created_at": "2026-05-18T17:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T18:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056431320566464695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miaw/status/20…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/miaw/status/2056342787650626034",
+          "start": 12,
+          "url": "https://t.co/nud8xGL1Km"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056431320566464695",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056342787650626034",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "mee and who https://t.co/nud8xGL1Km"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21710,
+        "height": 720,
+        "media_key": "13_2056325048370434048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056325048370434048/img/7knQu8iclnbCzs7w.jpg",
+        "public_metrics": {
+          "view_count": 14445
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056325048370434048/vid/avc1/470x270/XLRNLVFDJU0yGvo9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056325048370434048/vid/avc1/628x360/FXdc54STz1uiDAXO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056325048370434048/vid/avc1/1256x720/4QBRCxO5OcY2LRw8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056325048370434048/pl/5uQ9UrHOYDNTW0YU.m3u8"
+          }
+        ],
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2056431320566464695",
+        "created_at": "2026-05-18T17:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T18:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056431320566464695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miaw/status/20…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/miaw/status/2056342787650626034",
+              "start": 12,
+              "url": "https://t.co/nud8xGL1Km"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056431320566464695",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056342787650626034",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "mee and who https://t.co/nud8xGL1Km"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056325048370434048"
+          ]
+        },
+        "author_id": "7176332",
+        "conversation_id": "2056342787650626034",
+        "created_at": "2026-05-18T11:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056342787650626034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XY3HO3p4cS",
+              "end": 23,
+              "expanded_url": "https://x.com/Miaw/status/2056342787650626034/video/1",
+              "media_key": "13_2056325048370434048",
+              "start": 0,
+              "url": "https://t.co/XY3HO3p4cS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056342787650626034",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 225,
+          "impression_count": 54565,
+          "like_count": 2679,
+          "quote_count": 29,
+          "reply_count": 5,
+          "retweet_count": 410
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XY3HO3p4cS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 1668,
+          "like_count": 15336,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 6826
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2007-06-30T20:38:23.000Z",
+        "description": "",
+        "id": "7176332",
+        "location": "🐾",
+        "name": "Miaw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801765217132826624/DvbJoKM1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117488,
+          "following_count": 0,
+          "like_count": 57,
+          "listed_count": 279,
+          "media_count": 3065,
+          "tweet_count": 3094
+        },
+        "username": "Miaw",
+        "verified": true
+      }
+    ]
+  }
+}

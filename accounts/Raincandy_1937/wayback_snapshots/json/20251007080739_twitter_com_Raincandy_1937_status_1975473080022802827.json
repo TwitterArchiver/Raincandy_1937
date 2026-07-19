@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1975473080022802827",
+    "created_at": "2025-10-07T08:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T09:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975473080022802827"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thghostly/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/thghostly/status/1975142888003764545",
+          "start": 15,
+          "url": "https://t.co/etoHHf2NXU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975473080022802827",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975142888003764545",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Us this winter https://t.co/etoHHf2NXU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6300,
+        "height": 476,
+        "media_key": "13_1975142876494331904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1975142876494331904/img/kRImgbLjeADWNvyu.jpg",
+        "public_metrics": {
+          "view_count": 31796
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975142876494331904/vid/avc1/324x270/4EKlf9sOH9svYV3g.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975142876494331904/vid/avc1/572x476/wUEsHcDwkL2L32Im.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1975142876494331904/pl/Hp1xtiRKt58c8C7C.m3u8"
+          }
+        ],
+        "width": 572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1975473080022802827",
+        "created_at": "2025-10-07T08:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T09:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975473080022802827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thghostly/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/thghostly/status/1975142888003764545",
+              "start": 15,
+              "url": "https://t.co/etoHHf2NXU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975473080022802827",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975142888003764545",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Us this winter https://t.co/etoHHf2NXU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1975142876494331904"
+          ]
+        },
+        "author_id": "1666975734319964161",
+        "conversation_id": "1975142888003764545",
+        "created_at": "2025-10-06T10:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T11:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975142888003764545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zEr48iddAP",
+              "end": 38,
+              "expanded_url": "https://x.com/thghostly/status/1975142888003764545/video/1",
+              "media_key": "13_1975142876494331904",
+              "start": 15,
+              "url": "https://t.co/zEr48iddAP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975142888003764545",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 875,
+          "impression_count": 138897,
+          "like_count": 8508,
+          "quote_count": 109,
+          "reply_count": 39,
+          "retweet_count": 1324
+        },
+        "reply_settings": "everyone",
+        "text": "Us this winter https://t.co/zEr48iddAP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 1369,
+          "like_count": 10607,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 5231
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T01:09:49.000Z",
+        "description": "un vampire le nuit @sceiuvr ꕮ. 白鳥の魂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "sceiuvr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/citxi",
+                "end": 23,
+                "expanded_url": "http://tellonym.me/citxi",
+                "start": 0,
+                "url": "https://t.co/xgu3JdiBo3"
+              }
+            ]
+          }
+        },
+        "id": "1666975734319964161",
+        "name": "Heem.",
+        "pinned_tweet_id": "1722773109613171060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974476622834139136/ls3uT8Lk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 180,
+          "like_count": 10851,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1544
+        },
+        "url": "https://t.co/xgu3JdiBo3",
+        "username": "thghostly",
+        "verified": false
+      }
+    ]
+  }
+}

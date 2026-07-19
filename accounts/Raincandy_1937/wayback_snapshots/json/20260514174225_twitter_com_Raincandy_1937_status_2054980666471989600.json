@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2054910018991137193",
+    "created_at": "2026-05-14T17:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T18:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054980666471989600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1507396901594820608",
+          "start": 0,
+          "username": "hgds0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054980666471989600",
+    "in_reply_to_user_id": "1507396901594820608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054910018991137193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgds0 你們聊，我走丟包了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 582,
+        "media_key": "3_2054910011864965120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISBxLaa4AA1pUg.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2054910018991137193",
+        "created_at": "2026-05-14T17:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054980666471989600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054980666471989600",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054910018991137193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds0 你們聊，我走丟包了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054910011864965120"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2054910018991137193",
+        "created_at": "2026-05-14T13:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T14:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054910018991137193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gKGoowi4Dw",
+              "end": 28,
+              "expanded_url": "https://x.com/hgds0/status/2054910018991137193/photo/1",
+              "media_key": "3_2054910011864965120",
+              "start": 5,
+              "url": "https://t.co/gKGoowi4Dw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054910018991137193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 19898,
+          "like_count": 968,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "每日心情 https://t.co/gKGoowi4Dw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 1663,
+          "like_count": 15199,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 6793
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删/推广自辩‼️",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2048632363241152830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97424,
+          "following_count": 2460,
+          "like_count": 44251,
+          "listed_count": 145,
+          "media_count": 4183,
+          "tweet_count": 8579
+        },
+        "username": "hgds0",
+        "verified": false
+      }
+    ]
+  }
+}

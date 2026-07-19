@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1897324932075491784",
+    "created_at": "2025-03-06T06:57:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T07:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897541975416693071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842423358216142849",
+          "start": 0,
+          "username": "keeganlike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897541975416693071",
+    "in_reply_to_user_id": "1842423358216142849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897324932075491784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keeganlike 直接骂呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1897324932075491784",
+        "created_at": "2025-03-06T06:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T07:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897541975416693071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842423358216142849",
+              "start": 0,
+              "username": "keeganlike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897541975416693071",
+        "in_reply_to_user_id": "1842423358216142849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897324932075491784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keeganlike 直接骂呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842423358216142849",
+        "conversation_id": "1897324932075491784",
+        "created_at": "2025-03-05T16:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T17:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897324932075491784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897324932075491784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 584,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推上有些男的发出的言论给我一种食物未经过消化直接滑过肠子变成🔟的感觉 真好奇这些人在现实到底是啥样的 我骂都懒的骂 即使我很想骂你死全家 但是又感觉不太好 唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 804,
+          "like_count": 6103,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 3135
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T04:36:02.000Z",
+        "description": "只是发泄罢了 纯绿 随缘加墙外 私信发屌死全家 欢迎女宝互动 发的东西大多未多加思考 帖子情绪化严重 如有歧义或者观点错误别骂人哈",
+        "id": "1842423358216142849",
+        "name": "泡泡",
+        "pinned_tweet_id": "1894778361903489177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843181486243287041/5smTRKPB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 249,
+          "like_count": 722,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 2157
+        },
+        "username": "keeganlike",
+        "verified": false
+      }
+    ]
+  }
+}

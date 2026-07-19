@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1985576367963193445",
+    "created_at": "2025-11-04T06:50:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T07:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985600421919146478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1837006133900554240",
+          "start": 0,
+          "username": "xiaoxiong0921"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985600421919146478",
+    "in_reply_to_user_id": "1837006133900554240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985576367963193445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxiong0921 三个男生是不是六个核桃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1985576367963193445",
+        "created_at": "2025-11-04T06:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T07:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985600421919146478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837006133900554240",
+              "start": 0,
+              "username": "xiaoxiong0921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985600421919146478",
+        "in_reply_to_user_id": "1837006133900554240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985576367963193445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxiong0921 三个男生是不是六个核桃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837006133900554240",
+        "conversation_id": "1985576367963193445",
+        "created_at": "2025-11-04T05:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T06:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985576367963193445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985576367963193445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 428,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两个男生其实是四个核桃的爱情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 1427,
+          "like_count": 11374,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 5445
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T05:49:34.000Z",
+        "description": "ISFJ｜金牛｜可爱小宝宝请和我互fo｜喜欢有趣的灵魂｜推广自辨❗️｜小宝宝@318430lzy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "318430lzy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%86%8A31584",
+                "start": 0,
+                "url": "https://t.co/mTOxnDXfwC"
+              }
+            ]
+          }
+        },
+        "id": "1837006133900554240",
+        "location": "匿名👉🏻",
+        "name": "小熊（凌晨四点起床给老公小三煲汤）",
+        "pinned_tweet_id": "1980299904649224199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983235638888673280/f7V1YgGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 68,
+          "like_count": 14867,
+          "listed_count": 1,
+          "media_count": 295,
+          "tweet_count": 5796
+        },
+        "url": "https://t.co/mTOxnDXfwC",
+        "username": "xiaoxiong0921",
+        "verified": false
+      }
+    ]
+  }
+}

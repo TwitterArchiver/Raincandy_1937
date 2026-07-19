@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1906926082160504854",
+    "created_at": "2025-04-01T04:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T05:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906926082160504854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Raincandy_1937…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/Raincandy_1937/status/1906925974639571373",
+          "start": 10,
+          "url": "https://t.co/w9MfWT4KbI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906926082160504854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906925974639571373",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "近几个版本（更正） https://t.co/w9MfWT4KbI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1906926082160504854",
+        "created_at": "2025-04-01T04:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T05:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906926082160504854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Raincandy_1937…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Raincandy_1937/status/1906925974639571373",
+              "start": 10,
+              "url": "https://t.co/w9MfWT4KbI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906926082160504854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906925974639571373",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "近几个版本（更正） https://t.co/w9MfWT4KbI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1906925974639571373",
+        "created_at": "2025-04-01T04:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T05:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906925974639571373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Raincandy_1937…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/Raincandy_1937/status/1906746210859491627",
+              "start": 107,
+              "url": "https://t.co/G1XYdI8X14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906925974639571373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906746210859491627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "9的六星尤其是近几年的，给人一种必须抽全的感觉，你也不知道现在你看不上的那个六星角色是不是下一个心选姐的专拐，PV里你爱的死去活来的那个角色可能是之前你错过的某个大C的御用辅助...深蓝内部的财务状况一直是个谜。 https://t.co/G1XYdI8X14"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 959,
+          "like_count": 7269,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 3758
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

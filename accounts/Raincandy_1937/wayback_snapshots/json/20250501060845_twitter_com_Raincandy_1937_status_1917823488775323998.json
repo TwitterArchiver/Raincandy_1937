@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917823485541507073"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1917823488775323998",
+    "created_at": "2025-05-01T06:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T07:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917823488775323998"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ddOHydwXOu",
+          "end": 43,
+          "expanded_url": "https://x.com/Raincandy_1937/status/1917823488775323998/photo/1",
+          "media_key": "3_1917823485541507073",
+          "start": 20,
+          "url": "https://t.co/ddOHydwXOu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917823488775323998",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "诶呦我，粽姐这套像躲避狗仔围堵的大明星 https://t.co/ddOHydwXOu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1029,
+        "media_key": "3_1917823485541507073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp16TI2aYAEmqrO.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917823485541507073"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1917823488775323998",
+        "created_at": "2025-05-01T06:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T07:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917823488775323998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ddOHydwXOu",
+              "end": 43,
+              "expanded_url": "https://x.com/Raincandy_1937/status/1917823488775323998/photo/1",
+              "media_key": "3_1917823485541507073",
+              "start": 20,
+              "url": "https://t.co/ddOHydwXOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917823488775323998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶呦我，粽姐这套像躲避狗仔围堵的大明星 https://t.co/ddOHydwXOu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 1072,
+          "like_count": 8100,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 4189
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

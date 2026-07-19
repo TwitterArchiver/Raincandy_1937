@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988466972066279428"
+      ],
+      "media_source_tweet_id": [
+        "1988466980362613196"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1988876658229616863",
+    "created_at": "2025-11-13T07:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T08:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988876658229616863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1980992351930863616",
+          "start": 3,
+          "username": "liaojieta1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CU1rKa0DDd",
+          "end": 43,
+          "expanded_url": "https://x.com/liaojieta1/status/1988466980362613196/photo/1",
+          "media_key": "3_1988466972066279428",
+          "start": 20,
+          "url": "https://t.co/CU1rKa0DDd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988876658229616863",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988466980362613196",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liaojieta1: 我嘴替 https://t.co/CU1rKa0DDd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 952,
+        "media_key": "3_1988466972066279428",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5h0LP2bcAQtTms.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988466972066279428"
+          ],
+          "media_source_tweet_id": [
+            "1988466980362613196"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1988876658229616863",
+        "created_at": "2025-11-13T07:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T08:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988876658229616863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1980992351930863616",
+              "start": 3,
+              "username": "liaojieta1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CU1rKa0DDd",
+              "end": 43,
+              "expanded_url": "https://x.com/liaojieta1/status/1988466980362613196/photo/1",
+              "media_key": "3_1988466972066279428",
+              "start": 20,
+              "url": "https://t.co/CU1rKa0DDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988876658229616863",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988466980362613196",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liaojieta1: 我嘴替 https://t.co/CU1rKa0DDd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988466972066279428"
+          ]
+        },
+        "author_id": "1980992351930863616",
+        "conversation_id": "1988466980362613196",
+        "created_at": "2025-11-12T04:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T05:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988466980362613196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CU1rKa0DDd",
+              "end": 27,
+              "expanded_url": "https://x.com/liaojieta1/status/1988466980362613196/photo/1",
+              "media_key": "3_1988466972066279428",
+              "start": 4,
+              "url": "https://t.co/CU1rKa0DDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988466980362613196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 110933,
+          "like_count": 1754,
+          "quote_count": 15,
+          "reply_count": 164,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "我嘴替 https://t.co/CU1rKa0DDd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 1438,
+          "like_count": 11663,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 5513
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T13:39:26.000Z",
+        "description": "“禁止共情”",
+        "id": "1980992351930863616",
+        "name": "我也不太了解她",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980992553794035712/p0W79iJU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9010,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 6,
+          "media_count": 2,
+          "tweet_count": 61
+        },
+        "username": "liaojieta1",
+        "verified": true
+      }
+    ]
+  }
+}

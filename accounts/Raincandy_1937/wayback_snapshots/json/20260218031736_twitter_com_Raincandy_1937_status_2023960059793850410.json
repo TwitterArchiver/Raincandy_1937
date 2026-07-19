@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Mental Health",
+          "id": "918217950783455232",
+          "name": "Mental health"
+        }
+      }
+    ],
+    "conversation_id": "2023960059793850410",
+    "created_at": "2026-02-18T03:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T04:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023960059793850410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1798770460752297984",
+          "start": 3,
+          "username": "AtlasLGBT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023960059793850410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023787023749050750",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AtlasLGBT: 文明洼地之土耳其拟出台法律：\n1⃣在社交媒体或公开场合赞美、鼓励或诱导 LGBT 行为，处 1 至 3 年 监禁。\n2⃣举行同性订婚或结婚仪式，处 1.5 至 4 年 监禁。\nTurkey: The Abyss of Civilization 📉…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Mental Health",
+              "id": "918217950783455232",
+              "name": "Mental health"
+            }
+          }
+        ],
+        "conversation_id": "2023960059793850410",
+        "created_at": "2026-02-18T03:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T04:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023960059793850410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798770460752297984",
+              "start": 3,
+              "username": "AtlasLGBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023960059793850410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023787023749050750",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AtlasLGBT: 文明洼地之土耳其拟出台法律：\n1⃣在社交媒体或公开场合赞美、鼓励或诱导 LGBT 行为，处 1 至 3 年 监禁。\n2⃣举行同性订婚或结婚仪式，处 1.5 至 4 年 监禁。\nTurkey: The Abyss of Civilization 📉…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798770460752297984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Mental Health",
+              "id": "918217950783455232",
+              "name": "Mental health"
+            }
+          }
+        ],
+        "conversation_id": "2023787023749050750",
+        "created_at": "2026-02-17T15:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T16:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023787023749050750"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 124,
+              "tag": "LGBT"
+            },
+            {
+              "end": 142,
+              "start": 130,
+              "tag": "HumanRights"
+            },
+            {
+              "end": 150,
+              "start": 143,
+              "tag": "Turkey"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/bpthaber/statu…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/bpthaber/status/2023661233757389225",
+              "start": 151,
+              "url": "https://t.co/3EELXyTBgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023787023749050750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6413,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023661233757389225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "文明洼地之土耳其拟出台法律：\n1⃣在社交媒体或公开场合赞美、鼓励或诱导 LGBT 行为，处 1 至 3 年 监禁。\n2⃣举行同性订婚或结婚仪式，处 1.5 至 4 年 监禁。\nTurkey: The Abyss of Civilization 📉\n#LGBT #HumanRights #Turkey https://t.co/3EELXyTBgo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 1551,
+          "like_count": 13220,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 6119
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T17:34:52.000Z",
+        "description": "不断发声，声音才不会被淹没。\nHomophobia is a cognitive disorder，Love is the only cure.🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "the-cure-for-bigotry.edu",
+                "end": 23,
+                "expanded_url": "http://the-cure-for-bigotry.edu",
+                "start": 0,
+                "url": "https://t.co/GY2dDeMlwZ"
+              }
+            ]
+          }
+        },
+        "id": "1798770460752297984",
+        "location": "A Sick World",
+        "name": "Atlas",
+        "pinned_tweet_id": "2020139305407004771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013196101730312192/4ayc920J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 143,
+          "like_count": 1245,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 329
+        },
+        "url": "https://t.co/GY2dDeMlwZ",
+        "username": "AtlasLGBT",
+        "verified": true
+      }
+    ]
+  }
+}

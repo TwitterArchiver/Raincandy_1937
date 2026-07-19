@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2057786967778279797",
+    "created_at": "2026-05-22T11:33:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T12:33:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057786967778279797"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_______sungi/s…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/_______sungi/status/2057453110134808607",
+          "start": 27,
+          "url": "https://t.co/HYCooieGdr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057786967778279797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057453110134808607",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "6.6和5.5/7.7的關係~好難猜哦（是真的很難猜 https://t.co/HYCooieGdr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057453107895005184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2Ks2Ya8AAl02L.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057453108192792576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2Ks3fa0AAztUT.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2057786967778279797",
+        "created_at": "2026-05-22T11:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057786967778279797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_______sungi/s…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/_______sungi/status/2057453110134808607",
+              "start": 27,
+              "url": "https://t.co/HYCooieGdr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057786967778279797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057453110134808607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6.6和5.5/7.7的關係~好難猜哦（是真的很難猜 https://t.co/HYCooieGdr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057453107895005184",
+            "3_2057453108192792576"
+          ]
+        },
+        "author_id": "1735953993862729728",
+        "conversation_id": "2057453110134808607",
+        "created_at": "2026-05-21T13:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057453110134808607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RoWoIPT7zA",
+              "end": 39,
+              "expanded_url": "https://x.com/_______sungi/status/2057453110134808607/photo/1",
+              "media_key": "3_2057453107895005184",
+              "start": 16,
+              "url": "https://t.co/RoWoIPT7zA"
+            },
+            {
+              "display_url": "pic.x.com/RoWoIPT7zA",
+              "end": 39,
+              "expanded_url": "https://x.com/_______sungi/status/2057453110134808607/photo/1",
+              "media_key": "3_2057453108192792576",
+              "start": 16,
+              "url": "https://t.co/RoWoIPT7zA"
+            },
+            {
+              "display_url": "x.com/mememeko_chan/…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/mememeko_chan/status/2057337893396549845",
+              "start": 40,
+              "url": "https://t.co/USs2agVRqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057453110134808607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7818,
+          "like_count": 175,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057337893396549845",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ロリポップの誕生日が起きる‼️ https://t.co/RoWoIPT7zA https://t.co/USs2agVRqw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 1684,
+          "like_count": 15532,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 6865
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T09:24:41.000Z",
+        "description": "꒰ঌ AZK➸💗No.4 ┇♀️┇教祖様@A_TAN219😇💗┇🍒@Haku_qr┇大好き🫶🏻→@4h5u_ ┇さぶ@_______amotan┇好➡️ﾊﾞﾃﾞｨﾌｧｲﾄ、ﾆﾃﾞｨｶﾞ、大森靖子🌏💖┇お別れは🅱️解で┇界隈のぴんく枠💗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "A_TAN219"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "username": "Haku_qr"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "username": "4h5u_"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "_______amotan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/_______sungi",
+                "end": 23,
+                "expanded_url": "https://lit.link/_______sungi",
+                "start": 0,
+                "url": "https://t.co/2VRzYoRMQt"
+              }
+            ]
+          }
+        },
+        "id": "1735953993862729728",
+        "location": "🗝垢とか別垢はリトリンに⬇️",
+        "name": "愛染あもる",
+        "pinned_tweet_id": "1970445240629911969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054773096679395329/wVKoEHNM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2521,
+          "following_count": 2108,
+          "like_count": 114078,
+          "listed_count": 55,
+          "media_count": 1023,
+          "tweet_count": 25757
+        },
+        "url": "https://t.co/2VRzYoRMQt",
+        "username": "_______sungi",
+        "verified": false
+      }
+    ]
+  }
+}

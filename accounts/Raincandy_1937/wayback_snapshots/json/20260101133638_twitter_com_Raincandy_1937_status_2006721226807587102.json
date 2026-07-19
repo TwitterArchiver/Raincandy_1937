@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006503594611089408",
+        "3_2006503598146879488",
+        "3_2006503599291965440"
+      ],
+      "media_source_tweet_id": [
+        "2006503604346302684",
+        "2006503604346302684",
+        "2006503604346302684"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2006721226807587102",
+    "created_at": "2026-01-01T13:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T14:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006721226807587102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1595110651621318656",
+          "start": 3,
+          "username": "ProcyonCoke731"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z4AOmBrQcz",
+          "end": 65,
+          "expanded_url": "https://x.com/ProcyonCoke731/status/2006503604346302684/photo/1",
+          "media_key": "3_2006503594611089408",
+          "start": 42,
+          "url": "https://t.co/z4AOmBrQcz"
+        },
+        {
+          "display_url": "pic.x.com/z4AOmBrQcz",
+          "end": 65,
+          "expanded_url": "https://x.com/ProcyonCoke731/status/2006503604346302684/photo/1",
+          "media_key": "3_2006503598146879488",
+          "start": 42,
+          "url": "https://t.co/z4AOmBrQcz"
+        },
+        {
+          "display_url": "pic.x.com/z4AOmBrQcz",
+          "end": 65,
+          "expanded_url": "https://x.com/ProcyonCoke731/status/2006503604346302684/photo/1",
+          "media_key": "3_2006503599291965440",
+          "start": 42,
+          "url": "https://t.co/z4AOmBrQcz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006721226807587102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006503604346302684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ProcyonCoke731: 它都支持吃人了，談論它支不支持獨裁意義不大 https://t.co/z4AOmBrQcz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 202,
+        "media_key": "3_2006503594611089408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9iIY21WoAAPT3_.png",
+        "width": 719
+      },
+      {
+        "height": 719,
+        "media_key": "3_2006503598146879488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9iIZEAWgAANvSE.jpg",
+        "width": 719
+      },
+      {
+        "height": 575,
+        "media_key": "3_2006503599291965440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9iIZIRXIAAHncK.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006503594611089408",
+            "3_2006503598146879488",
+            "3_2006503599291965440"
+          ],
+          "media_source_tweet_id": [
+            "2006503604346302684",
+            "2006503604346302684",
+            "2006503604346302684"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2006721226807587102",
+        "created_at": "2026-01-01T13:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T14:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006721226807587102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1595110651621318656",
+              "start": 3,
+              "username": "ProcyonCoke731"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z4AOmBrQcz",
+              "end": 65,
+              "expanded_url": "https://x.com/ProcyonCoke731/status/2006503604346302684/photo/1",
+              "media_key": "3_2006503594611089408",
+              "start": 42,
+              "url": "https://t.co/z4AOmBrQcz"
+            },
+            {
+              "display_url": "pic.x.com/z4AOmBrQcz",
+              "end": 65,
+              "expanded_url": "https://x.com/ProcyonCoke731/status/2006503604346302684/photo/1",
+              "media_key": "3_2006503598146879488",
+              "start": 42,
+              "url": "https://t.co/z4AOmBrQcz"
+            },
+            {
+              "display_url": "pic.x.com/z4AOmBrQcz",
+              "end": 65,
+              "expanded_url": "https://x.com/ProcyonCoke731/status/2006503604346302684/photo/1",
+              "media_key": "3_2006503599291965440",
+              "start": 42,
+              "url": "https://t.co/z4AOmBrQcz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006721226807587102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006503604346302684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ProcyonCoke731: 它都支持吃人了，談論它支不支持獨裁意義不大 https://t.co/z4AOmBrQcz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006503594611089408",
+            "3_2006503598146879488",
+            "3_2006503599291965440"
+          ]
+        },
+        "author_id": "1595110651621318656",
+        "conversation_id": "2006503604346302684",
+        "created_at": "2025-12-31T23:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T00:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006503604346302684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z4AOmBrQcz",
+              "end": 45,
+              "expanded_url": "https://x.com/ProcyonCoke731/status/2006503604346302684/photo/1",
+              "media_key": "3_2006503594611089408",
+              "start": 22,
+              "url": "https://t.co/z4AOmBrQcz"
+            },
+            {
+              "display_url": "pic.x.com/z4AOmBrQcz",
+              "end": 45,
+              "expanded_url": "https://x.com/ProcyonCoke731/status/2006503604346302684/photo/1",
+              "media_key": "3_2006503598146879488",
+              "start": 22,
+              "url": "https://t.co/z4AOmBrQcz"
+            },
+            {
+              "display_url": "pic.x.com/z4AOmBrQcz",
+              "end": 45,
+              "expanded_url": "https://x.com/ProcyonCoke731/status/2006503604346302684/photo/1",
+              "media_key": "3_2006503599291965440",
+              "start": 22,
+              "url": "https://t.co/z4AOmBrQcz"
+            },
+            {
+              "display_url": "x.com/sugarofAzathot…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/sugarofAzathoth/status/2006032629007626251",
+              "start": 46,
+              "url": "https://t.co/Euwdwl1Stc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006503604346302684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 8492,
+          "like_count": 107,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006032629007626251",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "它都支持吃人了，談論它支不支持獨裁意義不大 https://t.co/z4AOmBrQcz https://t.co/Euwdwl1Stc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998397096031035392/5bZUUqPS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 1526,
+          "like_count": 12965,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 5955
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T17:43:19.000Z",
+        "description": "直升機駕駛員\n异世界转生号https://t.co/2usdJjOgLk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/chaosc…",
+                "end": 36,
+                "expanded_url": "https://bsky.app/profile/chaoscoke731.bsky.social",
+                "start": 13,
+                "url": "https://t.co/2usdJjOgLk"
+              }
+            ]
+          }
+        },
+        "id": "1595110651621318656",
+        "name": "桜桃可乐🇯🇵🌌🌸🍸✝️",
+        "pinned_tweet_id": "1981997572719014169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004629230051614720/oQ3zNr4m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4471,
+          "following_count": 1144,
+          "like_count": 31373,
+          "listed_count": 45,
+          "media_count": 3530,
+          "tweet_count": 15215
+        },
+        "username": "ProcyonCoke731",
+        "verified": false
+      }
+    ]
+  }
+}

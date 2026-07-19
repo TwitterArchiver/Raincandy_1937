@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1912336176981344466",
+    "created_at": "2025-04-16T02:44:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T03:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912336176981344466"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bingo2x10/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/bingo2x10/status/1911982675071836403",
+          "start": 4,
+          "url": "https://t.co/r8OkB2slZP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912336176981344466",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911982675071836403",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "合理👇 https://t.co/r8OkB2slZP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1912336176981344466",
+        "created_at": "2025-04-16T02:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T03:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912336176981344466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bingo2x10/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/bingo2x10/status/1911982675071836403",
+              "start": 4,
+              "url": "https://t.co/r8OkB2slZP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912336176981344466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911982675071836403",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "合理👇 https://t.co/r8OkB2slZP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437773326131384325",
+        "conversation_id": "1911982675071836403",
+        "created_at": "2025-04-15T03:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T04:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911982675071836403"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911982675071836403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 67064,
+          "like_count": 1302,
+          "quote_count": 5,
+          "reply_count": 60,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "合理怀疑「女人三十如狼四十如虎」是你们这群从三十岁开始走下坡路的阳痿早泄男为了掩盖心虚造的黄谣 ^^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 1033,
+          "like_count": 7973,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 4040
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-14T13:41:03.000Z",
+        "description": "「靡不有初 鲜克有终」",
+        "id": "1437773326131384325",
+        "location": "秉烛夜游",
+        "name": "餅崽",
+        "pinned_tweet_id": "1722901677123219528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884675670590316544/QV8kavrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3916,
+          "following_count": 146,
+          "like_count": 20694,
+          "listed_count": 19,
+          "media_count": 192,
+          "tweet_count": 607
+        },
+        "username": "bingo2x10",
+        "verified": false
+      }
+    ]
+  }
+}

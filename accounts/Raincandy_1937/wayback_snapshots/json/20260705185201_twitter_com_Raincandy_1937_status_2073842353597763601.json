@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2073723984844112147",
+    "created_at": "2026-07-05T18:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T19:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073842353597763601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1875088110683566081",
+          "start": 0,
+          "username": "Kawaiiangel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073842353597763601",
+    "in_reply_to_user_id": "1875088110683566081",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073723984844112147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kawaiiangel below P5R😭can't believe this😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 392,
+        "media_key": "3_2073723979118850048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdY-NGWsAAJ74_.jpg",
+        "width": 520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2073723984844112147",
+        "created_at": "2026-07-05T18:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073842353597763601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1875088110683566081",
+              "start": 0,
+              "username": "Kawaiiangel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073842353597763601",
+        "in_reply_to_user_id": "1875088110683566081",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073723984844112147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kawaiiangel below P5R😭can't believe this😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073723979118850048"
+          ]
+        },
+        "author_id": "1875088110683566081",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073723984844112147",
+        "created_at": "2026-07-05T11:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073723984844112147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rzN9tWZyCX",
+              "end": 46,
+              "expanded_url": "https://x.com/Kawaiiangel/status/2073723984844112147/photo/1",
+              "media_key": "3_2073723979118850048",
+              "start": 23,
+              "url": "https://t.co/rzN9tWZyCX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073723984844112147",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 8824,
+          "like_count": 882,
+          "quote_count": 5,
+          "reply_count": 13,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "only level 3? Fuck you https://t.co/rzN9tWZyCX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 1784,
+          "like_count": 17120,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 7433
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T07:54:10.000Z",
+        "description": "| lvl 18 | Christian ✟ | taken ♡ | P-chan’s strongest soldier | Actually a Streamer | EU-time | ALL Parody! | #1 ranked LARP | 16- DNI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/pchan",
+                "end": 23,
+                "expanded_url": "https://discord.gg/pchan",
+                "start": 0,
+                "url": "https://t.co/JJI4wl1fUN"
+              }
+            ]
+          }
+        },
+        "id": "1875088110683566081",
+        "location": "@LarpAngel (YT and Twitch)",
+        "name": "✟🎀OMGKawaiiAngel!!🎀✟",
+        "pinned_tweet_id": "2073792364661854617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041041649246355456/01eMwrNv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3704,
+          "following_count": 192,
+          "like_count": 27965,
+          "listed_count": 4,
+          "media_count": 1207,
+          "tweet_count": 6529
+        },
+        "url": "https://t.co/JJI4wl1fUN",
+        "username": "Kawaiiangel",
+        "verified": true
+      }
+    ]
+  }
+}

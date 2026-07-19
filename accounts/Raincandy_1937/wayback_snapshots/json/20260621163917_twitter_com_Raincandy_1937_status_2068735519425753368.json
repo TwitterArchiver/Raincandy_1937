@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068735516724649984"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2068735519425753368",
+    "created_at": "2026-06-21T16:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T17:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068735519425753368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ItrSTJZBMm",
+          "end": 78,
+          "expanded_url": "https://x.com/Raincandy_1937/status/2068735519425753368/photo/1",
+          "media_key": "3_2068735516724649984",
+          "start": 55,
+          "url": "https://t.co/ItrSTJZBMm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068735519425753368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真想去糖糖的腦內世界看看，入侵腦細胞有懂得嗎，看完動畫感覺這個女人的大腦已經不屬於這個現實了（好像本來就是） https://t.co/ItrSTJZBMm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 449,
+        "media_key": "3_2068735516724649984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWf_eibYAAM9Kd.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068735516724649984"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2068735519425753368",
+        "created_at": "2026-06-21T16:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068735519425753368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ItrSTJZBMm",
+              "end": 78,
+              "expanded_url": "https://x.com/Raincandy_1937/status/2068735519425753368/photo/1",
+              "media_key": "3_2068735516724649984",
+              "start": 55,
+              "url": "https://t.co/ItrSTJZBMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068735519425753368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真想去糖糖的腦內世界看看，入侵腦細胞有懂得嗎，看完動畫感覺這個女人的大腦已經不屬於這個現實了（好像本來就是） https://t.co/ItrSTJZBMm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 1775,
+          "like_count": 16950,
+          "listed_count": 1,
+          "media_count": 229,
+          "tweet_count": 7377
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

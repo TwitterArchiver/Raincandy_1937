@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1985703515726233913",
+    "created_at": "2025-11-04T13:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T14:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985703515726233913"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BBCBreaking/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/BBCBreaking/status/1985661797018324993",
+          "start": 10,
+          "url": "https://t.co/6XMqfANbE9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985703515726233913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985661797018324993",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "评论区外服神人辈出 https://t.co/6XMqfANbE9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1985703515726233913",
+        "created_at": "2025-11-04T13:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T14:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985703515726233913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BBCBreaking/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/BBCBreaking/status/1985661797018324993",
+              "start": 10,
+              "url": "https://t.co/6XMqfANbE9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985703515726233913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985661797018324993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "评论区外服神人辈出 https://t.co/6XMqfANbE9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "5402612",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881102098055168",
+              "name": "UK national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881102098055168",
+              "name": "UK national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC News",
+              "id": "10047963348",
+              "name": "BBC News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC News",
+              "id": "10047963348",
+              "name": "BBC News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881102098055168",
+              "name": "UK national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881102098055168",
+              "name": "UK national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1451358585376575499",
+              "name": "NZ roadmap"
+            }
+          }
+        ],
+        "conversation_id": "1985661797018324993",
+        "created_at": "2025-11-04T10:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T11:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985661797018324993"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Tommy Robinson",
+              "probability": 0.9834,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 87,
+              "normalized_text": "UK",
+              "probability": 0.7685,
+              "start": 86,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Stephen Yaxley-Lennon cleared of a terror offence after not providing police access to his phone.",
+              "display_url": "bbc.in/4qHQMJa",
+              "end": 135,
+              "expanded_url": "https://bbc.in/4qHQMJa",
+              "start": 112,
+              "status": 200,
+              "title": "Tommy Robinson not guilty of terror offence after not giving police access to his phone",
+              "unwound_url": "https://www.bbc.co.uk/news/articles/cd9ken44n0eo",
+              "url": "https://t.co/6Gw0DU3ltK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985661797018324993",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 445373,
+          "like_count": 5886,
+          "quote_count": 167,
+          "reply_count": 1659,
+          "retweet_count": 616
+        },
+        "reply_settings": "everyone",
+        "text": "Far-right activist Tommy Robinson found not guilty of terror offence after not giving UK police access to phone https://t.co/6Gw0DU3ltK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 1429,
+          "like_count": 11405,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 5451
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2007-04-22T14:42:37.000Z",
+        "description": "Breaking news alerts and updates from the BBC. For news, features, analysis follow @BBCWorld (international) or @BBCNews (UK). Latest sport news @BBCSport.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "BBCWorld"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "BBCNews"
+              },
+              {
+                "end": 154,
+                "start": 145,
+                "username": "BBCSport"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.co.uk/news",
+                "end": 23,
+                "expanded_url": "http://www.bbc.co.uk/news",
+                "start": 0,
+                "url": "https://t.co/A7Clxaz0fX"
+              }
+            ]
+          }
+        },
+        "id": "5402612",
+        "location": "London, UK",
+        "name": "BBC Breaking News",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51439853,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 144035,
+          "media_count": 4559,
+          "tweet_count": 42892
+        },
+        "url": "https://t.co/A7Clxaz0fX",
+        "username": "BBCBreaking",
+        "verified": true
+      }
+    ]
+  }
+}

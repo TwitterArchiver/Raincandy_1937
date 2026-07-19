@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048085458207600641",
+        "3_2048085458031198208",
+        "3_2048085458157228032",
+        "3_2048085458140409857"
+      ],
+      "media_source_tweet_id": [
+        "2048085465509572702",
+        "2048085465509572702",
+        "2048085465509572702",
+        "2048085465509572702"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2048128634452672551",
+    "created_at": "2026-04-25T19:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T20:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048128634452672551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1497481140915290115",
+          "start": 3,
+          "username": "karasu_ga_warau"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SZ7BZ6jmq8",
+          "end": 104,
+          "expanded_url": "https://x.com/karasu_ga_warau/status/2048085465509572702/photo/1",
+          "media_key": "3_2048085458207600641",
+          "start": 81,
+          "url": "https://t.co/SZ7BZ6jmq8"
+        },
+        {
+          "display_url": "pic.x.com/SZ7BZ6jmq8",
+          "end": 104,
+          "expanded_url": "https://x.com/karasu_ga_warau/status/2048085465509572702/photo/1",
+          "media_key": "3_2048085458031198208",
+          "start": 81,
+          "url": "https://t.co/SZ7BZ6jmq8"
+        },
+        {
+          "display_url": "pic.x.com/SZ7BZ6jmq8",
+          "end": 104,
+          "expanded_url": "https://x.com/karasu_ga_warau/status/2048085465509572702/photo/1",
+          "media_key": "3_2048085458157228032",
+          "start": 81,
+          "url": "https://t.co/SZ7BZ6jmq8"
+        },
+        {
+          "display_url": "pic.x.com/SZ7BZ6jmq8",
+          "end": 104,
+          "expanded_url": "https://x.com/karasu_ga_warau/status/2048085465509572702/photo/1",
+          "media_key": "3_2048085458140409857",
+          "start": 81,
+          "url": "https://t.co/SZ7BZ6jmq8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048128634452672551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048085465509572702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @karasu_ga_warau: 今年是2026年，性羞辱在中華人民共和國仍然是最高效的那種依法治國基本國策。\n\n她犯下的罪名，叫「膽敢挑釁男性權威」。 https://t.co/SZ7BZ6jmq8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1725,
+        "media_key": "3_2048085458207600641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxC334bcAEW7Dh.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048085458031198208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxC33OXwAAuQG0.jpg",
+        "width": 1140
+      },
+      {
+        "height": 702,
+        "media_key": "3_2048085458157228032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxC33sa0AAIS28.jpg",
+        "width": 1206
+      },
+      {
+        "height": 648,
+        "media_key": "3_2048085458140409857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxC33oaMAEJ0Gc.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048085458207600641",
+            "3_2048085458031198208",
+            "3_2048085458157228032",
+            "3_2048085458140409857"
+          ],
+          "media_source_tweet_id": [
+            "2048085465509572702",
+            "2048085465509572702",
+            "2048085465509572702",
+            "2048085465509572702"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2048128634452672551",
+        "created_at": "2026-04-25T19:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T20:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048128634452672551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1497481140915290115",
+              "start": 3,
+              "username": "karasu_ga_warau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SZ7BZ6jmq8",
+              "end": 104,
+              "expanded_url": "https://x.com/karasu_ga_warau/status/2048085465509572702/photo/1",
+              "media_key": "3_2048085458207600641",
+              "start": 81,
+              "url": "https://t.co/SZ7BZ6jmq8"
+            },
+            {
+              "display_url": "pic.x.com/SZ7BZ6jmq8",
+              "end": 104,
+              "expanded_url": "https://x.com/karasu_ga_warau/status/2048085465509572702/photo/1",
+              "media_key": "3_2048085458031198208",
+              "start": 81,
+              "url": "https://t.co/SZ7BZ6jmq8"
+            },
+            {
+              "display_url": "pic.x.com/SZ7BZ6jmq8",
+              "end": 104,
+              "expanded_url": "https://x.com/karasu_ga_warau/status/2048085465509572702/photo/1",
+              "media_key": "3_2048085458157228032",
+              "start": 81,
+              "url": "https://t.co/SZ7BZ6jmq8"
+            },
+            {
+              "display_url": "pic.x.com/SZ7BZ6jmq8",
+              "end": 104,
+              "expanded_url": "https://x.com/karasu_ga_warau/status/2048085465509572702/photo/1",
+              "media_key": "3_2048085458140409857",
+              "start": 81,
+              "url": "https://t.co/SZ7BZ6jmq8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048128634452672551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048085465509572702",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @karasu_ga_warau: 今年是2026年，性羞辱在中華人民共和國仍然是最高效的那種依法治國基本國策。\n\n她犯下的罪名，叫「膽敢挑釁男性權威」。 https://t.co/SZ7BZ6jmq8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048085458207600641",
+            "3_2048085458031198208",
+            "3_2048085458157228032",
+            "3_2048085458140409857"
+          ]
+        },
+        "author_id": "1497481140915290115",
+        "conversation_id": "2048085465509572702",
+        "created_at": "2026-04-25T17:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048085465509572702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SZ7BZ6jmq8",
+              "end": 83,
+              "expanded_url": "https://x.com/karasu_ga_warau/status/2048085465509572702/photo/1",
+              "media_key": "3_2048085458207600641",
+              "start": 60,
+              "url": "https://t.co/SZ7BZ6jmq8"
+            },
+            {
+              "display_url": "pic.x.com/SZ7BZ6jmq8",
+              "end": 83,
+              "expanded_url": "https://x.com/karasu_ga_warau/status/2048085465509572702/photo/1",
+              "media_key": "3_2048085458031198208",
+              "start": 60,
+              "url": "https://t.co/SZ7BZ6jmq8"
+            },
+            {
+              "display_url": "pic.x.com/SZ7BZ6jmq8",
+              "end": 83,
+              "expanded_url": "https://x.com/karasu_ga_warau/status/2048085465509572702/photo/1",
+              "media_key": "3_2048085458157228032",
+              "start": 60,
+              "url": "https://t.co/SZ7BZ6jmq8"
+            },
+            {
+              "display_url": "pic.x.com/SZ7BZ6jmq8",
+              "end": 83,
+              "expanded_url": "https://x.com/karasu_ga_warau/status/2048085465509572702/photo/1",
+              "media_key": "3_2048085458140409857",
+              "start": 60,
+              "url": "https://t.co/SZ7BZ6jmq8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048085465509572702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1469,
+          "like_count": 163,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "今年是2026年，性羞辱在中華人民共和國仍然是最高效的那種依法治國基本國策。\n\n她犯下的罪名，叫「膽敢挑釁男性權威」。 https://t.co/SZ7BZ6jmq8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 1613,
+          "like_count": 14489,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 6642
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-26T07:59:00.000Z",
+        "description": "Proud Chinese communism survivor | Proud Feminist | Proud Queer (she/they) | May all the justice live in peace, love in peace and rest in peace.",
+        "id": "1497481140915290115",
+        "name": "夏巢川 Rei Xia",
+        "pinned_tweet_id": "1814038292738035893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798095968576958464/DJkGIkQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28808,
+          "following_count": 1315,
+          "like_count": 9911,
+          "listed_count": 119,
+          "media_count": 568,
+          "tweet_count": 5679
+        },
+        "username": "karasu_ga_warau",
+        "verified": false
+      }
+    ]
+  }
+}

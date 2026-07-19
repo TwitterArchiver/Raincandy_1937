@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056125424371982336"
+      ],
+      "media_source_tweet_id": [
+        "2056125426880139463"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2056430469873582442",
+    "created_at": "2026-05-18T17:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T18:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056430469873582442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1449966446579273728",
+          "start": 3,
+          "username": "ghostcyy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6W1VKteNXr",
+          "end": 37,
+          "expanded_url": "https://x.com/ghostcyy/status/2056125426880139463/photo/1",
+          "media_key": "3_2056125424371982336",
+          "start": 14,
+          "url": "https://t.co/6W1VKteNXr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056430469873582442",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 302
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056125426880139463",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ghostcyy: https://t.co/6W1VKteNXr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2056125424371982336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIjTLf1XYAAVges.jpg",
+        "width": 866
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056125424371982336"
+          ],
+          "media_source_tweet_id": [
+            "2056125426880139463"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2056430469873582442",
+        "created_at": "2026-05-18T17:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T18:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056430469873582442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1449966446579273728",
+              "start": 3,
+              "username": "ghostcyy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6W1VKteNXr",
+              "end": 37,
+              "expanded_url": "https://x.com/ghostcyy/status/2056125426880139463/photo/1",
+              "media_key": "3_2056125424371982336",
+              "start": 14,
+              "url": "https://t.co/6W1VKteNXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056430469873582442",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 302
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056125426880139463",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ghostcyy: https://t.co/6W1VKteNXr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056125424371982336"
+          ]
+        },
+        "author_id": "1449966446579273728",
+        "conversation_id": "2056125426880139463",
+        "created_at": "2026-05-17T21:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T22:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056125426880139463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6W1VKteNXr",
+              "end": 23,
+              "expanded_url": "https://x.com/ghostcyy/status/2056125426880139463/photo/1",
+              "media_key": "3_2056125424371982336",
+              "start": 0,
+              "url": "https://t.co/6W1VKteNXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056125426880139463",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 217,
+          "impression_count": 24380,
+          "like_count": 2458,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 302
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6W1VKteNXr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 1668,
+          "like_count": 15332,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 6825
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-18T05:12:03.000Z",
+        "description": ".",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tumblr.com/ghostcyy?sourc…",
+                "end": 23,
+                "expanded_url": "https://www.tumblr.com/ghostcyy?source=share",
+                "start": 0,
+                "url": "https://t.co/BaU9zg9pKl"
+              }
+            ]
+          }
+        },
+        "id": "1449966446579273728",
+        "location": "☣︎",
+        "name": "v4mp 𖤐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033269877301989376/35FqlKLa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17177,
+          "following_count": 103,
+          "like_count": 1355,
+          "listed_count": 14,
+          "media_count": 641,
+          "tweet_count": 659
+        },
+        "url": "https://t.co/BaU9zg9pKl",
+        "username": "ghostcyy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007760263043334144"
+      ],
+      "media_source_tweet_id": [
+        "2007760268575883484"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2007779581240234210",
+    "created_at": "2026-01-04T11:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T12:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007779581240234210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1602328096622800896",
+          "start": 3,
+          "username": "dutyge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kgx2HIkYSz",
+          "end": 63,
+          "expanded_url": "https://x.com/dutyge/status/2007760268575883484/photo/1",
+          "media_key": "3_2007760263043334144",
+          "start": 40,
+          "url": "https://t.co/Kgx2HIkYSz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007779581240234210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007760268575883484",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dutyge: 为什么出过国的人回来，都不描述真实的西方百姓生活？\n👇 https://t.co/Kgx2HIkYSz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2238,
+        "media_key": "3_2007760263043334144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9z_UljXwAAsi-B.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007760263043334144"
+          ],
+          "media_source_tweet_id": [
+            "2007760268575883484"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2007779581240234210",
+        "created_at": "2026-01-04T11:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T12:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007779581240234210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1602328096622800896",
+              "start": 3,
+              "username": "dutyge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kgx2HIkYSz",
+              "end": 63,
+              "expanded_url": "https://x.com/dutyge/status/2007760268575883484/photo/1",
+              "media_key": "3_2007760263043334144",
+              "start": 40,
+              "url": "https://t.co/Kgx2HIkYSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007779581240234210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007760268575883484",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dutyge: 为什么出过国的人回来，都不描述真实的西方百姓生活？\n👇 https://t.co/Kgx2HIkYSz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007760263043334144"
+          ]
+        },
+        "author_id": "1602328096622800896",
+        "conversation_id": "2007760268575883484",
+        "created_at": "2026-01-04T10:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T11:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007760268575883484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kgx2HIkYSz",
+              "end": 51,
+              "expanded_url": "https://x.com/dutyge/status/2007760268575883484/photo/1",
+              "media_key": "3_2007760263043334144",
+              "start": 28,
+              "url": "https://t.co/Kgx2HIkYSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007760268575883484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 10691,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "为什么出过国的人回来，都不描述真实的西方百姓生活？\n👇 https://t.co/Kgx2HIkYSz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 1526,
+          "like_count": 12975,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 5977
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:42:59.000Z",
+        "description": "duty哥小号，失业报道采集检索。",
+        "id": "1602328096622800896",
+        "location": "颐和园路",
+        "name": "失业观察日报",
+        "pinned_tweet_id": "1704100809909080560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913529297802756096/Zhm8-Qqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55126,
+          "following_count": 100,
+          "like_count": 0,
+          "listed_count": 253,
+          "media_count": 8682,
+          "tweet_count": 14638
+        },
+        "username": "dutyge",
+        "verified": false
+      }
+    ]
+  }
+}

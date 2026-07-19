@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1883064549802442921",
+    "created_at": "2025-01-25T08:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T09:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883064549802442921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1547158970019840001",
+          "start": 3,
+          "username": "Pierrotlefouu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883064549802442921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882750053095506387",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pierrotlefouu_: 你好，我不禁注意到你对待我的行为有一个非常微小的变化。你是不是非常恨我，想让我死，对吗？请如实回答"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1883064549802442921",
+        "created_at": "2025-01-25T08:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T09:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883064549802442921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1547158970019840001",
+              "start": 3,
+              "username": "Pierrotlefouu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883064549802442921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882750053095506387",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pierrotlefouu_: 你好，我不禁注意到你对待我的行为有一个非常微小的变化。你是不是非常恨我，想让我死，对吗？请如实回答"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547158970019840001",
+        "conversation_id": "1882750053095506387",
+        "created_at": "2025-01-24T11:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T12:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882750053095506387"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882750053095506387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2983,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "你好，我不禁注意到你对待我的行为有一个非常微小的变化。你是不是非常恨我，想让我死，对吗？请如实回答"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 689,
+          "like_count": 5223,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 2651
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T10:00:29.000Z",
+        "description": "老派刺客",
+        "id": "1547158970019840001",
+        "name": "我們時代的愛無能",
+        "pinned_tweet_id": "1797631830663053389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858141372848705536/_Z0_PlE__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 356,
+          "like_count": 10417,
+          "listed_count": 5,
+          "media_count": 91,
+          "tweet_count": 1058
+        },
+        "username": "Pierrotlefouu_",
+        "verified": false
+      }
+    ]
+  }
+}

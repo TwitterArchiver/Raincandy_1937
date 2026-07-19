@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2057152500567015600",
+    "created_at": "2026-05-20T17:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T18:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057152500567015600"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zero51dc/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/zero51dc/status/2057079115661103264",
+          "start": 4,
+          "url": "https://t.co/8wufcLSQo8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057152500567015600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057079115661103264",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神降臨 https://t.co/8wufcLSQo8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1594,
+        "media_key": "3_2057079106156826624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIw2jFVbEAAFgSi.jpg",
+        "width": 2104
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2057152500567015600",
+        "created_at": "2026-05-20T17:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057152500567015600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zero51dc/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/zero51dc/status/2057079115661103264",
+              "start": 4,
+              "url": "https://t.co/8wufcLSQo8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057152500567015600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057079115661103264",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神降臨 https://t.co/8wufcLSQo8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057079106156826624"
+          ]
+        },
+        "author_id": "2050656465111990272",
+        "conversation_id": "2057079115661103264",
+        "created_at": "2026-05-20T12:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057079115661103264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypPS7MXczl",
+              "end": 46,
+              "expanded_url": "https://x.com/Zero51dc/status/2057079115661103264/photo/1",
+              "media_key": "3_2057079106156826624",
+              "start": 23,
+              "url": "https://t.co/ypPS7MXczl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057079115661103264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 5809,
+          "like_count": 733,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "太兴奋了又被妈妈喂了精神药物\n所以流鼻血了… https://t.co/ypPS7MXczl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 1678,
+          "like_count": 15404,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 6842
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T19:22:06.000Z",
+        "description": "🥒｜堆图号",
+        "id": "2050656465111990272",
+        "name": "夢寐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050660161837223936/ZqLL-0en_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1981,
+          "following_count": 15,
+          "like_count": 29,
+          "listed_count": 3,
+          "media_count": 6,
+          "tweet_count": 21
+        },
+        "username": "Zero51dc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,597 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Rihanna",
+          "id": "806558580715311104",
+          "name": "Rihanna"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Savage X Fenty",
+          "id": "988436857640837120",
+          "name": "Savage X Fenty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Rihanna",
+          "id": "806558580715311104",
+          "name": "Rihanna"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Pop",
+          "id": "810938279801470977",
+          "name": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fashion Brand",
+          "id": "846427983237672960",
+          "name": "Fashion Brand"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rihanna",
+          "id": "806558580715311104",
+          "name": "Rihanna"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pop",
+          "id": "810938279801470977",
+          "name": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      }
+    ],
+    "conversation_id": "2062121513587966246",
+    "created_at": "2026-06-03T10:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T11:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062121513587966246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ji_chunsheng/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/ji_chunsheng/status/2061503310620717164",
+          "start": 3,
+          "url": "https://t.co/CUSJzN6lUn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062121513587966246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061503310620717164",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "酷欸 https://t.co/CUSJzN6lUn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2061503277867442176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvuTxSXoAAw01V.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2061503277888315392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvuTxXWIAASnh4.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1800,
+        "media_key": "3_2061503277888425984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvuTxXX0AAOabQ.jpg",
+        "width": 1440
+      },
+      {
+        "height": 778,
+        "media_key": "3_2061503291066884096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvuUidXIAAs-9d.jpg",
+        "width": 1688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Rihanna",
+              "id": "806558580715311104",
+              "name": "Rihanna"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Savage X Fenty",
+              "id": "988436857640837120",
+              "name": "Savage X Fenty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Rihanna",
+              "id": "806558580715311104",
+              "name": "Rihanna"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rihanna",
+              "id": "806558580715311104",
+              "name": "Rihanna"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          }
+        ],
+        "conversation_id": "2062121513587966246",
+        "created_at": "2026-06-03T10:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062121513587966246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ji_chunsheng/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/ji_chunsheng/status/2061503310620717164",
+              "start": 3,
+              "url": "https://t.co/CUSJzN6lUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062121513587966246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061503310620717164",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "酷欸 https://t.co/CUSJzN6lUn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061503277867442176",
+            "3_2061503277888315392",
+            "3_2061503277888425984",
+            "3_2061503291066884096"
+          ]
+        },
+        "author_id": "1547289009201844228",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Rihanna",
+              "id": "806558580715311104",
+              "name": "Rihanna"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Savage X Fenty",
+              "id": "988436857640837120",
+              "name": "Savage X Fenty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Rihanna",
+              "id": "806558580715311104",
+              "name": "Rihanna"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rihanna",
+              "id": "806558580715311104",
+              "name": "Rihanna"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          }
+        ],
+        "conversation_id": "2061503310620717164",
+        "created_at": "2026-06-01T17:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061503310620717164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fEWVvdPfDg",
+              "end": 100,
+              "expanded_url": "https://x.com/ji_chunsheng/status/2061503310620717164/photo/1",
+              "media_key": "3_2061503277867442176",
+              "start": 77,
+              "url": "https://t.co/fEWVvdPfDg"
+            },
+            {
+              "display_url": "pic.x.com/fEWVvdPfDg",
+              "end": 100,
+              "expanded_url": "https://x.com/ji_chunsheng/status/2061503310620717164/photo/1",
+              "media_key": "3_2061503277888315392",
+              "start": 77,
+              "url": "https://t.co/fEWVvdPfDg"
+            },
+            {
+              "display_url": "pic.x.com/fEWVvdPfDg",
+              "end": 100,
+              "expanded_url": "https://x.com/ji_chunsheng/status/2061503310620717164/photo/1",
+              "media_key": "3_2061503277888425984",
+              "start": 77,
+              "url": "https://t.co/fEWVvdPfDg"
+            },
+            {
+              "display_url": "pic.x.com/fEWVvdPfDg",
+              "end": 100,
+              "expanded_url": "https://x.com/ji_chunsheng/status/2061503310620717164/photo/1",
+              "media_key": "3_2061503291066884096",
+              "start": 77,
+              "url": "https://t.co/fEWVvdPfDg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061503310620717164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 164720,
+          "like_count": 591,
+          "quote_count": 26,
+          "reply_count": 159,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "为庆祝“骄傲月”，Rihanna的内衣品牌Savage X Fenty邀请了马斯克的跨性别女儿Vivian Wilson出镜，担任其最新广告大片的主角。 https://t.co/fEWVvdPfDg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 1717,
+          "like_count": 16278,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 7099
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T18:37:07.000Z",
+        "description": "tech & media | co-host of pretty nuts https://t.co/WSv6ZPezen",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/prettynuts",
+                "end": 61,
+                "expanded_url": "http://linktr.ee/prettynuts",
+                "start": 38,
+                "url": "https://t.co/WSv6ZPezen"
+              }
+            ]
+          }
+        },
+        "id": "1547289009201844228",
+        "location": "New York",
+        "name": "紀春生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608312424825851904/NNjbRcmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13740,
+          "following_count": 2364,
+          "like_count": 35847,
+          "listed_count": 80,
+          "media_count": 5998,
+          "tweet_count": 10156
+        },
+        "username": "ji_chunsheng",
+        "verified": true
+      }
+    ]
+  }
+}

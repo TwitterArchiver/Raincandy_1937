@@ -1,0 +1,522 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1972250505851318686",
+    "created_at": "2025-09-28T10:42:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T11:42:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972250505851318686"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 13,
+          "tag": "大自爆运动"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1239457591417171973",
+          "start": 3,
+          "username": "GFWfrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972250505851318686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972182559376515569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GFWfrog: #大自爆运动\n\n字节跳动内鬼发来投稿，审核员培训内部材料：\n《审核之道》（思想洗脑+工作方法论）《审核风险点及注意事项》（具体场景黑名单）\n\n概要：审核员是“防火墙”，核心任务是保政治安全。\n\n网信办视角（核心价值观，政治敏感）。\n用户视角（尊重但识别…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1972182549171462144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G16ZlFOW4AAGqxk.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1972182549439934464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G16ZlGOXcAAh-6s.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1972182549435723776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G16ZlGNXMAAdJU5.jpg",
+        "width": 738
+      },
+      {
+        "height": 823,
+        "media_key": "3_1972182549817425920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G16ZlHoXgAAp9D_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1972250505851318686",
+        "created_at": "2025-09-28T10:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T11:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972250505851318686"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "大自爆运动"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1239457591417171973",
+              "start": 3,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972250505851318686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972182559376515569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GFWfrog: #大自爆运动\n\n字节跳动内鬼发来投稿，审核员培训内部材料：\n《审核之道》（思想洗脑+工作方法论）《审核风险点及注意事项》（具体场景黑名单）\n\n概要：审核员是“防火墙”，核心任务是保政治安全。\n\n网信办视角（核心价值观，政治敏感）。\n用户视角（尊重但识别…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972182549171462144",
+            "3_1972182549439934464",
+            "3_1972182549435723776",
+            "3_1972182549817425920"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1972182559376515569",
+        "created_at": "2025-09-28T06:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T07:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972182559376515569"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "大自爆运动"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6hqSs2nv3w",
+              "end": 170,
+              "expanded_url": "https://x.com/GFWfrog/status/1972182559376515569/photo/1",
+              "media_key": "3_1972182549171462144",
+              "start": 147,
+              "url": "https://t.co/6hqSs2nv3w"
+            },
+            {
+              "display_url": "pic.x.com/6hqSs2nv3w",
+              "end": 170,
+              "expanded_url": "https://x.com/GFWfrog/status/1972182559376515569/photo/1",
+              "media_key": "3_1972182549439934464",
+              "start": 147,
+              "url": "https://t.co/6hqSs2nv3w"
+            },
+            {
+              "display_url": "pic.x.com/6hqSs2nv3w",
+              "end": 170,
+              "expanded_url": "https://x.com/GFWfrog/status/1972182559376515569/photo/1",
+              "media_key": "3_1972182549435723776",
+              "start": 147,
+              "url": "https://t.co/6hqSs2nv3w"
+            },
+            {
+              "display_url": "pic.x.com/6hqSs2nv3w",
+              "end": 170,
+              "expanded_url": "https://x.com/GFWfrog/status/1972182559376515569/photo/1",
+              "media_key": "3_1972182549817425920",
+              "start": 147,
+              "url": "https://t.co/6hqSs2nv3w"
+            },
+            {
+              "display_url": "x.com/GFWfrog/status…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/GFWfrog/status/1971451497755078869",
+              "start": 171,
+              "url": "https://t.co/uwY6G5c1qb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972182559376515569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 24318,
+          "like_count": 159,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971451497755078869",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#大自爆运动\n\n字节跳动内鬼发来投稿，审核员培训内部材料：\n《审核之道》（思想洗脑+工作方法论）《审核风险点及注意事项》（具体场景黑名单）\n\n概要：审核员是“防火墙”，核心任务是保政治安全。\n\n网信办视角（核心价值观，政治敏感）。\n用户视角（尊重但识别低俗）。\n产品视角（别删太狠影响增长）。 https://t.co/6hqSs2nv3w https://t.co/uwY6G5c1qb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 1363,
+          "like_count": 10450,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 5192
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "学而时习之，墙国404\n\n欢迎私信投稿，突发事件请尽量注明时间、地点及事件经过🐸。万人Telegram群：https://t.co/BbAyHfnObj\n\nTg频道：https://t.co/Evu48wmwfT\n\n#大自爆运动 #全民反抗 #加速主义\n\n邮箱：gfwfrog@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 108,
+                "tag": "大自爆运动"
+              },
+              {
+                "end": 120,
+                "start": 115,
+                "tag": "全民反抗"
+              },
+              {
+                "end": 126,
+                "start": 121,
+                "tag": "加速主义"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 76,
+                "expanded_url": "https://t.me/SpeedUpCN",
+                "start": 53,
+                "url": "https://t.co/BbAyHfnObj"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 106,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 83,
+                "url": "https://t.co/Evu48wmwfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@GFWfrog",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@GFWfrog",
+                "start": 0,
+                "url": "https://t.co/LfpvB0NEDk"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙蛤蛤🐸（声援张雪峰！）",
+        "pinned_tweet_id": "1972232805389414664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866669545345150976/Lrzp5POA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237159,
+          "following_count": 1603,
+          "like_count": 91437,
+          "listed_count": 810,
+          "media_count": 5304,
+          "tweet_count": 9403
+        },
+        "url": "https://t.co/LfpvB0NEDk",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

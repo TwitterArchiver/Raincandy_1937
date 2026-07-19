@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1992881661940498734",
+    "created_at": "2025-11-24T10:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T11:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992898255768916171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863133476893216768",
+          "start": 0,
+          "username": "chnmngtin453955"
+        },
+        {
+          "end": 26,
+          "id": "1901339878966636544",
+          "start": 17,
+          "username": "tteokki9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992898255768916171",
+    "in_reply_to_user_id": "1863133476893216768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992894526264947074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnmngtin453955 @tteokki9 都25年了居然有人发这个，好无聊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1992881661940498734",
+        "created_at": "2025-11-24T10:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T11:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992898255768916171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863133476893216768",
+              "start": 0,
+              "username": "chnmngtin453955"
+            },
+            {
+              "end": 26,
+              "id": "1901339878966636544",
+              "start": 17,
+              "username": "tteokki9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992898255768916171",
+        "in_reply_to_user_id": "1863133476893216768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992894526264947074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnmngtin453955 @tteokki9 都25年了居然有人发这个，好无聊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863133476893216768",
+        "conversation_id": "1992881661940498734",
+        "created_at": "2025-11-24T09:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T10:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992894526264947074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1901339878966636544",
+              "start": 0,
+              "username": "tteokki9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992894526264947074",
+        "in_reply_to_user_id": "1901339878966636544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992890480770875745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tteokki9 就是😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 1447,
+          "like_count": 11871,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 5587
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T08:10:26.000Z",
+        "description": "不线下不线下 再问我就骂你",
+        "id": "1863133476893216768",
+        "location": "绿🚪🐶🐰",
+        "name": "恬",
+        "pinned_tweet_id": "1987895731307573618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987921263353098241/cJUH7pjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 130,
+          "like_count": 3913,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1810
+        },
+        "username": "chnmngtin453955",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T18:28:59.000Z",
+        "description": "可以叫我小叽叽^o^ 嫌我坏你走！你赶紧走！｜私信只回有意思的和过🚪口令｜",
+        "id": "1901339878966636544",
+        "location": "🚪88/188/520/1314…",
+        "name": "椰叽",
+        "pinned_tweet_id": "1984659027478102138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978562699706707968/ZBtaBVTY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 124,
+          "like_count": 2105,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1009
+        },
+        "username": "tteokki9",
+        "verified": false
+      }
+    ]
+  }
+}

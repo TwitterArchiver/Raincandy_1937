@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972622251070783488"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1972622259841081493",
+    "created_at": "2025-09-29T11:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T12:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972622259841081493"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SiW1AJSzfr",
+          "end": 61,
+          "expanded_url": "https://x.com/Raincandy_1937/status/1972622259841081493/photo/1",
+          "media_key": "3_1972622251070783488",
+          "start": 38,
+          "url": "https://t.co/SiW1AJSzfr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972622259841081493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看了油管上使命召唤核心用户对这个游戏的批评，感觉他们的视频be like👇 https://t.co/SiW1AJSzfr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1528,
+        "media_key": "3_1972622251070783488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ApfGcbAAARRZt.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972622251070783488"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1972622259841081493",
+        "created_at": "2025-09-29T11:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T12:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972622259841081493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SiW1AJSzfr",
+              "end": 61,
+              "expanded_url": "https://x.com/Raincandy_1937/status/1972622259841081493/photo/1",
+              "media_key": "3_1972622251070783488",
+              "start": 38,
+              "url": "https://t.co/SiW1AJSzfr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972622259841081493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看了油管上使命召唤核心用户对这个游戏的批评，感觉他们的视频be like👇 https://t.co/SiW1AJSzfr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 1361,
+          "like_count": 10469,
+          "listed_count": 2,
+          "media_count": 148,
+          "tweet_count": 5196
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

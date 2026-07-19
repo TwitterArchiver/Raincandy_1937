@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1967104172895191186",
+    "created_at": "2025-09-14T05:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T06:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967104172895191186"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhbl01/status/…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/zhbl01/status/1966709304817516828",
+          "start": 26,
+          "url": "https://t.co/ZAAgSAdLNu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967104172895191186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966709304817516828",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "异见人士，民主人士都好过“反贼”这个奴颜媚骨的称呼 https://t.co/ZAAgSAdLNu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1967104172895191186",
+        "created_at": "2025-09-14T05:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T06:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967104172895191186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhbl01/status/…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/zhbl01/status/1966709304817516828",
+              "start": 26,
+              "url": "https://t.co/ZAAgSAdLNu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967104172895191186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966709304817516828",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "异见人士，民主人士都好过“反贼”这个奴颜媚骨的称呼 https://t.co/ZAAgSAdLNu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468298589709697024",
+        "conversation_id": "1966709304817516828",
+        "created_at": "2025-09-13T03:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T04:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966709304817516828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966709304817516828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 81886,
+          "like_count": 821,
+          "quote_count": 2,
+          "reply_count": 99,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "习惯用「反贼」称呼不同政见的人,  心里多少还住着个着个皇上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 1318,
+          "like_count": 9895,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 5029
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T19:17:32.000Z",
+        "description": "分享来自知乎的暴论",
+        "id": "1468298589709697024",
+        "name": "知乎暴论 💙💛 🏳️‍🌈",
+        "pinned_tweet_id": "1890286780571873441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1500718427295477762/y2koOQpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147745,
+          "following_count": 179,
+          "like_count": 827,
+          "listed_count": 355,
+          "media_count": 1279,
+          "tweet_count": 2433
+        },
+        "username": "zhbl01",
+        "verified": false
+      }
+    ]
+  }
+}

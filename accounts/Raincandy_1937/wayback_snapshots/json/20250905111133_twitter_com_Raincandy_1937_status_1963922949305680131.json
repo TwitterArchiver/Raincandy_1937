@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1963922949305680131",
+    "created_at": "2025-09-05T11:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T12:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963922949305680131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FurinaDF/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/FurinaDF/status/1963474448352170111",
+          "start": 8,
+          "url": "https://t.co/P1zVbfn6wy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963922949305680131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963474448352170111",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "天衣无缝长生局 https://t.co/P1zVbfn6wy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963474236284313600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz-pajtboAA4dR9.jpg",
+        "width": 1335
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1963922949305680131",
+        "created_at": "2025-09-05T11:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T12:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963922949305680131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FurinaDF/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/FurinaDF/status/1963474448352170111",
+              "start": 8,
+              "url": "https://t.co/P1zVbfn6wy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963922949305680131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963474448352170111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天衣无缝长生局 https://t.co/P1zVbfn6wy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963474236284313600"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1963474448352170111",
+        "created_at": "2025-09-04T05:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T06:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963474448352170111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XJzuCIkizl",
+              "end": 160,
+              "expanded_url": "https://x.com/FurinaDF/status/1963474448352170111/photo/1",
+              "media_key": "3_1963474236284313600",
+              "start": 137,
+              "url": "https://t.co/XJzuCIkizl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963474448352170111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 428,
+          "impression_count": 407373,
+          "like_count": 1548,
+          "quote_count": 9,
+          "reply_count": 104,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "Reddit网友：\n\n我个人判断，这是普京故意打横炮给习主席挖坑。\n\n一方面，他故意要在大家携手上城楼时说些有的没的来抢戏。\n\n另一方面，他在这个时候以恭祝习主席长命百岁的幌子，提器官移植，故意把节奏往中共敏感话题上带。就是要在习主席大喜的日子恶心他一下，提醒一下谁是爹。 https://t.co/XJzuCIkizl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 1289,
+          "like_count": 9650,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 4973
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "我是河南人，不是中国人 | 备用账号@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLR6O"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44301,
+          "following_count": 2305,
+          "like_count": 28277,
+          "listed_count": 127,
+          "media_count": 6455,
+          "tweet_count": 10862
+        },
+        "url": "https://t.co/69nE3RLR6O",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

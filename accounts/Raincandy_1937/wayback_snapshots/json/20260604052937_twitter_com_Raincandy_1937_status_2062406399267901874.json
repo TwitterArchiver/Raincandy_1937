@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2062406399267901874",
+    "created_at": "2026-06-04T05:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T06:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062406399267901874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1992015477124874240",
+          "start": 3,
+          "username": "CptTaiHai6969"
+        },
+        {
+          "end": 33,
+          "id": "1706714125504512000",
+          "start": 19,
+          "username": "ShitpostRock2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062406399267901874",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062385379379179675",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CptTaiHai6969: @ShitpostRock2 that account can actually be a person from prison. Whether it is a wumao or a little pink. You tell them…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2062406399267901874",
+        "created_at": "2026-06-04T05:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062406399267901874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1992015477124874240",
+              "start": 3,
+              "username": "CptTaiHai6969"
+            },
+            {
+              "end": 33,
+              "id": "1706714125504512000",
+              "start": 19,
+              "username": "ShitpostRock2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062406399267901874",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062385379379179675",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CptTaiHai6969: @ShitpostRock2 that account can actually be a person from prison. Whether it is a wumao or a little pink. You tell them…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992015477124874240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Needlework",
+              "id": "847869593674698752",
+              "name": "Needlework"
+            }
+          }
+        ],
+        "conversation_id": "2062356412835995947",
+        "created_at": "2026-06-04T04:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062385379379179675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1706714125504512000",
+              "start": 0,
+              "username": "ShitpostRock2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062385379379179675",
+        "in_reply_to_user_id": "1706714125504512000",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 20224,
+          "like_count": 128,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062356412835995947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShitpostRock2 that account can actually be a person from prison. Whether it is a wumao or a little pink. You tell them to go back to stepping on the sewing machines and you can see how they just break down in tears within minutes"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062390090383675392/ildwCzDS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 1719,
+          "like_count": 16327,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 7118
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T23:41:33.000Z",
+        "description": "History, games, mAth NOT mEth, Muscle mommies & high elf wives are peak. Emma Frost is the dream body, Tsarina Katarin of Kislev is the perfect wife",
+        "id": "1992015477124874240",
+        "location": "Malaysia",
+        "name": "CPT TAI HAI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992741754194604032/mUpWxo-x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 397,
+          "like_count": 47605,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 5479
+        },
+        "username": "CptTaiHai6969",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-26T16:55:36.000Z",
+        "description": "Main acc falsely taken down with spammed DMCA strikes\n\n⬇️follow the stream⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/shitpostrock",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/shitpostrock",
+                "start": 0,
+                "url": "https://t.co/6xO7J2ADlV"
+              }
+            ]
+          }
+        },
+        "id": "1706714125504512000",
+        "location": "sneed",
+        "name": "Rock Solid",
+        "pinned_tweet_id": "2056527650433249375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031071596912267264/fFCndVZ3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58899,
+          "following_count": 891,
+          "like_count": 7053,
+          "listed_count": 146,
+          "media_count": 2410,
+          "tweet_count": 3683
+        },
+        "url": "https://t.co/6xO7J2ADlV",
+        "username": "ShitpostRock2",
+        "verified": true
+      }
+    ]
+  }
+}

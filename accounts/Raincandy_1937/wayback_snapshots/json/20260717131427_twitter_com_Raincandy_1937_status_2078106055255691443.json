@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      }
+    ],
+    "conversation_id": "2078106055255691443",
+    "created_at": "2026-07-17T13:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T14:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078106055255691443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1239457591417171973",
+          "start": 3,
+          "username": "GFWfrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078106055255691443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078068797953417710",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GFWfrog: 不建议开着节点访问抖音、哔哩哔哩、小红书，进行装逼行为。\n\n其他用户看到你的 IP 不同，可能会觉得你很酷炫，但是平台并不会只看你的 IP。\n\n平台可以通过手机环境、定位权限、附近 Wi-Fi、基站、SIM 卡和运营商信息、设备信息、WebRTC/ST…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2078106055255691443",
+        "created_at": "2026-07-17T13:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078106055255691443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1239457591417171973",
+              "start": 3,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078106055255691443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078068797953417710",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GFWfrog: 不建议开着节点访问抖音、哔哩哔哩、小红书，进行装逼行为。\n\n其他用户看到你的 IP 不同，可能会觉得你很酷炫，但是平台并不会只看你的 IP。\n\n平台可以通过手机环境、定位权限、附近 Wi-Fi、基站、SIM 卡和运营商信息、设备信息、WebRTC/ST…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239457591417171973",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2078068797953417710",
+        "created_at": "2026-07-17T10:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078068797953417710"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078068797953417710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "不建议开着节点访问抖音、哔哩哔哩、小红书，进行装逼行为。\n\n其他用户看到你的 IP 不同，可能会觉得你很酷炫，但是平台并不会只看你的 IP。\n\n平台可以通过手机环境、定位权限、附近 Wi-Fi、基站、SIM 卡和运营商信息、设备信息、WebRTC/STUN 请求、收货地址等各种手段，比较轻松地判断你的真实位置，或者把你的不同账号和设备关联起来。\n\n需要注意的是，WebRTC 一般主要是泄露本地 IP、网络信息，或者暴露你正在使用代理，并不一定能直接绕过节点查到你的真实公网 IP。但是结合设备、定位、基站、账号和历史登录记录，平台还是有很多办法判断你的真实情况。\n\n比如，美团这类软件一般都会维护自己的 IP 和位置数据库。如果你挂着节点打开美团，就有可能把节点 IP 和你的收餐地址、定位、基站、设备信息绑定或关联起来。\n\n虽然单独看可能没什么大影响，但是这只是一个外卖软件能做到的事情，其他软件能做到的绝对不止这些。\n\n搜狗输入法这类联网输入法也要注意。\n\n网上一直有人发现，搜狗输入法会通过 get。sogou。com/q 等域名发送联想词、查询请求、使用记录和其他输入相关数据。\n\n不过“你输入的每一个字符都会完整回传”这种说法有点太绝对，不同版本、设置和使用场景可能不一样。\n\n但只要是联网输入法，就存在上传输入相关数据的可能。敏感内容、账号密码、私密聊天，最好不要使用开启云联想、云输入和个性化功能的输入法。\n\nShadowrocket，也就是小火箭，建议在：\n\n设置 → UDP → 禁用 STUN\n\n打开“禁用 STUN”，可以减少一部分 WebRTC/STUN 泄露问题。\n\n但要注意，这个设置不能保证完全解决 WebRTC 泄露，因为具体还要看浏览器、软件、系统和代理规则。\n\n总结：\n\n翻墙时少用国产软件，特别是在严打期间。\n\n如果一定要用，最好关闭定位、通讯录、蓝牙、附近设备、后台刷新等没有必要的权限，也不要一边挂节点，一边打开外卖、地图、银行、支付和国内社交软件。\n\n推荐软件：\n\n输入法：\n\nGboard\n\nTrime，安卓开源输入法框架\n\n使用 Gboard 时，也建议关闭不需要的云端个性化、数据分享和语音输入功能。\n\n浏览器：\n\nFirefox\n\nBrave\n\nTor Browser\n\n翻墙以后使用邮箱、Telegram、Facebook、推特这些软件时，非常不建议使用自己长期使用的 +86 手机号码注册。\n\n平台本身可能不会直接出售你的信息，但是这些软件一般都有“查找通讯录好友”“通过手机号找到我”之类的功能。\n\n只要你或者你的朋友上传过通讯录，手机号、账号和真实身份就可能被关联起来。\n\n这是最简单的一种办法，叔叔能用的办法也绝对不止这一个。\n\n网上有人建议直接购买账号，但是购买账号也不一定更安全。\n\n购买的账号可能已经被实名、被别人登录过、留下过设备记录，也可能被卖家找回，甚至本身就是钓鱼账号或者违规账号。\n\n所以比起直接购买来源不明的账号，更重要的是使用单独的邮箱、单独的号码，关闭通讯录同步，不要使用和国内平台相同的头像、昵称、用户名和密码。\n\n不要以为挂上节点、IP 变成国外，就代表自己匿名了。\n\n节点只能改变出口 IP，不能自动隐藏你的手机、账号、号码、定位、设备环境和使用习惯。\n😎 匿名投稿"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 13454,
+          "like_count": 144,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "不建议开着节点访问抖音、哔哩哔哩、小红书，进行装逼行为。\n\n其他用户看到你的 IP 不同，可能会觉得你很酷炫，但是平台并不会只看你的 IP。\n\n平台可以通过手机环境、定位权限、附近 Wi-Fi、基站、SIM 卡和运营商信息、设备信息、WebRTC/STUN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 1796,
+          "like_count": 17277,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 7499
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "欢迎私信 或 https://t.co/aVPvX0T16B 网页投稿🐸 邮箱：gfwfrog@gmail.com 习近平粉丝群：https://t.co/tzbqdA1XzO\n电报频道：https://t.co/Evu48wn45r",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gfwbao.com",
+                "end": 30,
+                "expanded_url": "http://gfwbao.com",
+                "start": 7,
+                "url": "https://t.co/aVPvX0T16B"
+              },
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 88,
+                "expanded_url": "http://t.me/SpeedUpCN",
+                "start": 65,
+                "url": "https://t.co/tzbqdA1XzO"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 117,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 94,
+                "url": "https://t.co/Evu48wn45r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85Q3u"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙哈哈🐸",
+        "pinned_tweet_id": "2076263891802136889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050371764165767168/HypsUXGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266211,
+          "following_count": 2551,
+          "like_count": 130603,
+          "listed_count": 918,
+          "media_count": 7677,
+          "tweet_count": 14456
+        },
+        "url": "https://t.co/B3cyU85Q3u",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

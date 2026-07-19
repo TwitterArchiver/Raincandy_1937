@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075444322259087360"
+      ],
+      "media_source_tweet_id": [
+        "2075444331666878588"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2075620266013843525",
+    "created_at": "2026-07-10T16:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T17:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075620266013843525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "39716430",
+          "start": 3,
+          "username": "plantegg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xN3GxFIDMr",
+          "end": 69,
+          "expanded_url": "https://x.com/plantegg/status/2075444331666878588/photo/1",
+          "media_key": "3_2075444322259087360",
+          "start": 46,
+          "url": "https://t.co/xN3GxFIDMr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075620266013843525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075444331666878588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @plantegg: 我在中学的时候，思想政治课就反复跟人家以及老师辩论过这个问题。 https://t.co/xN3GxFIDMr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1310,
+        "media_key": "3_2075444322259087360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM11nWtasAASqst.jpg",
+        "width": 998
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075444322259087360"
+          ],
+          "media_source_tweet_id": [
+            "2075444331666878588"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2075620266013843525",
+        "created_at": "2026-07-10T16:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075620266013843525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "39716430",
+              "start": 3,
+              "username": "plantegg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xN3GxFIDMr",
+              "end": 69,
+              "expanded_url": "https://x.com/plantegg/status/2075444331666878588/photo/1",
+              "media_key": "3_2075444322259087360",
+              "start": 46,
+              "url": "https://t.co/xN3GxFIDMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075620266013843525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075444331666878588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @plantegg: 我在中学的时候，思想政治课就反复跟人家以及老师辩论过这个问题。 https://t.co/xN3GxFIDMr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075444322259087360"
+          ]
+        },
+        "author_id": "39716430",
+        "conversation_id": "2075444331666878588",
+        "created_at": "2026-07-10T04:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075444331666878588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xN3GxFIDMr",
+              "end": 55,
+              "expanded_url": "https://x.com/plantegg/status/2075444331666878588/photo/1",
+              "media_key": "3_2075444322259087360",
+              "start": 32,
+              "url": "https://t.co/xN3GxFIDMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075444331666878588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 38322,
+          "like_count": 568,
+          "quote_count": 5,
+          "reply_count": 93,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "我在中学的时候，思想政治课就反复跟人家以及老师辩论过这个问题。 https://t.co/xN3GxFIDMr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1787,
+          "like_count": 17175,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 7462
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-13T08:54:08.000Z",
+        "description": "Claude code/AI/Agent/智能体，AI探索，云服务经验丰富点评到位",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "plantegg.github.io",
+                "end": 23,
+                "expanded_url": "https://plantegg.github.io",
+                "start": 0,
+                "url": "https://t.co/UWhpCZ06ua"
+              }
+            ]
+          }
+        },
+        "id": "39716430",
+        "name": "plantegg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57803,
+          "following_count": 468,
+          "like_count": 3138,
+          "listed_count": 345,
+          "media_count": 2048,
+          "tweet_count": 10960
+        },
+        "url": "https://t.co/UWhpCZ06ua",
+        "username": "plantegg",
+        "verified": true
+      }
+    ]
+  }
+}

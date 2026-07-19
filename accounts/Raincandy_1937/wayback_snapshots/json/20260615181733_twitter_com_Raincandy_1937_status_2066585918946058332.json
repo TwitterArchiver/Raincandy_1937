@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "2066520107548119240",
+    "created_at": "2026-06-15T18:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T19:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066585918946058332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "349054800",
+          "start": 0,
+          "username": "nyalra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066585918946058332",
+    "in_reply_to_user_id": "349054800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066520107548119240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyalra 著者は、ピエンが内側を向いている場合、モニターの反対側、あるいは画面の右側を向いているように見え、2Dグラフィックスで3Dの奥行きを表現するのは非常に難しいと考えたのかもしれない。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2066520107548119240",
+        "created_at": "2026-06-15T18:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066585918946058332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "349054800",
+              "start": 0,
+              "username": "nyalra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066585918946058332",
+        "in_reply_to_user_id": "349054800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066520107548119240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyalra 著者は、ピエンが内側を向いている場合、モニターの反対側、あるいは画面の右側を向いているように見え、2Dグラフィックスで3Dの奥行きを表現するのは非常に難しいと考えたのかもしれない。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "349054800",
+        "conversation_id": "2066520107548119240",
+        "created_at": "2026-06-15T13:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066520107548119240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/b33300_00/stat…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/b33300_00/status/2066259572927443197",
+              "start": 59,
+              "url": "https://t.co/M70xM67Kty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066520107548119240",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 17492,
+          "like_count": 857,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066259572927443197",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Why is Pien looking this way instead of looking at KAngel? https://t.co/M70xM67Kty"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 1742,
+          "like_count": 16695,
+          "listed_count": 1,
+          "media_count": 224,
+          "tweet_count": 7282
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-05T13:27:45.000Z",
+        "description": "◆https://t.co/2RlDkCWnQW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nyalra.net",
+                "end": 24,
+                "expanded_url": "https://nyalra.net",
+                "start": 1,
+                "url": "https://t.co/2RlDkCWnQW"
+              }
+            ]
+          }
+        },
+        "id": "349054800",
+        "name": "nyalra",
+        "pinned_tweet_id": "2005988774371864634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806370210762657792/GjnpN4qn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165291,
+          "following_count": 666,
+          "like_count": 393385,
+          "listed_count": 1111,
+          "media_count": 4231,
+          "tweet_count": 43829
+        },
+        "username": "nyalra",
+        "verified": true
+      }
+    ]
+  }
+}

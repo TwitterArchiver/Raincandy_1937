@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1939654118278406242",
+    "created_at": "2025-06-30T11:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T12:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939654118278406242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1315706812935487489",
+          "start": 3,
+          "username": "maigo_wakatake"
+        },
+        {
+          "end": 38,
+          "id": "1863821756932472832",
+          "start": 25,
+          "username": "shuo_zi27516"
+        },
+        {
+          "end": 68,
+          "id": "1919053439960748032",
+          "start": 56,
+          "username": "asdmtfpride"
+        },
+        {
+          "end": 80,
+          "id": "1911785348545593344",
+          "start": 71,
+          "username": "Ekkirami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939654118278406242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939551508405862462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maigo_wakatake: 情况通报：@shuo_zi27516 于今日被送扭转。\n更多信息请咨询 @asdmtfpride 或 @Ekkirami 。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1939654118278406242",
+        "created_at": "2025-06-30T11:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T12:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939654118278406242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1315706812935487489",
+              "start": 3,
+              "username": "maigo_wakatake"
+            },
+            {
+              "end": 38,
+              "id": "1863821756932472832",
+              "start": 25,
+              "username": "shuo_zi27516"
+            },
+            {
+              "end": 68,
+              "id": "1919053439960748032",
+              "start": 56,
+              "username": "asdmtfpride"
+            },
+            {
+              "end": 80,
+              "id": "1911785348545593344",
+              "start": 71,
+              "username": "Ekkirami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939654118278406242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939551508405862462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maigo_wakatake: 情况通报：@shuo_zi27516 于今日被送扭转。\n更多信息请咨询 @asdmtfpride 或 @Ekkirami 。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1315706812935487489",
+        "conversation_id": "1939551508405862462",
+        "created_at": "2025-06-30T05:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T06:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939551508405862462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1863821756932472832",
+              "start": 5,
+              "username": "shuo_zi27516"
+            },
+            {
+              "end": 48,
+              "id": "1919053439960748032",
+              "start": 36,
+              "username": "asdmtfpride"
+            },
+            {
+              "end": 60,
+              "id": "1911785348545593344",
+              "start": 51,
+              "username": "Ekkirami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939551508405862462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1964,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "情况通报：@shuo_zi27516 于今日被送扭转。\n更多信息请咨询 @asdmtfpride 或 @Ekkirami 。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 1206,
+          "like_count": 8942,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 4630
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T17:32:11.000Z",
+        "description": "北雁ふみんです。被剪掉垂耳的兔。绝望的睡眠障碍者。多意识体谱系者，姑且算是一个系统。🚪128，是的、我需要钱。提问箱见下。she/her/they/them, if it matters",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/iqeseqzq5lt32xn",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/iqeseqzq5lt32xn",
+                "start": 0,
+                "url": "https://t.co/O9VHArXF4K"
+              }
+            ]
+          }
+        },
+        "id": "1315706812935487489",
+        "location": "いいえ 見えはしない",
+        "name": "笋。（已切除前额叶）",
+        "pinned_tweet_id": "1918725005388755375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870529941026267136/vJ_l7ugO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1939,
+          "following_count": 205,
+          "like_count": 2914,
+          "listed_count": 7,
+          "media_count": 2084,
+          "tweet_count": 18915
+        },
+        "url": "https://t.co/O9VHArXF4K",
+        "username": "maigo_wakatake",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T05:45:42.000Z",
+        "description": "晚安.........\n谢谢你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+wcenpkgoAzFkM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+wcenpkgoAzFkMDQ1",
+                "start": 0,
+                "url": "https://t.co/Av9bAZd3dg"
+              }
+            ]
+          }
+        },
+        "id": "1863821756932472832",
+        "location": "cat",
+        "name": "宫笙 🏳‍⚧️🍥",
+        "pinned_tweet_id": "1939228889043316916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909494365900488705/svO7GLQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 468,
+          "like_count": 95,
+          "listed_count": 4,
+          "media_count": 116,
+          "tweet_count": 1195
+        },
+        "url": "https://t.co/Av9bAZd3dg",
+        "username": "shuo_zi27516",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T15:36:18.000Z",
+        "description": "橙凝凌",
+        "id": "1919053439960748032",
+        "name": "橙凝凌",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 62,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 225
+        },
+        "username": "asdmtfpride",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T14:15:44.000Z",
+        "description": "( ? ) ｜想变成猫猫…｜不分大小的另一个号：@Lua_Miao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Lua_Miao"
+              }
+            ]
+          }
+        },
+        "id": "1911785348545593344",
+        "name": "Ekkirami",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913191599615705088/By25nqsJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 9,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "username": "Ekkirami",
+        "verified": false
+      }
+    ]
+  }
+}

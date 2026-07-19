@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1937842031533191423",
+    "created_at": "2025-06-25T11:55:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T12:55:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937842031533191423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "711508622904135680",
+          "start": 3,
+          "username": "Woooooooowilike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937842031533191423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937468188079350162",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Woooooooowilike: 图人家钱的是捞女，明晃晃图人家子宫/家产/公司/婚签绿卡/家庭业务能力的就不是捞男了\n\n我见过的后者比前者多了去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1937842031533191423",
+        "created_at": "2025-06-25T11:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T12:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937842031533191423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "711508622904135680",
+              "start": 3,
+              "username": "Woooooooowilike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937842031533191423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937468188079350162",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Woooooooowilike: 图人家钱的是捞女，明晃晃图人家子宫/家产/公司/婚签绿卡/家庭业务能力的就不是捞男了\n\n我见过的后者比前者多了去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "711508622904135680",
+        "conversation_id": "1937468188079350162",
+        "created_at": "2025-06-24T11:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T12:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937468188079350162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937468188079350162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 20324,
+          "like_count": 686,
+          "quote_count": 9,
+          "reply_count": 24,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "图人家钱的是捞女，明晃晃图人家子宫/家产/公司/婚签绿卡/家庭业务能力的就不是捞男了\n\n我见过的后者比前者多了去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 1170,
+          "like_count": 8686,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 4531
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-20T11:04:09.000Z",
+        "description": "I don't care what you think about me. 最重要的是，好好活着。",
+        "id": "711508622904135680",
+        "location": "The Moon",
+        "name": "安然",
+        "pinned_tweet_id": "1220595521733251072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1471833411178401792/3dmS-BGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9096,
+          "following_count": 3758,
+          "like_count": 189235,
+          "listed_count": 28,
+          "media_count": 10324,
+          "tweet_count": 101813
+        },
+        "username": "Woooooooowilike",
+        "verified": false
+      }
+    ]
+  }
+}

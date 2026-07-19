@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2056982670874382766",
+    "created_at": "2026-05-21T06:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T07:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057347723272311062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1299960522041769994",
+          "start": 0,
+          "username": "cor29365563"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057347723272311062",
+    "in_reply_to_user_id": "1299960522041769994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056982670874382766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cor29365563 老師老師可以要個互fo嘛，我平時也丸黑環還有AC6🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2056982670874382766",
+        "created_at": "2026-05-21T06:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057347723272311062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1299960522041769994",
+              "start": 0,
+              "username": "cor29365563"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057347723272311062",
+        "in_reply_to_user_id": "1299960522041769994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056982670874382766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cor29365563 老師老師可以要個互fo嘛，我平時也丸黑環還有AC6🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1299960522041769994",
+        "conversation_id": "2056982670874382766",
+        "created_at": "2026-05-20T06:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056982670874382766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YANGUI_5/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/YANGUI_5/status/2056980401026220293",
+              "start": 10,
+              "url": "https://t.co/HLUWxoIbMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056982670874382766",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2559,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056980401026220293",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "史上最萌少女小攻攻 https://t.co/HLUWxoIbMj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 1679,
+          "like_count": 15427,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 6847
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-30T06:42:06.000Z",
+        "description": "这里喵喵！搞Dark Souls III居多，一般路过orbeck激推，账号里的图片皆为我约来的稿子ᕕ ( ᐛ ) ᕗ",
+        "id": "1299960522041769994",
+        "name": "寒涵cor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843178875108704256/aFDX0vCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 110,
+          "like_count": 1102,
+          "listed_count": 4,
+          "media_count": 192,
+          "tweet_count": 510
+        },
+        "username": "cor29365563",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892176374556680192"
+      ],
+      "media_source_tweet_id": [
+        "1892176377702719995"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1892433714086359140",
+    "created_at": "2025-02-20T04:38:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T05:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892433714086359140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1397924779219292167",
+          "start": 3,
+          "username": "KawawaShota"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/47WImxZlki",
+          "end": 40,
+          "expanded_url": "https://x.com/KawawaShota/status/1892176377702719995/photo/1",
+          "media_key": "3_1892176374556680192",
+          "start": 17,
+          "url": "https://t.co/47WImxZlki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892433714086359140",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 134
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892176377702719995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KawawaShota: https://t.co/47WImxZlki"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1892176374556680192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkJcYzHWYAAGaI8.jpg",
+        "width": 1711
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892176374556680192"
+          ],
+          "media_source_tweet_id": [
+            "1892176377702719995"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1892433714086359140",
+        "created_at": "2025-02-20T04:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T05:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892433714086359140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1397924779219292167",
+              "start": 3,
+              "username": "KawawaShota"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/47WImxZlki",
+              "end": 40,
+              "expanded_url": "https://x.com/KawawaShota/status/1892176377702719995/photo/1",
+              "media_key": "3_1892176374556680192",
+              "start": 17,
+              "url": "https://t.co/47WImxZlki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892433714086359140",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892176377702719995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KawawaShota: https://t.co/47WImxZlki"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892176374556680192"
+          ]
+        },
+        "author_id": "1397924779219292167",
+        "conversation_id": "1892176377702719995",
+        "created_at": "2025-02-19T11:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T12:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892176377702719995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/47WImxZlki",
+              "end": 23,
+              "expanded_url": "https://x.com/KawawaShota/status/1892176377702719995/photo/1",
+              "media_key": "3_1892176374556680192",
+              "start": 0,
+              "url": "https://t.co/47WImxZlki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892176377702719995",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 141628,
+          "like_count": 2159,
+          "quote_count": 14,
+          "reply_count": 112,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/47WImxZlki"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 801,
+          "like_count": 6049,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 3076
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-27T14:37:03.000Z",
+        "description": "包蜜&Minecraft船大工&Flight enthusiast👨‍✈️&僵毁老司机\n日本語⭕、English⭕、蜀语⭕\n爱支TV全国模范汉奸候选人\n对线推文不留＞5h\n拉面仙人🍜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "17roco.qq.com",
+                "end": 23,
+                "expanded_url": "https://17roco.qq.com/",
+                "start": 0,
+                "url": "https://t.co/kN90VkOrf9"
+              }
+            ]
+          }
+        },
+        "id": "1397924779219292167",
+        "location": "卡洛西亚大陆",
+        "name": "翔太くん✈️",
+        "pinned_tweet_id": "1818618506080141480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789605085322072065/MLtOe3d__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12247,
+          "following_count": 1971,
+          "like_count": 44366,
+          "listed_count": 60,
+          "media_count": 977,
+          "tweet_count": 6060
+        },
+        "url": "https://t.co/kN90VkOrf9",
+        "username": "KawawaShota",
+        "verified": true
+      }
+    ]
+  }
+}

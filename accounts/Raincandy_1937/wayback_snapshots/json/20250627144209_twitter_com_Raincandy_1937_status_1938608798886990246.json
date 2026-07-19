@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1938608798886990246",
+    "created_at": "2025-06-27T14:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T15:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938608798886990246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Raincandy_1937…",
+          "end": 133,
+          "expanded_url": "https://twitter.com/Raincandy_1937/status/1938130797720178789",
+          "start": 110,
+          "url": "https://t.co/6Q1UShXPfc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938608798886990246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938130797720178789",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对于我来说我是一定要看攻略的，玩游戏的时候比起担心一次次失败与重新挑战，我更担心没法在一周目里攫取足够的（自己喜欢的or独一无二的）虚拟物品，导致我玩一个游戏的有时候就是那么一两套衣服，不看攻略要我干找简直是电子酷刑。 https://t.co/6Q1UShXPfc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1938608798886990246",
+        "created_at": "2025-06-27T14:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T15:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938608798886990246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Raincandy_1937…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/Raincandy_1937/status/1938130797720178789",
+              "start": 110,
+              "url": "https://t.co/6Q1UShXPfc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938608798886990246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938130797720178789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对于我来说我是一定要看攻略的，玩游戏的时候比起担心一次次失败与重新挑战，我更担心没法在一周目里攫取足够的（自己喜欢的or独一无二的）虚拟物品，导致我玩一个游戏的有时候就是那么一两套衣服，不看攻略要我干找简直是电子酷刑。 https://t.co/6Q1UShXPfc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1938130796369559553"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1938130797720178789",
+        "created_at": "2025-06-26T07:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T08:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938130797720178789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938130797720178789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当你接触一款新游戏时，你是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 1181,
+          "like_count": 8815,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 4573
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

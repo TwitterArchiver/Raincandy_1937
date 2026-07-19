@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1889771536355094929",
+    "created_at": "2025-02-13T06:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T07:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889924343230243061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1639894055948816387",
+          "start": 0,
+          "username": "sakumamutsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889924343230243061",
+    "in_reply_to_user_id": "1639894055948816387",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889771536355094929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakumamutsuki 节奏大师x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1889771536355094929",
+        "created_at": "2025-02-13T06:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T07:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889924343230243061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639894055948816387",
+              "start": 0,
+              "username": "sakumamutsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889924343230243061",
+        "in_reply_to_user_id": "1639894055948816387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889771536355094929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakumamutsuki 节奏大师x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639894055948816387",
+        "conversation_id": "1889771536355094929",
+        "created_at": "2025-02-12T20:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T21:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889771536355094929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Tarimarl/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Tarimarl/status/1889654345462845936",
+              "start": 21,
+              "url": "https://t.co/vvsEcmRJB3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889771536355094929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889654345462845936",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我用0秒猜出了這是什麼遊戲，你也來試試吧 https://t.co/vvsEcmRJB3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 765,
+          "like_count": 5847,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2964
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T07:36:33.000Z",
+        "description": "果然還是我消失最好了。丨我最最最好的學妹@_but_i_love_u_丨小號@Pheeveen 但我只會開最信任的和同類🥹很多血圖就不影響大家心情了丨電腦打字練習中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "_but_i_love_u_"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "Pheeveen"
+              }
+            ]
+          }
+        },
+        "id": "1639894055948816387",
+        "name": "kayo",
+        "pinned_tweet_id": "1889807288204140796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884251214893993984/NPAAXZb3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 743,
+          "like_count": 19555,
+          "listed_count": 3,
+          "media_count": 284,
+          "tweet_count": 6919
+        },
+        "username": "sakumamutsuki",
+        "verified": false
+      }
+    ]
+  }
+}

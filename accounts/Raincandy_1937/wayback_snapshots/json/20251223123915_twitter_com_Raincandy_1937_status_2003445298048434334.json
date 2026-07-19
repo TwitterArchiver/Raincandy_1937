@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2003127859796385908",
+    "created_at": "2025-12-23T12:39:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T13:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003445298048434334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "452540168",
+          "start": 0,
+          "username": "DailyLoud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003445298048434334",
+    "in_reply_to_user_id": "452540168",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003127859796385908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DailyLoud However, in my country, the government considers it right to eradicate the languages ​​of ethnic minorities. Languages ​​such as Mongolian and Uyghur are disappearing from our school education, being replaced by mandatory Mandarin education."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 118433,
+        "height": 1080,
+        "media_key": "13_2002930219426926593",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002930219426926593/img/JOpb7Mqt91kFJx2C.jpg",
+        "public_metrics": {
+          "view_count": 2116307
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002930219426926593/pl/sFplx0YBVf3yAzuu.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002930219426926593/vid/avc1/360x270/KtUB6tDk__CfAcHl.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002930219426926593/vid/avc1/480x360/iX2W7qB_KLZ2kdj_.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002930219426926593/vid/avc1/1440x1080/yC6wscBSNDpPgakt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002930219426926593/vid/avc1/960x720/xqZqK857SF_5XRAV.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2003127859796385908",
+        "created_at": "2025-12-23T12:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T13:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003445298048434334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "452540168",
+              "start": 0,
+              "username": "DailyLoud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003445298048434334",
+        "in_reply_to_user_id": "452540168",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003127859796385908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DailyLoud However, in my country, the government considers it right to eradicate the languages ​​of ethnic minorities. Languages ​​such as Mongolian and Uyghur are disappearing from our school education, being replaced by mandatory Mandarin education."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002930219426926593"
+          ],
+          "media_source_tweet_id": [
+            "2002930376486826165"
+          ]
+        },
+        "author_id": "452540168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Pennsylvania",
+              "id": "1010255110465679361",
+              "name": "Pennsylvania"
+            }
+          }
+        ],
+        "conversation_id": "2003127859796385908",
+        "created_at": "2025-12-22T15:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T16:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003127859796385908"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Pennsylvania",
+              "probability": 0.9799,
+              "start": 23,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9EE9MbVbkr",
+              "end": 144,
+              "expanded_url": "https://x.com/unlimited_ls/status/2002930376486826165/video/1",
+              "media_key": "13_2002930219426926593",
+              "start": 121,
+              "url": "https://t.co/9EE9MbVbkr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003127859796385908",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 836,
+          "impression_count": 1959617,
+          "like_count": 3848,
+          "quote_count": 571,
+          "reply_count": 1188,
+          "retweet_count": 204
+        },
+        "reply_settings": "everyone",
+        "text": "A school bus driver in Pennsylvania was fired for putting up a sign asking students to speak only English on the bus 👀 \n https://t.co/9EE9MbVbkr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998397096031035392/5bZUUqPS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 1529,
+          "like_count": 12855,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 5905
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-01T23:59:57.000Z",
+        "description": "#1 Source For Hip-Hop/Viral News Across The Planet | Follow Us Now & Stay Updated | For Business Or Promo TheDailyLoud@gmail.com | Turn On Notifications 🔥🔔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/daily_loud",
+                "end": 23,
+                "expanded_url": "http://instagram.com/daily_loud",
+                "start": 0,
+                "url": "https://t.co/Yppy1rp5Z5"
+              }
+            ]
+          }
+        },
+        "id": "452540168",
+        "location": "FOLLOW INSTAGRAM 👉",
+        "name": "Daily Loud",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907818020245794816/Xhm36eAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3743907,
+          "following_count": 172202,
+          "like_count": 33819,
+          "listed_count": 7272,
+          "media_count": 49895,
+          "tweet_count": 111355
+        },
+        "url": "https://t.co/Yppy1rp5Z5",
+        "username": "DailyLoud",
+        "verified": true
+      }
+    ]
+  }
+}

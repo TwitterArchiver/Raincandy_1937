@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1981544195644084225",
+    "created_at": "2025-10-24T07:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T08:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981625845476438105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1413151000567771146",
+          "start": 0,
+          "username": "Windy_Skyline"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981625845476438105",
+    "in_reply_to_user_id": "1413151000567771146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981544195644084225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Windy_Skyline 三丽鸥有给这些小可爱设置性别吗，我只知道酷洛米好像是女生"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981544184596082688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3_b7-2XMAAhJ5s.jpg",
+        "width": 1053
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1981544184667365376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3_b7_HW4AAo3PN.jpg",
+        "width": 1093
+      },
+      {
+        "height": 2047,
+        "media_key": "3_1981544184914812928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3_b8ACWoAA6etu.jpg",
+        "width": 1057
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1981544195644084225",
+        "created_at": "2025-10-24T07:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T08:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981625845476438105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1413151000567771146",
+              "start": 0,
+              "username": "Windy_Skyline"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981625845476438105",
+        "in_reply_to_user_id": "1413151000567771146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981544195644084225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Windy_Skyline 三丽鸥有给这些小可爱设置性别吗，我只知道酷洛米好像是女生"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981544184596082688",
+            "3_1981544184667365376",
+            "3_1981544184914812928"
+          ]
+        },
+        "author_id": "1413151000567771146",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1981544195644084225",
+        "created_at": "2025-10-24T02:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T03:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981544195644084225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aSAQUtv1zV",
+              "end": 55,
+              "expanded_url": "https://x.com/Windy_Skyline/status/1981544195644084225/photo/1",
+              "media_key": "3_1981544184596082688",
+              "start": 32,
+              "url": "https://t.co/aSAQUtv1zV"
+            },
+            {
+              "display_url": "pic.x.com/aSAQUtv1zV",
+              "end": 55,
+              "expanded_url": "https://x.com/Windy_Skyline/status/1981544195644084225/photo/1",
+              "media_key": "3_1981544184667365376",
+              "start": 32,
+              "url": "https://t.co/aSAQUtv1zV"
+            },
+            {
+              "display_url": "pic.x.com/aSAQUtv1zV",
+              "end": 55,
+              "expanded_url": "https://x.com/Windy_Skyline/status/1981544195644084225/photo/1",
+              "media_key": "3_1981544184914812928",
+              "start": 32,
+              "url": "https://t.co/aSAQUtv1zV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981544195644084225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 535,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "性别刻板印象无孔不入，连虚拟形象都要扯“男的穿裤子女的穿裙子” https://t.co/aSAQUtv1zV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 1404,
+          "like_count": 11014,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 5339
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "👾",
+        "pinned_tweet_id": "1602731469398573061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 210,
+          "like_count": 2310,
+          "listed_count": 6,
+          "media_count": 3235,
+          "tweet_count": 11132
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      }
+    ]
+  }
+}

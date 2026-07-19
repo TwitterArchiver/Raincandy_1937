@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1872139341683904513"
+      ],
+      "media_source_tweet_id": [
+        "1872139349132996846"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1872200822903447971",
+    "created_at": "2024-12-26T08:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T09:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872200822903447971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1724356825980768256",
+          "start": 3,
+          "username": "Anzhai_Official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7c1BODZYsk",
+          "end": 47,
+          "expanded_url": "https://x.com/Anzhai_Official/status/1872139349132996846/photo/1",
+          "media_key": "3_1872139341683904513",
+          "start": 24,
+          "url": "https://t.co/7c1BODZYsk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872200822903447971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872139349132996846",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Anzhai_Official: 好骂 https://t.co/7c1BODZYsk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1872139341683904513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gfssz-8aUAEYl8G.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872139341683904513"
+          ],
+          "media_source_tweet_id": [
+            "1872139349132996846"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1872200822903447971",
+        "created_at": "2024-12-26T08:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T09:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872200822903447971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1724356825980768256",
+              "start": 3,
+              "username": "Anzhai_Official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7c1BODZYsk",
+              "end": 47,
+              "expanded_url": "https://x.com/Anzhai_Official/status/1872139349132996846/photo/1",
+              "media_key": "3_1872139341683904513",
+              "start": 24,
+              "url": "https://t.co/7c1BODZYsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872200822903447971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872139349132996846",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Anzhai_Official: 好骂 https://t.co/7c1BODZYsk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872139341683904513"
+          ]
+        },
+        "author_id": "1724356825980768256",
+        "conversation_id": "1872139349132996846",
+        "created_at": "2024-12-26T04:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T05:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872139349132996846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7c1BODZYsk",
+              "end": 26,
+              "expanded_url": "https://x.com/Anzhai_Official/status/1872139349132996846/photo/1",
+              "media_key": "3_1872139341683904513",
+              "start": 3,
+              "url": "https://t.co/7c1BODZYsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872139349132996846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 761,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好骂 https://t.co/7c1BODZYsk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 606,
+          "like_count": 3957,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 2129
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T09:21:30.000Z",
+        "description": "缺爱ing🥺🥺🥺🥺网上扩列QQ🚪50，不圆角，可接委托阿巴阿巴🥺🥺，扣扣群982604361，某些味大的批爆的所谓男娘mtf别私信找我互fo互转了😅😅😅😅先照镜子看看自己",
+        "id": "1724356825980768256",
+        "location": "武汉",
+        "name": "安斋",
+        "pinned_tweet_id": "1855595917946290215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866406608009617408/Z2xL7vmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2323,
+          "following_count": 1044,
+          "like_count": 12728,
+          "listed_count": 4,
+          "media_count": 104,
+          "tweet_count": 1271
+        },
+        "username": "Anzhai_Official",
+        "verified": false
+      }
+    ]
+  }
+}

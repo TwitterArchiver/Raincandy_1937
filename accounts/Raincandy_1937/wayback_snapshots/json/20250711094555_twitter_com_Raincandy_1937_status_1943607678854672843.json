@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1943335877264183488",
+    "created_at": "2025-07-11T09:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T10:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943607678854672843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1765793959975301120",
+          "start": 0,
+          "username": "TuT071029"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943607678854672843",
+    "in_reply_to_user_id": "1765793959975301120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943335877264183488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TuT071029 不喜欢..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1943335877264183488",
+        "created_at": "2025-07-11T09:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T10:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943607678854672843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1765793959975301120",
+              "start": 0,
+              "username": "TuT071029"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943607678854672843",
+        "in_reply_to_user_id": "1765793959975301120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943335877264183488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT071029 不喜欢..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765793959975301120",
+        "conversation_id": "1943335877264183488",
+        "created_at": "2025-07-10T15:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T16:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943335877264183488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943335877264183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 51918,
+          "like_count": 570,
+          "quote_count": 7,
+          "reply_count": 91,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我一刷到那种翻白眼伸舌头的照片就觉得很诡异 男生真的喜欢那种表情吗..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 1219,
+          "like_count": 9200,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 4761
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T17:38:09.000Z",
+        "description": "清水博主^ω^置顶推广自辨/不线下/发吊屏蔽",
+        "id": "1765793959975301120",
+        "location": "🚪188/388/520/1314",
+        "name": "咪",
+        "pinned_tweet_id": "1941746369720615292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939335031211622400/gP8xSnWS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6268,
+          "following_count": 100,
+          "like_count": 3775,
+          "listed_count": 14,
+          "media_count": 177,
+          "tweet_count": 2795
+        },
+        "username": "TuT071029",
+        "verified": false
+      }
+    ]
+  }
+}

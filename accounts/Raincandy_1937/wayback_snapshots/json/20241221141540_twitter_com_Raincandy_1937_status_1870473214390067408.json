@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1870425269187555507",
+    "created_at": "2024-12-21T14:15:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-21T15:15:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870473214390067408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1118250554",
+          "start": 0,
+          "username": "tengukito"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870473214390067408",
+    "in_reply_to_user_id": "1118250554",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870425269187555507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tengukito 我中了狂笑术"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1870425269187555507",
+        "created_at": "2024-12-21T14:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T15:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870473214390067408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1118250554",
+              "start": 0,
+              "username": "tengukito"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870473214390067408",
+        "in_reply_to_user_id": "1118250554",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870425269187555507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tengukito 我中了狂笑术"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870425238707867648"
+          ]
+        },
+        "author_id": "1118250554",
+        "conversation_id": "1870425269187555507",
+        "created_at": "2024-12-21T11:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T12:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870425269187555507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ig5kKgxNh5",
+              "end": 36,
+              "expanded_url": "https://x.com/tengukito/status/1870425269187555507/photo/1",
+              "media_key": "3_1870425238707867648",
+              "start": 13,
+              "url": "https://t.co/ig5kKgxNh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870425269187555507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2931,
+          "like_count": 227,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "嘻嘻昨晚的脑洞终于涂完了 https://t.co/ig5kKgxNh5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 564,
+          "like_count": 3565,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1979
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-25T02:39:11.000Z",
+        "description": "光の戦士。ミッドランダー大好き。百合大好き。色違い椎名立希（大嘘）",
+        "id": "1118250554",
+        "name": "宇宙子詩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775771976549679104/vNBQVRP2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5965,
+          "following_count": 264,
+          "like_count": 355,
+          "listed_count": 30,
+          "media_count": 375,
+          "tweet_count": 452
+        },
+        "username": "tengukito",
+        "verified": false
+      }
+    ]
+  }
+}

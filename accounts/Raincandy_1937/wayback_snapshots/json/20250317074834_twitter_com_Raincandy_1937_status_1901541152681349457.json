@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1901535294945673680",
+    "created_at": "2025-03-17T07:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T08:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901541152681349457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1396330780079509510",
+          "start": 0,
+          "username": "xf00251456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901541152681349457",
+    "in_reply_to_user_id": "1396330780079509510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901539260408443384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xf00251456 想起了22年用MX350硬跑的那段时间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1901535294945673680",
+        "created_at": "2025-03-17T07:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T08:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901541152681349457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1396330780079509510",
+              "start": 0,
+              "username": "xf00251456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901541152681349457",
+        "in_reply_to_user_id": "1396330780079509510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901539260408443384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xf00251456 想起了22年用MX350硬跑的那段时间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1396330780079509510",
+        "conversation_id": "1901535294945673680",
+        "created_at": "2025-03-17T07:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T08:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901539260408443384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1522094771136831488",
+              "start": 0,
+              "username": "Raincandy_1937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901539260408443384",
+        "in_reply_to_user_id": "1522094771136831488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901535294945673680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raincandy_1937 有点怀念了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 904,
+          "like_count": 6458,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 3341
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-23T05:03:00.000Z",
+        "description": "抽象的美男子，文案喜欢的话请随意自取。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xf00251456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xf00251456",
+                "start": 0,
+                "url": "https://t.co/p6hKbSWqEC"
+              }
+            ]
+          }
+        },
+        "id": "1396330780079509510",
+        "location": "距您2.5km",
+        "name": "X",
+        "pinned_tweet_id": "1895620720388182090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875762913254035456/XXgfwjVB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 975,
+          "like_count": 57645,
+          "listed_count": 7,
+          "media_count": 135,
+          "tweet_count": 2788
+        },
+        "url": "https://t.co/p6hKbSWqEC",
+        "username": "xf00251456",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2038314277778641247",
+    "created_at": "2026-03-29T17:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T18:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038314277778641247"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Miiharukawa/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/Miiharukawa/status/2038288741123719296",
+          "start": 2,
+          "url": "https://t.co/uMg0Z8Bt76"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038314277778641247",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038288741123719296",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接 https://t.co/uMg0Z8Bt76"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1218,
+        "media_key": "3_2038288734588977152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEl0zgbbQAA0bzb.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2038314277778641247",
+        "created_at": "2026-03-29T17:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038314277778641247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Miiharukawa/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Miiharukawa/status/2038288741123719296",
+              "start": 2,
+              "url": "https://t.co/uMg0Z8Bt76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038314277778641247",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038288741123719296",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接 https://t.co/uMg0Z8Bt76"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038288734588977152"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2038288741123719296",
+        "created_at": "2026-03-29T16:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038288741123719296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nr9pC271nI",
+              "end": 30,
+              "expanded_url": "https://x.com/Miiharukawa/status/2038288741123719296/photo/1",
+              "media_key": "3_2038288734588977152",
+              "start": 7,
+              "url": "https://t.co/nr9pC271nI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038288741123719296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 27163,
+          "like_count": 1132,
+          "quote_count": 39,
+          "reply_count": 26,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "这个好萌 接 https://t.co/nr9pC271nI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 1598,
+          "like_count": 14190,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 6528
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 155,
+          "like_count": 3869,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 1205
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

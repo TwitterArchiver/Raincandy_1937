@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2057516646332539062",
+    "created_at": "2026-05-21T17:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T18:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057516646332539062"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nyalra/status/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/nyalra/status/2057487301291426289",
+          "start": 7,
+          "url": "https://t.co/qPUrtqxLFs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057516646332539062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057487301291426289",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥵🥵糖嬤加油 https://t.co/qPUrtqxLFs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2057487299424956416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2pzDwaMAAI5rq.jpg",
+        "width": 1849
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2057516646332539062",
+        "created_at": "2026-05-21T17:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T18:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057516646332539062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyalra/status/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/nyalra/status/2057487301291426289",
+              "start": 7,
+              "url": "https://t.co/qPUrtqxLFs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057516646332539062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057487301291426289",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥵🥵糖嬤加油 https://t.co/qPUrtqxLFs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057487299424956416"
+          ]
+        },
+        "author_id": "349054800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Abema TV",
+              "id": "989515172690542593",
+              "name": "Abema TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Abema TV",
+              "id": "989515172690542593",
+              "name": "Abema TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          }
+        ],
+        "conversation_id": "2057487301291426289",
+        "created_at": "2026-05-21T15:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057487301291426289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p4KQhN5sbT",
+              "end": 27,
+              "expanded_url": "https://x.com/nyalra/status/2057487301291426289/photo/1",
+              "media_key": "3_2057487299424956416",
+              "start": 4,
+              "url": "https://t.co/p4KQhN5sbT"
+            },
+            {
+              "display_url": "x.com/needygirl_anim…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/needygirl_anime/status/2057023524821164171",
+              "start": 28,
+              "url": "https://t.co/KyqkrFTvgN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057487301291426289",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 23079,
+          "like_count": 1150,
+          "quote_count": 10,
+          "reply_count": 15,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057023524821164171",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Ame https://t.co/p4KQhN5sbT https://t.co/KyqkrFTvgN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 1679,
+          "like_count": 15465,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 6855
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-05T13:27:45.000Z",
+        "description": "◆https://t.co/2RlDkCWnQW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nyalra.net",
+                "end": 24,
+                "expanded_url": "https://nyalra.net",
+                "start": 1,
+                "url": "https://t.co/2RlDkCWnQW"
+              }
+            ]
+          }
+        },
+        "id": "349054800",
+        "name": "nyalra",
+        "pinned_tweet_id": "2005988774371864634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806370210762657792/GjnpN4qn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164992,
+          "following_count": 666,
+          "like_count": 395528,
+          "listed_count": 1105,
+          "media_count": 4200,
+          "tweet_count": 43588
+        },
+        "username": "nyalra",
+        "verified": true
+      }
+    ]
+  }
+}

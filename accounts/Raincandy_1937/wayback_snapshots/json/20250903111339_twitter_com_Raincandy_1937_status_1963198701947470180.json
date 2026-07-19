@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1963198622801301504"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1963198701947470180",
+    "created_at": "2025-09-03T11:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T12:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963198701947470180"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cxYsilhjkj",
+          "end": 42,
+          "expanded_url": "https://x.com/Raincandy_1937/status/1963198701947470180/video/1",
+          "media_key": "7_1963198622801301504",
+          "start": 19,
+          "url": "https://t.co/cxYsilhjkj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963198701947470180",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "死んで死んで死んで死んで死んで死んで https://t.co/cxYsilhjkj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29589,
+        "height": 720,
+        "media_key": "7_1963198622801301504",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1963198622801301504/pu/img/40PIH1QwHcZZt4cw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1963198622801301504/pu/vid/avc1/480x270/H_JZO4CBIAcgmvvK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1963198622801301504/pu/vid/avc1/640x360/ravcMIiK61jE8UYe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1963198622801301504/pu/vid/avc1/1280x720/9s6FYNlUWRHfcLdi.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1963198622801301504/pu/pl/ihhbDN4P9f_mMTd5.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1963198622801301504"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1963198701947470180",
+        "created_at": "2025-09-03T11:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T12:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963198701947470180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxYsilhjkj",
+              "end": 42,
+              "expanded_url": "https://x.com/Raincandy_1937/status/1963198701947470180/video/1",
+              "media_key": "7_1963198622801301504",
+              "start": 19,
+              "url": "https://t.co/cxYsilhjkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963198701947470180",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死んで死んで死んで死んで死んで死んで https://t.co/cxYsilhjkj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 1270,
+          "like_count": 9543,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 4948
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

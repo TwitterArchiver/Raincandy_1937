@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1903342938026811540",
+    "created_at": "2025-03-22T07:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T08:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903342938026811540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1661626609001021441",
+          "start": 3,
+          "username": "Fareastelecommi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903342938026811540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903295134478881115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fareastelecommi: 中国拥护者不能同时要求第三共和国的居民在拥护一个所谓自称第三世界实则第一世界的五常列强的同时 以被中国拥护者自己表面支持实则歧视的所谓第三世界的标准来要求自己的日常议题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1903342938026811540",
+        "created_at": "2025-03-22T07:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T08:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903342938026811540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1661626609001021441",
+              "start": 3,
+              "username": "Fareastelecommi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903342938026811540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903295134478881115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fareastelecommi: 中国拥护者不能同时要求第三共和国的居民在拥护一个所谓自称第三世界实则第一世界的五常列强的同时 以被中国拥护者自己表面支持实则歧视的所谓第三世界的标准来要求自己的日常议题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661626609001021441",
+        "conversation_id": "1903295134478881115",
+        "created_at": "2025-03-22T03:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T04:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903295134478881115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CPUP2024/statu…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/CPUP2024/status/1902939131094896949",
+              "start": 85,
+              "url": "https://t.co/nehe860d4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903295134478881115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 300,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902939131094896949",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国拥护者不能同时要求第三共和国的居民在拥护一个所谓自称第三世界实则第一世界的五常列强的同时 以被中国拥护者自己表面支持实则歧视的所谓第三世界的标准来要求自己的日常议题 https://t.co/nehe860d4z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 927,
+          "like_count": 6740,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 3500
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-25T06:54:08.000Z",
+        "description": "电波不死",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fareastelecomm…",
+                "end": 23,
+                "expanded_url": "http://t.me/Fareastelecommunists",
+                "start": 0,
+                "url": "https://t.co/HFY4qXrEnE"
+              }
+            ]
+          }
+        },
+        "id": "1661626609001021441",
+        "location": "IP属地：辽宁",
+        "name": "La Radiodiffusion Television Extrême-Orient",
+        "pinned_tweet_id": "1846159095813767482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788386867664023552/m5d5W3tw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 237,
+          "like_count": 40100,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 6867
+        },
+        "url": "https://t.co/HFY4qXrEnE",
+        "username": "Fareastelecommi",
+        "verified": false
+      }
+    ]
+  }
+}

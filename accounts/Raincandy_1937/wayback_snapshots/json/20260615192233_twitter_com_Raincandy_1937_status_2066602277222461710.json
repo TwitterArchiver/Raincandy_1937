@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2066394766061736165",
+    "created_at": "2026-06-15T19:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T20:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066602277222461710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "825056812919615490",
+          "start": 0,
+          "username": "Idontgive2u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066602277222461710",
+    "in_reply_to_user_id": "825056812919615490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066394766061736165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontgive2u 錢呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2066394766061736165",
+        "created_at": "2026-06-15T19:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T20:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066602277222461710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "825056812919615490",
+              "start": 0,
+              "username": "Idontgive2u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066602277222461710",
+        "in_reply_to_user_id": "825056812919615490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066394766061736165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontgive2u 錢呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "825056812919615490",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2066394766061736165",
+        "created_at": "2026-06-15T05:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066394766061736165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066394766061736165",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 430494,
+          "like_count": 3359,
+          "quote_count": 444,
+          "reply_count": 2749,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "On te donne 100 000 € aujourd’hui… mais en échange, tu ne pourras regarder aucun match de la Coupe du Monde 2026… Tu acceptes ? 🤔 ⚽💸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 1753,
+          "like_count": 16730,
+          "listed_count": 1,
+          "media_count": 224,
+          "tweet_count": 7299
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-27T19:04:07.000Z",
+        "description": "Dans la bonne humeur| Je partage aussi souvent des histoires anonymes et un peu provoc 🤪 fan #PSG❤️💙",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "PSG"
+              }
+            ]
+          }
+        },
+        "id": "825056812919615490",
+        "location": "DM only for Promo ",
+        "name": "Amanda",
+        "pinned_tweet_id": "2063990889551179963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030580964121100288/GrUxvS9y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6178,
+          "following_count": 4924,
+          "like_count": 5549,
+          "listed_count": 8,
+          "media_count": 582,
+          "tweet_count": 4793
+        },
+        "username": "Idontgive2u",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1877631246354010386",
+    "created_at": "2025-01-10T10:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T11:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877671287306301590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1832969632309022720",
+          "start": 0,
+          "username": "AuroraLillia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877671287306301590",
+    "in_reply_to_user_id": "1832969632309022720",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877631246354010386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AuroraLillia 👂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1877631246354010386",
+        "created_at": "2025-01-10T10:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T11:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877671287306301590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1832969632309022720",
+              "start": 0,
+              "username": "AuroraLillia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877671287306301590",
+        "in_reply_to_user_id": "1832969632309022720",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877631246354010386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AuroraLillia 👂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832969632309022720",
+        "conversation_id": "1877631246354010386",
+        "created_at": "2025-01-10T08:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T09:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877631246354010386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877631246354010386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "某人的音乐做得好那确实无可挑剔，但是暗示性的搞炼铜我真的就要脱粉了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 654,
+          "like_count": 4851,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 2454
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T02:30:06.000Z",
+        "description": "星の旅人スターゲイザーリリィ。 繁花の詩「@Fleur_indefinie」、星の追跡「@moemoeta17316」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "Fleur_indefinie"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "moemoeta17316"
+              }
+            ]
+          }
+        },
+        "id": "1832969632309022720",
+        "location": "💜🩷🤍💛🧡",
+        "name": "La étoilée chantante✨",
+        "pinned_tweet_id": "1874109450711437463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873574489386266624/fabrEPbk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 354,
+          "like_count": 11118,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 3248
+        },
+        "username": "AuroraLillia",
+        "verified": false
+      }
+    ]
+  }
+}

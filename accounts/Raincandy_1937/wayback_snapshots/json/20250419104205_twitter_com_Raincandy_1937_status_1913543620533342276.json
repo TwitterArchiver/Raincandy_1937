@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1913251653475766721",
+    "created_at": "2025-04-19T10:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T11:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913543620533342276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1883133817508274176",
+          "start": 0,
+          "username": "lanzhiqi07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913543620533342276",
+    "in_reply_to_user_id": "1883133817508274176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913251653475766721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lanzhiqi07 我一直在笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1913251653475766721",
+        "created_at": "2025-04-19T10:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T11:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913543620533342276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1883133817508274176",
+              "start": 0,
+              "username": "lanzhiqi07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913543620533342276",
+        "in_reply_to_user_id": "1883133817508274176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913251653475766721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lanzhiqi07 我一直在笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883133817508274176",
+        "conversation_id": "1913251653475766721",
+        "created_at": "2025-04-18T15:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T16:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913251653475766721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913251653475766721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1457,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有件我不理解的事情就是为什么你们和我聊天的时候都说自己一直在笑。根本没有笑点存在。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 1056,
+          "like_count": 7991,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 4121
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T12:44:32.000Z",
+        "description": "不是小狗不是男同。互关可以加v。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lanzhiqi1291",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lanzhiqi1291",
+                "start": 0,
+                "url": "https://t.co/h7EngLPhgA"
+              }
+            ]
+          }
+        },
+        "id": "1883133817508274176",
+        "location": "北海道",
+        "name": "世界的主宰129",
+        "pinned_tweet_id": "1913257885817274375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912568713607540739/ZUC9US0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 279,
+          "like_count": 5879,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 2055
+        },
+        "url": "https://t.co/h7EngLPhgA",
+        "username": "lanzhiqi07",
+        "verified": false
+      }
+    ]
+  }
+}

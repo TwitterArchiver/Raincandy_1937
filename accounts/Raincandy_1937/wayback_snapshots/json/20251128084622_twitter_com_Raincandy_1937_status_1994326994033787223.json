@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994224825179820032"
+      ],
+      "media_source_tweet_id": [
+        "1994224827633389734"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1994326994033787223",
+    "created_at": "2025-11-28T08:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T09:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994326994033787223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "912623216899715072",
+          "start": 3,
+          "username": "Xianzhong_1953"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sADivYs4Bu",
+          "end": 75,
+          "expanded_url": "https://x.com/Xianzhong_1953/status/1994224827633389734/photo/1",
+          "media_key": "3_1994224825179820032",
+          "start": 52,
+          "url": "https://t.co/sADivYs4Bu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994326994033787223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994224827633389734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xianzhong_1953: 很喜欢的一句话：中国人民正以沉默的方式等待着下一场灾难的降临。 https://t.co/sADivYs4Bu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 552,
+        "media_key": "3_1994224825179820032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6zo6aMb0AAZ1Ca.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994224825179820032"
+          ],
+          "media_source_tweet_id": [
+            "1994224827633389734"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1994326994033787223",
+        "created_at": "2025-11-28T08:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T09:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994326994033787223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "912623216899715072",
+              "start": 3,
+              "username": "Xianzhong_1953"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sADivYs4Bu",
+              "end": 75,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/1994224827633389734/photo/1",
+              "media_key": "3_1994224825179820032",
+              "start": 52,
+              "url": "https://t.co/sADivYs4Bu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994326994033787223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994224827633389734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xianzhong_1953: 很喜欢的一句话：中国人民正以沉默的方式等待着下一场灾难的降临。 https://t.co/sADivYs4Bu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994224825179820032"
+          ]
+        },
+        "author_id": "912623216899715072",
+        "conversation_id": "1994224827633389734",
+        "created_at": "2025-11-28T02:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T03:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994224827633389734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sADivYs4Bu",
+              "end": 55,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/1994224827633389734/photo/1",
+              "media_key": "3_1994224825179820032",
+              "start": 32,
+              "url": "https://t.co/sADivYs4Bu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994224827633389734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 21520,
+          "like_count": 491,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "很喜欢的一句话：中国人民正以沉默的方式等待着下一场灾难的降临。 https://t.co/sADivYs4Bu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 1456,
+          "like_count": 11952,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 5622
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-26T10:21:45.000Z",
+        "description": "唯一账号，年过七旬的小孩子。不是著名支黑哦，但是不妨碍俺盼献忠。\n\n曾经的浙江苗族人。\n\n已拉黑1亿条蛆 ，不在乎再多拉黑千八百条海内外各类蛆虫 。🕷学资深专家。诅咒回复俺推特的粉蛆、战螂们死一户口本。\n体制内外的阶级对立和阶级矛盾才是墙内最大问题！",
+        "id": "912623216899715072",
+        "location": "Hawaii, USA",
+        "name": "红袍猫后Penny",
+        "pinned_tweet_id": "1500427883395051523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974500216377163776/cCRJ74YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105272,
+          "following_count": 810,
+          "like_count": 240147,
+          "listed_count": 340,
+          "media_count": 22656,
+          "tweet_count": 43899
+        },
+        "username": "Xianzhong_1953",
+        "verified": false
+      }
+    ]
+  }
+}

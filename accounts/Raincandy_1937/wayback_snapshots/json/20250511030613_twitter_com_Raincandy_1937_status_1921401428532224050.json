@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1921399894083788859",
+    "created_at": "2025-05-11T03:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T04:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921401428532224050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821065266006241280",
+          "start": 0,
+          "username": "KKivako2233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921401428532224050",
+    "in_reply_to_user_id": "1821065266006241280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921399894083788859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KKivako2233 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1921399894083788859",
+        "created_at": "2025-05-11T03:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T04:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921401428532224050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821065266006241280",
+              "start": 0,
+              "username": "KKivako2233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921401428532224050",
+        "in_reply_to_user_id": "1821065266006241280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921399894083788859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKivako2233 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821065266006241280",
+        "conversation_id": "1921399894083788859",
+        "created_at": "2025-05-11T03:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T04:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921399894083788859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921399894083788859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 1089,
+          "like_count": 8195,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 4222
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T06:06:15.000Z",
+        "description": "4i›1i \njazz/funk/gospel/fusion/rock/metal\nguitarist /bassist/keyboard ok\njapanese learning ing\n4/29\n2010s",
+        "id": "1821065266006241280",
+        "location": "Japan",
+        "name": "白᳐色眼球᳐੭与模᳐糊化心脏᳐੭的爱恋",
+        "pinned_tweet_id": "1918607600666513846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889697789942308868/01sMw0HE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 1488,
+          "like_count": 11761,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 3586
+        },
+        "username": "KKivako2233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1935259996700520836",
+    "created_at": "2025-06-19T03:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T04:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935538614538211342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1752964869203361792",
+          "start": 0,
+          "username": "Minam1eL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935538614538211342",
+    "in_reply_to_user_id": "1752964869203361792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935259996700520836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minam1eL 有的人花掉八千万像呼吸一样简单，我还要拿零件换，关键是换了原po也不会给我😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935259993911037952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GttstgUXkAA_b_2.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1935259996700520836",
+        "created_at": "2025-06-19T03:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T04:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935538614538211342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1752964869203361792",
+              "start": 0,
+              "username": "Minam1eL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935538614538211342",
+        "in_reply_to_user_id": "1752964869203361792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935259996700520836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minam1eL 有的人花掉八千万像呼吸一样简单，我还要拿零件换，关键是换了原po也不会给我😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935259993911037952"
+          ]
+        },
+        "author_id": "1752964869203361792",
+        "conversation_id": "1935259996700520836",
+        "created_at": "2025-06-18T08:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T09:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935259996700520836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x9uVg81ZZ5",
+              "end": 23,
+              "expanded_url": "https://x.com/Minam1eL/status/1935259996700520836/photo/1",
+              "media_key": "3_1935259993911037952",
+              "start": 0,
+              "url": "https://t.co/x9uVg81ZZ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935259996700520836",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 152069,
+          "like_count": 523,
+          "quote_count": 24,
+          "reply_count": 305,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/x9uVg81ZZ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 1159,
+          "like_count": 8632,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 4439
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T07:59:36.000Z",
+        "description": "绘画留档｜｜互fo喵｜｜垃圾桶吗｜｜好累...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/96388197",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/96388197",
+                "start": 0,
+                "url": "https://t.co/TdjnFauWYn"
+              }
+            ]
+          }
+        },
+        "id": "1752964869203361792",
+        "location": "Los Angeles, CA",
+        "name": "Minamiel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929455704643149824/ydnxtM1l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 1101,
+          "like_count": 4427,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 2337
+        },
+        "url": "https://t.co/TdjnFauWYn",
+        "username": "Minam1eL",
+        "verified": false
+      }
+    ]
+  }
+}

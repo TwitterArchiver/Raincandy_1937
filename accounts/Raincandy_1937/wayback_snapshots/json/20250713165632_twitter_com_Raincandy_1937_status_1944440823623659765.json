@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1944440823623659765",
+    "created_at": "2025-07-13T16:56:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T17:56:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944440823623659765"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "youtube.com/post/Ugkx0TY9A…",
+          "end": 23,
+          "expanded_url": "http://youtube.com/post/Ugkx0TY9Af1oJNmEmOs8GaOB9k-RHwygm5t0?si=yVoFhejem7w2PxSs",
+          "start": 0,
+          "status": 200,
+          "unwound_url": "https://www.youtube.com/post/Ugkx0TY9Af1oJNmEmOs8GaOB9k-RHwygm5t0?si=yVoFhejem7w2PxSs",
+          "url": "https://t.co/MkoCOLlvgx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944440823623659765",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/MkoCOLlvgx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1944440823623659765",
+        "created_at": "2025-07-13T16:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T17:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944440823623659765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "youtube.com/post/Ugkx0TY9A…",
+              "end": 23,
+              "expanded_url": "http://youtube.com/post/Ugkx0TY9Af1oJNmEmOs8GaOB9k-RHwygm5t0?si=yVoFhejem7w2PxSs",
+              "start": 0,
+              "status": 200,
+              "unwound_url": "https://www.youtube.com/post/Ugkx0TY9Af1oJNmEmOs8GaOB9k-RHwygm5t0?si=yVoFhejem7w2PxSs",
+              "url": "https://t.co/MkoCOLlvgx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944440823623659765",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MkoCOLlvgx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 1224,
+          "like_count": 9224,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 4766
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

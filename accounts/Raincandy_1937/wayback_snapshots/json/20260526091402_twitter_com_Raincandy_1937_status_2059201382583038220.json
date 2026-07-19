@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058890269546999808"
+      ],
+      "media_source_tweet_id": [
+        "2058890290749133023"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2059201382583038220",
+    "created_at": "2026-05-26T09:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T10:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059201382583038220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982449259774656512",
+          "start": 3,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BYtdrMDffj",
+          "end": 52,
+          "expanded_url": "https://x.com/smiroyama/status/2058890290749133023/photo/1",
+          "media_key": "3_2058890269546999808",
+          "start": 29,
+          "url": "https://t.co/BYtdrMDffj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059201382583038220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058890290749133023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smiroyama: 有种清朝人说照相机摄魂的美 https://t.co/BYtdrMDffj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059201382583038220].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059201382583038220",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059201382583038220"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 857,
+        "media_key": "3_2058890269546999808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKlyqvbcAATLNl.jpg",
+        "width": 1087
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058890269546999808"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2058890290749133023",
+        "created_at": "2026-05-25T12:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058890290749133023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BYtdrMDffj",
+              "end": 37,
+              "expanded_url": "https://x.com/smiroyama/status/2058890290749133023/photo/1",
+              "media_key": "3_2058890269546999808",
+              "start": 14,
+              "url": "https://t.co/BYtdrMDffj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058890290749133023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 11810,
+          "like_count": 160,
+          "quote_count": 2,
+          "reply_count": 64,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "有种清朝人说照相机摄魂的美 https://t.co/BYtdrMDffj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 1705,
+          "like_count": 15815,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 6940
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nbestie: @qianxunchan\nfriends🥰: @Huang_Yut1ng @fukui_p26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 128,
+                "start": 118,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5754,
+          "following_count": 2313,
+          "like_count": 12020,
+          "listed_count": 19,
+          "media_count": 1816,
+          "tweet_count": 7043
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

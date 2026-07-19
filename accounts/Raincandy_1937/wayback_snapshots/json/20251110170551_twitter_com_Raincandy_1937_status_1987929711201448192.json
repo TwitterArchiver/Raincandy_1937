@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1987929711201448192",
+    "created_at": "2025-11-10T17:05:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T18:05:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987929711201448192"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mt_620/status/…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/mt_620/status/1987894166718935527",
+          "start": 22,
+          "url": "https://t.co/YOpIrKshMs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987929711201448192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987894166718935527",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不会说我把左边看成谁了\n相信大家都知道🥲 https://t.co/YOpIrKshMs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1987894159471251456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ZrNKpbkAANdlx.jpg",
+        "width": 2250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1987929711201448192",
+        "created_at": "2025-11-10T17:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T18:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987929711201448192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mt_620/status/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/mt_620/status/1987894166718935527",
+              "start": 22,
+              "url": "https://t.co/YOpIrKshMs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987929711201448192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987894166718935527",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不会说我把左边看成谁了\n相信大家都知道🥲 https://t.co/YOpIrKshMs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987894159471251456"
+          ]
+        },
+        "author_id": "1430204375876603909",
+        "conversation_id": "1987894166718935527",
+        "created_at": "2025-11-10T14:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T15:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987894166718935527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8xyozuIX3y",
+              "end": 28,
+              "expanded_url": "https://x.com/mt_620/status/1987894166718935527/photo/1",
+              "media_key": "3_1987894159471251456",
+              "start": 5,
+              "url": "https://t.co/8xyozuIX3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987894166718935527",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 367,
+          "impression_count": 12308,
+          "like_count": 2277,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 251
+        },
+        "reply_settings": "everyone",
+        "text": "みずえな https://t.co/8xyozuIX3y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 1437,
+          "like_count": 11639,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 5506
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T16:24:41.000Z",
+        "description": "自由に描いてます | 遅筆 | skeb：https://t.co/00MvckI3ea",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@mt_620",
+                "end": 44,
+                "expanded_url": "https://skeb.jp/@mt_620",
+                "start": 21,
+                "url": "https://t.co/00MvckI3ea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "poipiku.com/4564100/",
+                "end": 23,
+                "expanded_url": "https://poipiku.com/4564100/",
+                "start": 0,
+                "url": "https://t.co/5F6eyJEsb5"
+              }
+            ]
+          }
+        },
+        "id": "1430204375876603909",
+        "location": "🎀🎨🎀",
+        "name": "𝕞𝕦𝕥𝕦",
+        "pinned_tweet_id": "1840407241523916928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856407815122010112/kD0wIG9__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31469,
+          "following_count": 25,
+          "like_count": 26259,
+          "listed_count": 65,
+          "media_count": 143,
+          "tweet_count": 4851
+        },
+        "url": "https://t.co/5F6eyJEsb5",
+        "username": "mt_620",
+        "verified": false
+      }
+    ]
+  }
+}

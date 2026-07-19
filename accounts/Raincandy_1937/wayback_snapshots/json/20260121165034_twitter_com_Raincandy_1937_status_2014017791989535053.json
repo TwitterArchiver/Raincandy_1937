@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013942050400735232"
+      ],
+      "media_source_tweet_id": [
+        "2013942057728127188"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2014017791989535053",
+    "created_at": "2026-01-21T16:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T17:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014017791989535053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p1YF0tZrgm",
+          "end": 34,
+          "expanded_url": "https://x.com/hgds0/status/2013942057728127188/photo/1",
+          "media_key": "3_2013942050400735232",
+          "start": 11,
+          "url": "https://t.co/p1YF0tZrgm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014017791989535053",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013942057728127188",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: https://t.co/p1YF0tZrgm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1115,
+        "media_key": "3_2013942050400735232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_L1n-BbkAAMl4h.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013942050400735232"
+          ],
+          "media_source_tweet_id": [
+            "2013942057728127188"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2014017791989535053",
+        "created_at": "2026-01-21T16:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T17:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014017791989535053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p1YF0tZrgm",
+              "end": 34,
+              "expanded_url": "https://x.com/hgds0/status/2013942057728127188/photo/1",
+              "media_key": "3_2013942050400735232",
+              "start": 11,
+              "url": "https://t.co/p1YF0tZrgm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014017791989535053",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013942057728127188",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: https://t.co/p1YF0tZrgm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013942050400735232"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2013942057728127188",
+        "created_at": "2026-01-21T11:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T12:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013942057728127188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p1YF0tZrgm",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/2013942057728127188/photo/1",
+              "media_key": "3_2013942050400735232",
+              "start": 0,
+              "url": "https://t.co/p1YF0tZrgm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013942057728127188",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9042,
+          "like_count": 452,
+          "quote_count": 10,
+          "reply_count": 5,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/p1YF0tZrgm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 1526,
+          "like_count": 12970,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 6013
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删/推广自辩",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2006331356943696335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98056,
+          "following_count": 2589,
+          "like_count": 43951,
+          "listed_count": 140,
+          "media_count": 3586,
+          "tweet_count": 7941
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "2067556963140170041",
+    "created_at": "2026-06-18T10:36:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T11:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067556963140170041"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Poca2381/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Poca2381/status/2067295131393499404",
+          "start": 13,
+          "url": "https://t.co/BJ5LFuNY1g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067556963140170041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067295131393499404",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "結婚就是這麼恐怖的一件事 https://t.co/BJ5LFuNY1g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2067295095930707968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCB787bYAATOL8.jpg",
+        "width": 1095
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2067556963140170041",
+        "created_at": "2026-06-18T10:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067556963140170041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Poca2381/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Poca2381/status/2067295131393499404",
+              "start": 13,
+              "url": "https://t.co/BJ5LFuNY1g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067556963140170041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067295131393499404",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "結婚就是這麼恐怖的一件事 https://t.co/BJ5LFuNY1g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067295095930707968"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2067295131393499404",
+        "created_at": "2026-06-17T17:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067295131393499404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1s7k1GE4kg",
+              "end": 25,
+              "expanded_url": "https://x.com/Poca2381/status/2067295131393499404/photo/1",
+              "media_key": "3_2067295095930707968",
+              "start": 2,
+              "url": "https://t.co/1s7k1GE4kg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067295131393499404",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 15096,
+          "like_count": 447,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "🤔 https://t.co/1s7k1GE4kg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 1753,
+          "like_count": 16774,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 7312
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22046,
+          "following_count": 9451,
+          "like_count": 152361,
+          "listed_count": 52,
+          "media_count": 4899,
+          "tweet_count": 51810
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      }
+    ]
+  }
+}

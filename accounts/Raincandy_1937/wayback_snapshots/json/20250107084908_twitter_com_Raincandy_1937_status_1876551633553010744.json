@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1876448195808813502",
+    "created_at": "2025-01-07T08:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T09:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876551633553010744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1552308324338749440",
+          "start": 0,
+          "username": "UltimateOne_Arc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876551633553010744",
+    "in_reply_to_user_id": "1552308324338749440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876448195808813502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UltimateOne_Arc 点了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1876448195808813502",
+        "created_at": "2025-01-07T08:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T09:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876551633553010744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1552308324338749440",
+              "start": 0,
+              "username": "UltimateOne_Arc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876551633553010744",
+        "in_reply_to_user_id": "1552308324338749440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876448195808813502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UltimateOne_Arc 点了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552308324338749440",
+        "conversation_id": "1876448195808813502",
+        "created_at": "2025-01-07T01:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T02:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876448195808813502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sww2080/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Sww2080/status/1876008973935255922",
+              "start": 14,
+              "url": "https://t.co/COWcJmnqS3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876448195808813502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1310,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876008973935255922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "做这图的和发这图的都有股味 https://t.co/COWcJmnqS3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 645,
+          "like_count": 4719,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 2405
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T15:02:10.000Z",
+        "description": "你急就是我对，㽖的别急，急了就是石砸狗叫",
+        "id": "1552308324338749440",
+        "location": "Brunestud",
+        "name": "废话做爱紫餐发癫精神病公主BOT",
+        "pinned_tweet_id": "1865356785441542326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857737935896064000/Rb-GvfqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 1356,
+          "like_count": 43563,
+          "listed_count": 6,
+          "media_count": 1631,
+          "tweet_count": 19139
+        },
+        "username": "UltimateOne_Arc",
+        "verified": false
+      }
+    ]
+  }
+}

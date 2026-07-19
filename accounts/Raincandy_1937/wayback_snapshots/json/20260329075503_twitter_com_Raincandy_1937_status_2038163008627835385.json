@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2038163008627835385",
+    "created_at": "2026-03-29T07:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T08:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038163008627835385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xu96175836/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/xu96175836/status/2037839867447824445",
+          "start": 17,
+          "url": "https://t.co/rlPRHQTaGx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038163008627835385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037839867447824445",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你會在德國大街上懸掛納粹旗幟嗎？ https://t.co/rlPRHQTaGx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2037787374692737024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEes0hRWIAAPNT_.jpg",
+        "width": 594
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2038163008627835385",
+        "created_at": "2026-03-29T07:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T08:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038163008627835385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xu96175836/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/xu96175836/status/2037839867447824445",
+              "start": 17,
+              "url": "https://t.co/rlPRHQTaGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038163008627835385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037839867447824445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你會在德國大街上懸掛納粹旗幟嗎？ https://t.co/rlPRHQTaGx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037787374692737024"
+          ]
+        },
+        "author_id": "1669250248265302020",
+        "conversation_id": "2037839867447824445",
+        "created_at": "2026-03-28T10:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T11:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037839867447824445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lc8Sam0met",
+              "end": 29,
+              "expanded_url": "https://x.com/xu96175836/status/2037839867447824445/photo/1",
+              "media_key": "3_2037787374692737024",
+              "start": 6,
+              "url": "https://t.co/lc8Sam0met"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037839867447824445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 34647,
+          "like_count": 1528,
+          "quote_count": 7,
+          "reply_count": 139,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "你支持嗎？ https://t.co/lc8Sam0met"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 1598,
+          "like_count": 14174,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 6524
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T07:47:28.000Z",
+        "description": "一个人的各种品性之中，德行是第一位的。\n优良的品性是真正的财富，而衬显这品性的是良好的教养。",
+        "id": "1669250248265302020",
+        "name": "雪柔",
+        "pinned_tweet_id": "1855778217598337030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690669189856444417/1SYUbSmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121203,
+          "following_count": 1505,
+          "like_count": 7796,
+          "listed_count": 368,
+          "media_count": 11446,
+          "tweet_count": 12778
+        },
+        "username": "xu96175836",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060720430038556678",
+        "3_2060720672351858688"
+      ],
+      "media_source_tweet_id": [
+        "2060722902094520736",
+        "2060722902094520736"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2060730255854490032",
+    "created_at": "2026-05-30T14:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060730255854490032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5LYAavStYL",
+          "end": 116,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2060722902094520736/photo/1",
+          "media_key": "3_2060720430038556678",
+          "start": 93,
+          "url": "https://t.co/5LYAavStYL"
+        },
+        {
+          "display_url": "pic.x.com/5LYAavStYL",
+          "end": 116,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2060722902094520736/photo/1",
+          "media_key": "3_2060720672351858688",
+          "start": 93,
+          "url": "https://t.co/5LYAavStYL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060730255854490032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060722902094520736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: “中国没有萝莉岛”\n5月30日，网友曝光：合肥职业技术学院的男学生 宣传“恋童癖”“侵害儿童“的内容\n被指出问题后，又阴阳怪气地、态度恶劣地回怼 https://t.co/5LYAavStYL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060730255854490032].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060730255854490032",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060730255854490032"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_2060720430038556678",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkmUB3WoAY9axp.jpg",
+        "width": 690
+      },
+      {
+        "height": 791,
+        "media_key": "3_2060720672351858688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkmiIjWMAAsyxG.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060720430038556678",
+            "3_2060720672351858688"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2060722902094520736",
+        "created_at": "2026-05-30T14:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060722902094520736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5LYAavStYL",
+              "end": 96,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2060722902094520736/photo/1",
+              "media_key": "3_2060720430038556678",
+              "start": 73,
+              "url": "https://t.co/5LYAavStYL"
+            },
+            {
+              "display_url": "pic.x.com/5LYAavStYL",
+              "end": 96,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2060722902094520736/photo/1",
+              "media_key": "3_2060720672351858688",
+              "start": 73,
+              "url": "https://t.co/5LYAavStYL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060722902094520736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 8644,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "“中国没有萝莉岛”\n5月30日，网友曝光：合肥职业技术学院的男学生 宣传“恋童癖”“侵害儿童“的内容\n被指出问题后，又阴阳怪气地、态度恶劣地回怼 https://t.co/5LYAavStYL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 1718,
+          "like_count": 16057,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 7012
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235056,
+          "following_count": 1069,
+          "like_count": 9612,
+          "listed_count": 8783,
+          "media_count": 47645,
+          "tweet_count": 54785
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

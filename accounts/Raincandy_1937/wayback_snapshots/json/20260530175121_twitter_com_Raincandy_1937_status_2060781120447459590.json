@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Twitter generated Trends that occur on a daily, weekly, monthly, or yearly basis such as Monday motivation.",
+          "id": "109",
+          "name": "Reoccurring Trends"
+        },
+        "entity": {
+          "description": "Blue Monday",
+          "id": "952861598997143552",
+          "name": "Blue Monday"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2060781120447459590",
+    "created_at": "2026-05-30T17:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T18:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060781120447459590"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nyalra/status/…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/nyalra/status/2060772837724733635",
+          "start": 61,
+          "url": "https://t.co/xTmZa2x5jd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060781120447459590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060772837724733635",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "天哪美血華和卡茜是認真在打嗎？\n換一個體術沒有那麽強的人來，有可能真的沒法活著走出這個教室...\n不過這話有團魂我吃吃吃 https://t.co/xTmZa2x5jd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Twitter generated Trends that occur on a daily, weekly, monthly, or yearly basis such as Monday motivation.",
+              "id": "109",
+              "name": "Reoccurring Trends"
+            },
+            "entity": {
+              "description": "Blue Monday",
+              "id": "952861598997143552",
+              "name": "Blue Monday"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2060781120447459590",
+        "created_at": "2026-05-30T17:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060781120447459590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyalra/status/…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/nyalra/status/2060772837724733635",
+              "start": 61,
+              "url": "https://t.co/xTmZa2x5jd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060781120447459590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060772837724733635",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天哪美血華和卡茜是認真在打嗎？\n換一個體術沒有那麽強的人來，有可能真的沒法活著走出這個教室...\n不過這話有團魂我吃吃吃 https://t.co/xTmZa2x5jd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "349054800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Twitter generated Trends that occur on a daily, weekly, monthly, or yearly basis such as Monday motivation.",
+              "id": "109",
+              "name": "Reoccurring Trends"
+            },
+            "entity": {
+              "description": "Blue Monday",
+              "id": "952861598997143552",
+              "name": "Blue Monday"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2060772837724733635",
+        "created_at": "2026-05-30T17:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060772837724733635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "↑前回。 　何回、窓ガラス割れているんだ、このアニメは。 　美血華というキャラクターは、これまで真善美の「美」をテーマにしつつも、その中でもいろんな揺れのある存在にしたかった。放送初期は、冷静に上から物を言うタイプで、どちらかといえば大人しい方でありつつ、6話で片鱗を見せた自傷癖など、若い女性としてきちんと「ブレる」ことを描いていくという、難しい塩梅に挑戦しています。ある種、最もリアリティのある人格に思えるのですが、現実をそのままアニメへ反映するとむしろ実在性が薄れたりもしてしまう。 　ずっとキレてる。 　今回の絵コンテはアクションにとても慣れた方が担当してくれていまして、アング",
+              "display_url": "note.com/nyalra2/n/n091…",
+              "end": 62,
+              "expanded_url": "https://note.com/nyalra2/n/n091d85e66d50",
+              "start": 39,
+              "status": 200,
+              "title": "NEEDY ANIME 9話『 Blue Monday』｜nyalra",
+              "unwound_url": "https://note.com/nyalra2/n/n091d85e66d50",
+              "url": "https://t.co/e2yxSGRaQy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060772837724733635",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3524,
+          "like_count": 69,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "9話のお話です。\n\nNEEDY ANIME 9話『 Blue Monday』\nhttps://t.co/e2yxSGRaQy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 1718,
+          "like_count": 16089,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 7022
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-05T13:27:45.000Z",
+        "description": "◆https://t.co/2RlDkCWnQW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nyalra.net",
+                "end": 24,
+                "expanded_url": "https://nyalra.net",
+                "start": 1,
+                "url": "https://t.co/2RlDkCWnQW"
+              }
+            ]
+          }
+        },
+        "id": "349054800",
+        "name": "nyalra",
+        "pinned_tweet_id": "2005988774371864634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806370210762657792/GjnpN4qn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164816,
+          "following_count": 666,
+          "like_count": 396095,
+          "listed_count": 1106,
+          "media_count": 4208,
+          "tweet_count": 43654
+        },
+        "username": "nyalra",
+        "verified": true
+      }
+    ]
+  }
+}

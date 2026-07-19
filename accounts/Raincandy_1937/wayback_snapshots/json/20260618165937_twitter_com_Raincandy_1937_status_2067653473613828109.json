@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2067653473613828109",
+    "created_at": "2026-06-18T16:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067653473613828109"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yacht_ono/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/yacht_ono/status/2067539409227198917",
+          "start": 5,
+          "url": "https://t.co/nnuMp46elK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067653473613828109",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067539409227198917",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑得筆筒 https://t.co/nnuMp46elK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1948,
+        "media_key": "3_2067539398686810112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFgIPnaIAAPBN-.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2067653473613828109",
+        "created_at": "2026-06-18T16:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067653473613828109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yacht_ono/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/yacht_ono/status/2067539409227198917",
+              "start": 5,
+              "url": "https://t.co/nnuMp46elK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067653473613828109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067539409227198917",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑得筆筒 https://t.co/nnuMp46elK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067539398686810112"
+          ]
+        },
+        "author_id": "2045127800324288513",
+        "conversation_id": "2067539409227198917",
+        "created_at": "2026-06-18T09:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067539409227198917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7VIXFEBFyD",
+              "end": 42,
+              "expanded_url": "https://x.com/yacht_ono/status/2067539409227198917/photo/1",
+              "media_key": "3_2067539398686810112",
+              "start": 19,
+              "url": "https://t.co/7VIXFEBFyD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067539409227198917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 33386,
+          "like_count": 458,
+          "quote_count": 2,
+          "reply_count": 94,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "你们买推特号发广告 能不能先换个头像 https://t.co/7VIXFEBFyD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 1759,
+          "like_count": 16813,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 7329
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T13:12:15.000Z",
+        "description": "碎碎念寄存处",
+        "id": "2045127800324288513",
+        "location": "🚪52",
+        "name": "yacht",
+        "pinned_tweet_id": "2066917575884460113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059069717709721600/K6TBjpNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 37,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 277
+        },
+        "url": "",
+        "username": "yacht_ono",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058862997867495424"
+      ],
+      "media_source_tweet_id": [
+        "2058863045661622363"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2058942235287359751",
+    "created_at": "2026-05-25T16:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T17:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058942235287359751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1950548412140494848",
+          "start": 3,
+          "username": "FurinaLover8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/waOZVPBdSR",
+          "end": 58,
+          "expanded_url": "https://x.com/FurinaLover8964/status/2058863045661622363/photo/1",
+          "media_key": "3_2058862997867495424",
+          "start": 35,
+          "url": "https://t.co/waOZVPBdSR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058942235287359751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058863045661622363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FurinaLover8964: 武汉病毒的真相：临时工干的 https://t.co/waOZVPBdSR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058862997867495424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKM_P0WgAA5Fik.jpg",
+        "width": 1265
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058862997867495424"
+          ],
+          "media_source_tweet_id": [
+            "2058863045661622363"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2058942235287359751",
+        "created_at": "2026-05-25T16:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058942235287359751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1950548412140494848",
+              "start": 3,
+              "username": "FurinaLover8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/waOZVPBdSR",
+              "end": 58,
+              "expanded_url": "https://x.com/FurinaLover8964/status/2058863045661622363/photo/1",
+              "media_key": "3_2058862997867495424",
+              "start": 35,
+              "url": "https://t.co/waOZVPBdSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058942235287359751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058863045661622363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FurinaLover8964: 武汉病毒的真相：临时工干的 https://t.co/waOZVPBdSR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058862997867495424"
+          ]
+        },
+        "author_id": "1950548412140494848",
+        "conversation_id": "2058863045661622363",
+        "created_at": "2026-05-25T10:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058863045661622363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/waOZVPBdSR",
+              "end": 37,
+              "expanded_url": "https://x.com/FurinaLover8964/status/2058863045661622363/photo/1",
+              "media_key": "3_2058862997867495424",
+              "start": 14,
+              "url": "https://t.co/waOZVPBdSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058863045661622363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 236,
+          "impression_count": 108078,
+          "like_count": 702,
+          "quote_count": 5,
+          "reply_count": 139,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "武汉病毒的真相：临时工干的 https://t.co/waOZVPBdSR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 1695,
+          "like_count": 15752,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 6921
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "Senior correspondent at Henan Ronin News focusing on East Asian socio-political dynamics, digital civil rights, and emerging internet subcultures.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwen1",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwen1",
+                "start": 0,
+                "url": "https://t.co/CFxkcvTTDE"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796873461043200/CC2Fl9ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26706,
+          "following_count": 354,
+          "like_count": 2130,
+          "listed_count": 72,
+          "media_count": 1758,
+          "tweet_count": 2232
+        },
+        "url": "https://t.co/CFxkcvTTDE",
+        "username": "FurinaLover8964",
+        "verified": false
+      }
+    ]
+  }
+}

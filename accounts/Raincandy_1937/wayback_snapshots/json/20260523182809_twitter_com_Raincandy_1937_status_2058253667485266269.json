@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1401934144238604294",
+          "name": "Pixel art"
+        }
+      }
+    ],
+    "conversation_id": "2058253667485266269",
+    "created_at": "2026-05-23T18:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T19:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058253667485266269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nyalra/status/…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/nyalra/status/1643564649181511682",
+          "start": 47,
+          "url": "https://t.co/40hjrLf34P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058253667485266269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1643564649181511682",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "説實話比起動畫裏那個精緻又可愛的小糖我還是喜歡這種像素畫的犀利質感，能感到某種無從掙脫的陰鬱 https://t.co/40hjrLf34P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_1643564638582493186",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fs8dVLAaUAIaPhw.jpg",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401934144238604294",
+              "name": "Pixel art"
+            }
+          }
+        ],
+        "conversation_id": "2058253667485266269",
+        "created_at": "2026-05-23T18:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T19:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058253667485266269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyalra/status/…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/nyalra/status/1643564649181511682",
+              "start": 47,
+              "url": "https://t.co/40hjrLf34P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058253667485266269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1643564649181511682",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "説實話比起動畫裏那個精緻又可愛的小糖我還是喜歡這種像素畫的犀利質感，能感到某種無從掙脫的陰鬱 https://t.co/40hjrLf34P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1643564638582493186"
+          ]
+        },
+        "author_id": "349054800",
+        "conversation_id": "1643564649181511682",
+        "created_at": "2023-04-05T10:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-05T11:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1643564649181511682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4eoalTRCvz",
+              "end": 23,
+              "expanded_url": "https://x.com/nyalra/status/1643564649181511682/photo/1",
+              "media_key": "3_1643564638582493186",
+              "start": 0,
+              "url": "https://t.co/4eoalTRCvz"
+            },
+            {
+              "display_url": "x.com/x_angelkawaii_…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/x_angelkawaii_x/status/1643506771645038593",
+              "start": 24,
+              "url": "https://t.co/U5nr4HQtHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1643564649181511682",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 802,
+          "impression_count": 2473264,
+          "like_count": 30515,
+          "quote_count": 258,
+          "reply_count": 23,
+          "retweet_count": 4415
+        },
+        "referenced_tweets": [
+          {
+            "id": "1643506771645038593",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/4eoalTRCvz https://t.co/U5nr4HQtHq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 1692,
+          "like_count": 15629,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 6894
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-05T13:27:45.000Z",
+        "description": "◆https://t.co/2RlDkCWnQW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nyalra.net",
+                "end": 24,
+                "expanded_url": "https://nyalra.net",
+                "start": 1,
+                "url": "https://t.co/2RlDkCWnQW"
+              }
+            ]
+          }
+        },
+        "id": "349054800",
+        "name": "nyalra",
+        "pinned_tweet_id": "2005988774371864634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806370210762657792/GjnpN4qn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164983,
+          "following_count": 666,
+          "like_count": 395702,
+          "listed_count": 1107,
+          "media_count": 4201,
+          "tweet_count": 43609
+        },
+        "username": "nyalra",
+        "verified": true
+      }
+    ]
+  }
+}

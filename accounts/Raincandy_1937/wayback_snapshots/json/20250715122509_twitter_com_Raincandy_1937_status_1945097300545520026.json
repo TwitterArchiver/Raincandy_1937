@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945031042534096896"
+      ],
+      "media_source_tweet_id": [
+        "1945031068114911236"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1945097300545520026",
+    "created_at": "2025-07-15T12:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T13:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945097300545520026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1682432496171114496",
+          "start": 3,
+          "username": "bitchbaby8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xu8lXgHsfh",
+          "end": 54,
+          "expanded_url": "https://x.com/bitchbaby8964/status/1945031068114911236/photo/1",
+          "media_key": "3_1945031042534096896",
+          "start": 31,
+          "url": "https://t.co/Xu8lXgHsfh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945097300545520026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945031068114911236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bitchbaby8964: 这次怎么没说败坏国格了 https://t.co/Xu8lXgHsfh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1945031042534096896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv4jbY9aQAA1c9Z.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945031042534096896"
+          ],
+          "media_source_tweet_id": [
+            "1945031068114911236"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1945097300545520026",
+        "created_at": "2025-07-15T12:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T13:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945097300545520026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1682432496171114496",
+              "start": 3,
+              "username": "bitchbaby8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xu8lXgHsfh",
+              "end": 54,
+              "expanded_url": "https://x.com/bitchbaby8964/status/1945031068114911236/photo/1",
+              "media_key": "3_1945031042534096896",
+              "start": 31,
+              "url": "https://t.co/Xu8lXgHsfh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945097300545520026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945031068114911236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bitchbaby8964: 这次怎么没说败坏国格了 https://t.co/Xu8lXgHsfh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945031042534096896"
+          ]
+        },
+        "author_id": "1682432496171114496",
+        "conversation_id": "1945031068114911236",
+        "created_at": "2025-07-15T08:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T09:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945031068114911236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xu8lXgHsfh",
+              "end": 35,
+              "expanded_url": "https://x.com/bitchbaby8964/status/1945031068114911236/photo/1",
+              "media_key": "3_1945031042534096896",
+              "start": 12,
+              "url": "https://t.co/Xu8lXgHsfh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945031068114911236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 535,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这次怎么没说败坏国格了 https://t.co/Xu8lXgHsfh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 1225,
+          "like_count": 9250,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 4774
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T16:49:59.000Z",
+        "description": "看情况温良",
+        "id": "1682432496171114496",
+        "location": "本人可投喂喵",
+        "name": "零糖美式",
+        "pinned_tweet_id": "1935313708080853343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936030321809747968/1JBHPtvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1968,
+          "following_count": 577,
+          "like_count": 32485,
+          "listed_count": 10,
+          "media_count": 1210,
+          "tweet_count": 12377
+        },
+        "username": "bitchbaby8964",
+        "verified": false
+      }
+    ]
+  }
+}

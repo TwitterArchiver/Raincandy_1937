@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2053222805907316940",
+    "created_at": "2026-05-10T15:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T16:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053501804772815140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1435895474909851648",
+          "start": 0,
+          "username": "raincandy_girl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053501804772815140",
+    "in_reply_to_user_id": "1435895474909851648",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053222805907316940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raincandy_girl Did MICHICA GOKUBARA already appear in cubism? I haven't been following any NSO content for a while, and I thought she was a new character added to the anime."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1075,
+        "media_key": "3_2053222774374600710",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6DPB9XEAY7GSf.jpg",
+        "width": 1913
+      },
+      {
+        "height": 1079,
+        "media_key": "3_2053222774202642442",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6DPBUXMAoT_43.jpg",
+        "width": 1919
+      },
+      {
+        "height": 1139,
+        "media_key": "3_2053222774194176002",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6DPBSWAAI3Bvj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1142,
+        "media_key": "3_2053222774190084096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6DPBRXkAAV1Hq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2053222805907316940",
+        "created_at": "2026-05-10T15:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053501804772815140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1435895474909851648",
+              "start": 0,
+              "username": "raincandy_girl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053501804772815140",
+        "in_reply_to_user_id": "1435895474909851648",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053222805907316940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raincandy_girl Did MICHICA GOKUBARA already appear in cubism? I haven't been following any NSO content for a while, and I thought she was a new character added to the anime."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053222774374600710",
+            "3_2053222774202642442",
+            "3_2053222774194176002",
+            "3_2053222774190084096"
+          ]
+        },
+        "author_id": "1435895474909851648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053222805907316940",
+        "created_at": "2026-05-09T21:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T22:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053222805907316940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DV6i4LUZNc",
+              "end": 100,
+              "expanded_url": "https://x.com/raincandy_girl/status/2053222805907316940/photo/1",
+              "media_key": "3_2053222774374600710",
+              "start": 77,
+              "url": "https://t.co/DV6i4LUZNc"
+            },
+            {
+              "display_url": "pic.x.com/DV6i4LUZNc",
+              "end": 100,
+              "expanded_url": "https://x.com/raincandy_girl/status/2053222805907316940/photo/1",
+              "media_key": "3_2053222774202642442",
+              "start": 77,
+              "url": "https://t.co/DV6i4LUZNc"
+            },
+            {
+              "display_url": "pic.x.com/DV6i4LUZNc",
+              "end": 100,
+              "expanded_url": "https://x.com/raincandy_girl/status/2053222805907316940/photo/1",
+              "media_key": "3_2053222774194176002",
+              "start": 77,
+              "url": "https://t.co/DV6i4LUZNc"
+            },
+            {
+              "display_url": "pic.x.com/DV6i4LUZNc",
+              "end": 100,
+              "expanded_url": "https://x.com/raincandy_girl/status/2053222805907316940/photo/1",
+              "media_key": "3_2053222774190084096",
+              "start": 77,
+              "url": "https://t.co/DV6i4LUZNc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053222805907316940",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 14371,
+          "like_count": 1866,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 262
+        },
+        "reply_settings": "everyone",
+        "text": "in case you didnt notice, this kangel outfit is the one she wears in cubism! https://t.co/DV6i4LUZNc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 1635,
+          "like_count": 14936,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 6736
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-09T09:19:04.000Z",
+        "description": "❥ 地雷女 ♡ she/they ♡ did sys ♡ -16 DNF ♡ himejo ♡ amekangel ♡ columbina ♡ cyrene ♡ robin ♡ mafuyu ♡ tracy ♡ margie",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "columbinajirai.straw.page",
+                "end": 23,
+                "expanded_url": "https://columbinajirai.straw.page",
+                "start": 0,
+                "url": "https://t.co/OHsFk0UyZ5"
+              }
+            ]
+          }
+        },
+        "id": "1435895474909851648",
+        "location": "🇩🇿ⵣ ♡ rt heavy",
+        "name": "lunlun ♡ ⚢",
+        "pinned_tweet_id": "2051422231503245558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043037206089207809/nndN5kGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 608,
+          "like_count": 197868,
+          "listed_count": 20,
+          "media_count": 4928,
+          "tweet_count": 85613
+        },
+        "url": "https://t.co/OHsFk0UyZ5",
+        "username": "raincandy_girl",
+        "verified": false
+      }
+    ]
+  }
+}

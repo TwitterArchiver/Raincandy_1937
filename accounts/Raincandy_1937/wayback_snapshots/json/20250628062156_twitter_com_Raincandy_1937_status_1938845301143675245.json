@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1938776505355772389",
+    "created_at": "2025-06-28T06:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T07:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938845301143675245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1109080684419670017",
+          "start": 0,
+          "username": "KillerBeeSweety"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938845301143675245",
+    "in_reply_to_user_id": "1109080684419670017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938776505355772389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KillerBeeSweety 好伟大的脸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 833,
+        "media_key": "3_1938776436560523264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gufq5aAWcAA8Oh1.png",
+        "width": 506
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1938776454872850432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gufq6eOWYAArj3X.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1938776505355772389",
+        "created_at": "2025-06-28T06:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T07:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938845301143675245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1109080684419670017",
+              "start": 0,
+              "username": "KillerBeeSweety"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938845301143675245",
+        "in_reply_to_user_id": "1109080684419670017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938776505355772389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KillerBeeSweety 好伟大的脸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938776436560523264",
+            "3_1938776454872850432"
+          ]
+        },
+        "author_id": "1109080684419670017",
+        "conversation_id": "1938776505355772389",
+        "created_at": "2025-06-28T01:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T02:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938776505355772389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JimEUNDZ0Y",
+              "end": 31,
+              "expanded_url": "https://x.com/KillerBeeSweety/status/1938776505355772389/photo/1",
+              "media_key": "3_1938776436560523264",
+              "start": 8,
+              "url": "https://t.co/JimEUNDZ0Y"
+            },
+            {
+              "display_url": "pic.x.com/JimEUNDZ0Y",
+              "end": 31,
+              "expanded_url": "https://x.com/KillerBeeSweety/status/1938776505355772389/photo/1",
+              "media_key": "3_1938776454872850432",
+              "start": 8,
+              "url": "https://t.co/JimEUNDZ0Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938776505355772389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 334,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都说有典故的了 https://t.co/JimEUNDZ0Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 1200,
+          "like_count": 8896,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 4603
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-22T13:13:35.000Z",
+        "description": "She/Her\nCN/EN/JP\n一般路過のゲーマー女子🎮\n優しいDM大歓迎！\nFFXIV DC:Meteor Valefor\n用户名日文翻译是观月。\nNGL匿名板∶https://t.co/y4SQBEYyVW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/killerbeesweety",
+                "end": 106,
+                "expanded_url": "https://ngl.link/killerbeesweety",
+                "start": 83,
+                "url": "https://t.co/y4SQBEYyVW"
+              }
+            ]
+          }
+        },
+        "id": "1109080684419670017",
+        "location": "Valefor(Meteor)",
+        "name": "ミズキ",
+        "pinned_tweet_id": "1933834878157799925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937020092824317952/wmAs809N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16819,
+          "following_count": 1725,
+          "like_count": 29887,
+          "listed_count": 21,
+          "media_count": 2546,
+          "tweet_count": 20773
+        },
+        "username": "KillerBeeSweety",
+        "verified": false
+      }
+    ]
+  }
+}

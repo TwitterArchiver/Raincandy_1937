@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2024345679762772387",
+    "created_at": "2026-02-19T06:50:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T07:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024375987837030716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1332712954047856641",
+          "start": 0,
+          "username": "xinwendiaocha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024375987837030716",
+    "in_reply_to_user_id": "1332712954047856641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024345679762772387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinwendiaocha 看起来像是AI生成的垃圾，不少素材似乎还是游戏里的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35127,
+        "height": 936,
+        "media_key": "13_2024345622166609920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024345622166609920/img/aqJVZkcPok0gWRAH.jpg",
+        "public_metrics": {
+          "view_count": 1750
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024345622166609920/vid/avc1/506x360/hC4qo0D9HF4RA5Xb.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024345622166609920/vid/avc1/380x270/I4krfYRDBtiJZN6y.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024345622166609920/pl/3TkenQ2BfsImOSfC.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024345622166609920/vid/avc1/1320x936/p3zeb4e9pqelsm5F.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024345622166609920/vid/avc1/1014x720/JN17Z_qsuaHSNP1I.mp4"
+          }
+        ],
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2024345679762772387",
+        "created_at": "2026-02-19T06:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T07:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024375987837030716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1332712954047856641",
+              "start": 0,
+              "username": "xinwendiaocha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024375987837030716",
+        "in_reply_to_user_id": "1332712954047856641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024345679762772387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinwendiaocha 看起来像是AI生成的垃圾，不少素材似乎还是游戏里的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024345622166609920"
+          ]
+        },
+        "author_id": "1332712954047856641",
+        "conversation_id": "2024345679762772387",
+        "created_at": "2026-02-19T04:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024345679762772387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KVcLkQx8nf",
+              "end": 57,
+              "expanded_url": "https://x.com/xinwendiaocha/status/2024345679762772387/video/1",
+              "media_key": "13_2024345622166609920",
+              "start": 34,
+              "url": "https://t.co/KVcLkQx8nf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024345679762772387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3891,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "中国发布了一段训练机器人射击的影片。\n难道是准备用于未来台海战争？ https://t.co/KVcLkQx8nf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 1554,
+          "like_count": 13279,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 6135
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-28T15:48:33.000Z",
+        "description": "追踪新闻，调查真相！ 投稿、商务合作邮箱：charles811203@gmail.com threads:https://t.co/vWaJQJxkd5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "threads.com/@caijingshujuk…",
+                "end": 76,
+                "expanded_url": "https://www.threads.com/@caijingshujuku?igshid=NTc4MTIwNjQ2YQ==",
+                "start": 53,
+                "url": "https://t.co/vWaJQJxkd5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@caijinglengya…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@caijinglengyan?si=c8_FduFeV9Xu3KnO",
+                "start": 0,
+                "url": "https://t.co/7tHKzRuGFb"
+              }
+            ]
+          }
+        },
+        "id": "1332712954047856641",
+        "name": "新闻调查",
+        "pinned_tweet_id": "2021462477939368097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347827975383760896/6aV1UyGk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628284,
+          "following_count": 116,
+          "like_count": 3984,
+          "listed_count": 1641,
+          "media_count": 37940,
+          "tweet_count": 57489
+        },
+        "url": "https://t.co/7tHKzRuGFb",
+        "username": "xinwendiaocha",
+        "verified": true
+      }
+    ]
+  }
+}

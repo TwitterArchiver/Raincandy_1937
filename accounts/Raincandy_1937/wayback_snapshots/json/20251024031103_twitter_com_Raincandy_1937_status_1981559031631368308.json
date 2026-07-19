@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1981388477473443928",
+    "created_at": "2025-10-24T03:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T04:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981559031631368308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1829375980189655040",
+          "start": 0,
+          "username": "ypipipipip87092"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981559031631368308",
+    "in_reply_to_user_id": "1829375980189655040",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981521203891490983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ypipipipip87092 🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1981388477473443928",
+        "created_at": "2025-10-24T03:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T04:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981559031631368308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1829375980189655040",
+              "start": 0,
+              "username": "ypipipipip87092"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981559031631368308",
+        "in_reply_to_user_id": "1829375980189655040",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981521203891490983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ypipipipip87092 🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829375980189655040",
+        "conversation_id": "1981388477473443928",
+        "created_at": "2025-10-24T00:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T01:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981521203891490983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1522094771136831488",
+              "start": 0,
+              "username": "Raincandy_1937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981521203891490983",
+        "in_reply_to_user_id": "1522094771136831488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981388477473443928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raincandy_1937 抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 1403,
+          "like_count": 10948,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 5325
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T04:30:04.000Z",
+        "description": "马应龙痔疮膏私发大王",
+        "id": "1829375980189655040",
+        "location": "地球",
+        "name": "AAA卡卡大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927898995420024833/SdEx5MYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 262,
+          "like_count": 217,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 76
+        },
+        "username": "ypipipipip87092",
+        "verified": false
+      }
+    ]
+  }
+}

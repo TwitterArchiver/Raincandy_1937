@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1924407118381322435",
+    "created_at": "2025-05-19T10:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T11:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924407626802274809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1583502450710937600",
+          "start": 0,
+          "username": "Allenqqqqc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924407626802274809",
+    "in_reply_to_user_id": "1583502450710937600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924407118381322435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allenqqqqc 学到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1924407118381322435",
+        "created_at": "2025-05-19T10:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T11:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924407626802274809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1583502450710937600",
+              "start": 0,
+              "username": "Allenqqqqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924407626802274809",
+        "in_reply_to_user_id": "1583502450710937600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924407118381322435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allenqqqqc 学到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583502450710937600",
+        "conversation_id": "1924407118381322435",
+        "created_at": "2025-05-19T10:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T11:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924407118381322435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924407118381322435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一把学日语的目的定为：学好了就去日本点百合风俗，和电波系小女孩聊天，做亲密的事情（x）瞬间就有学习的动力了🤜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 1112,
+          "like_count": 8329,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 4270
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-21T16:56:35.000Z",
+        "description": "我是狐狸！日专生濒临退学/百合向重度依赖。非二元ASD，也许说话会比较奇怪。喜欢你们。",
+        "id": "1583502450710937600",
+        "name": "K̸̸r̸̸a̸̸w̸̸a̸̸l̸̸l̸🎶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909014826665607168/FbYcvd-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 747,
+          "like_count": 71451,
+          "listed_count": 7,
+          "media_count": 1211,
+          "tweet_count": 19620
+        },
+        "username": "Allenqqqqc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1904487880971653155",
+    "created_at": "2025-03-25T11:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T12:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904488465863184638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1580505223071641600",
+          "start": 0,
+          "username": "qwq_shark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904488465863184638",
+    "in_reply_to_user_id": "1580505223071641600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904487880971653155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq_shark 特別好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1904487872251781120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm4ZoSCbYAAoBwS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1904487872255987712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm4ZoSDbkAAE1CM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1904487880971653155",
+        "created_at": "2025-03-25T11:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T12:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904488465863184638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580505223071641600",
+              "start": 0,
+              "username": "qwq_shark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904488465863184638",
+        "in_reply_to_user_id": "1580505223071641600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904487880971653155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_shark 特別好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904487872251781120",
+            "3_1904487872255987712"
+          ]
+        },
+        "author_id": "1580505223071641600",
+        "conversation_id": "1904487880971653155",
+        "created_at": "2025-03-25T10:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T11:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904487880971653155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QP1MUxFrDx",
+              "end": 75,
+              "expanded_url": "https://x.com/qwq_shark/status/1904487880971653155/photo/1",
+              "media_key": "3_1904487872251781120",
+              "start": 52,
+              "url": "https://t.co/QP1MUxFrDx"
+            },
+            {
+              "display_url": "pic.x.com/QP1MUxFrDx",
+              "end": 75,
+              "expanded_url": "https://x.com/qwq_shark/status/1904487880971653155/photo/1",
+              "media_key": "3_1904487872255987712",
+              "start": 52,
+              "url": "https://t.co/QP1MUxFrDx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904487880971653155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚下楼买冰淇凌 实在不想回店里\n就躺花坛上吃完了冰淇淋，躺着看云特别爽，但是所有路过我的人都要看我一眼 https://t.co/QP1MUxFrDx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 943,
+          "like_count": 6971,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 3629
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T10:28:18.000Z",
+        "description": "你我皆为可怜又可悲的众生。｜好朋友@Miekoudesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Miekoudesu"
+              }
+            ]
+          }
+        },
+        "id": "1580505223071641600",
+        "location": "宇宙",
+        "name": "悲惨世界与内心独白",
+        "pinned_tweet_id": "1863064821769568264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891155386117586944/Jt1tP4D3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2448,
+          "following_count": 257,
+          "like_count": 2791,
+          "listed_count": 1,
+          "media_count": 269,
+          "tweet_count": 6457
+        },
+        "username": "qwq_shark",
+        "verified": false
+      }
+    ]
+  }
+}

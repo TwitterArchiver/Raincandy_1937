@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1676746772255850496",
+          "name": "Threads (Meta)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      }
+    ],
+    "conversation_id": "2075989599730733222",
+    "created_at": "2026-07-11T17:04:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T18:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075989599730733222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1528667429819547648",
+          "start": 3,
+          "username": "bumingbaipod"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "bit.ly/44UTXnd",
+          "end": 97,
+          "expanded_url": "https://bit.ly/44UTXnd",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2075936572055097344/e6Vi4Yuj?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2075936572055097344/e6Vi4Yuj?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 74,
+          "status": 200,
+          "title": "Amie (@lov3isalosingame) on Threads",
+          "unwound_url": "https://www.threads.com/@lov3isalosingame/post/DR82aCpEoW-/%E8%AF%B4%E5%87%BA%E4%B8%80%E7%99%BE%E4%B8%AA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%94%9F%E6%B4%BB%E6%84%9F%E8%A7%89%E8%87%AA%E5%B7%B1%E5%BE%88%E4%BD%8E%E8%B4%B1%E7%9A%84%E7%9E%AC%E9%97%B4",
+          "url": "https://t.co/A46b1v1zme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075989599730733222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075938271440372037",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bumingbaipod: 这是受Threads上面一个有近两万回复的帖启发而发的征集：\n“说出一百个在中国生活感觉自己很‘低贱’的瞬间”\nhttps://t.co/A46b1v1zme\n\n有人说是时薪没有充电宝高 ，\n有人说是要翻墙打游戏，\n有人说是打了很多字，又因为…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2075938109850533888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM82tk1WQAAeGeZ.jpg",
+        "width": 2250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2075989599730733222",
+        "created_at": "2026-07-11T17:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075989599730733222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1528667429819547648",
+              "start": 3,
+              "username": "bumingbaipod"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "bit.ly/44UTXnd",
+              "end": 97,
+              "expanded_url": "https://bit.ly/44UTXnd",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2075936572055097344/e6Vi4Yuj?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2075936572055097344/e6Vi4Yuj?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 74,
+              "status": 200,
+              "title": "Amie (@lov3isalosingame) on Threads",
+              "unwound_url": "https://www.threads.com/@lov3isalosingame/post/DR82aCpEoW-/%E8%AF%B4%E5%87%BA%E4%B8%80%E7%99%BE%E4%B8%AA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%94%9F%E6%B4%BB%E6%84%9F%E8%A7%89%E8%87%AA%E5%B7%B1%E5%BE%88%E4%BD%8E%E8%B4%B1%E7%9A%84%E7%9E%AC%E9%97%B4",
+              "url": "https://t.co/A46b1v1zme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075989599730733222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075938271440372037",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bumingbaipod: 这是受Threads上面一个有近两万回复的帖启发而发的征集：\n“说出一百个在中国生活感觉自己很‘低贱’的瞬间”\nhttps://t.co/A46b1v1zme\n\n有人说是时薪没有充电宝高 ，\n有人说是要翻墙打游戏，\n有人说是打了很多字，又因为…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075938109850533888"
+          ]
+        },
+        "author_id": "1528667429819547648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2075938271440372037",
+        "created_at": "2026-07-11T13:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075938271440372037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "bit.ly/44UTXnd",
+              "end": 79,
+              "expanded_url": "https://bit.ly/44UTXnd",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2075936572055097344/e6Vi4Yuj?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2075936572055097344/e6Vi4Yuj?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 56,
+              "status": 200,
+              "title": "Amie (@lov3isalosingame) on Threads",
+              "unwound_url": "https://www.threads.com/@lov3isalosingame/post/DR82aCpEoW-/%E8%AF%B4%E5%87%BA%E4%B8%80%E7%99%BE%E4%B8%AA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%94%9F%E6%B4%BB%E6%84%9F%E8%A7%89%E8%87%AA%E5%B7%B1%E5%BE%88%E4%BD%8E%E8%B4%B1%E7%9A%84%E7%9E%AC%E9%97%B4",
+              "url": "https://t.co/A46b1v1zme"
+            },
+            {
+              "display_url": "pic.x.com/1Pl011ljx3",
+              "end": 185,
+              "expanded_url": "https://x.com/bumingbaipod/status/2075938271440372037/photo/1",
+              "media_key": "3_2075938109850533888",
+              "start": 162,
+              "url": "https://t.co/1Pl011ljx3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075938271440372037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2195,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是受Threads上面一个有近两万回复的帖启发而发的征集：\n“说出一百个在中国生活感觉自己很‘低贱’的瞬间”\nhttps://t.co/A46b1v1zme\n\n有人说是时薪没有充电宝高 ，\n有人说是要翻墙打游戏，\n有人说是打了很多字，又因为害怕全部删掉的时候。\n\n你认同评论中的这些说法吗？欢迎联系我们，把你的经历说出。 https://t.co/1Pl011ljx3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 1791,
+          "like_count": 17200,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 7470
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-23T09:22:05.000Z",
+        "description": "不明白播客官方推特\nApple: https://t.co/mK0s6gAoyz Spotify: https://t.co/ZiCGaYNCWR \nYouTube: https://t.co/yUH081YKPB 捐赠链接：https://t.co/lfKUuexsUS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/bmb-apple",
+                "end": 40,
+                "expanded_url": "http://bit.ly/bmb-apple",
+                "start": 17,
+                "url": "https://t.co/mK0s6gAoyz"
+              },
+              {
+                "display_url": "spoti.fi/3fFezK0",
+                "end": 73,
+                "expanded_url": "http://spoti.fi/3fFezK0",
+                "start": 50,
+                "url": "https://t.co/ZiCGaYNCWR"
+              },
+              {
+                "display_url": "bit.ly/bmb-ytb",
+                "end": 107,
+                "expanded_url": "http://bit.ly/bmb-ytb",
+                "start": 84,
+                "url": "https://t.co/yUH081YKPB"
+              },
+              {
+                "display_url": "bit.ly/bmb-donate",
+                "end": 136,
+                "expanded_url": "https://bit.ly/bmb-donate",
+                "start": 113,
+                "url": "https://t.co/lfKUuexsUS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bumingbai.net",
+                "end": 23,
+                "expanded_url": "http://bumingbai.net",
+                "start": 0,
+                "url": "https://t.co/TlitLIEzT5"
+              }
+            ]
+          }
+        },
+        "id": "1528667429819547648",
+        "name": "不明白播客",
+        "pinned_tweet_id": "2075576340267295224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572093598010691584/9CIZ1YiZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106256,
+          "following_count": 113,
+          "like_count": 278,
+          "listed_count": 419,
+          "media_count": 541,
+          "tweet_count": 1616
+        },
+        "url": "https://t.co/TlitLIEzT5",
+        "username": "bumingbaipod",
+        "verified": false
+      }
+    ]
+  }
+}

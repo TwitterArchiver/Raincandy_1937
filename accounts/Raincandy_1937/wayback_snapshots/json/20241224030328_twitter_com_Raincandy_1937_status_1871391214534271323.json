@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1871248725403979970",
+    "created_at": "2024-12-24T03:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T04:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871391214534271323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1580907538127949824",
+          "start": 0,
+          "username": "yuluoshanl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871391214534271323",
+    "in_reply_to_user_id": "1580907538127949824",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871248725403979970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuluoshanl 🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1871248725403979970",
+        "created_at": "2024-12-24T03:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T04:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871391214534271323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1580907538127949824",
+              "start": 0,
+              "username": "yuluoshanl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871391214534271323",
+        "in_reply_to_user_id": "1580907538127949824",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871248725403979970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuluoshanl 🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580907538127949824",
+        "conversation_id": "1871248725403979970",
+        "created_at": "2024-12-23T17:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T18:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871248725403979970"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1871248725403979970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 662,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从今天起，我不会给任何一个人好脸色😾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 579,
+          "like_count": 3680,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 2034
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T13:05:35.000Z",
+        "description": "希望天天开心。不要随便相信别人，不要转发我帖子，不接推广，不出原味，随缘回fo，除互关不加v。",
+        "id": "1580907538127949824",
+        "location": "🚪188好友位",
+        "name": "Yyyˇ",
+        "pinned_tweet_id": "1813791185846386957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867219748012093440/Hh7fAV0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5466,
+          "following_count": 170,
+          "like_count": 16031,
+          "listed_count": 12,
+          "media_count": 577,
+          "tweet_count": 5988
+        },
+        "username": "yuluoshanl",
+        "verified": false
+      }
+    ]
+  }
+}

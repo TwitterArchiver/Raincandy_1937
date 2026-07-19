@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1392988484256759811",
+          "name": "Steam"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1392975566253424640",
+          "name": "Gaming retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1392988484256759811",
+          "name": "Steam"
+        }
+      }
+    ],
+    "conversation_id": "2034502050789339198",
+    "created_at": "2026-03-19T05:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T06:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034502050789339198"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2034446004125397160",
+          "start": 6,
+          "url": "https://t.co/FIy9vRlanY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034502050789339198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034446004125397160",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要玩這個 https://t.co/FIy9vRlanY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2034440127288905728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvIhE_bEAAUZzD.jpg",
+        "width": 690
+      },
+      {
+        "height": 375,
+        "media_key": "3_2034440165113131008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvIjR5a8AALLWs.jpg",
+        "width": 690
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2034440165180211200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvIjSJagAAs1iT.jpg",
+        "width": 653
+      },
+      {
+        "height": 705,
+        "media_key": "3_2034440165347975168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvIjSxaYAACdD6.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          }
+        ],
+        "conversation_id": "2034502050789339198",
+        "created_at": "2026-03-19T05:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T06:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034502050789339198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2034446004125397160",
+              "start": 6,
+              "url": "https://t.co/FIy9vRlanY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034502050789339198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034446004125397160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要玩這個 https://t.co/FIy9vRlanY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034440127288905728",
+            "3_2034440165113131008",
+            "3_2034440165180211200",
+            "3_2034440165347975168"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          }
+        ],
+        "conversation_id": "2034446004125397160",
+        "created_at": "2026-03-19T01:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T02:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034446004125397160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QnfxgHp0Us",
+              "end": 165,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2034446004125397160/photo/1",
+              "media_key": "3_2034440127288905728",
+              "start": 142,
+              "url": "https://t.co/QnfxgHp0Us"
+            },
+            {
+              "display_url": "pic.x.com/QnfxgHp0Us",
+              "end": 165,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2034446004125397160/photo/1",
+              "media_key": "3_2034440165113131008",
+              "start": 142,
+              "url": "https://t.co/QnfxgHp0Us"
+            },
+            {
+              "display_url": "pic.x.com/QnfxgHp0Us",
+              "end": 165,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2034446004125397160/photo/1",
+              "media_key": "3_2034440165180211200",
+              "start": 142,
+              "url": "https://t.co/QnfxgHp0Us"
+            },
+            {
+              "display_url": "pic.x.com/QnfxgHp0Us",
+              "end": 165,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2034446004125397160/photo/1",
+              "media_key": "3_2034440165347975168",
+              "start": 142,
+              "url": "https://t.co/QnfxgHp0Us"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034446004125397160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "乌克兰游戏公司推出“支持者DLC”遭中国区玩家集中打低分\n\n网友投稿：近日，乌克兰游戏公司 Pushka Studios 在游戏平台 Steam 上架了一款 游戏《无尽猎杀》。与此同时，该公司同步推出一款付费DLC“Ukraine Supporter Pack（乌克兰支持者包）”。\n\n据页面介绍，该DLC主要包含部分专属道具皮肤，其收入将全部捐赠给名为 Ukraine Help Foundation 的基金会，用于支持乌克兰相关援助项目。\n这事儿让一些中国玩家破防了，他们开始疯狂刷低分，把中区的好评率拉得比俄区还低。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 100641,
+          "like_count": 781,
+          "quote_count": 16,
+          "reply_count": 138,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "乌克兰游戏公司推出“支持者DLC”遭中国区玩家集中打低分\n\n网友投稿：近日，乌克兰游戏公司 Pushka Studios 在游戏平台 Steam 上架了一款 游戏《无尽猎杀》。与此同时，该公司同步推出一款付费DLC“Ukraine Supporter Pack（乌克兰支持者包）”。 https://t.co/QnfxgHp0Us"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 1580,
+          "like_count": 13860,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 6410
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2025900193976308004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196166,
+          "following_count": 1022,
+          "like_count": 9209,
+          "listed_count": 8636,
+          "media_count": 43562,
+          "tweet_count": 50613
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

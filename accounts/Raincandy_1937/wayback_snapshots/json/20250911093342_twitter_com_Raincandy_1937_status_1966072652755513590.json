@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136984326640287744",
+          "name": "Charlie Kirk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136984326640287744",
+          "name": "Charlie Kirk"
+        }
+      }
+    ],
+    "conversation_id": "1966072652755513590",
+    "created_at": "2025-09-11T09:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T10:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966072652755513590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1548451145303326720",
+          "start": 3,
+          "username": "XiXiPee1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966072652755513590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966001316515500287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiXiPee1: 我不会为Charlie Kirk的死哀悼。这个人一生所作所为，在我看来带给美国社会的只有伤害。\n\n他极力推动堕胎禁令，剥夺无数女性的身体自主权，导致很多女性在医院因无法获得合法、及时的医疗救治而死去。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          }
+        ],
+        "conversation_id": "1966072652755513590",
+        "created_at": "2025-09-11T09:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T10:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966072652755513590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1548451145303326720",
+              "start": 3,
+              "username": "XiXiPee1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966072652755513590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966001316515500287",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiXiPee1: 我不会为Charlie Kirk的死哀悼。这个人一生所作所为，在我看来带给美国社会的只有伤害。\n\n他极力推动堕胎禁令，剥夺无数女性的身体自主权，导致很多女性在医院因无法获得合法、及时的医疗救治而死去。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548451145303326720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          }
+        ],
+        "conversation_id": "1966001316515500287",
+        "created_at": "2025-09-11T04:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T05:49:58.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966001248118899197",
+          "1966001316515500287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966001316515500287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我不会为Charlie Kirk的死哀悼。这个人一生所作所为，在我看来带给美国社会的只有伤害。\n\n他极力推动堕胎禁令，剥夺无数女性的身体自主权，导致很多女性在医院因无法获得合法、及时的医疗救治而死去。\n\n他公然侮辱勇敢抵抗侵略的乌克兰总统泽连斯基，嘲讽那些为保卫家园而牺牲的乌克兰人民，将英雄的牺牲贬低成政治笑料\n\n他极力吹捧基督教原教旨主义，希望把世俗主义的美国变为一个塔利班式的基督教神权国家。深入贯彻执行project 2025\n\n他自己都说每年死于枪击的人是必然的，是宪法第二修正案不得不付出的代价。那他自己成为这个代价的时候又有什么好说的那。\n\n对于他被义士一枪带走，我只想说 好死 开香槟咯🍾"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 29979,
+          "like_count": 392,
+          "quote_count": 5,
+          "reply_count": 58,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "我不会为Charlie Kirk的死哀悼。这个人一生所作所为，在我看来带给美国社会的只有伤害。\n\n他极力推动堕胎禁令，剥夺无数女性的身体自主权，导致很多女性在医院因无法获得合法、及时的医疗救治而死去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 1311,
+          "like_count": 9836,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 5008
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-16T23:35:37.000Z",
+        "description": "Proud Aussie🇦🇺 Fxxk Putin & Hamas🖕 Stand with Ukraine🇺🇦",
+        "id": "1548451145303326720",
+        "name": "XiXiPee🇦🇺🇺🇦🇪🇺",
+        "pinned_tweet_id": "1895557553196830980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962072626110808064/1yalSe24_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 727,
+          "like_count": 2497,
+          "listed_count": 18,
+          "media_count": 332,
+          "tweet_count": 6386
+        },
+        "username": "XiXiPee1",
+        "verified": true
+      }
+    ]
+  }
+}

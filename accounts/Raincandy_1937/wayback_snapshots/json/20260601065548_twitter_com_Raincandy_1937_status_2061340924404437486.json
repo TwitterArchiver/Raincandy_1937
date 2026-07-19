@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2061172680632459510",
+    "created_at": "2026-06-01T06:55:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T07:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061340924404437486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1005907526876106752",
+          "start": 0,
+          "username": "ozgeppn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061340924404437486",
+    "in_reply_to_user_id": "1005907526876106752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061172680632459510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ozgeppn 生病，遭遇意外怎麼辦？\n事實上，我們不僅僅是為了娛樂才使用通訊設備和電子產品的對不對？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_2061172675683196928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJrBoMLWoAApkDQ.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2061172680632459510",
+        "created_at": "2026-06-01T06:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061340924404437486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1005907526876106752",
+              "start": 0,
+              "username": "ozgeppn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061340924404437486",
+        "in_reply_to_user_id": "1005907526876106752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061172680632459510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ozgeppn 生病，遭遇意外怎麼辦？\n事實上，我們不僅僅是為了娛樂才使用通訊設備和電子產品的對不對？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061172675683196928"
+          ]
+        },
+        "author_id": "1005907526876106752",
+        "conversation_id": "2061172680632459510",
+        "created_at": "2026-05-31T19:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T20:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061172680632459510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NSNcB5oSsO",
+              "end": 110,
+              "expanded_url": "https://x.com/ozgeppn/status/2061172680632459510/photo/1",
+              "media_key": "3_2061172675683196928",
+              "start": 87,
+              "url": "https://t.co/NSNcB5oSsO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061172680632459510",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 90412,
+          "like_count": 1229,
+          "quote_count": 63,
+          "reply_count": 946,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "İnternet yok\nElektirik yok\nTelefon yok\nBurada 9 ay kalırsan 80 milyon dolar kabül mü ? https://t.co/NSNcB5oSsO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 1722,
+          "like_count": 16209,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 7070
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-10T20:20:18.000Z",
+        "description": "Reklam ve iş birliği için dm 💌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ozgeppn",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ozgeppn",
+                "start": 0,
+                "url": "https://t.co/LuAJd2ExUy"
+              }
+            ]
+          }
+        },
+        "id": "1005907526876106752",
+        "location": "İstanbul, Türkiye",
+        "name": "ÖZGE",
+        "pinned_tweet_id": "1869772862481117360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950514676023820288/EZGYTSXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108553,
+          "following_count": 74427,
+          "like_count": 134282,
+          "listed_count": 77,
+          "media_count": 3153,
+          "tweet_count": 25777
+        },
+        "url": "https://t.co/LuAJd2ExUy",
+        "username": "ozgeppn",
+        "verified": true
+      }
+    ]
+  }
+}

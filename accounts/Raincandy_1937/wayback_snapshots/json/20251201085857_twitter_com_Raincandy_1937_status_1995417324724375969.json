@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995296046470094848"
+      ],
+      "media_source_tweet_id": [
+        "1995296051117646304"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1995417324724375969",
+    "created_at": "2025-12-01T08:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T09:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995417324724375969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1535701819812462600",
+          "start": 3,
+          "username": "Kenntnis22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BPmbHdJC6q",
+          "end": 39,
+          "expanded_url": "https://x.com/Kenntnis22/status/1995296051117646304/photo/1",
+          "media_key": "3_1995296046470094848",
+          "start": 16,
+          "url": "https://t.co/BPmbHdJC6q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995417324724375969",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995296051117646304",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kenntnis22: https://t.co/BPmbHdJC6q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 775,
+        "media_key": "3_1995296046470094848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7C3LseXYAANfDk.jpg",
+        "width": 749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995296046470094848"
+          ],
+          "media_source_tweet_id": [
+            "1995296051117646304"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1995417324724375969",
+        "created_at": "2025-12-01T08:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T09:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995417324724375969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1535701819812462600",
+              "start": 3,
+              "username": "Kenntnis22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BPmbHdJC6q",
+              "end": 39,
+              "expanded_url": "https://x.com/Kenntnis22/status/1995296051117646304/photo/1",
+              "media_key": "3_1995296046470094848",
+              "start": 16,
+              "url": "https://t.co/BPmbHdJC6q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995417324724375969",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995296051117646304",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kenntnis22: https://t.co/BPmbHdJC6q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995296046470094848"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "1995296051117646304",
+        "created_at": "2025-12-01T00:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T01:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995296051117646304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BPmbHdJC6q",
+              "end": 23,
+              "expanded_url": "https://x.com/Kenntnis22/status/1995296051117646304/photo/1",
+              "media_key": "3_1995296046470094848",
+              "start": 0,
+              "url": "https://t.co/BPmbHdJC6q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995296051117646304",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 33264,
+          "like_count": 746,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BPmbHdJC6q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 1462,
+          "like_count": 12058,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 5665
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "朋友们的小圈子。不严肃、谢谢😑",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "1994954118281220303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44625,
+          "following_count": 339,
+          "like_count": 36786,
+          "listed_count": 217,
+          "media_count": 7758,
+          "tweet_count": 12064
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

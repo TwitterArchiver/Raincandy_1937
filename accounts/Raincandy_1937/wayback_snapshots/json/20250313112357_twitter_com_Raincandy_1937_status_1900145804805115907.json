@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1900143843171066132",
+    "created_at": "2025-03-13T11:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T12:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900145804805115907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1834119546325929984",
+          "start": 0,
+          "username": "tsuki997799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900145804805115907",
+    "in_reply_to_user_id": "1834119546325929984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900143843171066132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsuki997799 加油上次我蹲apex掉宝定了三个闹钟🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1900143838942932992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl6qwQ5XMAAP0iN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1900143843171066132",
+        "created_at": "2025-03-13T11:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T12:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900145804805115907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1834119546325929984",
+              "start": 0,
+              "username": "tsuki997799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900145804805115907",
+        "in_reply_to_user_id": "1834119546325929984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900143843171066132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsuki997799 加油上次我蹲apex掉宝定了三个闹钟🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900143838942932992"
+          ]
+        },
+        "author_id": "1834119546325929984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1900143843171066132",
+        "created_at": "2025-03-13T11:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T12:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900143843171066132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ogY20NAyEZ",
+              "end": 36,
+              "expanded_url": "https://x.com/tsuki997799/status/1900143843171066132/photo/1",
+              "media_key": "3_1900143838942932992",
+              "start": 13,
+              "url": "https://t.co/ogY20NAyEZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900143843171066132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了你得挂机420分钟😢 https://t.co/ogY20NAyEZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 869,
+          "like_count": 6398,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 3282
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T06:39:22.000Z",
+        "description": "这辈子不会放弃当个偶像厨，追星刷屏，热衷视奸有趣的人，涉黄0.01％，喜欢我请赞赏码奖励我✌🏻️",
+        "id": "1834119546325929984",
+        "location": "🚪188",
+        "name": "是姨姨也是EE",
+        "pinned_tweet_id": "1887386071794888944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897867516745334784/GiQdUmcy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1794,
+          "following_count": 112,
+          "like_count": 6543,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 2199
+        },
+        "username": "tsuki997799",
+        "verified": false
+      }
+    ]
+  }
+}

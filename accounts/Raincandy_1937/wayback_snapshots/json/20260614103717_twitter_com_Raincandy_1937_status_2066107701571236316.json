@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2066107701571236316",
+    "created_at": "2026-06-14T10:37:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:37:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066107701571236316"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HiganbanaWings…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/HiganbanaWings_/status/2065500552730136853",
+          "start": 54,
+          "url": "https://t.co/EXbWNEo91B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066107701571236316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065500552730136853",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妹P如果是個合適的引導型戀人的話，即使和糖糖一樣不完美甚至滿身缺點，最後也一定會是大家都幸福的結局（確信） https://t.co/EXbWNEo91B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 842,
+        "media_key": "3_2065500549416665088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKohzmNawAARM83.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2066107701571236316",
+        "created_at": "2026-06-14T10:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066107701571236316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HiganbanaWings…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/HiganbanaWings_/status/2065500552730136853",
+              "start": 54,
+              "url": "https://t.co/EXbWNEo91B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066107701571236316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065500552730136853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妹P如果是個合適的引導型戀人的話，即使和糖糖一樣不完美甚至滿身缺點，最後也一定會是大家都幸福的結局（確信） https://t.co/EXbWNEo91B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065500549416665088"
+          ]
+        },
+        "author_id": "2048796437639553025",
+        "conversation_id": "2065500552730136853",
+        "created_at": "2026-06-12T18:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T19:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065500552730136853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2djDJ430IZ",
+              "end": 23,
+              "expanded_url": "https://x.com/HiganbanaWings_/status/2065500552730136853/photo/1",
+              "media_key": "3_2065500549416665088",
+              "start": 0,
+              "url": "https://t.co/2djDJ430IZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065500552730136853",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 585,
+          "impression_count": 38392,
+          "like_count": 5780,
+          "quote_count": 10,
+          "reply_count": 11,
+          "retweet_count": 979
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2djDJ430IZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 1736,
+          "like_count": 16641,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 7257
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T16:09:31.000Z",
+        "description": "I love you all૮ ․ ․ ྀིა",
+        "id": "2048796437639553025",
+        "name": "𝕽𝖔𝖘𝖆𝖑𝖎𝖊",
+        "pinned_tweet_id": "2051907223492690353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058103278177517568/sVYr-rXn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2181,
+          "following_count": 2155,
+          "like_count": 2326,
+          "listed_count": 12,
+          "media_count": 105,
+          "tweet_count": 586
+        },
+        "username": "HiganbanaWings_",
+        "verified": false
+      }
+    ]
+  }
+}

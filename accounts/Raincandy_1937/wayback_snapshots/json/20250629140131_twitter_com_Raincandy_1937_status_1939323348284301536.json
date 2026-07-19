@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1939323348284301536",
+    "created_at": "2025-06-29T14:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T15:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939323348284301536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1750804799031824384",
+          "start": 3,
+          "username": "lizi5202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939323348284301536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939041352974770333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lizi5202: 过度自谦就是自大，哪怕你就是大大方方地说觉得自己考的挺高的回复也会都是恭喜，现在这样子谁看不出来你那个做题曲心理？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1939323348284301536",
+        "created_at": "2025-06-29T14:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T15:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939323348284301536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1750804799031824384",
+              "start": 3,
+              "username": "lizi5202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939323348284301536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939041352974770333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lizi5202: 过度自谦就是自大，哪怕你就是大大方方地说觉得自己考的挺高的回复也会都是恭喜，现在这样子谁看不出来你那个做题曲心理？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750804799031824384",
+        "conversation_id": "1939041352974770333",
+        "created_at": "2025-06-28T19:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T20:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939041352974770333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FallenF58682/s…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/FallenF58682/status/1937846582017425440",
+              "start": 58,
+              "url": "https://t.co/KOh7kgN6HJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939041352974770333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19881,
+          "like_count": 282,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937846582017425440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "过度自谦就是自大，哪怕你就是大大方方地说觉得自己考的挺高的回复也会都是恭喜，现在这样子谁看不出来你那个做题曲心理？ https://t.co/KOh7kgN6HJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 1206,
+          "like_count": 8920,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 4617
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T08:56:14.000Z",
+        "description": "你好",
+        "id": "1750804799031824384",
+        "location": "月之森女子学园",
+        "name": "枫糖小漓莫",
+        "pinned_tweet_id": "1886654791146987559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870709592155619328/TM8eQYzZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 1280,
+          "like_count": 12032,
+          "listed_count": 4,
+          "media_count": 504,
+          "tweet_count": 4841
+        },
+        "username": "lizi5202",
+        "verified": false
+      }
+    ]
+  }
+}

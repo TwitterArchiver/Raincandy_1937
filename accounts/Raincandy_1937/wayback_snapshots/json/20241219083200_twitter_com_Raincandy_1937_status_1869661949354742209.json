@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1869301851293941837",
+    "created_at": "2024-12-19T08:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T09:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869661949354742209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1150602718798442497",
+          "start": 0,
+          "username": "LuYangya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869661949354742209",
+    "in_reply_to_user_id": "1150602718798442497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869301851293941837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuYangya 我一直觉得臭打游戏的圈子很干净直到我玩了一些两个字六个字和三个字的多端游戏🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1869301851293941837",
+        "created_at": "2024-12-19T08:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T09:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869661949354742209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1150602718798442497",
+              "start": 0,
+              "username": "LuYangya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869661949354742209",
+        "in_reply_to_user_id": "1150602718798442497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869301851293941837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuYangya 我一直觉得臭打游戏的圈子很干净直到我玩了一些两个字六个字和三个字的多端游戏🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1150602718798442497",
+        "conversation_id": "1869301851293941837",
+        "created_at": "2024-12-18T08:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T09:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869301851293941837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869301851293941837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 35093,
+          "like_count": 395,
+          "quote_count": 13,
+          "reply_count": 93,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "忽然很心疼男生，真的很难体会那些不抽烟，不喝酒，不蹦迪，圈子又干净的男孩子是怎么熬过低谷期的，在难过的时候，他们都在干嘛？伤害男人的事情我做不到，对了，你那里大吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "",
+        "id": "1522094771136831488",
+        "location": "Asuka-mura, Nara",
+        "name": "Звезда по имени Солнце🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 536,
+          "like_count": 3372,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1896
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-15T03:07:20.000Z",
+        "description": "你们好哦 这里是鹿扬 深圳/香港出现 HKU 23BASc（Fin Tech） 是学生 可以一起玩 我性格很好的呜呜 发发自己毛 发发车发发日常生活  扩列请私信 🤗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.douyin.com/JLKEs4q/",
+                "end": 23,
+                "expanded_url": "https://v.douyin.com/JLKEs4q/",
+                "start": 0,
+                "url": "https://t.co/nV6LddeIUV"
+              }
+            ]
+          }
+        },
+        "id": "1150602718798442497",
+        "location": "距离你169米",
+        "name": "鹿扬",
+        "pinned_tweet_id": "1626826809580077057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1371155951462592521/FZZ-1k8R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9495,
+          "following_count": 327,
+          "like_count": 8,
+          "listed_count": 15,
+          "media_count": 167,
+          "tweet_count": 733
+        },
+        "url": "https://t.co/nV6LddeIUV",
+        "username": "LuYangya",
+        "verified": false
+      }
+    ]
+  }
+}

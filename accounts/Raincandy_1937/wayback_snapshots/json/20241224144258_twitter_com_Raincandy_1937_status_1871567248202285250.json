@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      }
+    ],
+    "conversation_id": "1871567248202285250",
+    "created_at": "2024-12-24T14:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T15:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871567248202285250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "888172653881638912",
+          "start": 3,
+          "username": "Nokta_gardisto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871567248202285250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871540319088685271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nokta_gardisto: 听说最近不少泥锅软件的翻译开始把母主题改成父主题，母订单变成父订单，母用户变成父用户，我建议一步到位，软件名里带X的也都换成Y，比如那个Xmind，就可以换成Ymind嘛。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "1871567248202285250",
+        "created_at": "2024-12-24T14:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T15:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871567248202285250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "888172653881638912",
+              "start": 3,
+              "username": "Nokta_gardisto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871567248202285250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871540319088685271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nokta_gardisto: 听说最近不少泥锅软件的翻译开始把母主题改成父主题，母订单变成父订单，母用户变成父用户，我建议一步到位，软件名里带X的也都换成Y，比如那个Xmind，就可以换成Ymind嘛。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "888172653881638912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "1871540319088685271",
+        "created_at": "2024-12-24T12:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T13:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871540319088685271"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1871540319088685271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 721,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "听说最近不少泥锅软件的翻译开始把母主题改成父主题，母订单变成父订单，母用户变成父用户，我建议一步到位，软件名里带X的也都换成Y，比如那个Xmind，就可以换成Ymind嘛。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 596,
+          "like_count": 3803,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 2072
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-20T23:03:56.000Z",
+        "description": "#跨性别奸奇神选（非二元）(她/she）\\Asexual\\Manchu研究\\海盗党\\#啤酒安那其主义\\SISU\n\\queer/女性主义\\#儒林外史 栏目总编辑\\#民哲\\虚元\\Proud of what I am !\\辽北精神分析研究所\\🚪：10股YANG\\被转发内容不代表个人观点",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "跨性别奸奇神选"
+              },
+              {
+                "end": 50,
+                "start": 42,
+                "tag": "啤酒安那其主义"
+              },
+              {
+                "end": 73,
+                "start": 68,
+                "tag": "儒林外史"
+              },
+              {
+                "end": 83,
+                "start": 80,
+                "tag": "民哲"
+              }
+            ]
+          }
+        },
+        "id": "888172653881638912",
+        "location": "IP属地：东北亚",
+        "name": "Yöttevakt|sama⚪🏴‍☠️💙🇫🇮🏴🏳️‍⚧️（國外）",
+        "pinned_tweet_id": "1774675363718955425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870866101372108800/jOqBDW6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9606,
+          "following_count": 708,
+          "like_count": 40161,
+          "listed_count": 44,
+          "media_count": 904,
+          "tweet_count": 3611
+        },
+        "username": "Nokta_gardisto",
+        "verified": false
+      }
+    ]
+  }
+}

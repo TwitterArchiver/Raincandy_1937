@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1939696265849417813",
+    "created_at": "2025-06-30T16:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T17:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939724338351284698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1109080684419670017",
+          "start": 0,
+          "username": "KillerBeeSweety"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939724338351284698",
+    "in_reply_to_user_id": "1109080684419670017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 21,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939696265849417813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KillerBeeSweety 您是本豆芽了解幻化时尚潮流的唯一途径🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1283,
+        "media_key": "3_1939696262925946880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GusveWPakAAcUpw.jpg",
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1939696265849417813",
+        "created_at": "2025-06-30T16:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T17:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939724338351284698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1109080684419670017",
+              "start": 0,
+              "username": "KillerBeeSweety"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939724338351284698",
+        "in_reply_to_user_id": "1109080684419670017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939696265849417813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KillerBeeSweety 您是本豆芽了解幻化时尚潮流的唯一途径🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939696262925946880"
+          ]
+        },
+        "author_id": "1109080684419670017",
+        "conversation_id": "1939696265849417813",
+        "created_at": "2025-06-30T14:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T15:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939696265849417813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lRU2MMBvQY",
+              "end": 34,
+              "expanded_url": "https://x.com/KillerBeeSweety/status/1939696265849417813/photo/1",
+              "media_key": "3_1939696262925946880",
+              "start": 11,
+              "url": "https://t.co/lRU2MMBvQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939696265849417813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 509,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "离维什戴尔越来越像了 https://t.co/lRU2MMBvQY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 1209,
+          "like_count": 8964,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 4643
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-22T13:13:35.000Z",
+        "description": "She/Her\nCN/EN/JP\n一般路過のゲーマー女子🎮\n優しいDM大歓迎！\nFFXIV DC:Meteor Valefor\n用户名日文翻译是观月。\nNGL匿名板∶https://t.co/y4SQBEYyVW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/killerbeesweety",
+                "end": 106,
+                "expanded_url": "https://ngl.link/killerbeesweety",
+                "start": 83,
+                "url": "https://t.co/y4SQBEYyVW"
+              }
+            ]
+          }
+        },
+        "id": "1109080684419670017",
+        "location": "Valefor(Meteor)",
+        "name": "ミズキ",
+        "pinned_tweet_id": "1933834878157799925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937020092824317952/wmAs809N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16832,
+          "following_count": 1730,
+          "like_count": 29945,
+          "listed_count": 21,
+          "media_count": 2550,
+          "tweet_count": 20797
+        },
+        "username": "KillerBeeSweety",
+        "verified": false
+      }
+    ]
+  }
+}

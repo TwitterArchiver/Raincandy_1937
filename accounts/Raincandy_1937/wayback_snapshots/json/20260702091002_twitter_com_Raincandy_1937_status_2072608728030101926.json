@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2072608713039613952"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2071995706299273412",
+    "created_at": "2026-07-02T09:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T10:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072608728030101926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1862861397304225792",
+          "start": 0,
+          "username": "Z3r0_404Error"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ChyYuIYVu7",
+          "end": 38,
+          "expanded_url": "https://x.com/Raincandy_1937/status/2072608728030101926/photo/1",
+          "media_key": "16_2072608713039613952",
+          "start": 15,
+          "url": "https://t.co/ChyYuIYVu7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072608728030101926",
+    "in_reply_to_user_id": "1862861397304225792",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072343557822980294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z3r0_404Error https://t.co/ChyYuIYVu7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 454,
+        "media_key": "16_2072608713039613952",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMNipLMbEAAM5Qg.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMNipLMbEAAM5Qg.mp4"
+          }
+        ],
+        "width": 696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2072608713039613952"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2071995706299273412",
+        "created_at": "2026-07-02T09:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T10:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072608728030101926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862861397304225792",
+              "start": 0,
+              "username": "Z3r0_404Error"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ChyYuIYVu7",
+              "end": 38,
+              "expanded_url": "https://x.com/Raincandy_1937/status/2072608728030101926/photo/1",
+              "media_key": "16_2072608713039613952",
+              "start": 15,
+              "url": "https://t.co/ChyYuIYVu7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072608728030101926",
+        "in_reply_to_user_id": "1862861397304225792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072343557822980294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z3r0_404Error https://t.co/ChyYuIYVu7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862861397304225792",
+        "conversation_id": "2071995706299273412",
+        "created_at": "2026-07-01T15:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072343557822980294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1522094771136831488",
+              "start": 0,
+              "username": "Raincandy_1937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072343557822980294",
+        "in_reply_to_user_id": "1522094771136831488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071995706299273412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raincandy_1937 祝你幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1785,
+          "like_count": 17095,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 7421
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T14:14:09.000Z",
+        "description": "“Who am I really?”\nLGBTQ -Friendly 🏳️‍🌈 🏳️‍⚧️……\nPlease be respectful to one another.",
+        "id": "1862861397304225792",
+        "location": "City of glitch",
+        "name": "Z3r0",
+        "pinned_tweet_id": "2070567763660493280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045962857557401600/Yq6rUZJw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 169,
+          "like_count": 16597,
+          "listed_count": 2,
+          "media_count": 478,
+          "tweet_count": 4972
+        },
+        "url": "",
+        "username": "Z3r0_404Error",
+        "verified": false
+      }
+    ]
+  }
+}

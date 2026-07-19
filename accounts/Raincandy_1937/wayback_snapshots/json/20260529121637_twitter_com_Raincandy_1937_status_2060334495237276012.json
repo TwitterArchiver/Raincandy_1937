@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2060334495237276012",
+    "created_at": "2026-05-29T12:16:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:16:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060334495237276012"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/needygirl_o/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/needygirl_o/status/2060315227443351612",
+          "start": 5,
+          "url": "https://t.co/9xIxGjRrIs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060334495237276012",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060315227443351612",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要這個 https://t.co/9xIxGjRrIs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2980,
+        "media_key": "3_2060215839371239424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdbY_JbIAA5_G7.jpg",
+        "width": 2234
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2060334495237276012",
+        "created_at": "2026-05-29T12:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060334495237276012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/needygirl_o/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/needygirl_o/status/2060315227443351612",
+              "start": 5,
+              "url": "https://t.co/9xIxGjRrIs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060334495237276012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060315227443351612",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要這個 https://t.co/9xIxGjRrIs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060215839371239424"
+          ]
+        },
+        "author_id": "1790319108875227136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2060315227443351612",
+        "created_at": "2026-05-29T11:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060315227443351612"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 107,
+              "tag": "ニディガ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "■30cmアクリルスタンド／あめちゃん（学生 ver.） お久しぶり先生描き下ろしの学生あめちゃんの30cmアクリルスタンドになります。 BIGサイズで存在感抜群のアクスタを飾っちゃおう！ ■商品仕様 ・サイズ：W90×H300mm ・素材：アクリル ・生産国：日本 ※画像はイメージです。実際の商品とは異なる場合がございます。 ※商品の素材や仕様等は予告なく変更となる場合がございます。 ©WSS playground / NEEDY GIRL PROJECT . . .♡ ♰ ♡ . . . *这些图片仅用于说明。 它们可能与实际货物不同。 *材料和规格如有变化，恕不另行通知。 该商品正在接受预约 请确认预约期间和发送预定期间。过了预约期间就不能预约了。虽然预约的时候会进行结算处理，但产品要到预定的发货期才会发货，所以请事先注意这一点。 预约期间结束后，根据情况，日后打算贩卖包括取消部分商品和预备制造的商品。 但是，想要确实购买商品的客户和想要确实获得购买优惠的客户请考虑在上述期间内的预约订单。",
+              "display_url": "internetangel.shop/items/69f6e6b6…",
+              "end": 105,
+              "expanded_url": "https://internetangel.shop/items/69f6e6b69353259a9df43e82",
+              "start": 82,
+              "status": 200,
+              "title": "【あめちゃん生誕祭2026】30cmアクリルスタンド／あめちゃん（学生 ver.）",
+              "unwound_url": "https://internetangel.shop/items/69f6e6b69353259a9df43e82",
+              "url": "https://t.co/wq1rBWCKz7"
+            },
+            {
+              "display_url": "pic.x.com/2tUIi0IuPJ",
+              "end": 136,
+              "expanded_url": "https://x.com/needygirl_o/status/2060315227443351612/photo/1",
+              "media_key": "3_2060215839371239424",
+              "start": 113,
+              "url": "https://t.co/2tUIi0IuPJ"
+            },
+            {
+              "display_url": "x.com/needygirl_o/st…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/needygirl_o/status/2051317139467092330",
+              "start": 137,
+              "url": "https://t.co/mPb5sgvOhV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060315227443351612",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 6800,
+          "like_count": 282,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051317139467092330",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🧬ニディガ グッズ情報🧬\n\nお久しぶり先生描き下ろしイラストを使用した、\nあめちゃん生誕祭グッズが予約販売中❣️❣️\n\nぜひチェックしてね！\n\n▼ご購入はこちら▼\nhttps://t.co/wq1rBWCKz7\n\n#ニディガ https://t.co/2tUIi0IuPJ https://t.co/mPb5sgvOhV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 1710,
+          "like_count": 15956,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 6984
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T09:52:26.000Z",
+        "description": "最強配信者（インターネット・エンジェル）と暮らすADV「NEEDY GIRL OVERDOSE」（ニディガと呼ぶ人もいるよ！）の公式アカウントです。\nYouTube：https://t.co/BKpkQo5DFg\nお問い合わせ：https://t.co/nXwN8xhR49",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wssplayground",
+                "end": 106,
+                "expanded_url": "https://www.youtube.com/@wssplayground",
+                "start": 83,
+                "url": "https://t.co/BKpkQo5DFg"
+              },
+              {
+                "display_url": "angelkawaii.com",
+                "end": 137,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 114,
+                "url": "https://t.co/nXwN8xhR49"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whysoserious.jp/needy/",
+                "end": 23,
+                "expanded_url": "https://whysoserious.jp/needy/",
+                "start": 0,
+                "url": "https://t.co/M5DW5V8xeX"
+              }
+            ]
+          }
+        },
+        "id": "1790319108875227136",
+        "name": "NEEDY GIRL Official",
+        "pinned_tweet_id": "2031302651246416300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790321034090147840/ohWusD8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62326,
+          "following_count": 8,
+          "like_count": 22,
+          "listed_count": 72,
+          "media_count": 736,
+          "tweet_count": 1259
+        },
+        "url": "https://t.co/M5DW5V8xeX",
+        "username": "needygirl_o",
+        "verified": true
+      }
+    ]
+  }
+}

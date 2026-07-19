@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058892054957375488"
+      ],
+      "media_source_tweet_id": [
+        "2058892065690587410"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2059115339405991974",
+    "created_at": "2026-05-26T03:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T04:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059115339405991974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1264131297619804160",
+          "start": 3,
+          "username": "EgonuBoskovic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8ZF1R0QITO",
+          "end": 90,
+          "expanded_url": "https://x.com/EgonuBoskovic/status/2058892065690587410/photo/1",
+          "media_key": "3_2058892054957375488",
+          "start": 67,
+          "url": "https://t.co/8ZF1R0QITO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059115339405991974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058892065690587410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EgonuBoskovic: ［转载微博］“白男对黄男：你是块挖铁路当劳工的好料子\n地主对佃农说：你真是个干佃农的好料子😝” https://t.co/8ZF1R0QITO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1558,
+        "media_key": "3_2058892054957375488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKnal6bwAA7aYv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058892054957375488"
+          ],
+          "media_source_tweet_id": [
+            "2058892065690587410"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2059115339405991974",
+        "created_at": "2026-05-26T03:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T04:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059115339405991974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1264131297619804160",
+              "start": 3,
+              "username": "EgonuBoskovic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ZF1R0QITO",
+              "end": 90,
+              "expanded_url": "https://x.com/EgonuBoskovic/status/2058892065690587410/photo/1",
+              "media_key": "3_2058892054957375488",
+              "start": 67,
+              "url": "https://t.co/8ZF1R0QITO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059115339405991974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058892065690587410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EgonuBoskovic: ［转载微博］“白男对黄男：你是块挖铁路当劳工的好料子\n地主对佃农说：你真是个干佃农的好料子😝” https://t.co/8ZF1R0QITO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058892054957375488"
+          ]
+        },
+        "author_id": "1264131297619804160",
+        "conversation_id": "2058892065690587410",
+        "created_at": "2026-05-25T12:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058892065690587410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ZF1R0QITO",
+              "end": 71,
+              "expanded_url": "https://x.com/EgonuBoskovic/status/2058892065690587410/photo/1",
+              "media_key": "3_2058892054957375488",
+              "start": 48,
+              "url": "https://t.co/8ZF1R0QITO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058892065690587410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 21395,
+          "like_count": 671,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "［转载微博］“白男对黄男：你是块挖铁路当劳工的好料子\n地主对佃农说：你真是个干佃农的好料子😝” https://t.co/8ZF1R0QITO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 1703,
+          "like_count": 15800,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 6934
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-23T09:49:31.000Z",
+        "description": "性别女，爱好打拳，坦克，剪鸡手，6B4T，易block人，勿关注。可以不追星，但不可以停止为郑爽发声。反代孕不反男的非蠢即坏",
+        "id": "1264131297619804160",
+        "name": "谢绝娣",
+        "pinned_tweet_id": "1527248958720180225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1538515298902753280/p8QpZcZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5738,
+          "following_count": 103,
+          "like_count": 83095,
+          "listed_count": 28,
+          "media_count": 7339,
+          "tweet_count": 48346
+        },
+        "username": "EgonuBoskovic",
+        "verified": false
+      }
+    ]
+  }
+}

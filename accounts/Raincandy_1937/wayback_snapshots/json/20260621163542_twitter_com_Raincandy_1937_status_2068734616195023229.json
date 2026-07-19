@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2068644988540657664"
+      ],
+      "media_source_tweet_id": [
+        "2068645012301382092"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2068734616195023229",
+    "created_at": "2026-06-21T16:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T17:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068734616195023229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1776466730489163776",
+          "start": 3,
+          "username": "i_loxe_u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0y6YgcdJjU",
+          "end": 46,
+          "expanded_url": "https://x.com/i_loxe_u/status/2068645012301382092/photo/1",
+          "media_key": "16_2068644988540657664",
+          "start": 23,
+          "url": "https://t.co/0y6YgcdJjU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068734616195023229",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 382
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068645012301382092",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @i_loxe_u: ダーリンダンス🎀 https://t.co/0y6YgcdJjU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "16_2068644988540657664",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLVNqCxboAAPcH9.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLVNqCxboAAPcH9.mp4"
+          }
+        ],
+        "width": 1310
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2068644988540657664"
+          ],
+          "media_source_tweet_id": [
+            "2068645012301382092"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2068734616195023229",
+        "created_at": "2026-06-21T16:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068734616195023229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1776466730489163776",
+              "start": 3,
+              "username": "i_loxe_u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0y6YgcdJjU",
+              "end": 46,
+              "expanded_url": "https://x.com/i_loxe_u/status/2068645012301382092/photo/1",
+              "media_key": "16_2068644988540657664",
+              "start": 23,
+              "url": "https://t.co/0y6YgcdJjU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068734616195023229",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 382
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068645012301382092",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @i_loxe_u: ダーリンダンス🎀 https://t.co/0y6YgcdJjU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2068644988540657664"
+          ]
+        },
+        "author_id": "1776466730489163776",
+        "conversation_id": "2068645012301382092",
+        "created_at": "2026-06-21T10:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068645012301382092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0y6YgcdJjU",
+              "end": 32,
+              "expanded_url": "https://x.com/i_loxe_u/status/2068645012301382092/photo/1",
+              "media_key": "16_2068644988540657664",
+              "start": 9,
+              "url": "https://t.co/0y6YgcdJjU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068645012301382092",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 160,
+          "impression_count": 17397,
+          "like_count": 1936,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 382
+        },
+        "reply_settings": "everyone",
+        "text": "ダーリンダンス🎀 https://t.co/0y6YgcdJjU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 1774,
+          "like_count": 16947,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 7375
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T04:27:34.000Z",
+        "description": "",
+        "id": "1776466730489163776",
+        "name": "໊",
+        "pinned_tweet_id": "2068645012301382092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067302106743373824/gxojy1wM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10028,
+          "following_count": 12,
+          "like_count": 34394,
+          "listed_count": 18,
+          "media_count": 4,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "i_loxe_u",
+        "verified": false
+      }
+    ]
+  }
+}

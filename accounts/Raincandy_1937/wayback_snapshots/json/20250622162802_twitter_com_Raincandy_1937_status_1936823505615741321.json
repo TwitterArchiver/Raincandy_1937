@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1936823505615741321",
+    "created_at": "2025-06-22T16:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T17:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936823505615741321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1856869593052237824",
+          "start": 3,
+          "username": "cut_ur_father"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936823505615741321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936801405513380291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cut_ur_father: 小仙男也开始研究社科了？应该禁止男性从事一切研究工作\n把侽们送到矿井、煤窑、边防去\n让男性回到侽们该去的地方\n\n烂屌仙男不是天天打拳，下矿警告吗\n那就送侽们去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1936823505615741321",
+        "created_at": "2025-06-22T16:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T17:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936823505615741321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1856869593052237824",
+              "start": 3,
+              "username": "cut_ur_father"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936823505615741321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936801405513380291",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cut_ur_father: 小仙男也开始研究社科了？应该禁止男性从事一切研究工作\n把侽们送到矿井、煤窑、边防去\n让男性回到侽们该去的地方\n\n烂屌仙男不是天天打拳，下矿警告吗\n那就送侽们去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856869593052237824",
+        "conversation_id": "1936801405513380291",
+        "created_at": "2025-06-22T15:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T16:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936801405513380291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/michelle_z2023…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/michelle_z2023/status/1936798201467527519",
+              "start": 80,
+              "url": "https://t.co/dNvCo4hz7k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936801405513380291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936798201467527519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小仙男也开始研究社科了？应该禁止男性从事一切研究工作\n把侽们送到矿井、煤窑、边防去\n让男性回到侽们该去的地方\n\n烂屌仙男不是天天打拳，下矿警告吗\n那就送侽们去 https://t.co/dNvCo4hz7k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 1172,
+          "like_count": 8737,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 4505
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T01:20:03.000Z",
+        "description": "「如果有一天我要去死，那我希望最好一边开枪一边挖坑下葬，而且不拉任何人垫背。」「你知道吗V？你已经领悟了成为传奇的诀窍！」@BAnarchistKUNIN | @Rorosharklady",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "BAnarchistKUNIN"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "Rorosharklady"
+              }
+            ]
+          }
+        },
+        "id": "1856869593052237824",
+        "location": "荒坂塔塔顶",
+        "name": "Ⓐ赛博骑士Ⓐ 🦾义体过热🔥",
+        "pinned_tweet_id": "1935364987863941148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930533030256652289/9PFS83Xw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 456,
+          "like_count": 22510,
+          "listed_count": 5,
+          "media_count": 592,
+          "tweet_count": 11305
+        },
+        "username": "cut_ur_father",
+        "verified": false
+      }
+    ]
+  }
+}

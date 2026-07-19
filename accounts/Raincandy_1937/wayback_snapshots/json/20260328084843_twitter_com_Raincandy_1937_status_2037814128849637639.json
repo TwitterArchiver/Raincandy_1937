@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037574301424271360"
+      ],
+      "media_source_tweet_id": [
+        "2037574666097709143"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2037814128849637639",
+    "created_at": "2026-03-28T08:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T09:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037814128849637639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "100399047",
+          "start": 3,
+          "username": "Tz_2022"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GYi8nQ7WWb",
+          "end": 64,
+          "expanded_url": "https://x.com/Tz_2022/status/2037574666097709143/photo/1",
+          "media_key": "3_2037574301424271360",
+          "start": 41,
+          "url": "https://t.co/GYi8nQ7WWb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037814128849637639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037574666097709143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tz_2022: 《论资本主义和社会主义的实际运作》\n中文翻译版本。。。 https://t.co/GYi8nQ7WWb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2037574301424271360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbrCBfbwAAD61N.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037574301424271360"
+          ],
+          "media_source_tweet_id": [
+            "2037574666097709143"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2037814128849637639",
+        "created_at": "2026-03-28T08:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T09:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037814128849637639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "100399047",
+              "start": 3,
+              "username": "Tz_2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GYi8nQ7WWb",
+              "end": 64,
+              "expanded_url": "https://x.com/Tz_2022/status/2037574666097709143/photo/1",
+              "media_key": "3_2037574301424271360",
+              "start": 41,
+              "url": "https://t.co/GYi8nQ7WWb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037814128849637639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037574666097709143",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tz_2022: 《论资本主义和社会主义的实际运作》\n中文翻译版本。。。 https://t.co/GYi8nQ7WWb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037574301424271360"
+          ]
+        },
+        "author_id": "100399047",
+        "conversation_id": "2037574666097709143",
+        "created_at": "2026-03-27T16:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T17:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037574666097709143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GYi8nQ7WWb",
+              "end": 51,
+              "expanded_url": "https://x.com/Tz_2022/status/2037574666097709143/photo/1",
+              "media_key": "3_2037574301424271360",
+              "start": 28,
+              "url": "https://t.co/GYi8nQ7WWb"
+            },
+            {
+              "display_url": "x.com/TheRabbitHole/…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/TheRabbitHole/status/2037565652924506517",
+              "start": 52,
+              "url": "https://t.co/64WkgT1WAg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037574666097709143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 11734,
+          "like_count": 190,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037565652924506517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《论资本主义和社会主义的实际运作》\n中文翻译版本。。。 https://t.co/GYi8nQ7WWb https://t.co/64WkgT1WAg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 1597,
+          "like_count": 14109,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 6500
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-30T04:06:23.000Z",
+        "description": "品味是一种异常值。→ tastes.md\nAI is the steam engine of the mind. \nAI 是心灵的蒸汽机。科幻是现实的有效坍塌。加速正在被加速。看，那千尺海啸正扑面而来，而我们还在海滩上捡垃圾。\n念念不忘，必有回响。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tastes.md",
+                "end": 23,
+                "expanded_url": "https://tastes.md",
+                "start": 0,
+                "url": "https://t.co/vbxodrKnzl"
+              }
+            ]
+          }
+        },
+        "id": "100399047",
+        "location": "Scotland, United Kingdom",
+        "name": "Tz",
+        "pinned_tweet_id": "1989145573434474625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579478276287905794/7-2NGiY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16886,
+          "following_count": 1512,
+          "like_count": 10720,
+          "listed_count": 232,
+          "media_count": 1586,
+          "tweet_count": 8006
+        },
+        "url": "https://t.co/vbxodrKnzl",
+        "username": "Tz_2022",
+        "verified": true
+      }
+    ]
+  }
+}

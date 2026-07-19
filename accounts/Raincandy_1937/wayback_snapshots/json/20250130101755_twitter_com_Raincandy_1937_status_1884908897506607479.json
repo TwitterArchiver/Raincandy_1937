@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1884420591882756406",
+    "created_at": "2025-01-30T10:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T11:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884908897506607479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1590065131878219778",
+          "start": 0,
+          "username": "Yunchenyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884908897506607479",
+    "in_reply_to_user_id": "1590065131878219778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884908634380947858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yunchenyi 我平时社交也比较少，也不知道这样表达合不合适🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1884420591882756406",
+        "created_at": "2025-01-30T10:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T11:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884908897506607479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1590065131878219778",
+              "start": 0,
+              "username": "Yunchenyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884908897506607479",
+        "in_reply_to_user_id": "1590065131878219778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884908634380947858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yunchenyi 我平时社交也比较少，也不知道这样表达合不合适🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590065131878219778",
+        "conversation_id": "1884420591882756406",
+        "created_at": "2025-01-30T10:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T11:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884908634380947858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1522094771136831488",
+              "start": 0,
+              "username": "Raincandy_1937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884908634380947858",
+        "in_reply_to_user_id": "1522094771136831488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884907232573472973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raincandy_1937 原来是这么想的吗，大概懂一些了。我的话平时社交太少，对这些事情不算很敏感？可能没看这些推文前就没觉得这些很重要，感觉人带着太多包袱会活的很累."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 695,
+          "like_count": 5314,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 2696
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T19:34:22.000Z",
+        "description": "要多少的话，一点点就好",
+        "id": "1590065131878219778",
+        "location": "Toronto, Ontario",
+        "name": "云辰逸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874729332217655296/AvNthXy3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "Yunchenyi",
+        "verified": false
+      }
+    ]
+  }
+}

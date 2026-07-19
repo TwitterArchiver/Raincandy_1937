@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2062655641815072794",
+    "created_at": "2026-06-05T12:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062879445120323768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1962302660541079552",
+          "start": 0,
+          "username": "yuerQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062879445120323768",
+    "in_reply_to_user_id": "1962302660541079552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062655641815072794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuerQwQ 掛我是吧😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2062527891511074816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-SMIjaYAAkFBb.jpg",
+        "width": 1267
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2062527915670323200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-SNijbQAAmaHn.jpg",
+        "width": 1267
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2062655641815072794",
+        "created_at": "2026-06-05T12:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062879445120323768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062879445120323768",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062655641815072794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 掛我是吧😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062527891511074816",
+            "3_2062527915670323200"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062655641815072794",
+        "created_at": "2026-06-04T22:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T23:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062655641815072794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3YcoPWkuzH",
+              "end": 37,
+              "expanded_url": "https://x.com/yuerQwQ/status/2062655641815072794/photo/1",
+              "media_key": "3_2062527891511074816",
+              "start": 14,
+              "url": "https://t.co/3YcoPWkuzH"
+            },
+            {
+              "display_url": "pic.x.com/3YcoPWkuzH",
+              "end": 37,
+              "expanded_url": "https://x.com/yuerQwQ/status/2062655641815072794/photo/1",
+              "media_key": "3_2062527915670323200",
+              "start": 14,
+              "url": "https://t.co/3YcoPWkuzH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062655641815072794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 240,
+          "impression_count": 35959,
+          "like_count": 890,
+          "quote_count": 17,
+          "reply_count": 16,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "QAQ\n可惜并没有谁喜欢我 https://t.co/3YcoPWkuzH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 1719,
+          "like_count": 16366,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 7130
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062829521649496428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 1056,
+          "like_count": 11811,
+          "listed_count": 1,
+          "media_count": 344,
+          "tweet_count": 2413
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

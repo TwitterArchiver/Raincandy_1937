@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043022455128887296"
+      ],
+      "media_source_tweet_id": [
+        "2043023132932608256"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2043283315504091499",
+    "created_at": "2026-04-12T11:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T12:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043283315504091499"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 18,
+          "tag": "magnet"
+        },
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "巡音ルカ"
+        },
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "初音ミク"
+        },
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "百合"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1919877978902953987",
+          "start": 3,
+          "username": "parttimers23"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P9N9UjNG6c",
+          "end": 65,
+          "expanded_url": "https://x.com/parttimers23/status/2043023132932608256/photo/1",
+          "media_key": "3_2043022455128887296",
+          "start": 42,
+          "url": "https://t.co/P9N9UjNG6c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043283315504091499",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1465
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043023132932608256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @parttimers23: #magnet #巡音ルカ #初音ミク #百合 https://t.co/P9N9UjNG6c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_2043022455128887296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFpGGToakAAi66G.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043022455128887296"
+          ],
+          "media_source_tweet_id": [
+            "2043023132932608256"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2043283315504091499",
+        "created_at": "2026-04-12T11:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043283315504091499"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "magnet"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "巡音ルカ"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "百合"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919877978902953987",
+              "start": 3,
+              "username": "parttimers23"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P9N9UjNG6c",
+              "end": 65,
+              "expanded_url": "https://x.com/parttimers23/status/2043023132932608256/photo/1",
+              "media_key": "3_2043022455128887296",
+              "start": 42,
+              "url": "https://t.co/P9N9UjNG6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043283315504091499",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1465
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043023132932608256",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @parttimers23: #magnet #巡音ルカ #初音ミク #百合 https://t.co/P9N9UjNG6c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043022455128887296"
+          ]
+        },
+        "author_id": "1919877978902953987",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2043023132932608256",
+        "created_at": "2026-04-11T17:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043023132932608256"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "magnet"
+            },
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "巡音ルカ"
+            },
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "百合"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P9N9UjNG6c",
+              "end": 47,
+              "expanded_url": "https://x.com/parttimers23/status/2043023132932608256/photo/1",
+              "media_key": "3_2043022455128887296",
+              "start": 24,
+              "url": "https://t.co/P9N9UjNG6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043023132932608256",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1372,
+          "impression_count": 134540,
+          "like_count": 14854,
+          "quote_count": 61,
+          "reply_count": 5,
+          "retweet_count": 1465
+        },
+        "reply_settings": "everyone",
+        "text": "#magnet #巡音ルカ #初音ミク #百合 https://t.co/P9N9UjNG6c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 1607,
+          "like_count": 14357,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 6596
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-06T22:12:47.000Z",
+        "description": "cos/성인♀/📷cosplay5272@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/parttimers23",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/parttimers23",
+                "start": 0,
+                "url": "https://t.co/nqPj469OjL"
+              }
+            ]
+          }
+        },
+        "id": "1919877978902953987",
+        "location": "말딸/아이마스/명방/페그오/붕스/무기미도/립구/⚜️ 등",
+        "name": "파트 パート",
+        "pinned_tweet_id": "2037132632035910031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040800713270517760/D_BTJtlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 915,
+          "like_count": 14396,
+          "listed_count": 13,
+          "media_count": 892,
+          "tweet_count": 5062
+        },
+        "url": "https://t.co/nqPj469OjL",
+        "username": "parttimers23",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1874263265892851712"
+      ],
+      "media_source_tweet_id": [
+        "1875818266578579750"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1875893616155206003",
+    "created_at": "2025-01-05T13:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T14:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875893616155206003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YSQla0Hm3X",
+          "end": 35,
+          "expanded_url": "https://x.com/Cldeop/status/1875818266578579750/photo/1",
+          "media_key": "3_1874263265892851712",
+          "start": 12,
+          "url": "https://t.co/YSQla0Hm3X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875893616155206003",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875818266578579750",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: https://t.co/YSQla0Hm3X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 250,
+        "media_key": "3_1874263265892851712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgK4gpMbYAA2dEY.png",
+        "width": 382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874263265892851712"
+          ],
+          "media_source_tweet_id": [
+            "1875818266578579750"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1875893616155206003",
+        "created_at": "2025-01-05T13:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T14:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875893616155206003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSQla0Hm3X",
+              "end": 35,
+              "expanded_url": "https://x.com/Cldeop/status/1875818266578579750/photo/1",
+              "media_key": "3_1874263265892851712",
+              "start": 12,
+              "url": "https://t.co/YSQla0Hm3X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875893616155206003",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875818266578579750",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cldeop: https://t.co/YSQla0Hm3X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874263265892851712"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1875818266578579750",
+        "created_at": "2025-01-05T08:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T09:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875818266578579750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSQla0Hm3X",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/1875818266578579750/photo/1",
+              "media_key": "3_1874263265892851712",
+              "start": 0,
+              "url": "https://t.co/YSQla0Hm3X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875818266578579750",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 22596,
+          "like_count": 532,
+          "quote_count": 16,
+          "reply_count": 96,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YSQla0Hm3X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 635,
+          "like_count": 4608,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 2375
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū\n推特见证每一种生物\n生活号@ACldJP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 22,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1874123551281991887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696802554318061568/M4Tec_5U_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50912,
+          "following_count": 522,
+          "like_count": 22682,
+          "listed_count": 179,
+          "media_count": 6921,
+          "tweet_count": 9893
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

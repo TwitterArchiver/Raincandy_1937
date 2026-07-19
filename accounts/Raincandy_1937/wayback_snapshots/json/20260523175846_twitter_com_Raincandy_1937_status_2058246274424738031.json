@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2058216195472716272",
+    "created_at": "2026-05-23T17:58:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T18:58:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058246274424738031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "349054800",
+          "start": 0,
+          "username": "nyalra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058246274424738031",
+    "in_reply_to_user_id": "349054800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058216195472716272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyalra その眼鏡は、何らかの封印のように見えるwww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2058216193627193344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJBAuSQbAAAwqYZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2058216193664962560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJBAuSZbUAABqBU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2058216195472716272",
+        "created_at": "2026-05-23T17:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058246274424738031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "349054800",
+              "start": 0,
+              "username": "nyalra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058246274424738031",
+        "in_reply_to_user_id": "349054800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058216195472716272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyalra その眼鏡は、何らかの封印のように見えるwww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058216193627193344",
+            "3_2058216193664962560"
+          ]
+        },
+        "author_id": "349054800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1248370550247849988",
+              "name": "Tokusatsu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248370550247849988",
+              "name": "Tokusatsu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2058216195472716272",
+        "created_at": "2026-05-23T15:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058216195472716272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DtQhd6S8tm",
+              "end": 161,
+              "expanded_url": "https://x.com/nyalra/status/2058216195472716272/photo/1",
+              "media_key": "3_2058216193627193344",
+              "start": 138,
+              "url": "https://t.co/DtQhd6S8tm"
+            },
+            {
+              "display_url": "pic.x.com/DtQhd6S8tm",
+              "end": 161,
+              "expanded_url": "https://x.com/nyalra/status/2058216195472716272/photo/1",
+              "media_key": "3_2058216193664962560",
+              "start": 138,
+              "url": "https://t.co/DtQhd6S8tm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058216195472716272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 14836,
+          "like_count": 975,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "NEEDY ANIME 8話ありがとうございました。\n\nここから話が動いてついに終盤です。\nいろんなロリポップ。お出かけ服の変装は甘く、あめちゃんじゃなくてもすぐに分かります。本人はあんまりバレてないと油断しつつ、特撮のオモチャなどを買いに行ってすぐファンに晒されています。 https://t.co/DtQhd6S8tm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 1690,
+          "like_count": 15598,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 6884
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-05T13:27:45.000Z",
+        "description": "◆https://t.co/2RlDkCWnQW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nyalra.net",
+                "end": 24,
+                "expanded_url": "https://nyalra.net",
+                "start": 1,
+                "url": "https://t.co/2RlDkCWnQW"
+              }
+            ]
+          }
+        },
+        "id": "349054800",
+        "name": "nyalra",
+        "pinned_tweet_id": "2005988774371864634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806370210762657792/GjnpN4qn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164976,
+          "following_count": 666,
+          "like_count": 395699,
+          "listed_count": 1107,
+          "media_count": 4201,
+          "tweet_count": 43609
+        },
+        "username": "nyalra",
+        "verified": true
+      }
+    ]
+  }
+}

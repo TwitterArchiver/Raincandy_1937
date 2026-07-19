@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2026956924168925439",
+    "created_at": "2026-02-26T09:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T10:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026956924168925439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GimmickSlop/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/GimmickSlop/status/2026371725290529221",
+          "start": 6,
+          "url": "https://t.co/TbMq9tdAWg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026956924168925439",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026371725290529221",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Don’t https://t.co/TbMq9tdAWg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1617,
+        "media_key": "3_2026371722446884864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB8eWGtX0AA4lK2.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2026956924168925439",
+        "created_at": "2026-02-26T09:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026956924168925439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GimmickSlop/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/GimmickSlop/status/2026371725290529221",
+              "start": 6,
+              "url": "https://t.co/TbMq9tdAWg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026956924168925439",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026371725290529221",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Don’t https://t.co/TbMq9tdAWg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026371722446884864"
+          ]
+        },
+        "author_id": "1371328580635009025",
+        "conversation_id": "2026371725290529221",
+        "created_at": "2026-02-24T19:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T20:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026371725290529221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtMyU4TbTW",
+              "end": 29,
+              "expanded_url": "https://x.com/GimmickSlop/status/2026371725290529221/photo/1",
+              "media_key": "3_2026371722446884864",
+              "start": 6,
+              "url": "https://t.co/EtMyU4TbTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026371725290529221",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13165,
+          "impression_count": 4487628,
+          "like_count": 221968,
+          "quote_count": 6848,
+          "reply_count": 2952,
+          "retweet_count": 25285
+        },
+        "reply_settings": "everyone",
+        "text": "Don’t https://t.co/EtMyU4TbTW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 1562,
+          "like_count": 13476,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 6212
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-15T05:13:11.000Z",
+        "description": "The worst slop to ever be posted (DM submissions)",
+        "id": "1371328580635009025",
+        "name": "Internet Slop",
+        "pinned_tweet_id": "1631428263196196864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736448630628745216/5lC675-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192841,
+          "following_count": 377,
+          "like_count": 1521,
+          "listed_count": 313,
+          "media_count": 3700,
+          "tweet_count": 3865
+        },
+        "username": "GimmickSlop",
+        "verified": true
+      }
+    ]
+  }
+}

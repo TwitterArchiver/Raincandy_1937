@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2058251842682015969",
+    "created_at": "2026-05-23T18:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T19:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058251842682015969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cutestscats/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/cutestscats/status/2057810004128989590",
+          "start": 7,
+          "url": "https://t.co/JcHhgxYdjZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058251842682015969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057810004128989590",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不吃壓力之貓 https://t.co/JcHhgxYdjZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36316,
+        "height": 718,
+        "media_key": "13_2057809931580162048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057809931580162048/img/Lprft3l-Z62wXciz.jpg",
+        "public_metrics": {
+          "view_count": 226517
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057809931580162048/vid/avc1/478x270/WpbjhefeKBcvqtlx.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057809931580162048/vid/avc1/638x360/3YiV-Ko2AykeoWaE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057809931580162048/vid/avc1/1276x718/28sBqfZL6G3qz9KC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057809931580162048/pl/z2VEsif7AT89Cp4m.m3u8"
+          }
+        ],
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2058251842682015969",
+        "created_at": "2026-05-23T18:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T19:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058251842682015969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cutestscats/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/cutestscats/status/2057810004128989590",
+              "start": 7,
+              "url": "https://t.co/JcHhgxYdjZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058251842682015969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057810004128989590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不吃壓力之貓 https://t.co/JcHhgxYdjZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057809931580162048"
+          ]
+        },
+        "author_id": "2784719126",
+        "conversation_id": "2057810004128989590",
+        "created_at": "2026-05-22T13:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057810004128989590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oLBTl8yE1H",
+              "end": 29,
+              "expanded_url": "https://x.com/cutestscats/status/2057810004128989590/video/1",
+              "media_key": "13_2057809931580162048",
+              "start": 6,
+              "url": "https://t.co/oLBTl8yE1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057810004128989590",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2756,
+          "impression_count": 791255,
+          "like_count": 50563,
+          "quote_count": 333,
+          "reply_count": 62,
+          "retweet_count": 9644
+        },
+        "reply_settings": "everyone",
+        "text": "relax https://t.co/oLBTl8yE1H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 1692,
+          "like_count": 15625,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 6892
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-01T21:24:44.000Z",
+        "description": "😺🐈  | dm for credit or removal.",
+        "id": "2784719126",
+        "name": "cutest cats",
+        "pinned_tweet_id": "2057810004128989590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703068667808780288/F-ujycv2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170043,
+          "following_count": 58853,
+          "like_count": 22714,
+          "listed_count": 512,
+          "media_count": 55522,
+          "tweet_count": 76928
+        },
+        "username": "cutestscats",
+        "verified": true
+      }
+    ]
+  }
+}

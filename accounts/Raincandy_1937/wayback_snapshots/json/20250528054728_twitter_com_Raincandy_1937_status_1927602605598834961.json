@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1927602150655377468",
+    "created_at": "2025-05-28T05:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T06:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927602605598834961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1160422458207326208",
+          "start": 0,
+          "username": "roketdan1"
+        },
+        {
+          "end": 27,
+          "id": "1890780517735473152",
+          "start": 11,
+          "username": "wtswaishiteruyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927602605598834961",
+    "in_reply_to_user_id": "1160422458207326208",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927602150655377468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@roketdan1 @wtswaishiteruyo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9733,
+        "height": 1024,
+        "media_key": "13_1753096716285358080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1753096716285358080/img/IjEQ73vldYs7_GlB.jpg",
+        "public_metrics": {
+          "view_count": 21577
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1753096716285358080/vid/avc1/320x568/1h2zCYbg5hmNbpOp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1753096716285358080/vid/avc1/480x852/ldc9Kz_9JobpvFJD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1753096716285358080/vid/avc1/576x1024/n7PwJ4Spf1oWJDbo.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1753096716285358080/pl/prN131RJ_tUSKawH.m3u8?tag=14"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1927602150655377468",
+        "created_at": "2025-05-28T05:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T06:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927602605598834961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1160422458207326208",
+              "start": 0,
+              "username": "roketdan1"
+            },
+            {
+              "end": 27,
+              "id": "1890780517735473152",
+              "start": 11,
+              "username": "wtswaishiteruyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927602605598834961",
+        "in_reply_to_user_id": "1160422458207326208",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927602150655377468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roketdan1 @wtswaishiteruyo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1753096716285358080"
+          ],
+          "media_source_tweet_id": [
+            "1927601982220423552"
+          ]
+        },
+        "author_id": "1160422458207326208",
+        "conversation_id": "1927602150655377468",
+        "created_at": "2025-05-28T05:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T06:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927602150655377468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JHz8O0k4Rr",
+              "end": 29,
+              "expanded_url": "https://x.com/cutestscats/status/1927601982220423552/video/1",
+              "media_key": "13_1753096716285358080",
+              "start": 6,
+              "url": "https://t.co/JHz8O0k4Rr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927602150655377468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "可愛い😂😂 https://t.co/JHz8O0k4Rr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 1123,
+          "like_count": 8342,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 4297
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-11T05:27:28.000Z",
+        "description": "🐾🙀進撃のCat🙀🐾（ネコの動画）※引用動画リツイートします。是非フォローよろしくお願いします！！！進撃のZoo @roketdan3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "roketdan3"
+              }
+            ]
+          }
+        },
+        "id": "1160422458207326208",
+        "location": "もふもふ",
+        "name": "進撃のCat",
+        "pinned_tweet_id": "1684360018978807808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1316417698159501313/ugfAn1M__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88378,
+          "following_count": 32794,
+          "like_count": 16360,
+          "listed_count": 453,
+          "media_count": 11155,
+          "tweet_count": 11594
+        },
+        "username": "roketdan1",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2025-02-15T15:09:54.000Z",
+        "description": "我是精神病",
+        "id": "1890780517735473152",
+        "name": "🐱にゃこ🇲🇰🌸",
+        "pinned_tweet_id": "1927347880655811042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925752373009428480/v5WjFZsg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 303,
+          "like_count": 11083,
+          "listed_count": 2,
+          "media_count": 268,
+          "tweet_count": 4041
+        },
+        "username": "wtswaishiteruyo",
+        "verified": false
+      }
+    ]
+  }
+}

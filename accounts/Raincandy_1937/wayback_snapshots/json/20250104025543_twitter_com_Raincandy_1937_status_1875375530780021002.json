@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1875269888824242447",
+    "created_at": "2025-01-04T02:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T03:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875375530780021002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1109080684419670017",
+          "start": 0,
+          "username": "EcstasyRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875375530780021002",
+    "in_reply_to_user_id": "1109080684419670017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875269888824242447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EcstasyRC 哦，米米嘟。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1875269888824242447",
+        "created_at": "2025-01-04T02:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T03:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875375530780021002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1109080684419670017",
+              "start": 0,
+              "username": "EcstasyRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875375530780021002",
+        "in_reply_to_user_id": "1109080684419670017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875269888824242447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EcstasyRC 哦，米米嘟。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1109080684419670017",
+        "conversation_id": "1875269888824242447",
+        "created_at": "2025-01-03T19:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T20:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875269888824242447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EcstasyRC/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/EcstasyRC/status/1875216439742980415",
+              "start": 19,
+              "url": "https://t.co/8MYZRyfNhy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875269888824242447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1187,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875216439742980415",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "rc真好看，如果她没有精神病就更好了 https://t.co/8MYZRyfNhy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 625,
+          "like_count": 4514,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 2330
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-22T13:13:35.000Z",
+        "description": "les/双相/有🚪88不线下/脾气暴躁\n\n孩子她妈@Yuki03aria的草莓双爆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Yuki03aria"
+              }
+            ]
+          }
+        },
+        "id": "1109080684419670017",
+        "location": "Living Memory",
+        "name": "草莓双爆",
+        "pinned_tweet_id": "1873811389032390685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873996038018895872/uP1C0n3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17026,
+          "following_count": 1630,
+          "like_count": 24532,
+          "listed_count": 40,
+          "media_count": 2117,
+          "tweet_count": 17882
+        },
+        "username": "EcstasyRC",
+        "verified": false
+      }
+    ]
+  }
+}

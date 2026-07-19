@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2066220917836169266",
+    "created_at": "2026-06-14T18:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T19:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066220917836169266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nyalra/status/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/nyalra/status/2066166497450590570",
+          "start": 6,
+          "url": "https://t.co/L5ANowtAXU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066220917836169266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066166497450590570",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是愛麗絲啊 https://t.co/L5ANowtAXU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4921,
+        "height": 480,
+        "media_key": "7_2066166489464573953",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066166489464573953/pu/img/IP3MwSkvRgTEoZWq.jpg",
+        "public_metrics": {
+          "view_count": 7164
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066166489464573953/pu/vid/avc1/480x270/kC1_WGoSZanzN-LM.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066166489464573953/pu/vid/avc1/640x360/jEG3D-OUlzwCVWFI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066166489464573953/pu/vid/avc1/854x480/IGM_mi11MY3oxAV2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066166489464573953/pu/pl/ZhLjMXea3XcwRMyr.m3u8"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2066220917836169266",
+        "created_at": "2026-06-14T18:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066220917836169266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyalra/status/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/nyalra/status/2066166497450590570",
+              "start": 6,
+              "url": "https://t.co/L5ANowtAXU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066220917836169266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066166497450590570",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是愛麗絲啊 https://t.co/L5ANowtAXU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066166489464573953"
+          ]
+        },
+        "author_id": "349054800",
+        "conversation_id": "2066166497450590570",
+        "created_at": "2026-06-14T14:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066166497450590570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jOJ3XDrLOA",
+              "end": 23,
+              "expanded_url": "https://x.com/nyalra/status/2066166497450590570/video/1",
+              "media_key": "7_2066166489464573953",
+              "start": 0,
+              "url": "https://t.co/jOJ3XDrLOA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066166497450590570",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 17599,
+          "like_count": 1290,
+          "quote_count": 14,
+          "reply_count": 11,
+          "retweet_count": 190
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jOJ3XDrLOA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 1737,
+          "like_count": 16648,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 7260
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-05T13:27:45.000Z",
+        "description": "◆https://t.co/2RlDkCWnQW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nyalra.net",
+                "end": 24,
+                "expanded_url": "https://nyalra.net",
+                "start": 1,
+                "url": "https://t.co/2RlDkCWnQW"
+              }
+            ]
+          }
+        },
+        "id": "349054800",
+        "name": "nyalra",
+        "pinned_tweet_id": "2005988774371864634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806370210762657792/GjnpN4qn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165255,
+          "following_count": 666,
+          "like_count": 393321,
+          "listed_count": 1108,
+          "media_count": 4230,
+          "tweet_count": 43820
+        },
+        "username": "nyalra",
+        "verified": true
+      }
+    ]
+  }
+}

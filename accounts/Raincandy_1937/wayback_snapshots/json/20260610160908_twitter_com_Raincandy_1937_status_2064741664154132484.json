@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2064741664154132484",
+    "created_at": "2026-06-10T16:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T17:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064741664154132484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1615158827376349185",
+          "start": 3,
+          "username": "MinMin89485072"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064741664154132484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064171161240666255",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MinMin89485072: 出生在中國是我這輩子最大的不幸。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2064741664154132484",
+        "created_at": "2026-06-10T16:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064741664154132484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1615158827376349185",
+              "start": 3,
+              "username": "MinMin89485072"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064741664154132484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064171161240666255",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MinMin89485072: 出生在中國是我這輩子最大的不幸。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615158827376349185",
+        "conversation_id": "2064171161240666255",
+        "created_at": "2026-06-09T02:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064171161240666255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064171161240666255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 156496,
+          "like_count": 2246,
+          "quote_count": 31,
+          "reply_count": 1012,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "出生在中國是我這輩子最大的不幸。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 1729,
+          "like_count": 16545,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 7215
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-17T01:28:17.000Z",
+        "description": "捍卫自由，享受自由",
+        "id": "1615158827376349185",
+        "location": "California, USA",
+        "name": "郑敏",
+        "pinned_tweet_id": "1752151508920197394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739811064005730304/_BfTzvUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14938,
+          "following_count": 841,
+          "like_count": 1048,
+          "listed_count": 70,
+          "media_count": 1185,
+          "tweet_count": 2940
+        },
+        "username": "MinMin89485072",
+        "verified": true
+      }
+    ]
+  }
+}

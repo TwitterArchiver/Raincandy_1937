@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996283147969843200"
+      ],
+      "media_source_tweet_id": [
+        "1996283435388698867"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1996492859869135142",
+    "created_at": "2025-12-04T08:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T09:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996492859869135142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1807910824918634496",
+          "start": 3,
+          "username": "suanrongyouyuxu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/veAu6zzZjx",
+          "end": 63,
+          "expanded_url": "https://x.com/suanrongyouyuxu/status/1996283435388698867/photo/1",
+          "media_key": "3_1996283147969843200",
+          "start": 40,
+          "url": "https://t.co/veAu6zzZjx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996492859869135142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996283435388698867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suanrongyouyuxu: 看到过最好的《进击的巨人》解读之一。 https://t.co/veAu6zzZjx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1996283147969843200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Q48kHXUAAS5Oi.jpg",
+        "width": 520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996283147969843200"
+          ],
+          "media_source_tweet_id": [
+            "1996283435388698867"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1996492859869135142",
+        "created_at": "2025-12-04T08:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T09:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996492859869135142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1807910824918634496",
+              "start": 3,
+              "username": "suanrongyouyuxu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/veAu6zzZjx",
+              "end": 63,
+              "expanded_url": "https://x.com/suanrongyouyuxu/status/1996283435388698867/photo/1",
+              "media_key": "3_1996283147969843200",
+              "start": 40,
+              "url": "https://t.co/veAu6zzZjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996492859869135142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996283435388698867",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suanrongyouyuxu: 看到过最好的《进击的巨人》解读之一。 https://t.co/veAu6zzZjx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996283147969843200"
+          ]
+        },
+        "author_id": "1807910824918634496",
+        "conversation_id": "1996283435388698867",
+        "created_at": "2025-12-03T18:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T19:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996283435388698867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/veAu6zzZjx",
+              "end": 42,
+              "expanded_url": "https://x.com/suanrongyouyuxu/status/1996283435388698867/photo/1",
+              "media_key": "3_1996283147969843200",
+              "start": 19,
+              "url": "https://t.co/veAu6zzZjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996283435388698867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 12642,
+          "like_count": 187,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "看到过最好的《进击的巨人》解读之一。 https://t.co/veAu6zzZjx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 1468,
+          "like_count": 12196,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 5702
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T22:55:21.000Z",
+        "description": "人在海外/有政治推，有生活推，也有碎碎念/川粉、方粉、粉红会直接毙/魔怔人、爹味爆表的也会毙/是坚定的LGBTQ支持者/犬儒主义一生之敌/有表达欲/政治光谱是温和左派/坚持DEI原则/想要认识有趣的人",
+        "id": "1807910824918634496",
+        "name": "蒜蓉鱿鱼须",
+        "pinned_tweet_id": "1858686395151524238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879574101750059008/DyN1I1bV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2925,
+          "following_count": 243,
+          "like_count": 4921,
+          "listed_count": 18,
+          "media_count": 235,
+          "tweet_count": 2877
+        },
+        "username": "suanrongyouyuxu",
+        "verified": true
+      }
+    ]
+  }
+}

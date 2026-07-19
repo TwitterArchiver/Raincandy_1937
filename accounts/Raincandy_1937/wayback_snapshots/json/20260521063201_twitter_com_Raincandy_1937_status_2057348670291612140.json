@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2056683055922962432"
+      ],
+      "media_source_tweet_id": [
+        "2056829746365755436"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2057348670291612140",
+    "created_at": "2026-05-21T06:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T07:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057348670291612140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "43352138",
+          "start": 3,
+          "username": "heart_jpg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AHEitXC52B",
+          "end": 61,
+          "expanded_url": "https://x.com/heart_jpg/status/2056829746365755436/video/1",
+          "media_key": "13_2056683055922962432",
+          "start": 38,
+          "url": "https://t.co/AHEitXC52B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057348670291612140",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6695
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056829746365755436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @heart_jpg: no thoughts, just spin https://t.co/AHEitXC52B"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9938,
+        "height": 1280,
+        "media_key": "13_2056683055922962432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056683055922962432/img/jkOlJwt0S6ubk6xy.jpg",
+        "public_metrics": {
+          "view_count": 152107
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056683055922962432/vid/avc1/320x568/5He36avwckptJ-lg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056683055922962432/vid/avc1/480x852/3rLNimp1uuxha--7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056683055922962432/vid/avc1/720x1280/s7FbQJ9GBIu9xqDQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056683055922962432/pl/y3A46-inf-JONdCj.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056683055922962432"
+          ],
+          "media_source_tweet_id": [
+            "2056829746365755436"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2057348670291612140",
+        "created_at": "2026-05-21T06:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057348670291612140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "43352138",
+              "start": 3,
+              "username": "heart_jpg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AHEitXC52B",
+              "end": 61,
+              "expanded_url": "https://x.com/heart_jpg/status/2056829746365755436/video/1",
+              "media_key": "13_2056683055922962432",
+              "start": 38,
+              "url": "https://t.co/AHEitXC52B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057348670291612140",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6695
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056829746365755436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @heart_jpg: no thoughts, just spin https://t.co/AHEitXC52B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056683055922962432"
+          ]
+        },
+        "author_id": "43352138",
+        "conversation_id": "2056829746365755436",
+        "created_at": "2026-05-19T20:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T21:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056829746365755436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AHEitXC52B",
+              "end": 46,
+              "expanded_url": "https://x.com/heart_jpg/status/2056829746365755436/video/1",
+              "media_key": "13_2056683055922962432",
+              "start": 23,
+              "url": "https://t.co/AHEitXC52B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056829746365755436",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2706,
+          "impression_count": 549913,
+          "like_count": 29560,
+          "quote_count": 573,
+          "reply_count": 87,
+          "retweet_count": 6695
+        },
+        "reply_settings": "everyone",
+        "text": "no thoughts, just spin https://t.co/AHEitXC52B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 1679,
+          "like_count": 15435,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 6849
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-29T15:41:23.000Z",
+        "description": "",
+        "id": "43352138",
+        "name": "♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844735729269927937/8adAg1KF_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219954,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 528,
+          "media_count": 5937,
+          "tweet_count": 6144
+        },
+        "username": "heart_jpg",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2060185347938480154",
+    "created_at": "2026-05-29T15:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060378090279448805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "305332545",
+          "start": 0,
+          "username": "Thelenhadoor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060378090279448805",
+    "in_reply_to_user_id": "305332545",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060185347938480154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thelenhadoor 摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1647,
+        "media_key": "3_2060185342422974465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJc_p1KWgAEmoYf.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2060185347938480154",
+        "created_at": "2026-05-29T15:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060378090279448805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "305332545",
+              "start": 0,
+              "username": "Thelenhadoor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060378090279448805",
+        "in_reply_to_user_id": "305332545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060185347938480154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thelenhadoor 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060185342422974465"
+          ]
+        },
+        "author_id": "305332545",
+        "conversation_id": "2060185347938480154",
+        "created_at": "2026-05-29T02:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060185347938480154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3kkra2pbU5",
+              "end": 81,
+              "expanded_url": "https://x.com/Thelenhadoor/status/2060185347938480154/photo/1",
+              "media_key": "3_2060185342422974465",
+              "start": 58,
+              "url": "https://t.co/3kkra2pbU5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060185347938480154",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 78545,
+          "like_count": 12544,
+          "quote_count": 8,
+          "reply_count": 232,
+          "retweet_count": 292
+        },
+        "reply_settings": "everyone",
+        "text": "PARA AQUELES QUE NÃO IGNORAM O GATO: 11 ANOS DE BOA SORTE https://t.co/3kkra2pbU5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 1710,
+          "like_count": 15971,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 6987
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-26T01:23:40.000Z",
+        "description": "ANGEL BY THE WINGS ⚡️ P ❤️💍",
+        "id": "305332545",
+        "location": "Los Angeles, CA",
+        "name": "Easy 🅰️",
+        "pinned_tweet_id": "2025248689363497205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046411547636072448/33Qr6eZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44235,
+          "following_count": 21950,
+          "like_count": 25802,
+          "listed_count": 17,
+          "media_count": 662,
+          "tweet_count": 66863
+        },
+        "username": "Thelenhadoor",
+        "verified": true
+      }
+    ]
+  }
+}

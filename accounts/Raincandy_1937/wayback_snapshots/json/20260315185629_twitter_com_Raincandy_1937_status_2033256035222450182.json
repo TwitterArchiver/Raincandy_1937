@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033108370870411265",
+        "3_2033108370883006464",
+        "3_2033108371113734144",
+        "3_2033108370874667008"
+      ],
+      "media_source_tweet_id": [
+        "2033108378776490066",
+        "2033108378776490066",
+        "2033108378776490066",
+        "2033108378776490066"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2033256035222450182",
+    "created_at": "2026-03-15T18:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T19:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033256035222450182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1345333468213874688",
+          "start": 3,
+          "username": "SakunaiHinata"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y6tDFcDy7x",
+          "end": 108,
+          "expanded_url": "https://x.com/SakunaiHinata/status/2033108378776490066/photo/1",
+          "media_key": "3_2033108370870411265",
+          "start": 85,
+          "url": "https://t.co/Y6tDFcDy7x"
+        },
+        {
+          "display_url": "pic.x.com/Y6tDFcDy7x",
+          "end": 108,
+          "expanded_url": "https://x.com/SakunaiHinata/status/2033108378776490066/photo/1",
+          "media_key": "3_2033108370883006464",
+          "start": 85,
+          "url": "https://t.co/Y6tDFcDy7x"
+        },
+        {
+          "display_url": "pic.x.com/Y6tDFcDy7x",
+          "end": 108,
+          "expanded_url": "https://x.com/SakunaiHinata/status/2033108378776490066/photo/1",
+          "media_key": "3_2033108371113734144",
+          "start": 85,
+          "url": "https://t.co/Y6tDFcDy7x"
+        },
+        {
+          "display_url": "pic.x.com/Y6tDFcDy7x",
+          "end": 108,
+          "expanded_url": "https://x.com/SakunaiHinata/status/2033108378776490066/photo/1",
+          "media_key": "3_2033108370874667008",
+          "start": 85,
+          "url": "https://t.co/Y6tDFcDy7x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033256035222450182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033108378776490066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakunaiHinata: 台灣人不知道的：為什麼中國人不尊重私有財產，認為世界都是他們的，就是因為中國的「思想品德(現在是「道德與法制」)」教授的內容有關… https://t.co/Y6tDFcDy7x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 283,
+        "media_key": "3_2033108370870411265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDcNSpuaoAEZGP8.jpg",
+        "width": 640
+      },
+      {
+        "height": 511,
+        "media_key": "3_2033108370883006464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDcNSpxa0AArX4B.jpg",
+        "width": 650
+      },
+      {
+        "height": 429,
+        "media_key": "3_2033108371113734144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDcNSqobcAAjdcz.jpg",
+        "width": 645
+      },
+      {
+        "height": 487,
+        "media_key": "3_2033108370874667008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDcNSpvbkAA3jzg.jpg",
+        "width": 670
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033108370870411265",
+            "3_2033108370883006464",
+            "3_2033108371113734144",
+            "3_2033108370874667008"
+          ],
+          "media_source_tweet_id": [
+            "2033108378776490066",
+            "2033108378776490066",
+            "2033108378776490066",
+            "2033108378776490066"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2033256035222450182",
+        "created_at": "2026-03-15T18:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T19:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033256035222450182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1345333468213874688",
+              "start": 3,
+              "username": "SakunaiHinata"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y6tDFcDy7x",
+              "end": 108,
+              "expanded_url": "https://x.com/SakunaiHinata/status/2033108378776490066/photo/1",
+              "media_key": "3_2033108370870411265",
+              "start": 85,
+              "url": "https://t.co/Y6tDFcDy7x"
+            },
+            {
+              "display_url": "pic.x.com/Y6tDFcDy7x",
+              "end": 108,
+              "expanded_url": "https://x.com/SakunaiHinata/status/2033108378776490066/photo/1",
+              "media_key": "3_2033108370883006464",
+              "start": 85,
+              "url": "https://t.co/Y6tDFcDy7x"
+            },
+            {
+              "display_url": "pic.x.com/Y6tDFcDy7x",
+              "end": 108,
+              "expanded_url": "https://x.com/SakunaiHinata/status/2033108378776490066/photo/1",
+              "media_key": "3_2033108371113734144",
+              "start": 85,
+              "url": "https://t.co/Y6tDFcDy7x"
+            },
+            {
+              "display_url": "pic.x.com/Y6tDFcDy7x",
+              "end": 108,
+              "expanded_url": "https://x.com/SakunaiHinata/status/2033108378776490066/photo/1",
+              "media_key": "3_2033108370874667008",
+              "start": 85,
+              "url": "https://t.co/Y6tDFcDy7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033256035222450182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033108378776490066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakunaiHinata: 台灣人不知道的：為什麼中國人不尊重私有財產，認為世界都是他們的，就是因為中國的「思想品德(現在是「道德與法制」)」教授的內容有關… https://t.co/Y6tDFcDy7x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033108370870411265",
+            "3_2033108370883006464",
+            "3_2033108371113734144",
+            "3_2033108370874667008"
+          ]
+        },
+        "author_id": "1345333468213874688",
+        "conversation_id": "2033108378776490066",
+        "created_at": "2026-03-15T09:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T10:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033108378776490066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y6tDFcDy7x",
+              "end": 88,
+              "expanded_url": "https://x.com/SakunaiHinata/status/2033108378776490066/photo/1",
+              "media_key": "3_2033108370870411265",
+              "start": 65,
+              "url": "https://t.co/Y6tDFcDy7x"
+            },
+            {
+              "display_url": "pic.x.com/Y6tDFcDy7x",
+              "end": 88,
+              "expanded_url": "https://x.com/SakunaiHinata/status/2033108378776490066/photo/1",
+              "media_key": "3_2033108370883006464",
+              "start": 65,
+              "url": "https://t.co/Y6tDFcDy7x"
+            },
+            {
+              "display_url": "pic.x.com/Y6tDFcDy7x",
+              "end": 88,
+              "expanded_url": "https://x.com/SakunaiHinata/status/2033108378776490066/photo/1",
+              "media_key": "3_2033108371113734144",
+              "start": 65,
+              "url": "https://t.co/Y6tDFcDy7x"
+            },
+            {
+              "display_url": "pic.x.com/Y6tDFcDy7x",
+              "end": 88,
+              "expanded_url": "https://x.com/SakunaiHinata/status/2033108378776490066/photo/1",
+              "media_key": "3_2033108370874667008",
+              "start": 65,
+              "url": "https://t.co/Y6tDFcDy7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033108378776490066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "台灣人不知道的：為什麼中國人不尊重私有財產，認為世界都是他們的，就是因為中國的「思想品德(現在是「道德與法制」)」教授的內容有關\n\n比如中國八年級(中學二年)下冊的「道德與法治(思想品德)」的教科書就有講到「公有制」和「非公有制」，中國教科書並不會講「私有制」，而會講「非公有制」，而且這個「非公有制」還要是中國特色社會主義以主體領導下等樣子，記得以前聽中學的思想品德的擔任講過：「非公有制在實現真正的共產主義後就會變成公有制，所有非公有的財產都會成為大家擁有的公有財產」，這就是中國特色社會主義最可怕的地方，不僅僅你的不動產隨時可能不再是你自己的，甚至你的命也是，只要為了「黨和國家」，就要「捨小家為大家」犧牲自己成全那些特權階級\n\n正是因為這樣的教育，所以各位台灣人應該可以經常看到中國人在中國國外擅闖別人的私人領地和隨便拿別人分東西，因為中國人的思想就是「放在外面的東西就是大家的，我也可以拿」，連日本人都大呼「無法和中國人共生」，日本人也受夠了那群「無產主義者」\n\n中國小學的「思想品德」授業還算正常，但是到了中學就會開始給你灌輸中國共產黨和中國特色社會主義甚至現在的習近平三小思想，這就是中國最重要的洗腦教育，而中國的國際學校和日本人學校等非公立學校可以免教「思想品德」，用「社會人文」替代，如果想要了解中国人的思想，可以從中國的「思想品德(道德與法治)」教科書入手，電子版書籍連結我會放回覆欄"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 9958,
+          "like_count": 167,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "台灣人不知道的：為什麼中國人不尊重私有財產，認為世界都是他們的，就是因為中國的「思想品德(現在是「道德與法制」)」教授的內容有關 https://t.co/Y6tDFcDy7x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 1572,
+          "like_count": 13759,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 6368
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-02T11:38:04.000Z",
+        "description": "Japanese Railfan // デジタル模型鉄 // 川越市出身非ネイティブ日本人 // 中国漢語母語話者(台湾中文・日本語訛り) // 知中派&親台家 // 日台友好一中一台 //多趣味雑多 // 台派・台湾建国派と連帯 // 反ポリコレ // キャラ設は東津萌米穂姫 // 我不是台灣人",
+        "id": "1345333468213874688",
+        "location": "武蔵共和国高麗郡飯能市",
+        "name": "咲内ひなた",
+        "pinned_tweet_id": "2019616168076812673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021542204486123520/u2C_LqZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12549,
+          "following_count": 2252,
+          "like_count": 51776,
+          "listed_count": 43,
+          "media_count": 14991,
+          "tweet_count": 32470
+        },
+        "username": "SakunaiHinata",
+        "verified": true
+      }
+    ]
+  }
+}

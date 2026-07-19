@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2057987877611438196",
+    "created_at": "2026-05-30T02:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T03:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060543873500557757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1723177835102363648",
+          "start": 0,
+          "username": "ame_daily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060543873500557757",
+    "in_reply_to_user_id": "1723177835102363648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057987877611438196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ame_daily 真理www"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 418,
+        "media_key": "3_2057262738620153856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIzdj5kaAAAwLzH.jpg",
+        "width": 1127
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2057987877611438196",
+        "created_at": "2026-05-30T02:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060543873500557757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1723177835102363648",
+              "start": 0,
+              "username": "ame_daily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060543873500557757",
+        "in_reply_to_user_id": "1723177835102363648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057987877611438196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ame_daily 真理www"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057262738620153856"
+          ]
+        },
+        "author_id": "1723177835102363648",
+        "conversation_id": "2057987877611438196",
+        "created_at": "2026-05-23T00:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T01:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057987877611438196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HCsEDmdpG8",
+              "end": 23,
+              "expanded_url": "https://x.com/ame_daily/status/2057987877611438196/photo/1",
+              "media_key": "3_2057262738620153856",
+              "start": 0,
+              "url": "https://t.co/HCsEDmdpG8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057987877611438196",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1303,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HCsEDmdpG8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 1715,
+          "like_count": 16033,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 7002
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T03:16:50.000Z",
+        "description": "˚₊‧꒰ა ♱ ໒꒱ ‧₊˚ spoilers + tws !    中/eng/少し日",
+        "id": "1723177835102363648",
+        "location": "scheduled daily posts",
+        "name": "daily ame🥀(and some kangel)",
+        "pinned_tweet_id": "1907438645663187283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852758439208042496/p0V3Enyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8813,
+          "following_count": 10,
+          "like_count": 1031,
+          "listed_count": 7,
+          "media_count": 764,
+          "tweet_count": 1382
+        },
+        "username": "ame_daily",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010498604650418176"
+      ],
+      "media_source_tweet_id": [
+        "2010498607146016933"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2010728077580779695",
+    "created_at": "2026-01-12T14:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T15:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010728077580779695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1134573812111020032",
+          "start": 3,
+          "username": "BoLu213"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9xdBUcozyi",
+          "end": 62,
+          "expanded_url": "https://x.com/BoLu213/status/2010498607146016933/photo/1",
+          "media_key": "3_2010498604650418176",
+          "start": 39,
+          "url": "https://t.co/9xdBUcozyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010728077580779695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 364
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010498607146016933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BoLu213: 可叹当年香港人民的抗争，全世界都视而不见。。。。。 https://t.co/9xdBUcozyi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2010498604650418176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-a51C-bUAA_XOd.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010498604650418176"
+          ],
+          "media_source_tweet_id": [
+            "2010498607146016933"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2010728077580779695",
+        "created_at": "2026-01-12T14:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T15:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010728077580779695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1134573812111020032",
+              "start": 3,
+              "username": "BoLu213"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9xdBUcozyi",
+              "end": 62,
+              "expanded_url": "https://x.com/BoLu213/status/2010498607146016933/photo/1",
+              "media_key": "3_2010498604650418176",
+              "start": 39,
+              "url": "https://t.co/9xdBUcozyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010728077580779695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 364
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010498607146016933",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BoLu213: 可叹当年香港人民的抗争，全世界都视而不见。。。。。 https://t.co/9xdBUcozyi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010498604650418176"
+          ]
+        },
+        "author_id": "1134573812111020032",
+        "conversation_id": "2010498607146016933",
+        "created_at": "2026-01-11T23:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T00:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010498607146016933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9xdBUcozyi",
+              "end": 49,
+              "expanded_url": "https://x.com/BoLu213/status/2010498607146016933/photo/1",
+              "media_key": "3_2010498604650418176",
+              "start": 26,
+              "url": "https://t.co/9xdBUcozyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010498607146016933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 215,
+          "impression_count": 352209,
+          "like_count": 4059,
+          "quote_count": 22,
+          "reply_count": 305,
+          "retweet_count": 364
+        },
+        "reply_settings": "everyone",
+        "text": "可叹当年香港人民的抗争，全世界都视而不见。。。。。 https://t.co/9xdBUcozyi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 1525,
+          "like_count": 12924,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 5989
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-31T21:34:10.000Z",
+        "description": "1989年6月4日，反抗独裁专制权贵统治的中国人被中共暴政镇压，但从此埋下一粒粒火种。2020年的6月4日，全球反抗共产党暴政的中国人在Miles Guo引领下，建立了自己的准国家新中国联邦。。。一切都已经开始！",
+        "id": "1134573812111020032",
+        "location": "USA",
+        "name": "BoLu文龍",
+        "pinned_tweet_id": "1816350555951771713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008060367482572800/kpBEyrAN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32905,
+          "following_count": 5478,
+          "like_count": 35639,
+          "listed_count": 80,
+          "media_count": 6231,
+          "tweet_count": 65561
+        },
+        "username": "BoLu213",
+        "verified": false
+      }
+    ]
+  }
+}

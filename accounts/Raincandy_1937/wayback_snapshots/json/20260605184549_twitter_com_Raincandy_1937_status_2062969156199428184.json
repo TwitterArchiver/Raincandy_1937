@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2062969156199428184",
+    "created_at": "2026-06-05T18:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T19:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062969156199428184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fraiisiemimi/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/fraiisiemimi/status/2062727955218895128",
+          "start": 5,
+          "url": "https://t.co/1YkZiqFnxf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062969156199428184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062727955218895128",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如此萌！ https://t.co/1YkZiqFnxf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2894,
+        "media_key": "3_2062727746304749568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBH9NrWMAAnZsz.jpg",
+        "width": 4093
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2062969156199428184",
+        "created_at": "2026-06-05T18:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062969156199428184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fraiisiemimi/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/fraiisiemimi/status/2062727955218895128",
+              "start": 5,
+              "url": "https://t.co/1YkZiqFnxf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062969156199428184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062727955218895128",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如此萌！ https://t.co/1YkZiqFnxf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062727746304749568"
+          ]
+        },
+        "author_id": "2004668905655328768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2062727955218895128",
+        "created_at": "2026-06-05T02:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062727955218895128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TUjUZ4L7QJ",
+              "end": 49,
+              "expanded_url": "https://x.com/fraiisiemimi/status/2062727955218895128/photo/1",
+              "media_key": "3_2062727746304749568",
+              "start": 26,
+              "url": "https://t.co/TUjUZ4L7QJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062727955218895128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 818,
+          "impression_count": 62343,
+          "like_count": 7488,
+          "quote_count": 31,
+          "reply_count": 8,
+          "retweet_count": 1671
+        },
+        "reply_settings": "everyone",
+        "text": "ニーゴ × NEEDY GIRL OVERDOSE https://t.co/TUjUZ4L7QJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 1722,
+          "like_count": 16396,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 7143
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T21:41:37.000Z",
+        "description": "𝒊𝒍𝒍𝒖𝒔𝒕𝒓𝒂𝒕𝒐𝒓 ♡ she/her ‧ pjsk & oc | comms open 💌˙⟡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fraisiepedia.straw.page",
+                "end": 23,
+                "expanded_url": "https://fraisiepedia.straw.page/",
+                "start": 0,
+                "url": "https://t.co/QCp0uDHlXy"
+              }
+            ]
+          }
+        },
+        "id": "2004668905655328768",
+        "name": "𝑨𝒅𝒊𝒆 ♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059398144173981696/gtVB7525_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 229,
+          "like_count": 958,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 205
+        },
+        "url": "https://t.co/QCp0uDHlXy",
+        "username": "fraiisiemimi",
+        "verified": false
+      }
+    ]
+  }
+}

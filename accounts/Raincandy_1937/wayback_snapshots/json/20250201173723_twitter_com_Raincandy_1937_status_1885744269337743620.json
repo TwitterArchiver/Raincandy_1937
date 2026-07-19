@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1885744269337743620",
+    "created_at": "2025-02-01T17:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T18:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885744269337743620"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AkaNpc/status/…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/AkaNpc/status/1885519039302426849",
+          "start": 54,
+          "url": "https://t.co/Mq68M7ovWj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885744269337743620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885519039302426849",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一开始我会觉得“这是我应得的”\n后来我发现爱才是我应得的，因为我曾经给予过所以我值得同样无偿无私无暇的回报 https://t.co/Mq68M7ovWj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1885744269337743620",
+        "created_at": "2025-02-01T17:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T18:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885744269337743620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AkaNpc/status/…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/AkaNpc/status/1885519039302426849",
+              "start": 54,
+              "url": "https://t.co/Mq68M7ovWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885744269337743620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885519039302426849",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一开始我会觉得“这是我应得的”\n后来我发现爱才是我应得的，因为我曾经给予过所以我值得同样无偿无私无暇的回报 https://t.co/Mq68M7ovWj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864468641305251844",
+        "conversation_id": "1885519039302426849",
+        "created_at": "2025-02-01T02:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T03:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885519039302426849"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885519039302426849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 34898,
+          "like_count": 487,
+          "quote_count": 12,
+          "reply_count": 36,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "好好思考你因为想要爱而接受了多少不尊重"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 697,
+          "like_count": 5347,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 2719
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T00:35:51.000Z",
+        "description": "做S会笑场，做M会还手☁️活着玩玩的，什么都没当真至少要见面上万次｜ 随心+v",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akanpc",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akanpc",
+                "start": 0,
+                "url": "https://t.co/axvcrnKSfM"
+              }
+            ]
+          }
+        },
+        "id": "1864468641305251844",
+        "location": "迷失表參道",
+        "name": "曼醬⛓︎（过年回家争家产版）",
+        "pinned_tweet_id": "1868660805266473000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872590302583926785/o3oKSA94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1650,
+          "following_count": 50,
+          "like_count": 4953,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 1007
+        },
+        "url": "https://t.co/axvcrnKSfM",
+        "username": "AkaNpc",
+        "verified": false
+      }
+    ]
+  }
+}

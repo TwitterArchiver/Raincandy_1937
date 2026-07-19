@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2068563464881312218",
+    "created_at": "2026-06-21T05:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068563464881312218"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_ropu/status/2…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/_ropu/status/2068537939207098543",
+          "start": 41,
+          "url": "https://t.co/s7vP5VvYhY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068563464881312218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068537939207098543",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我更好奇頭獎是什麼\n難道可樂也跟假面騎士一樣有強化形態？\n我沒喝過欸，有知道的嗎 https://t.co/s7vP5VvYhY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2068537932672290816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTsSklaUAAWrmW.jpg",
+        "width": 731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2068563464881312218",
+        "created_at": "2026-06-21T05:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068563464881312218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_ropu/status/2…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/_ropu/status/2068537939207098543",
+              "start": 41,
+              "url": "https://t.co/s7vP5VvYhY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068563464881312218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068537939207098543",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我更好奇頭獎是什麼\n難道可樂也跟假面騎士一樣有強化形態？\n我沒喝過欸，有知道的嗎 https://t.co/s7vP5VvYhY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068537932672290816"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "conversation_id": "2068537939207098543",
+        "created_at": "2026-06-21T03:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068537939207098543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/epZInOvMvK",
+              "end": 48,
+              "expanded_url": "https://x.com/_ropu/status/2068537939207098543/photo/1",
+              "media_key": "3_2068537932672290816",
+              "start": 25,
+              "url": "https://t.co/epZInOvMvK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068537939207098543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 373,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么什么东西都能被做成盲盒呢\n\n矿泉水也不例外 https://t.co/epZInOvMvK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 1771,
+          "like_count": 16920,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 7362
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| ロプ＝Rophlis || きゅうけつ || お姉さん @Cchang3243 || CN/JP/EN ○ || 直fo是感兴趣的意思 || 另一个账号 @_roopuu ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Cchang3243"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "_roopuu"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ",
+        "pinned_tweet_id": "2068562063065227762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068343508675821568/qmIZj7zt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31829,
+          "following_count": 4670,
+          "like_count": 16655,
+          "listed_count": 35,
+          "media_count": 4929,
+          "tweet_count": 36097
+        },
+        "url": "",
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

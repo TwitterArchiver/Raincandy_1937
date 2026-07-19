@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Journalism",
+          "id": "1074755369530880001",
+          "name": "Journalists"
+        }
+      }
+    ],
+    "conversation_id": "2054977081612833082",
+    "created_at": "2026-05-14T17:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T18:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054977081612833082"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Koiramako/stat…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/Koiramako/status/2051868016430952528",
+          "start": 27,
+          "url": "https://t.co/dUjUwgxMX5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054977081612833082",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051868016430952528",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "この問題が社会から広く注目を集めることを期待する🙏🏻 https://t.co/dUjUwgxMX5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          }
+        ],
+        "conversation_id": "2054977081612833082",
+        "created_at": "2026-05-14T17:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054977081612833082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Koiramako/stat…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Koiramako/status/2051868016430952528",
+              "start": 27,
+              "url": "https://t.co/dUjUwgxMX5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054977081612833082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051868016430952528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "この問題が社会から広く注目を集めることを期待する🙏🏻 https://t.co/dUjUwgxMX5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2279862696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Korean Broadcasting System. This entity includes all channels that belong to the KBS umbrella organization.",
+              "id": "1063478305150533632",
+              "name": "KBS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Korean Broadcasting System. This entity includes all channels that belong to the KBS umbrella organization.",
+              "id": "1063478305150533632",
+              "name": "KBS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          }
+        ],
+        "conversation_id": "2051868016430952528",
+        "created_at": "2026-05-06T03:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T04:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051868016430952528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kbsnews/status…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/kbsnews/status/2051851946294997324",
+              "start": 137,
+              "url": "https://t.co/QiTSdIDTdc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051868016430952528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 62303,
+          "like_count": 2964,
+          "quote_count": 16,
+          "reply_count": 3,
+          "retweet_count": 741
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051851946294997324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "友人のお子さんが精神科閉鎖病棟で複数回性被害に遭った。そのことを複数の弁護士や政治家に相談したが、誰も助けてくれなかった。有名な性暴力取材をしている大新聞の記者たちにもお願いしたが、スルーされた。本当に酷い。\nようやく明るみに出るような時代になったのか。\n改善してほしい。 https://t.co/QiTSdIDTdc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 1660,
+          "like_count": 15184,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 6788
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-07T02:04:04.000Z",
+        "description": "Journalist Former broadcaster Victim/Survivor Focus Trauma-Informed Care Feminism Sex education Nordic model #metoo https://t.co/XpUnM0C3N8",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 109,
+                "tag": "metoo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "note.com/utss2020/n/n03…",
+                "end": 139,
+                "expanded_url": "https://note.com/utss2020/n/n03c367afe5ec",
+                "start": 116,
+                "url": "https://t.co/XpUnM0C3N8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/utss2020/n/n03…",
+                "end": 23,
+                "expanded_url": "https://note.com/utss2020/n/n03c367afe5ec",
+                "start": 0,
+                "url": "https://t.co/XpUnM0C3N8"
+              }
+            ]
+          }
+        },
+        "id": "2279862696",
+        "location": "日本 東京",
+        "name": "郡司真子/ Masako GUNJI",
+        "pinned_tweet_id": "1801717001758589362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604796644905537536/8Nvnq_DG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26396,
+          "following_count": 17086,
+          "like_count": 616073,
+          "listed_count": 387,
+          "media_count": 2317,
+          "tweet_count": 488673
+        },
+        "url": "https://t.co/XpUnM0C3N8",
+        "username": "Koiramako",
+        "verified": true
+      }
+    ]
+  }
+}

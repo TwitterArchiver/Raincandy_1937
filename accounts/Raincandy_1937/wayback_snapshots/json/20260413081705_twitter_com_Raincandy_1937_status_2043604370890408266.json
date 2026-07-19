@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2043604370890408266",
+    "created_at": "2026-04-13T08:17:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T09:17:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043604370890408266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103830967163117568",
+          "start": 3,
+          "username": "anblk984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043604370890408266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 147
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043304888936149381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @anblk984: 中医认为蝉能治疗嗓子，因为它发声很大，但我们知道蝉是靠翅膀发声的；中医认为蝙蝠晚上视力惊人、就把蝙蝠屎…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2043604370890408266",
+        "created_at": "2026-04-13T08:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043604370890408266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103830967163117568",
+              "start": 3,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043604370890408266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 147
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043304888936149381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @anblk984: 中医认为蝉能治疗嗓子，因为它发声很大，但我们知道蝉是靠翅膀发声的；中医认为蝙蝠晚上视力惊人、就把蝙蝠屎…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103830967163117568",
+        "conversation_id": "2043304888936149381",
+        "created_at": "2026-04-12T12:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043304888936149381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043304888936149381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中医认为蝉能治疗嗓子，因为它发声很大，但我们知道蝉是靠翅膀发声的；中医认为蝙蝠晚上视力惊人、就把蝙蝠屎 用来明目，其实蝙蝠是瞎子，它主要是靠超声波，不是视力；中医认为核桃撬开象脑子，能补脑，但核桃产地的人群并没有显得智商高于其它地区；中医觉得黑豆属水能补肾，其实黑豆吃多了反而对肾不好，中医类似这样的经典理论，不胜枚举，所以，我们有理由相信，如果李时珍还活在现代，他可能会用芯片来沌汤来治疗脑残。😁"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 234,
+          "impression_count": 100384,
+          "like_count": 1350,
+          "quote_count": 13,
+          "reply_count": 37,
+          "retweet_count": 147
+        },
+        "reply_settings": "other",
+        "text": "中医认为蝉能治疗嗓子，因为它发声很大，但我们知道蝉是靠翅膀发声的；中医认为蝙蝠晚上视力惊人、就把蝙蝠屎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 1607,
+          "like_count": 14368,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 6604
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/美股k线画家😁/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真   最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2042904752271593620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11416,
+          "following_count": 985,
+          "like_count": 111999,
+          "listed_count": 58,
+          "media_count": 2474,
+          "tweet_count": 27494
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

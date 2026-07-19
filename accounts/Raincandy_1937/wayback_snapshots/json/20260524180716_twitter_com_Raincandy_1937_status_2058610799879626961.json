@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058499257871814657"
+      ],
+      "media_source_tweet_id": [
+        "2058503283400958297"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2058610799879626961",
+    "created_at": "2026-05-24T18:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T19:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058610799879626961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1830721546224336897",
+          "start": 3,
+          "username": "chodadarou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sHPtNtv74U",
+          "end": 42,
+          "expanded_url": "https://x.com/chodadarou/status/2058503283400958297/photo/1",
+          "media_key": "3_2058499257871814657",
+          "start": 19,
+          "url": "https://t.co/sHPtNtv74U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058610799879626961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1274
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058503283400958297",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chodadarou: 再喝 https://t.co/sHPtNtv74U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1333,
+        "media_key": "3_2058499257871814657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFCKyva0AE7q4J.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058499257871814657"
+          ],
+          "media_source_tweet_id": [
+            "2058503283400958297"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2058610799879626961",
+        "created_at": "2026-05-24T18:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T19:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058610799879626961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1830721546224336897",
+              "start": 3,
+              "username": "chodadarou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sHPtNtv74U",
+              "end": 42,
+              "expanded_url": "https://x.com/chodadarou/status/2058503283400958297/photo/1",
+              "media_key": "3_2058499257871814657",
+              "start": 19,
+              "url": "https://t.co/sHPtNtv74U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058610799879626961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1274
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058503283400958297",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chodadarou: 再喝 https://t.co/sHPtNtv74U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058499257871814657"
+          ]
+        },
+        "author_id": "1830721546224336897",
+        "conversation_id": "2058503283400958297",
+        "created_at": "2026-05-24T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058503283400958297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sHPtNtv74U",
+              "end": 26,
+              "expanded_url": "https://x.com/chodadarou/status/2058503283400958297/photo/1",
+              "media_key": "3_2058499257871814657",
+              "start": 3,
+              "url": "https://t.co/sHPtNtv74U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058503283400958297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1670,
+          "impression_count": 144695,
+          "like_count": 15823,
+          "quote_count": 39,
+          "reply_count": 13,
+          "retweet_count": 1274
+        },
+        "reply_settings": "everyone",
+        "text": "再喝 https://t.co/sHPtNtv74U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 1694,
+          "like_count": 15727,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 6916
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T21:36:59.000Z",
+        "description": "🍓skeb→https://t.co/3gpWvy7ise\n🍓警告きたやつぽいぴくに投げてます→https://t.co/3KaIQxMJvZ\n百合。暗めも好き。キャラ崩壊。\nDo not repost 無断転載＆AI学習NG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@chodadarou",
+                "end": 29,
+                "expanded_url": "https://skeb.jp/@chodadarou",
+                "start": 6,
+                "url": "https://t.co/3gpWvy7ise"
+              },
+              {
+                "display_url": "poipiku.com/13286843/",
+                "end": 71,
+                "expanded_url": "https://poipiku.com/13286843/",
+                "start": 48,
+                "url": "https://t.co/3KaIQxMJvZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/29769868",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/29769868",
+                "start": 0,
+                "url": "https://t.co/17gwhA1ten"
+              }
+            ]
+          }
+        },
+        "id": "1830721546224336897",
+        "name": "🍓腸ダダ郎🍓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006250278056841216/ltZ638C1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2461,
+          "following_count": 19,
+          "like_count": 477,
+          "listed_count": 3,
+          "media_count": 42,
+          "tweet_count": 180
+        },
+        "url": "https://t.co/17gwhA1ten",
+        "username": "chodadarou",
+        "verified": false
+      }
+    ]
+  }
+}

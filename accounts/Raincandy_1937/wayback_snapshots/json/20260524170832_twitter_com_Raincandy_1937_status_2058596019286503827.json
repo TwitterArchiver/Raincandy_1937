@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058595985874706432"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058596019286503827",
+    "created_at": "2026-05-24T17:08:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T18:08:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058596019286503827"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lWVP3Slpe5",
+          "end": 32,
+          "expanded_url": "https://x.com/Raincandy_1937/status/2058596019286503827/photo/1",
+          "media_key": "3_2058595985874706432",
+          "start": 9,
+          "url": "https://t.co/lWVP3Slpe5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058596019286503827",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "美味表情我吃吃吃 https://t.co/lWVP3Slpe5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_2058595985874706432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGaJGobYAAjSrl.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058595985874706432"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058596019286503827",
+        "created_at": "2026-05-24T17:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058596019286503827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lWVP3Slpe5",
+              "end": 32,
+              "expanded_url": "https://x.com/Raincandy_1937/status/2058596019286503827/photo/1",
+              "media_key": "3_2058595985874706432",
+              "start": 9,
+              "url": "https://t.co/lWVP3Slpe5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058596019286503827",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美味表情我吃吃吃 https://t.co/lWVP3Slpe5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 1694,
+          "like_count": 15711,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 6909
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

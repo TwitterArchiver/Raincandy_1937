@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1903854045607182343",
+    "created_at": "2025-03-23T16:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T17:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903854045607182343"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dutyge/status/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/dutyge/status/1903414725762806192",
+          "start": 15,
+          "url": "https://t.co/AKcuC2LJVY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903854045607182343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903414725762806192",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自杀是选择不是错误，退缩也是 https://t.co/AKcuC2LJVY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1298,
+        "media_key": "3_1903414721337847808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmpJmrWXcAAI3D1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1903854045607182343",
+        "created_at": "2025-03-23T16:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T17:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903854045607182343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dutyge/status/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/dutyge/status/1903414725762806192",
+              "start": 15,
+              "url": "https://t.co/AKcuC2LJVY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903854045607182343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903414725762806192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自杀是选择不是错误，退缩也是 https://t.co/AKcuC2LJVY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903414721337847808"
+          ]
+        },
+        "author_id": "1602328096622800896",
+        "conversation_id": "1903414725762806192",
+        "created_at": "2025-03-22T11:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T12:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903414725762806192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rr2u8WZYfN",
+              "end": 51,
+              "expanded_url": "https://x.com/dutyge/status/1903414725762806192/photo/1",
+              "media_key": "3_1903414721337847808",
+              "start": 28,
+              "url": "https://t.co/Rr2u8WZYfN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903414725762806192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 634,
+          "impression_count": 356463,
+          "like_count": 2937,
+          "quote_count": 19,
+          "reply_count": 81,
+          "retweet_count": 351
+        },
+        "reply_settings": "everyone",
+        "text": "中式“乖孩子”的三个特征：无兴趣、无特长、无追求。\n👋 https://t.co/Rr2u8WZYfN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 936,
+          "like_count": 6826,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 3552
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:42:59.000Z",
+        "description": "西方失业知识青年孕育出嬉皮士运动与垮掉的一代，东方则催生出孔乙己文化与躺平啃老族。今天，北大毕业生也开始失业，事情正在起变化……",
+        "id": "1602328096622800896",
+        "location": "颐和园路，duty哥小号，失业报道采集检索",
+        "name": "失业观察日报",
+        "pinned_tweet_id": "1704100809909080560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639227414084730880/CbkaCiNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7411,
+          "following_count": 98,
+          "like_count": 0,
+          "listed_count": 35,
+          "media_count": 5898,
+          "tweet_count": 7070
+        },
+        "username": "dutyge",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031001397349494784"
+      ],
+      "media_source_tweet_id": [
+        "2031001400226840876"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2031237621364797811",
+    "created_at": "2026-03-10T05:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T06:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031237621364797811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "28940967",
+          "start": 3,
+          "username": "lidangzzz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dfdCmJGcmj",
+          "end": 38,
+          "expanded_url": "https://x.com/lidangzzz/status/2031001400226840876/photo/1",
+          "media_key": "3_2031001397349494784",
+          "start": 15,
+          "url": "https://t.co/dfdCmJGcmj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031237621364797811",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031001400226840876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lidangzzz: https://t.co/dfdCmJGcmj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1586,
+        "media_key": "3_2031001397349494784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-RAptWsAAvr5i.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031001397349494784"
+          ],
+          "media_source_tweet_id": [
+            "2031001400226840876"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2031237621364797811",
+        "created_at": "2026-03-10T05:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T06:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031237621364797811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "28940967",
+              "start": 3,
+              "username": "lidangzzz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dfdCmJGcmj",
+              "end": 38,
+              "expanded_url": "https://x.com/lidangzzz/status/2031001400226840876/photo/1",
+              "media_key": "3_2031001397349494784",
+              "start": 15,
+              "url": "https://t.co/dfdCmJGcmj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031237621364797811",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031001400226840876",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lidangzzz: https://t.co/dfdCmJGcmj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031001397349494784"
+          ]
+        },
+        "author_id": "28940967",
+        "conversation_id": "2031001400226840876",
+        "created_at": "2026-03-09T13:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T14:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031001400226840876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dfdCmJGcmj",
+              "end": 23,
+              "expanded_url": "https://x.com/lidangzzz/status/2031001400226840876/photo/1",
+              "media_key": "3_2031001397349494784",
+              "start": 0,
+              "url": "https://t.co/dfdCmJGcmj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031001400226840876",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 104665,
+          "like_count": 685,
+          "quote_count": 6,
+          "reply_count": 65,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dfdCmJGcmj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 1570,
+          "like_count": 13688,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 6328
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dinq.me/lidang",
+                "end": 23,
+                "expanded_url": "https://dinq.me/lidang",
+                "start": 0,
+                "url": "https://t.co/RcYK9nT6WO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （全网劝人卖房、劝人学CS、劝人买SP500和NASDAQ100第一人）",
+        "pinned_tweet_id": "1643849014851297280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606292,
+          "following_count": 2710,
+          "like_count": 28028,
+          "listed_count": 3826,
+          "media_count": 9402,
+          "tweet_count": 44492
+        },
+        "url": "https://t.co/RcYK9nT6WO",
+        "username": "lidangzzz",
+        "verified": true
+      }
+    ]
+  }
+}

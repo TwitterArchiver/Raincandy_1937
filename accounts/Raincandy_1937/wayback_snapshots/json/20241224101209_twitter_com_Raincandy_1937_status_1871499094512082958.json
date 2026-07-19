@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1871497988750950601",
+    "created_at": "2024-12-24T10:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T11:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871499094512082958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1686014265902174208",
+          "start": 0,
+          "username": "Aphrodite_moon_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871499094512082958",
+    "in_reply_to_user_id": "1686014265902174208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871497988750950601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aphrodite_moon_ 好漂酿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1871497988750950601",
+        "created_at": "2024-12-24T10:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T11:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871499094512082958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1686014265902174208",
+              "start": 0,
+              "username": "Aphrodite_moon_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871499094512082958",
+        "in_reply_to_user_id": "1686014265902174208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871497988750950601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aphrodite_moon_ 好漂酿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871497976675463168"
+          ]
+        },
+        "author_id": "1686014265902174208",
+        "conversation_id": "1871497988750950601",
+        "created_at": "2024-12-24T10:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T11:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871497988750950601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T3GDMK6jKu",
+              "end": 23,
+              "expanded_url": "https://x.com/Aphrodite_moon_/status/1871497988750950601/photo/1",
+              "media_key": "3_1871497976675463168",
+              "start": 0,
+              "url": "https://t.co/T3GDMK6jKu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871497988750950601",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/T3GDMK6jKu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 591,
+          "like_count": 3768,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 2059
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-31T14:02:00.000Z",
+        "description": "阴湿滴泪女🚪520",
+        "id": "1686014265902174208",
+        "name": "赫斯提亚",
+        "pinned_tweet_id": "1686016725152612354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866587417534402563/iV3JL81k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2567,
+          "following_count": 69,
+          "like_count": 801,
+          "listed_count": 8,
+          "media_count": 20,
+          "tweet_count": 115
+        },
+        "username": "Aphrodite_moon_",
+        "verified": false
+      }
+    ]
+  }
+}

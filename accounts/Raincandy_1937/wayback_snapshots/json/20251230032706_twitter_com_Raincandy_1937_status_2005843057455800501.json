@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005795986153811968"
+      ],
+      "media_source_tweet_id": [
+        "2005796001358176674"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2005843057455800501",
+    "created_at": "2025-12-30T03:27:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T04:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005843057455800501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2180953680",
+          "start": 3,
+          "username": "PrinzEugenOwO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tt63lV6MYg",
+          "end": 126,
+          "expanded_url": "https://x.com/PrinzEugenOwO/status/2005796001358176674/photo/1",
+          "media_key": "3_2005795986153811968",
+          "start": 103,
+          "url": "https://t.co/Tt63lV6MYg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005843057455800501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005796001358176674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PrinzEugenOwO: 一堆中國人硬是要拿這張洗，行吧，我剛剛把圖直接丟給Gemini幫我分析，以下是內容：\n\n這張照片在視覺上的確給人一種強烈的「超現實感」或「違和感」，你的直覺很敏銳。… https://t.co/Tt63lV6MYg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1333,
+        "media_key": "3_2005795986153811968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9YE0n6aMAACcWw.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005795986153811968"
+          ],
+          "media_source_tweet_id": [
+            "2005796001358176674"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2005843057455800501",
+        "created_at": "2025-12-30T03:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T04:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005843057455800501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2180953680",
+              "start": 3,
+              "username": "PrinzEugenOwO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tt63lV6MYg",
+              "end": 126,
+              "expanded_url": "https://x.com/PrinzEugenOwO/status/2005796001358176674/photo/1",
+              "media_key": "3_2005795986153811968",
+              "start": 103,
+              "url": "https://t.co/Tt63lV6MYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005843057455800501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005796001358176674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PrinzEugenOwO: 一堆中國人硬是要拿這張洗，行吧，我剛剛把圖直接丟給Gemini幫我分析，以下是內容：\n\n這張照片在視覺上的確給人一種強烈的「超現實感」或「違和感」，你的直覺很敏銳。… https://t.co/Tt63lV6MYg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005795986153811968"
+          ]
+        },
+        "author_id": "2180953680",
+        "conversation_id": "2005796001358176674",
+        "created_at": "2025-12-30T00:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T01:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005796001358176674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tt63lV6MYg",
+              "end": 106,
+              "expanded_url": "https://x.com/PrinzEugenOwO/status/2005796001358176674/photo/1",
+              "media_key": "3_2005795986153811968",
+              "start": 83,
+              "url": "https://t.co/Tt63lV6MYg"
+            },
+            {
+              "display_url": "x.com/PrinzEugenOwO/…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/PrinzEugenOwO/status/2005670245697261969",
+              "start": 107,
+              "url": "https://t.co/7rUyNs2DvP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005796001358176674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一堆中國人硬是要拿這張洗，行吧，我剛剛把圖直接丟給Gemini幫我分析，以下是內容：\n\n這張照片在視覺上的確給人一種強烈的「超現實感」或「違和感」，你的直覺很敏銳。\n這張照片是近年來網路上流傳較廣、具有特定政治宣傳背景的影像（浮水印顯示來自中國「東部戰區」）。從攝影與地理角度來看，這張圖確實存在許多不自然之處，可以從以下幾個面向來分析：\n\n1. 空間透視與比例異常\n * 焦段與距離： 照片中試圖呈現從遠海望向臺北盆地的視角。然而，前景的海面、中景的淡水河口與後方的臺北101大樓，在比例上顯得過於緊湊。\n * 地標錯置： 在這樣的視角下，淡水河口的橋樑與遠方的臺北101，其相對大小和透視角度與真實地理觀測（例如從觀音山或飛機上拍攝）有明顯的出入，看起來像是將多個圖層強行壓縮在一起。\n\n2. 光影與色調的處理\n * 高對比黑白濾鏡： 照片使用了極高對比度的黑白處理，這種做法通常用來掩蓋合成痕跡（如圖層邊緣、光影不一致或解析度差異）。\n * 光線來源不統一： 雲層中的光影分佈與地面建築物受光的邏輯並不完全吻合，給人一種拼貼的視覺感。\n\n3. 地理細節缺失\n * 空氣透視： 在這麼遙遠的距離拍攝城市，通常會因為大氣擾動或水氣而顯得模糊。這張圖的某些部分刻意模糊化（像煙霧或雲霧），但某些建築邊緣又異常銳利，這是不符合長焦鏡頭物理特性的。\n\n結論\n這張圖片並非真實的單次快門攝影，而是經過大量後製加工（P圖）或多重曝光合成的影像。其目的是為了創造出一種「近距離俯瞰」的壓迫感，而非紀實影像。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 16543,
+          "like_count": 122,
+          "quote_count": 3,
+          "reply_count": 24,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005670245697261969",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一堆中國人硬是要拿這張洗，行吧，我剛剛把圖直接丟給Gemini幫我分析，以下是內容：\n\n這張照片在視覺上的確給人一種強烈的「超現實感」或「違和感」，你的直覺很敏銳。 https://t.co/Tt63lV6MYg https://t.co/7rUyNs2DvP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998397096031035392/5bZUUqPS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 1528,
+          "like_count": 12927,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 5934
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-07T22:21:26.000Z",
+        "description": "大中華主義蛆我一律B加掛最好祈禱我不要找到你/軍盲/百合豚/東方廚\nAnti CCP👎🇨🇳 \nStandWithUkraine🇺🇦\n逃生艙：@Yukikaze_UwU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Yukikaze_UwU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/yuk.en…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/yuk.enchenia.com",
+                "start": 0,
+                "url": "https://t.co/VSjZYmpD3p"
+              }
+            ]
+          }
+        },
+        "id": "2180953680",
+        "location": "Taipei City, Taiwan",
+        "name": "幼月",
+        "pinned_tweet_id": "1826534110543618351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639809605592313856/45_OEskC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7376,
+          "following_count": 1024,
+          "like_count": 249129,
+          "listed_count": 31,
+          "media_count": 9885,
+          "tweet_count": 29668
+        },
+        "url": "https://t.co/VSjZYmpD3p",
+        "username": "PrinzEugenOwO",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2038940485612626149",
+    "created_at": "2026-03-31T11:24:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T12:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038940485612626149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1556329235912212481",
+          "start": 3,
+          "username": "BG0EJN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038940485612626149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038550222046154903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BG0EJN: 当年红军过草地借粮还会给老百姓打个借条呢\n怎么，到2026年这项好传统就丢掉了？就这样居然还有人洗地也洗不明白😅\n不得不说这年头的外宣真是烂完了，一点积极作用没有，给解放军招黑的本事倒是不少😓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2038940485612626149",
+        "created_at": "2026-03-31T11:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038940485612626149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1556329235912212481",
+              "start": 3,
+              "username": "BG0EJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038940485612626149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038550222046154903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BG0EJN: 当年红军过草地借粮还会给老百姓打个借条呢\n怎么，到2026年这项好传统就丢掉了？就这样居然还有人洗地也洗不明白😅\n不得不说这年头的外宣真是烂完了，一点积极作用没有，给解放军招黑的本事倒是不少😓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556329235912212481",
+        "conversation_id": "2038550222046154903",
+        "created_at": "2026-03-30T09:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038550222046154903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/China_Taichi/s…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/China_Taichi/status/2038482747979973075",
+              "start": 97,
+              "url": "https://t.co/3c0ACvQULb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038550222046154903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 11861,
+          "like_count": 313,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038482747979973075",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当年红军过草地借粮还会给老百姓打个借条呢\n怎么，到2026年这项好传统就丢掉了？就这样居然还有人洗地也洗不明白😅\n不得不说这年头的外宣真是烂完了，一点积极作用没有，给解放军招黑的本事倒是不少😓 https://t.co/3c0ACvQULb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 1603,
+          "like_count": 14208,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 6535
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T17:19:46.000Z",
+        "description": "BG0EJN's humanoid interface. Otaku,\n版本号1.8.3校验码4DC0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "QRZ.COM/DB/BG0EJN",
+                "end": 23,
+                "expanded_url": "https://QRZ.COM/DB/BG0EJN",
+                "start": 0,
+                "url": "https://t.co/pfRTkxOoor"
+              }
+            ]
+          }
+        },
+        "id": "1556329235912212481",
+        "location": "NN16?? ,Maintenance Center",
+        "name": "T72M2'Moderna'",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025566531334311936/y_sKBReH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 231,
+          "like_count": 27035,
+          "listed_count": 1,
+          "media_count": 943,
+          "tweet_count": 7686
+        },
+        "url": "https://t.co/pfRTkxOoor",
+        "username": "BG0EJN",
+        "verified": false
+      }
+    ]
+  }
+}

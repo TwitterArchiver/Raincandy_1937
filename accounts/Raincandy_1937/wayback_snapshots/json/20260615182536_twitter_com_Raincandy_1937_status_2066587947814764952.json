@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      }
+    ],
+    "conversation_id": "2066587947814764952",
+    "created_at": "2026-06-15T18:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T19:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066587947814764952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1732775121797136384",
+          "start": 3,
+          "username": "zuilizhishier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066587947814764952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 175
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066352173672530354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zuilizhishier: 假如你是一个韩国人，周末见证韩国国家队取得本届世界杯首胜，拿起手机一看韩国股市指数涨了8%，今年累计涨幅已达300%李在明宣布要把三星海力士的超额利润平分给你。人们听着 kpop，工作四天后，是三天端午小长假，大家聊的都是三星海力士世界杯。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          }
+        ],
+        "conversation_id": "2066587947814764952",
+        "created_at": "2026-06-15T18:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066587947814764952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1732775121797136384",
+              "start": 3,
+              "username": "zuilizhishier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066587947814764952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 175
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066352173672530354",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zuilizhishier: 假如你是一个韩国人，周末见证韩国国家队取得本届世界杯首胜，拿起手机一看韩国股市指数涨了8%，今年累计涨幅已达300%李在明宣布要把三星海力士的超额利润平分给你。人们听着 kpop，工作四天后，是三天端午小长假，大家聊的都是三星海力士世界杯。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732775121797136384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          }
+        ],
+        "conversation_id": "2066352173672530354",
+        "created_at": "2026-06-15T02:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066352173672530354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066352173672530354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 277,
+          "impression_count": 369478,
+          "like_count": 4350,
+          "quote_count": 26,
+          "reply_count": 280,
+          "retweet_count": 175
+        },
+        "reply_settings": "everyone",
+        "text": "假如你是一个韩国人，周末见证韩国国家队取得本届世界杯首胜，拿起手机一看韩国股市指数涨了8%，今年累计涨幅已达300%李在明宣布要把三星海力士的超额利润平分给你。人们听着 kpop，工作四天后，是三天端午小长假，大家聊的都是三星海力士世界杯。这个时候，你发现有个国家的人民在说你吃不起西瓜。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 1746,
+          "like_count": 16702,
+          "listed_count": 1,
+          "media_count": 224,
+          "tweet_count": 7286
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T14:52:46.000Z",
+        "description": "熟悉的人都在身旁 日子过得漫长且温暖 你可以和以前一样 同故人做旧事 也可以投身新事物 明天对你来说只是明天 无关压力 离别和死亡",
+        "id": "1732775121797136384",
+        "location": "长春市新民大街",
+        "name": "番茄哈猫🍐",
+        "pinned_tweet_id": "2018826526838694275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986314715342249985/IwbPq21S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 486,
+          "like_count": 10606,
+          "listed_count": 13,
+          "media_count": 943,
+          "tweet_count": 5829
+        },
+        "username": "zuilizhishier",
+        "verified": false
+      }
+    ]
+  }
+}

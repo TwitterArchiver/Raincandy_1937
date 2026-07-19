@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1907045661695979682",
+    "created_at": "2025-04-01T12:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T13:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907045661695979682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1426789547954737153",
+          "start": 3,
+          "username": "DelayNoMore64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907045661695979682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907016011590836599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DelayNoMore64: 爱国是个伪命题。\n只有国爱你，没有你爱国。国家爱你，你可以说一声谢谢，但是不必去爱，那是应该的。\n国家不爱你，你还爱得死心塌地，那叫贱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1907045661695979682",
+        "created_at": "2025-04-01T12:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T13:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907045661695979682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1426789547954737153",
+              "start": 3,
+              "username": "DelayNoMore64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907045661695979682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907016011590836599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DelayNoMore64: 爱国是个伪命题。\n只有国爱你，没有你爱国。国家爱你，你可以说一声谢谢，但是不必去爱，那是应该的。\n国家不爱你，你还爱得死心塌地，那叫贱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426789547954737153",
+        "conversation_id": "1907016011590836599",
+        "created_at": "2025-04-01T10:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T11:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907016011590836599"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907016011590836599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1379,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "爱国是个伪命题。\n只有国爱你，没有你爱国。国家爱你，你可以说一声谢谢，但是不必去爱，那是应该的。\n国家不爱你，你还爱得死心塌地，那叫贱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 959,
+          "like_count": 7301,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 3778
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-15T06:19:30.000Z",
+        "description": "一蕉羞貍貔Bot / 一个Telegram频道 https://t.co/dfFkcJdtzk / 欢迎加入TG群 https://t.co/rawdaAu2CY /",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HatimiCat",
+                "end": 47,
+                "expanded_url": "http://t.me/HatimiCat",
+                "start": 24,
+                "url": "https://t.co/dfFkcJdtzk"
+              },
+              {
+                "display_url": "t.me/HatimiNeko",
+                "end": 81,
+                "expanded_url": "https://t.me/HatimiNeko",
+                "start": 58,
+                "url": "https://t.co/rawdaAu2CY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HatimiCat",
+                "end": 23,
+                "expanded_url": "https://t.me/HatimiCat",
+                "start": 0,
+                "url": "https://t.co/JFB2u2QKRQ"
+              }
+            ]
+          }
+        },
+        "id": "1426789547954737153",
+        "location": "Republic of Korea",
+        "name": "Bocchi🫧",
+        "pinned_tweet_id": "1906667353817194986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875573336354492416/xbp-CZLY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41974,
+          "following_count": 914,
+          "like_count": 30026,
+          "listed_count": 154,
+          "media_count": 2237,
+          "tweet_count": 16426
+        },
+        "url": "https://t.co/JFB2u2QKRQ",
+        "username": "DelayNoMore64",
+        "verified": false
+      }
+    ]
+  }
+}

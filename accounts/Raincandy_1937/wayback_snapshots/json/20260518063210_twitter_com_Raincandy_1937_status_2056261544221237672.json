@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055833562772074496",
+        "3_2055833562767876096"
+      ],
+      "media_source_tweet_id": [
+        "2055833629084057660",
+        "2055833629084057660"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2056261544221237672",
+    "created_at": "2026-05-18T06:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T07:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056261544221237672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "893489787411222528",
+          "start": 3,
+          "username": "kuren_chan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dsxMaQTIKa",
+          "end": 45,
+          "expanded_url": "https://x.com/kuren_chan/status/2055833629084057660/photo/1",
+          "media_key": "3_2055833562772074496",
+          "start": 22,
+          "url": "https://t.co/dsxMaQTIKa"
+        },
+        {
+          "display_url": "pic.x.com/dsxMaQTIKa",
+          "end": 45,
+          "expanded_url": "https://x.com/kuren_chan/status/2055833629084057660/photo/1",
+          "media_key": "3_2055833562767876096",
+          "start": 22,
+          "url": "https://t.co/dsxMaQTIKa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056261544221237672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 351
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055833629084057660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuren_chan: 天使だから https://t.co/dsxMaQTIKa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055833562772074496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfJu6pa8AAq4-X.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055833562767876096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfJu6oa4AAaogs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055833562772074496",
+            "3_2055833562767876096"
+          ],
+          "media_source_tweet_id": [
+            "2055833629084057660",
+            "2055833629084057660"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2056261544221237672",
+        "created_at": "2026-05-18T06:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056261544221237672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "893489787411222528",
+              "start": 3,
+              "username": "kuren_chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dsxMaQTIKa",
+              "end": 45,
+              "expanded_url": "https://x.com/kuren_chan/status/2055833629084057660/photo/1",
+              "media_key": "3_2055833562772074496",
+              "start": 22,
+              "url": "https://t.co/dsxMaQTIKa"
+            },
+            {
+              "display_url": "pic.x.com/dsxMaQTIKa",
+              "end": 45,
+              "expanded_url": "https://x.com/kuren_chan/status/2055833629084057660/photo/1",
+              "media_key": "3_2055833562767876096",
+              "start": 22,
+              "url": "https://t.co/dsxMaQTIKa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056261544221237672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 351
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055833629084057660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuren_chan: 天使だから https://t.co/dsxMaQTIKa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055833562772074496",
+            "3_2055833562767876096"
+          ]
+        },
+        "author_id": "893489787411222528",
+        "conversation_id": "2055833629084057660",
+        "created_at": "2026-05-17T02:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055833629084057660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dsxMaQTIKa",
+              "end": 29,
+              "expanded_url": "https://x.com/kuren_chan/status/2055833629084057660/photo/1",
+              "media_key": "3_2055833562772074496",
+              "start": 6,
+              "url": "https://t.co/dsxMaQTIKa"
+            },
+            {
+              "display_url": "pic.x.com/dsxMaQTIKa",
+              "end": 29,
+              "expanded_url": "https://x.com/kuren_chan/status/2055833629084057660/photo/1",
+              "media_key": "3_2055833562767876096",
+              "start": 6,
+              "url": "https://t.co/dsxMaQTIKa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055833629084057660",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 291,
+          "impression_count": 57055,
+          "like_count": 6145,
+          "quote_count": 10,
+          "reply_count": 26,
+          "retweet_count": 351
+        },
+        "reply_settings": "everyone",
+        "text": "天使だから https://t.co/dsxMaQTIKa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 1671,
+          "like_count": 15301,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 6816
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-04T15:12:20.000Z",
+        "description": "まくらです૮๑•̀ㅁ•́ฅა #まくらーめん 異世界同位体 #花咲ゾンビ／Chinese cosplayer／@hiodoshiao 自慢な火女ちゃん♡ずっと愛してる／加工厨!! 時々変な日本語喋ります／必読→ https://t.co/e8NgojldHh",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 15,
+                "tag": "まくらーめん"
+              },
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "花咲ゾンビ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "hiodoshiao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/hanasaki…",
+                "end": 129,
+                "expanded_url": "https://lit.link/zh-tw/hanasakimakura",
+                "start": 106,
+                "url": "https://t.co/e8NgojldHh"
+              }
+            ]
+          }
+        },
+        "id": "893489787411222528",
+        "location": "🚫転載禁止⚠️ 写真、仕事はDMへお願いします✨",
+        "name": "花崎Makura🌸🪽",
+        "pinned_tweet_id": "2044344429264404953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966926126384902146/hC-a3afb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192391,
+          "following_count": 1004,
+          "like_count": 102204,
+          "listed_count": 740,
+          "media_count": 1224,
+          "tweet_count": 22470
+        },
+        "username": "kuren_chan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1983392333526974858",
+    "created_at": "2025-10-29T04:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T05:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983392333526974858"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Raincandy_1937…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Raincandy_1937/status/1983392184012587107",
+          "start": 19,
+          "url": "https://t.co/jViW7QBcxa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983392333526974858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983392184012587107",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的唯一立场是世嘉死全家角色黑死全家 https://t.co/jViW7QBcxa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1983392333526974858",
+        "created_at": "2025-10-29T04:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T05:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983392333526974858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Raincandy_1937…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Raincandy_1937/status/1983392184012587107",
+              "start": 19,
+              "url": "https://t.co/jViW7QBcxa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983392333526974858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983392184012587107",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的唯一立场是世嘉死全家角色黑死全家 https://t.co/jViW7QBcxa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1983392184012587107",
+        "created_at": "2025-10-29T04:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T05:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983392184012587107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/1983216775060717950",
+              "start": 20,
+              "url": "https://t.co/6g0ykDOh0L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983392184012587107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983216775060717950",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我将从今天开始停止站边直到mzk6为止 https://t.co/6g0ykDOh0L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 1414,
+          "like_count": 11174,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 5383
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

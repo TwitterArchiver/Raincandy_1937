@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2057121349114663016",
+    "created_at": "2026-05-22T14:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T15:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057825436567220259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1927702793223340032",
+          "start": 0,
+          "username": "pil1jvce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057825436567220259",
+    "in_reply_to_user_id": "1927702793223340032",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057816804760678768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pil1jvce 😽😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2057121349114663016",
+        "created_at": "2026-05-22T14:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057825436567220259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1927702793223340032",
+              "start": 0,
+              "username": "pil1jvce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057825436567220259",
+        "in_reply_to_user_id": "1927702793223340032",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057816804760678768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pil1jvce 😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927702793223340032",
+        "conversation_id": "2057121349114663016",
+        "created_at": "2026-05-22T13:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057816804760678768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1522094771136831488",
+              "start": 0,
+              "username": "Raincandy_1937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057816804760678768",
+        "in_reply_to_user_id": "1522094771136831488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057121349114663016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raincandy_1937 图4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 1684,
+          "like_count": 15547,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 6870
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T12:26:29.000Z",
+        "description": "张雪峰千古@pilljvce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "pilljvce"
+              }
+            ]
+          }
+        },
+        "id": "1927702793223340032",
+        "name": "插逼音乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057044716139827200/ZStNSWQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 83,
+          "like_count": 1774,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 556
+        },
+        "username": "pil1jvce",
+        "verified": false
+      }
+    ]
+  }
+}

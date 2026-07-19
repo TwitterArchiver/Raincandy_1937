@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2064744650863468652",
+    "created_at": "2026-06-10T16:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T17:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064744650863468652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975500696427581440",
+          "start": 3,
+          "username": "TReverie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064744650863468652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064488461395271922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TReverie: 中共国这个糟糕的国家竟然在地球占了这么大一块，不觉得很恶心、很可怕吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2064744650863468652",
+        "created_at": "2026-06-10T16:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064744650863468652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975500696427581440",
+              "start": 3,
+              "username": "TReverie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064744650863468652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064488461395271922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TReverie: 中共国这个糟糕的国家竟然在地球占了这么大一块，不觉得很恶心、很可怕吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975500696427581440",
+        "conversation_id": "2064488461395271922",
+        "created_at": "2026-06-09T23:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T00:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064488461395271922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064488461395271922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 20528,
+          "like_count": 474,
+          "quote_count": 3,
+          "reply_count": 154,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "中共国这个糟糕的国家竟然在地球占了这么大一块，不觉得很恶心、很可怕吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 1733,
+          "like_count": 16567,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 7228
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "Taiwan is an independent country",
+        "id": "1975500696427581440",
+        "location": "China",
+        "name": "Tiny Reverie🇺🇸✝️",
+        "pinned_tweet_id": "2048649828381626554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058842339347759104/3B_gYklj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11861,
+          "following_count": 1754,
+          "like_count": 23987,
+          "listed_count": 97,
+          "media_count": 1889,
+          "tweet_count": 5456
+        },
+        "username": "TReverie",
+        "verified": true
+      }
+    ]
+  }
+}

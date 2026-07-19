@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1890311271561499013",
+    "created_at": "2025-02-14T08:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T09:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890311271561499013"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LightCavalryCZ…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/LightCavalryCZ/status/1890304367368007801",
+          "start": 27,
+          "url": "https://t.co/mU3mGfOiu1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890311271561499013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890304367368007801",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不辩是非的一厢情愿的集体认同，就像愚昧动物的集体自杀 https://t.co/mU3mGfOiu1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1890311271561499013",
+        "created_at": "2025-02-14T08:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T09:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890311271561499013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LightCavalryCZ…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/LightCavalryCZ/status/1890304367368007801",
+              "start": 27,
+              "url": "https://t.co/mU3mGfOiu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890311271561499013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890304367368007801",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不辩是非的一厢情愿的集体认同，就像愚昧动物的集体自杀 https://t.co/mU3mGfOiu1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890303660686761984",
+            "3_1890303660690927617"
+          ]
+        },
+        "author_id": "331651596",
+        "conversation_id": "1890304367368007801",
+        "created_at": "2025-02-14T07:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T08:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890304367368007801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VC1LHGRfV4",
+              "end": 32,
+              "expanded_url": "https://x.com/LightCavalryCZ/status/1890304367368007801/photo/1",
+              "media_key": "3_1890303660686761984",
+              "start": 9,
+              "url": "https://t.co/VC1LHGRfV4"
+            },
+            {
+              "display_url": "pic.x.com/VC1LHGRfV4",
+              "end": 32,
+              "expanded_url": "https://x.com/LightCavalryCZ/status/1890304367368007801/photo/1",
+              "media_key": "3_1890303660690927617",
+              "start": 9,
+              "url": "https://t.co/VC1LHGRfV4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890304367368007801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1113,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今日被和谐的回答 https://t.co/VC1LHGRfV4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 784,
+          "like_count": 5930,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 3004
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-08T14:20:08.000Z",
+        "description": "",
+        "id": "331651596",
+        "location": "Tianjin",
+        "name": "曹哲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1351507883058360321/g94--rth_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19561,
+          "following_count": 48,
+          "like_count": 238,
+          "listed_count": 91,
+          "media_count": 328,
+          "tweet_count": 1347
+        },
+        "username": "LightCavalryCZ",
+        "verified": false
+      }
+    ]
+  }
+}

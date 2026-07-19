@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1889343951225958848",
+    "created_at": "2025-02-13T07:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T08:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889934935412318507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1832834649493762048",
+          "start": 0,
+          "username": "1n_fhtagn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889934935412318507",
+    "in_reply_to_user_id": "1832834649493762048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889343951225958848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1n_fhtagn 北韩年轻人哪来的钱玩腾子的游戏x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1889343951225958848",
+        "created_at": "2025-02-13T07:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T08:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889934935412318507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1832834649493762048",
+              "start": 0,
+              "username": "1n_fhtagn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889934935412318507",
+        "in_reply_to_user_id": "1832834649493762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889343951225958848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1n_fhtagn 北韩年轻人哪来的钱玩腾子的游戏x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889343948361265152"
+          ]
+        },
+        "author_id": "1832834649493762048",
+        "conversation_id": "1889343951225958848",
+        "created_at": "2025-02-11T16:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T17:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889343951225958848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BTO0wKvw5e",
+              "end": 23,
+              "expanded_url": "https://x.com/1n_fhtagn/status/1889343951225958848/photo/1",
+              "media_key": "3_1889343948361265152",
+              "start": 0,
+              "url": "https://t.co/BTO0wKvw5e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889343951225958848",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 463827,
+          "like_count": 1988,
+          "quote_count": 10,
+          "reply_count": 115,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BTO0wKvw5e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 769,
+          "like_count": 5878,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2979
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T17:34:06.000Z",
+        "description": "🥺",
+        "id": "1832834649493762048",
+        "location": "Hong Kong",
+        "name": "雪他妈的山葵",
+        "pinned_tweet_id": "1888601125664051682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888600101402419200/Vnl1CWLh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2911,
+          "following_count": 1205,
+          "like_count": 25553,
+          "listed_count": 5,
+          "media_count": 2180,
+          "tweet_count": 10001
+        },
+        "username": "1n_fhtagn",
+        "verified": false
+      }
+    ]
+  }
+}

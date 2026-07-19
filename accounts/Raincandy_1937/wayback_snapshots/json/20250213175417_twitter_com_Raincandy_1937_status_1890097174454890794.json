@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1889941675642110451",
+    "created_at": "2025-02-13T17:54:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T18:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890097174454890794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1654545613529448448",
+          "start": 0,
+          "username": "fakeplasticdog7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890097174454890794",
+    "in_reply_to_user_id": "1654545613529448448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889941675642110451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fakeplasticdog7 赞成"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1889941675642110451",
+        "created_at": "2025-02-13T17:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T18:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890097174454890794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1654545613529448448",
+              "start": 0,
+              "username": "fakeplasticdog7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890097174454890794",
+        "in_reply_to_user_id": "1654545613529448448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889941675642110451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fakeplasticdog7 赞成"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654545613529448448",
+        "conversation_id": "1889941675642110451",
+        "created_at": "2025-02-13T07:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T08:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889941675642110451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889941675642110451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 32838,
+          "like_count": 396,
+          "quote_count": 7,
+          "reply_count": 25,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "最近发现有魅力的人都是有正经事在做的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 783,
+          "like_count": 5920,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 2998
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T17:56:37.000Z",
+        "description": "不是客人的朋友到底有没有",
+        "id": "1654545613529448448",
+        "name": "塑料狗",
+        "pinned_tweet_id": "1860147040606650754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670895062195277825/JpPDloaG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6904,
+          "following_count": 148,
+          "like_count": 5331,
+          "listed_count": 19,
+          "media_count": 125,
+          "tweet_count": 5293
+        },
+        "username": "fakeplasticdog7",
+        "verified": false
+      }
+    ]
+  }
+}

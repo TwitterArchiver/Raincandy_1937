@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1900384335976411143",
+    "created_at": "2025-03-14T17:33:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T18:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900601178507112854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1550367227177828353",
+          "start": 0,
+          "username": "qingqingqingri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900601178507112854",
+    "in_reply_to_user_id": "1550367227177828353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900532439908229571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingqingqingri 主煲overcooked了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1244,
+        "media_key": "3_1900532421969219585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmAMKxeWkAET0sh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1900384335976411143",
+        "created_at": "2025-03-14T17:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T18:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900601178507112854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1550367227177828353",
+              "start": 0,
+              "username": "qingqingqingri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900601178507112854",
+        "in_reply_to_user_id": "1550367227177828353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900532439908229571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingqingqingri 主煲overcooked了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900532421969219585"
+          ]
+        },
+        "author_id": "1550367227177828353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1900384335976411143",
+        "created_at": "2025-03-14T13:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T14:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900532439908229571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6r1NW2grMW",
+              "end": 38,
+              "expanded_url": "https://x.com/qingqingqingri/status/1900532439908229571/photo/1",
+              "media_key": "3_1900532421969219585",
+              "start": 15,
+              "url": "https://t.co/6r1NW2grMW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900532439908229571",
+        "in_reply_to_user_id": "1550367227177828353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2243,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900384335976411143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主包正在胡闹厨房，私信晚点回 https://t.co/6r1NW2grMW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 885,
+          "like_count": 6447,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 3300
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T06:29:06.000Z",
+        "description": "一个冰人 破如防",
+        "id": "1550367227177828353",
+        "name": "日青",
+        "pinned_tweet_id": "1807013729248362636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845125247940558855/Lb7CV9El_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 231,
+          "like_count": 29693,
+          "listed_count": 0,
+          "media_count": 598,
+          "tweet_count": 13368
+        },
+        "username": "qingqingqingri",
+        "verified": false
+      }
+    ]
+  }
+}

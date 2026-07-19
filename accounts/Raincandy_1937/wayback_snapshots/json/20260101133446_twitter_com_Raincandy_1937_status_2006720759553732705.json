@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2006720759553732705",
+    "created_at": "2026-01-01T13:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T14:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006720759553732705"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QuanLujun/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/QuanLujun/status/2006256476181127480",
+          "start": 9,
+          "url": "https://t.co/vSKu28dmye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006720759553732705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006256476181127480",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很酷的台湾飞行员 https://t.co/vSKu28dmye"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45277,
+        "height": 720,
+        "media_key": "13_2006256399282757638",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006256399282757638/img/WKtqzLXlb3csoMaa.jpg",
+        "public_metrics": {
+          "view_count": 491731
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006256399282757638/vid/avc1/480x270/ikx3MX2kAxgmSell.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006256399282757638/vid/avc1/640x360/s8KeePZ7H0wSCOPr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006256399282757638/vid/avc1/1280x720/lVOnAHt-3vVnNmnI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006256399282757638/pl/hq71rmiqL7QVqthJ.m3u8?v=c19"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2006720759553732705",
+        "created_at": "2026-01-01T13:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T14:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006720759553732705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QuanLujun/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/QuanLujun/status/2006256476181127480",
+              "start": 9,
+              "url": "https://t.co/vSKu28dmye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006720759553732705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006256476181127480",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很酷的台湾飞行员 https://t.co/vSKu28dmye"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006256399282757638"
+          ]
+        },
+        "author_id": "1653278595719081986",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2006256476181127480",
+        "created_at": "2025-12-31T06:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T07:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006256476181127480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CSgO4dXxqS",
+              "end": 166,
+              "expanded_url": "https://x.com/QuanLujun/status/2006256476181127480/video/1",
+              "media_key": "13_2006256399282757638",
+              "start": 143,
+              "url": "https://t.co/CSgO4dXxqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006256476181127480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "全网都在热传：\n“习近平是你选的吗？” ——台湾飞行员犀利言辞，让中共飞行员气急败坏，只能语带威胁以脏话搪塞。😂\n\n台军：你站的起来再说一辈子都跪着，当共产党的奴隶，还不知道站起来反抗共产党，可悲。\n\n共军：自以为是，反你X的X。\n\n台军：不知道自由为何物。习近平是你选的吗？可悲啊。\n\n共军：可悲你X\n\n台军：讲脏话的王国，你们讲脏话世界第一，可悲。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 901,
+          "impression_count": 1494768,
+          "like_count": 4016,
+          "quote_count": 60,
+          "reply_count": 221,
+          "retweet_count": 505
+        },
+        "reply_settings": "everyone",
+        "text": "全网都在热传：\n“习近平是你选的吗？” ——台湾飞行员犀利言辞，让中共飞行员气急败坏，只能语带威胁以脏话搪塞。😂\n\n台军：你站的起来再说一辈子都跪着，当共产党的奴隶，还不知道站起来反抗共产党，可悲。\n\n共军：自以为是，反你X的X。\n\n台军：不知道自由为何物。习近平是你选的吗？可悲啊。 https://t.co/CSgO4dXxqS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998397096031035392/5bZUUqPS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 1526,
+          "like_count": 12961,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 5954
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T06:02:43.000Z",
+        "description": "台湾就是台湾，台湾独立；守护台湾就是守护普世价值，就是守护人类的底线和未来，对邪恶中共说不！结束中共恐怖主义法西斯暴政，结束共产主义独裁者蛊惑人心，祸害世界；基督✝️文明世界必将战胜任何邪恶撒旦；台独顽固分子/荣耀基督联盟 Luke-权录军/电报群https://t.co/xxJHoK35Yl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+_MojCr8soxMyN…",
+                "end": 147,
+                "expanded_url": "https://t.me/+_MojCr8soxMyNGEx",
+                "start": 124,
+                "url": "https://t.co/xxJHoK35Yl"
+              }
+            ]
+          }
+        },
+        "id": "1653278595719081986",
+        "location": "California, USA",
+        "name": "LuJun Quan",
+        "pinned_tweet_id": "1996768874768093618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780063090182365184/OY7ky_fp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9640,
+          "following_count": 3884,
+          "like_count": 29736,
+          "listed_count": 78,
+          "media_count": 1139,
+          "tweet_count": 15099
+        },
+        "username": "QuanLujun",
+        "verified": true
+      }
+    ]
+  }
+}

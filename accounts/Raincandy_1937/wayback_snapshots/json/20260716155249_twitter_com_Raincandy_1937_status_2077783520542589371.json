@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077564798883999744",
+        "3_2077564798913384448"
+      ],
+      "media_source_tweet_id": [
+        "2077564893243334849",
+        "2077564893243334849"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2077783520542589371",
+    "created_at": "2026-07-16T15:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T16:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077783520542589371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1535701819812462600",
+          "start": 3,
+          "username": "Kenntnis22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CDz2EpOx9N",
+          "end": 123,
+          "expanded_url": "https://x.com/Kenntnis22/status/2077564893243334849/photo/1",
+          "media_key": "3_2077564798883999744",
+          "start": 100,
+          "url": "https://t.co/CDz2EpOx9N"
+        },
+        {
+          "display_url": "pic.x.com/CDz2EpOx9N",
+          "end": 123,
+          "expanded_url": "https://x.com/Kenntnis22/status/2077564893243334849/photo/1",
+          "media_key": "3_2077564798913384448",
+          "start": 100,
+          "url": "https://t.co/CDz2EpOx9N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077783520542589371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077564893243334849",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kenntnis22: 如果一本书、一家小小的书店就能够颠覆国家，你这国家难不成是纸糊的老虎❓\n\n极权国家越是钳制思想自由，就越表明思想才是极权国家最忌惮的东西。\n\n要有思想才能换来自由❗️ https://t.co/CDz2EpOx9N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1940,
+        "media_key": "3_2077564798883999744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNT-LVtWMAAhDY2.jpg",
+        "width": 1169
+      },
+      {
+        "height": 1528,
+        "media_key": "3_2077564798913384448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNT-LV0WkAAHTNJ.jpg",
+        "width": 1029
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077564798883999744",
+            "3_2077564798913384448"
+          ],
+          "media_source_tweet_id": [
+            "2077564893243334849",
+            "2077564893243334849"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2077783520542589371",
+        "created_at": "2026-07-16T15:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077783520542589371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1535701819812462600",
+              "start": 3,
+              "username": "Kenntnis22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CDz2EpOx9N",
+              "end": 123,
+              "expanded_url": "https://x.com/Kenntnis22/status/2077564893243334849/photo/1",
+              "media_key": "3_2077564798883999744",
+              "start": 100,
+              "url": "https://t.co/CDz2EpOx9N"
+            },
+            {
+              "display_url": "pic.x.com/CDz2EpOx9N",
+              "end": 123,
+              "expanded_url": "https://x.com/Kenntnis22/status/2077564893243334849/photo/1",
+              "media_key": "3_2077564798913384448",
+              "start": 100,
+              "url": "https://t.co/CDz2EpOx9N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077783520542589371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077564893243334849",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kenntnis22: 如果一本书、一家小小的书店就能够颠覆国家，你这国家难不成是纸糊的老虎❓\n\n极权国家越是钳制思想自由，就越表明思想才是极权国家最忌惮的东西。\n\n要有思想才能换来自由❗️ https://t.co/CDz2EpOx9N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077564798883999744",
+            "3_2077564798913384448"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2077564893243334849",
+        "created_at": "2026-07-16T01:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T02:23:43.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077564806349857061",
+          "2077564893243334849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CDz2EpOx9N",
+              "end": 107,
+              "expanded_url": "https://x.com/Kenntnis22/status/2077564893243334849/photo/1",
+              "media_key": "3_2077564798883999744",
+              "start": 84,
+              "url": "https://t.co/CDz2EpOx9N"
+            },
+            {
+              "display_url": "pic.x.com/CDz2EpOx9N",
+              "end": 107,
+              "expanded_url": "https://x.com/Kenntnis22/status/2077564893243334849/photo/1",
+              "media_key": "3_2077564798913384448",
+              "start": 84,
+              "url": "https://t.co/CDz2EpOx9N"
+            },
+            {
+              "display_url": "x.com/kenntnis22/sta…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/kenntnis22/status/2077513717474820553",
+              "start": 108,
+              "url": "https://t.co/4ohWC6yr6X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077564893243334849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 7458,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077513717474820553",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果一本书、一家小小的书店就能够颠覆国家，你这国家难不成是纸糊的老虎❓\n\n极权国家越是钳制思想自由，就越表明思想才是极权国家最忌惮的东西。\n\n要有思想才能换来自由❗️ https://t.co/CDz2EpOx9N https://t.co/4ohWC6yr6X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 1795,
+          "like_count": 17250,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 7489
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2077342413903810969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56781,
+          "following_count": 450,
+          "like_count": 62493,
+          "listed_count": 281,
+          "media_count": 13841,
+          "tweet_count": 21266
+        },
+        "url": "",
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

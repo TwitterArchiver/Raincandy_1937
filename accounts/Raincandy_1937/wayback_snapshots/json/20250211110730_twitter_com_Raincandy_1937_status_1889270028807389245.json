@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1889250023055175720",
+    "created_at": "2025-02-11T11:07:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T12:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889270028807389245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1837843837349449728",
+          "start": 0,
+          "username": "yuzhoushuijiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889270028807389245",
+    "in_reply_to_user_id": "1837843837349449728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889250023055175720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzhoushuijiao 给窝来一口"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1889250023055175720",
+        "created_at": "2025-02-11T11:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T12:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889270028807389245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1837843837349449728",
+              "start": 0,
+              "username": "yuzhoushuijiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889270028807389245",
+        "in_reply_to_user_id": "1837843837349449728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889250023055175720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzhoushuijiao 给窝来一口"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889250016369500160"
+          ]
+        },
+        "author_id": "1837843837349449728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1889250023055175720",
+        "created_at": "2025-02-11T09:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T10:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889250023055175720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYRZ45YHB1",
+              "end": 38,
+              "expanded_url": "https://x.com/yuzhoushuijiao/status/1889250023055175720/photo/1",
+              "media_key": "3_1889250016369500160",
+              "start": 15,
+              "url": "https://t.co/fYRZ45YHB1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889250023055175720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1136,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是今天的有人夸不*^o^* https://t.co/fYRZ45YHB1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 757,
+          "like_count": 5762,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2924
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T13:18:18.000Z",
+        "description": "网友中藏龙卧虎，偶只是角落一株没有食用药用观赏价值的蘑菇🍄",
+        "id": "1837843837349449728",
+        "location": "反差纯爱好文明",
+        "name": "宇宙水饺",
+        "pinned_tweet_id": "1888606264521101796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839328108958371840/4vrL_ap9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5342,
+          "following_count": 113,
+          "like_count": 7131,
+          "listed_count": 9,
+          "media_count": 705,
+          "tweet_count": 5242
+        },
+        "username": "yuzhoushuijiao",
+        "verified": false
+      }
+    ]
+  }
+}

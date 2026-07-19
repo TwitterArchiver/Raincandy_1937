@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2056602849724043534",
+    "created_at": "2026-05-19T05:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T06:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056602849724043534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds0/status/2…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/hgds0/status/2056384836697493838",
+          "start": 5,
+          "url": "https://t.co/uODmvO11m6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056602849724043534",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056384836697493838",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "True https://t.co/uODmvO11m6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1186,
+        "media_key": "3_2056384815579164672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIm_GDYacAABg6S.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2056602849724043534",
+        "created_at": "2026-05-19T05:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056602849724043534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds0/status/2…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/hgds0/status/2056384836697493838",
+              "start": 5,
+              "url": "https://t.co/uODmvO11m6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056602849724043534",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056384836697493838",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "True https://t.co/uODmvO11m6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056384815579164672"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2056384836697493838",
+        "created_at": "2026-05-18T14:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056384836697493838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HQS16NwcBA",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/2056384836697493838/photo/1",
+              "media_key": "3_2056384815579164672",
+              "start": 0,
+              "url": "https://t.co/HQS16NwcBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056384836697493838",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 37265,
+          "like_count": 1647,
+          "quote_count": 16,
+          "reply_count": 45,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HQS16NwcBA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 1676,
+          "like_count": 15351,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 6834
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删/推广自辩‼️",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2048632363241152830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97567,
+          "following_count": 2458,
+          "like_count": 44345,
+          "listed_count": 146,
+          "media_count": 4205,
+          "tweet_count": 8604
+        },
+        "username": "hgds0",
+        "verified": false
+      }
+    ]
+  }
+}

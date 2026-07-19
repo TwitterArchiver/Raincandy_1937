@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2067653144625164548",
+    "created_at": "2026-06-18T16:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067653144625164548"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mizshimaf/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/mizshimaf/status/2067594311076647034",
+          "start": 15,
+          "url": "https://t.co/gIOyrVeM40"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067653144625164548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067594311076647034",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這倆原本就是這麽好吃來著嗎？ https://t.co/gIOyrVeM40"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067594306441900032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGSES8W8AAAqAy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2067653144625164548",
+        "created_at": "2026-06-18T16:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067653144625164548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mizshimaf/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/mizshimaf/status/2067594311076647034",
+              "start": 15,
+              "url": "https://t.co/gIOyrVeM40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067653144625164548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067594311076647034",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這倆原本就是這麽好吃來著嗎？ https://t.co/gIOyrVeM40"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067594306441900032"
+          ]
+        },
+        "author_id": "2033197393710305280",
+        "conversation_id": "2067594311076647034",
+        "created_at": "2026-06-18T13:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067594311076647034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8UxZJo2uUG",
+              "end": 112,
+              "expanded_url": "https://x.com/mizshimaf/status/2067594311076647034/photo/1",
+              "media_key": "3_2067594306441900032",
+              "start": 89,
+              "url": "https://t.co/8UxZJo2uUG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067594311076647034",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 4602,
+          "like_count": 839,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 172
+        },
+        "reply_settings": "everyone",
+        "text": "this as an au where mafuyu moves to a small seaside town after college and meets shizuku https://t.co/8UxZJo2uUG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 1759,
+          "like_count": 16808,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 7327
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T15:03:37.000Z",
+        "description": "❄️💧enthusiast, momoniigo ceo, pfp use/repost 🆗 w/ permission | archive: @msm_archive",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "msm_archive"
+              }
+            ]
+          }
+        },
+        "id": "2033197393710305280",
+        "location": "21, 🇵🇭",
+        "name": "mae",
+        "pinned_tweet_id": "2050177288730231285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033407697949949952/Ce7g1_vZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 62,
+          "like_count": 2664,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 663
+        },
+        "username": "mizshimaf",
+        "verified": false
+      }
+    ]
+  }
+}

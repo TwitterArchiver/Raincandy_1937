@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1962730015990390994",
+    "created_at": "2025-09-03T09:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T10:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963174852455768531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1058609497088782336",
+          "start": 0,
+          "username": "Signalman_Free"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963174852455768531",
+    "in_reply_to_user_id": "1058609497088782336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962730015990390994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Signalman_Free 超天才"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_1962730010437132289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz0Ei6YaoAE8e3r.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1962730015990390994",
+        "created_at": "2025-09-03T09:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T10:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963174852455768531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1058609497088782336",
+              "start": 0,
+              "username": "Signalman_Free"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963174852455768531",
+        "in_reply_to_user_id": "1058609497088782336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962730015990390994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Signalman_Free 超天才"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962730010437132289"
+          ]
+        },
+        "author_id": "1058609497088782336",
+        "conversation_id": "1962730015990390994",
+        "created_at": "2025-09-02T04:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T05:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962730015990390994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hmHt2CJzsB",
+              "end": 23,
+              "expanded_url": "https://x.com/Signalman_Free/status/1962730015990390994/photo/1",
+              "media_key": "3_1962730010437132289",
+              "start": 0,
+              "url": "https://t.co/hmHt2CJzsB"
+            },
+            {
+              "display_url": "x.com/kfcqz/status/1…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/kfcqz/status/1962337746271547473",
+              "start": 24,
+              "url": "https://t.co/wa12BbWT3D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962730015990390994",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 79754,
+          "like_count": 795,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962337746271547473",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/hmHt2CJzsB https://t.co/wa12BbWT3D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 1268,
+          "like_count": 9523,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 4944
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-03T06:39:06.000Z",
+        "description": "在这个形态下的信号侠已经彻底CPU过热，脑子里只想着怎么散热，太陽のヤツ、死ね！",
+        "id": "1058609497088782336",
+        "location": "信号星",
+        "name": "信号侠-赛博精神病形态",
+        "pinned_tweet_id": "1962735380693950519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951778767808172032/1umcvdqS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 145,
+          "like_count": 17968,
+          "listed_count": 7,
+          "media_count": 410,
+          "tweet_count": 15358
+        },
+        "username": "Signalman_Free",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,1161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1082288067489128451",
+          "name": "Daichi Miura"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1179485404556185600",
+          "name": "Caroline Polachek"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1460941832846602241",
+          "name": "Woodkid"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1082288067489128451",
+          "name": "Daichi Miura"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1179485404556185600",
+          "name": "Caroline Polachek"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1460941832846602241",
+          "name": "Woodkid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Death Stranding",
+          "id": "1004737991498072064",
+          "name": "Death Stranding"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pop",
+          "id": "810938279801470977",
+          "name": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Alternative",
+          "id": "849684194242338816",
+          "name": "Alternative rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Death Stranding",
+          "id": "1004737991498072064",
+          "name": "Death Stranding"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1082288067489128451",
+          "name": "Daichi Miura"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1179485404556185600",
+          "name": "Caroline Polachek"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1292906424071151616",
+          "name": "Indie pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293191811561709575",
+          "name": "Indie & Alternative"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1460941832846602241",
+          "name": "Woodkid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897364881178624",
+          "name": "Action-adventure games"
+        }
+      }
+    ],
+    "conversation_id": "1921396106845425912",
+    "created_at": "2025-05-11T02:45:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T03:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921396106845425912"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/naven0m/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/naven0m/status/1920931151914430570",
+          "start": 11,
+          "url": "https://t.co/sZZQVFAdgD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921396106845425912",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920931151914430570",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Low Roar 😭 https://t.co/sZZQVFAdgD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1920921757738782720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqh8KUNW0AAH2P3.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1009,
+        "media_key": "3_1920921882242449408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqh8RkBWAAAfwvh.jpg",
+        "width": 1009
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1082288067489128451",
+              "name": "Daichi Miura"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1179485404556185600",
+              "name": "Caroline Polachek"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1460941832846602241",
+              "name": "Woodkid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1082288067489128451",
+              "name": "Daichi Miura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1179485404556185600",
+              "name": "Caroline Polachek"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1460941832846602241",
+              "name": "Woodkid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Death Stranding",
+              "id": "1004737991498072064",
+              "name": "Death Stranding"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Death Stranding",
+              "id": "1004737991498072064",
+              "name": "Death Stranding"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1082288067489128451",
+              "name": "Daichi Miura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1179485404556185600",
+              "name": "Caroline Polachek"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292906424071151616",
+              "name": "Indie pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293191811561709575",
+              "name": "Indie & Alternative"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1460941832846602241",
+              "name": "Woodkid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897364881178624",
+              "name": "Action-adventure games"
+            }
+          }
+        ],
+        "conversation_id": "1921396106845425912",
+        "created_at": "2025-05-11T02:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T03:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921396106845425912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/naven0m/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/naven0m/status/1920931151914430570",
+              "start": 11,
+              "url": "https://t.co/sZZQVFAdgD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921396106845425912",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920931151914430570",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Low Roar 😭 https://t.co/sZZQVFAdgD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920921757738782720",
+            "3_1920921882242449408"
+          ]
+        },
+        "author_id": "1572232969",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1082288067489128451",
+              "name": "Daichi Miura"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1179485404556185600",
+              "name": "Caroline Polachek"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1460941832846602241",
+              "name": "Woodkid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1082288067489128451",
+              "name": "Daichi Miura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1179485404556185600",
+              "name": "Caroline Polachek"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1460941832846602241",
+              "name": "Woodkid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Death Stranding",
+              "id": "1004737991498072064",
+              "name": "Death Stranding"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Death Stranding",
+              "id": "1004737991498072064",
+              "name": "Death Stranding"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1082288067489128451",
+              "name": "Daichi Miura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1179485404556185600",
+              "name": "Caroline Polachek"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265664739276763136",
+              "name": "Beach life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292906424071151616",
+              "name": "Indie pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293191811561709575",
+              "name": "Indie & Alternative"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1460941832846602241",
+              "name": "Woodkid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897364881178624",
+              "name": "Action-adventure games"
+            }
+          }
+        ],
+        "conversation_id": "1920931151914430570",
+        "created_at": "2025-05-09T19:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T20:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920931151914430570"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "DEATH STRANDING",
+              "probability": 0.8016,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 43,
+              "normalized_text": "Ludvig Forssell",
+              "probability": 0.736,
+              "start": 29,
+              "type": "Person"
+            },
+            {
+              "end": 69,
+              "normalized_text": "WOODKID",
+              "probability": 0.9068,
+              "start": 63,
+              "type": "Other"
+            },
+            {
+              "end": 84,
+              "normalized_text": "To the Wilder",
+              "probability": 0.8852,
+              "start": 72,
+              "type": "Other"
+            },
+            {
+              "end": 95,
+              "normalized_text": "more",
+              "probability": 0.5809,
+              "start": 92,
+              "type": "Other"
+            },
+            {
+              "end": 110,
+              "normalized_text": "Silent Poets",
+              "probability": 0.8848,
+              "start": 99,
+              "type": "Other"
+            },
+            {
+              "end": 127,
+              "normalized_text": "Chariot I Plead",
+              "probability": 0.8125,
+              "start": 113,
+              "type": "Other"
+            },
+            {
+              "end": 147,
+              "normalized_text": "Caroline Polachek",
+              "probability": 0.7045,
+              "start": 131,
+              "type": "Person"
+            },
+            {
+              "end": 161,
+              "normalized_text": "On the Beach",
+              "probability": 0.9535,
+              "start": 150,
+              "type": "Other"
+            },
+            {
+              "end": 173,
+              "normalized_text": "Magnolian",
+              "probability": 0.7358,
+              "start": 165,
+              "type": "Other"
+            },
+            {
+              "end": 189,
+              "normalized_text": "Several tracks",
+              "probability": 0.8423,
+              "start": 176,
+              "type": "Other"
+            },
+            {
+              "end": 202,
+              "normalized_text": "Hania Rani",
+              "probability": 0.6219,
+              "start": 193,
+              "type": "Person"
+            },
+            {
+              "end": 213,
+              "normalized_text": "Low Roar",
+              "probability": 0.934,
+              "start": 206,
+              "type": "Other"
+            },
+            {
+              "end": 239,
+              "normalized_text": "House in the Woods album",
+              "probability": 0.8763,
+              "start": 216,
+              "type": "Other"
+            },
+            {
+              "end": 254,
+              "normalized_text": "Daichi Miura",
+              "probability": 0.6584,
+              "start": 243,
+              "type": "Other"
+            },
+            {
+              "end": 271,
+              "normalized_text": "Horizon Dreamer",
+              "probability": 0.8801,
+              "start": 257,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/30qQv50vM5",
+              "end": 296,
+              "expanded_url": "https://x.com/naven0m/status/1920931151914430570/photo/1",
+              "media_key": "3_1920921757738782720",
+              "start": 273,
+              "url": "https://t.co/30qQv50vM5"
+            },
+            {
+              "display_url": "pic.x.com/30qQv50vM5",
+              "end": 296,
+              "expanded_url": "https://x.com/naven0m/status/1920931151914430570/photo/1",
+              "media_key": "3_1920921882242449408",
+              "start": 273,
+              "url": "https://t.co/30qQv50vM5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920931151914430570",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 322,
+          "impression_count": 70517,
+          "like_count": 2359,
+          "quote_count": 55,
+          "reply_count": 24,
+          "retweet_count": 207
+        },
+        "reply_settings": "everyone",
+        "text": "DEATH STRANDING 2 MUSIC: 🎶\n- Ludvig Forssell, the soundtrack\n- WOODKID, To the Wilder &amp; more\n- Silent Poets, Chariot I Plead\n- Caroline Polachek, On the Beach\n- Magnolian, Several tracks\n- Hania Rani\n- Low Roar, House in the Woods album\n- Daichi Miura, Horizon Dreamer https://t.co/30qQv50vM5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 1089,
+          "like_count": 8186,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 4221
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-06T07:26:16.000Z",
+        "description": "#DeathStranding2 #OD #PHYSINT #MetalGearSolid | Followed by @Kojima_Hideo | June 24th 2025",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 0,
+                "tag": "DeathStranding2"
+              },
+              {
+                "end": 20,
+                "start": 17,
+                "tag": "OD"
+              },
+              {
+                "end": 29,
+                "start": 21,
+                "tag": "PHYSINT"
+              },
+              {
+                "end": 45,
+                "start": 30,
+                "tag": "MetalGearSolid"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "Kojima_Hideo"
+              }
+            ]
+          }
+        },
+        "id": "1572232969",
+        "location": "On the Beach",
+        "name": "NV",
+        "pinned_tweet_id": "1813246360818184288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883592029273296896/ga5jrh6B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8386,
+          "following_count": 240,
+          "like_count": 18835,
+          "listed_count": 42,
+          "media_count": 11874,
+          "tweet_count": 33791
+        },
+        "username": "naven0m",
+        "verified": false
+      }
+    ]
+  }
+}

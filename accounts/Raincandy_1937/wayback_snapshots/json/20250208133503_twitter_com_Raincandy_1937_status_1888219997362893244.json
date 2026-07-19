@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1888219997362893244",
+    "created_at": "2025-02-08T13:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T14:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888219997362893244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1549011946871336960",
+          "start": 3,
+          "username": "Alantur57426778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888219997362893244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888128993133752803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alantur57426778: 顺站，你在听吗？\n这些明晃晃地怂恿年轻人，\n合法化霸凌性少数群体的视频。\n你是怎样在接到大量举报之后，\n仍然纵容它们从去年11月，\n广泛传播至今、并不时推流的？\n抑或说，鼓吹暴力、宣扬仇恨的禁令，只对性多数生效？ https://t.c…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1888219997362893244].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1888219997362893244",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1888219997362893244"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888128981658214400",
+            "3_1888128981637238784",
+            "3_1888128982765490176",
+            "3_1888128985835704320"
+          ]
+        },
+        "author_id": "1549011946871336960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1888128993133752803",
+        "created_at": "2025-02-08T07:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T08:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888128993133752803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/06QRWXz6dl",
+              "end": 130,
+              "expanded_url": "https://x.com/Alantur57426778/status/1888128993133752803/photo/1",
+              "media_key": "3_1888128981658214400",
+              "start": 107,
+              "url": "https://t.co/06QRWXz6dl"
+            },
+            {
+              "display_url": "pic.x.com/06QRWXz6dl",
+              "end": 130,
+              "expanded_url": "https://x.com/Alantur57426778/status/1888128993133752803/photo/1",
+              "media_key": "3_1888128981637238784",
+              "start": 107,
+              "url": "https://t.co/06QRWXz6dl"
+            },
+            {
+              "display_url": "pic.x.com/06QRWXz6dl",
+              "end": 130,
+              "expanded_url": "https://x.com/Alantur57426778/status/1888128993133752803/photo/1",
+              "media_key": "3_1888128982765490176",
+              "start": 107,
+              "url": "https://t.co/06QRWXz6dl"
+            },
+            {
+              "display_url": "pic.x.com/06QRWXz6dl",
+              "end": 130,
+              "expanded_url": "https://x.com/Alantur57426778/status/1888128993133752803/photo/1",
+              "media_key": "3_1888128985835704320",
+              "start": 107,
+              "url": "https://t.co/06QRWXz6dl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888128993133752803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 611,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "顺站，你在听吗？\n这些明晃晃地怂恿年轻人，\n合法化霸凌性少数群体的视频。\n你是怎样在接到大量举报之后，\n仍然纵容它们从去年11月，\n广泛传播至今、并不时推流的？\n抑或说，鼓吹暴力、宣扬仇恨的禁令，只对性多数生效？ https://t.co/06QRWXz6dl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 737,
+          "like_count": 5681,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 2866
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T12:43:31.000Z",
+        "description": "这何尝不是血呢？\n我们的情感，就这样被磐石大峰深埋其下。\n我们的青春，就此被压抑荒诞的环境包裹。\n当无辜者的权益被剥蚀，\n当少数者的声音被吞没，\n激同主义的点点微光终将燎原！\n眼前的一切，看似金刚不坏。\n耳畔的什么“传统”、“主流”，\n听着大义凌然，\n可它们是正法吗？\n是凌驾于时空，公允对待每一个人的正义吗？",
+        "id": "1549011946871336960",
+        "location": "Hi,there!",
+        "name": "泽尔激同协会",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672247087621197824/st59jOX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 115,
+          "like_count": 6727,
+          "listed_count": 4,
+          "media_count": 235,
+          "tweet_count": 853
+        },
+        "username": "Alantur57426778",
+        "verified": false
+      }
+    ]
+  }
+}

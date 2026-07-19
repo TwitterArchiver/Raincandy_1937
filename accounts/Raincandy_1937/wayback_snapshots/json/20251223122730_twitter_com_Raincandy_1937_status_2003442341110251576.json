@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003396341171650561",
+        "3_2003396406904864768",
+        "3_2003396447706972163",
+        "3_2003396515231064064"
+      ],
+      "media_source_tweet_id": [
+        "2003396706722001294",
+        "2003396706722001294",
+        "2003396706722001294",
+        "2003396706722001294"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2003442341110251576",
+    "created_at": "2025-12-23T12:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T13:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003442341110251576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "44186175",
+          "start": 3,
+          "username": "xiaojingcanxue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D1RGn6AGNT",
+          "end": 87,
+          "expanded_url": "https://x.com/xiaojingcanxue/status/2003396706722001294/photo/1",
+          "media_key": "3_2003396341171650561",
+          "start": 64,
+          "url": "https://t.co/D1RGn6AGNT"
+        },
+        {
+          "display_url": "pic.x.com/D1RGn6AGNT",
+          "end": 87,
+          "expanded_url": "https://x.com/xiaojingcanxue/status/2003396706722001294/photo/1",
+          "media_key": "3_2003396406904864768",
+          "start": 64,
+          "url": "https://t.co/D1RGn6AGNT"
+        },
+        {
+          "display_url": "pic.x.com/D1RGn6AGNT",
+          "end": 87,
+          "expanded_url": "https://x.com/xiaojingcanxue/status/2003396706722001294/photo/1",
+          "media_key": "3_2003396447706972163",
+          "start": 64,
+          "url": "https://t.co/D1RGn6AGNT"
+        },
+        {
+          "display_url": "pic.x.com/D1RGn6AGNT",
+          "end": 87,
+          "expanded_url": "https://x.com/xiaojingcanxue/status/2003396706722001294/photo/1",
+          "media_key": "3_2003396515231064064",
+          "start": 64,
+          "url": "https://t.co/D1RGn6AGNT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003442341110251576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003396706722001294",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaojingcanxue: 衡水片段。\n\n（小红书博主因为发自己拍的这个东西被衡水警告了，幸好肉身在北美没有上门） https://t.co/D1RGn6AGNT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1947,
+        "media_key": "3_2003396341171650561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G81-W5vagAE-DEH.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1966,
+        "media_key": "3_2003396406904864768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G81-aunbwAAFMPW.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1963,
+        "media_key": "3_2003396447706972163",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G81-dGnagAMrMdq.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1963,
+        "media_key": "3_2003396515231064064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G81-hCKaYAAL8o4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003396341171650561",
+            "3_2003396406904864768",
+            "3_2003396447706972163",
+            "3_2003396515231064064"
+          ],
+          "media_source_tweet_id": [
+            "2003396706722001294",
+            "2003396706722001294",
+            "2003396706722001294",
+            "2003396706722001294"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2003442341110251576",
+        "created_at": "2025-12-23T12:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T13:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003442341110251576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "44186175",
+              "start": 3,
+              "username": "xiaojingcanxue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D1RGn6AGNT",
+              "end": 87,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2003396706722001294/photo/1",
+              "media_key": "3_2003396341171650561",
+              "start": 64,
+              "url": "https://t.co/D1RGn6AGNT"
+            },
+            {
+              "display_url": "pic.x.com/D1RGn6AGNT",
+              "end": 87,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2003396706722001294/photo/1",
+              "media_key": "3_2003396406904864768",
+              "start": 64,
+              "url": "https://t.co/D1RGn6AGNT"
+            },
+            {
+              "display_url": "pic.x.com/D1RGn6AGNT",
+              "end": 87,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2003396706722001294/photo/1",
+              "media_key": "3_2003396447706972163",
+              "start": 64,
+              "url": "https://t.co/D1RGn6AGNT"
+            },
+            {
+              "display_url": "pic.x.com/D1RGn6AGNT",
+              "end": 87,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2003396706722001294/photo/1",
+              "media_key": "3_2003396515231064064",
+              "start": 64,
+              "url": "https://t.co/D1RGn6AGNT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003442341110251576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003396706722001294",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaojingcanxue: 衡水片段。\n\n（小红书博主因为发自己拍的这个东西被衡水警告了，幸好肉身在北美没有上门） https://t.co/D1RGn6AGNT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003396341171650561",
+            "3_2003396406904864768",
+            "3_2003396447706972163",
+            "3_2003396515231064064"
+          ]
+        },
+        "author_id": "44186175",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2003396706722001294",
+        "created_at": "2025-12-23T09:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T10:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003396706722001294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D1RGn6AGNT",
+              "end": 67,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2003396706722001294/photo/1",
+              "media_key": "3_2003396341171650561",
+              "start": 44,
+              "url": "https://t.co/D1RGn6AGNT"
+            },
+            {
+              "display_url": "pic.x.com/D1RGn6AGNT",
+              "end": 67,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2003396706722001294/photo/1",
+              "media_key": "3_2003396406904864768",
+              "start": 44,
+              "url": "https://t.co/D1RGn6AGNT"
+            },
+            {
+              "display_url": "pic.x.com/D1RGn6AGNT",
+              "end": 67,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2003396706722001294/photo/1",
+              "media_key": "3_2003396447706972163",
+              "start": 44,
+              "url": "https://t.co/D1RGn6AGNT"
+            },
+            {
+              "display_url": "pic.x.com/D1RGn6AGNT",
+              "end": 67,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2003396706722001294/photo/1",
+              "media_key": "3_2003396515231064064",
+              "start": 44,
+              "url": "https://t.co/D1RGn6AGNT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003396706722001294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 24419,
+          "like_count": 198,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "衡水片段。\n\n（小红书博主因为发自己拍的这个东西被衡水警告了，幸好肉身在北美没有上门） https://t.co/D1RGn6AGNT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998397096031035392/5bZUUqPS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 1528,
+          "like_count": 12854,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 5903
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中美新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235211,
+          "following_count": 1840,
+          "like_count": 192,
+          "listed_count": 1235,
+          "media_count": 27325,
+          "tweet_count": 34916
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

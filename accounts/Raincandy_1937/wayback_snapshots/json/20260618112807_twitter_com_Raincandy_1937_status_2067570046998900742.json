@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2067256419338854892",
+    "created_at": "2026-06-18T11:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067570046998900742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1482321655225536515",
+          "start": 0,
+          "username": "Mrymyildiz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067570046998900742",
+    "in_reply_to_user_id": "1482321655225536515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067256419338854892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mrymyildiz 番茄不錯，不過下面那個骨頭一樣的東西是什麼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1606,
+        "media_key": "3_2067256410350424064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBewJ6WEAAEOah.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2067256419338854892",
+        "created_at": "2026-06-18T11:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067570046998900742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1482321655225536515",
+              "start": 0,
+              "username": "Mrymyildiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067570046998900742",
+        "in_reply_to_user_id": "1482321655225536515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067256419338854892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mrymyildiz 番茄不錯，不過下面那個骨頭一樣的東西是什麼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067256410350424064"
+          ]
+        },
+        "author_id": "1482321655225536515",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067256419338854892",
+        "created_at": "2026-06-17T14:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067256419338854892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0PeeZcG0di",
+              "end": 80,
+              "expanded_url": "https://x.com/Mrymyildiz/status/2067256419338854892/photo/1",
+              "media_key": "3_2067256410350424064",
+              "start": 57,
+              "url": "https://t.co/0PeeZcG0di"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067256419338854892",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 64361,
+          "like_count": 1023,
+          "quote_count": 37,
+          "reply_count": 187,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "Diyeti bu domatesle bozmayı düşünüyorum. Çok etkiler mi? https://t.co/0PeeZcG0di"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 1755,
+          "like_count": 16796,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 7322
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-15T12:00:25.000Z",
+        "description": "✨ Reklam & İş Birliği İçin DM ✨\n💌 Marka iş birlikleri\n🎥 Tanıtım & Reels\n📩 Detaylı bilgi için DM’den ulaşabilirsiniz",
+        "id": "1482321655225536515",
+        "location": "İzmir, Türkiye",
+        "name": "𝓜𝓮𝓻𝔂𝓮𝓶✨",
+        "pinned_tweet_id": "2067194581117006319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049241725970096128/Y1HfaTd8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16802,
+          "following_count": 5521,
+          "like_count": 101719,
+          "listed_count": 4,
+          "media_count": 156,
+          "tweet_count": 9191
+        },
+        "url": "",
+        "username": "Mrymyildiz",
+        "verified": true
+      }
+    ]
+  }
+}

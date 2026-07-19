@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1870325572775362764",
+    "created_at": "2024-12-22T10:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T11:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870785036863353220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1521168593672564737",
+          "start": 0,
+          "username": "symka_7595"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870785036863353220",
+    "in_reply_to_user_id": "1521168593672564737",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870325572775362764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@symka_7595 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1870325572775362764",
+        "created_at": "2024-12-22T10:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T11:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870785036863353220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1521168593672564737",
+              "start": 0,
+              "username": "symka_7595"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870785036863353220",
+        "in_reply_to_user_id": "1521168593672564737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870325572775362764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@symka_7595 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521168593672564737",
+        "conversation_id": "1870325572775362764",
+        "created_at": "2024-12-21T04:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T05:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870325572775362764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1870325572775362764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 37174,
+          "like_count": 1303,
+          "quote_count": 2,
+          "reply_count": 398,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "停下\n\n給我一個抱抱\n誰都好\n拜託"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 567,
+          "like_count": 3596,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1993
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-02T16:44:02.000Z",
+        "description": "🌟個人勢Vtuber/Vstreamer🌟｜主要是遊戲雜談型主播｜遊戲、聊天、工作、繪圖｜金髮正太系｜繪師：Yuri幽里｜建模師：不在証明｜連動邀約請直接透過X聯絡或是Discord｜📩合作邀約:frank5742351@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/symka",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/symka",
+                "start": 0,
+                "url": "https://t.co/etBoYGOz1J"
+              }
+            ]
+          }
+        },
+        "id": "1521168593672564737",
+        "location": "Taiwan",
+        "name": "星卡𝕊𝕐𝕄𝕂𝔸🌟 應該是個人勢 VStreamer/Vtuber",
+        "pinned_tweet_id": "1868097511136895300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870362118769545216/OFeuI2wZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 1001,
+          "like_count": 13825,
+          "listed_count": 3,
+          "media_count": 569,
+          "tweet_count": 2971
+        },
+        "url": "https://t.co/etBoYGOz1J",
+        "username": "symka_7595",
+        "verified": false
+      }
+    ]
+  }
+}

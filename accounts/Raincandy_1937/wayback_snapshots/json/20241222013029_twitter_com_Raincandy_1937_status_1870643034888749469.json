@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1870529817470439779",
+    "created_at": "2024-12-22T01:30:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T02:30:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870643034888749469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1616914728529563650",
+          "start": 0,
+          "username": "angelkawaii_p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870643034888749469",
+    "in_reply_to_user_id": "1616914728529563650",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870529817470439779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelkawaii_p 🧐🧐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1870529817470439779",
+        "created_at": "2024-12-22T01:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T02:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870643034888749469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1616914728529563650",
+              "start": 0,
+              "username": "angelkawaii_p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870643034888749469",
+        "in_reply_to_user_id": "1616914728529563650",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870529817470439779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelkawaii_p 🧐🧐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616914728529563650",
+        "conversation_id": "1870529817470439779",
+        "created_at": "2024-12-21T18:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T19:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870529817470439779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1870529817470439779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚才没有开vpn打开了推特然后fo了一个人？🙀🙀🙀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 566,
+          "like_count": 3587,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1990
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T21:45:02.000Z",
+        "description": "阿虚子转生号（大号黑历史锁了）07年天残双相木桶饭🍥2023 11 24 我很糟糕但请互fo",
+        "id": "1616914728529563650",
+        "location": "宛平南路600号mect室",
+        "name": "阿虚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827178116747583488/F7KjsvuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 100,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 66
+        },
+        "username": "angelkawaii_p",
+        "verified": true
+      }
+    ]
+  }
+}

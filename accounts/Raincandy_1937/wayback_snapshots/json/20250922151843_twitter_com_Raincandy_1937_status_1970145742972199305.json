@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969666083352428547"
+      ],
+      "media_source_tweet_id": [
+        "1969666088947630359"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1970145742972199305",
+    "created_at": "2025-09-22T15:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T16:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970145742972199305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "760415200918982656",
+          "start": 3,
+          "username": "IamczcChen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YEJQQTEsbR",
+          "end": 39,
+          "expanded_url": "https://x.com/IamczcChen/status/1969666088947630359/photo/1",
+          "media_key": "3_1969666083352428547",
+          "start": 16,
+          "url": "https://t.co/YEJQQTEsbR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970145742972199305",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 276
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969666088947630359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IamczcChen: https://t.co/YEJQQTEsbR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 506,
+        "media_key": "3_1969666083352428547",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Wo3fhbQAMP0It.jpg",
+        "width": 565
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969666083352428547"
+          ],
+          "media_source_tweet_id": [
+            "1969666088947630359"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1970145742972199305",
+        "created_at": "2025-09-22T15:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T16:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970145742972199305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "760415200918982656",
+              "start": 3,
+              "username": "IamczcChen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YEJQQTEsbR",
+              "end": 39,
+              "expanded_url": "https://x.com/IamczcChen/status/1969666088947630359/photo/1",
+              "media_key": "3_1969666083352428547",
+              "start": 16,
+              "url": "https://t.co/YEJQQTEsbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970145742972199305",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 276
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969666088947630359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IamczcChen: https://t.co/YEJQQTEsbR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969666083352428547"
+          ]
+        },
+        "author_id": "760415200918982656",
+        "conversation_id": "1969666088947630359",
+        "created_at": "2025-09-21T07:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T08:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969666088947630359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YEJQQTEsbR",
+              "end": 23,
+              "expanded_url": "https://x.com/IamczcChen/status/1969666088947630359/photo/1",
+              "media_key": "3_1969666083352428547",
+              "start": 0,
+              "url": "https://t.co/YEJQQTEsbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969666088947630359",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 194,
+          "impression_count": 461468,
+          "like_count": 4553,
+          "quote_count": 14,
+          "reply_count": 138,
+          "retweet_count": 276
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YEJQQTEsbR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 1343,
+          "like_count": 10179,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 5116
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-02T10:01:26.000Z",
+        "description": "あなたが居なくなってから、世界が何色か分からなくなった。",
+        "id": "760415200918982656",
+        "location": "時間の止まる場所",
+        "name": "村人C",
+        "pinned_tweet_id": "1877284474678878574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893121395795914752/4nhyVZa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 852,
+          "like_count": 180329,
+          "listed_count": 13,
+          "media_count": 6512,
+          "tweet_count": 62137
+        },
+        "username": "IamczcChen",
+        "verified": false
+      }
+    ]
+  }
+}

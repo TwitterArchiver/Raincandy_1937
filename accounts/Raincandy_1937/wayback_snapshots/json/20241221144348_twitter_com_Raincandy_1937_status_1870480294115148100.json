@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1870108278845517824"
+      ],
+      "media_source_tweet_id": [
+        "1870108286730821719"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1870480294115148100",
+    "created_at": "2024-12-21T14:43:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-21T15:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870480294115148100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1654002469180178432",
+          "start": 3,
+          "username": "cynti023"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WelQK8y0QT",
+          "end": 133,
+          "expanded_url": "https://x.com/cynti023/status/1870108286730821719/photo/1",
+          "media_key": "3_1870108278845517824",
+          "start": 110,
+          "url": "https://t.co/WelQK8y0QT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870480294115148100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870108286730821719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cynti023: 终于把wx显示的性别去掉了\n\n可能有的伙伴和我一样，要在wx添加同事，客户，供应商之类的，不方便设置认同性别，那倒不如把性别设置给清除掉，我是想着总比不得不设置成指派性别好，方法总结在下面了 https://t.co/WelQK8y0QT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1025,
+        "media_key": "3_1870108278845517824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfP1kkQasAAKDub.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870108278845517824"
+          ],
+          "media_source_tweet_id": [
+            "1870108286730821719"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1870480294115148100",
+        "created_at": "2024-12-21T14:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T15:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870480294115148100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1654002469180178432",
+              "start": 3,
+              "username": "cynti023"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WelQK8y0QT",
+              "end": 133,
+              "expanded_url": "https://x.com/cynti023/status/1870108286730821719/photo/1",
+              "media_key": "3_1870108278845517824",
+              "start": 110,
+              "url": "https://t.co/WelQK8y0QT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870480294115148100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870108286730821719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cynti023: 终于把wx显示的性别去掉了\n\n可能有的伙伴和我一样，要在wx添加同事，客户，供应商之类的，不方便设置认同性别，那倒不如把性别设置给清除掉，我是想着总比不得不设置成指派性别好，方法总结在下面了 https://t.co/WelQK8y0QT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870108278845517824"
+          ]
+        },
+        "author_id": "1654002469180178432",
+        "conversation_id": "1870108286730821719",
+        "created_at": "2024-12-20T14:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T15:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870108286730821719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WelQK8y0QT",
+              "end": 119,
+              "expanded_url": "https://x.com/cynti023/status/1870108286730821719/photo/1",
+              "media_key": "3_1870108278845517824",
+              "start": 96,
+              "url": "https://t.co/WelQK8y0QT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870108286730821719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 12518,
+          "like_count": 130,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "终于把wx显示的性别去掉了\n\n可能有的伙伴和我一样，要在wx添加同事，客户，供应商之类的，不方便设置认同性别，那倒不如把性别设置给清除掉，我是想着总比不得不设置成指派性别好，方法总结在下面了 https://t.co/WelQK8y0QT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 565,
+          "like_count": 3572,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1985
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-04T05:58:22.000Z",
+        "description": "Estrogen battle angel🔅🔮 是 #微胖女生 一枚（骗你的啦）🌕✨",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 26,
+                "tag": "微胖女生"
+              }
+            ]
+          }
+        },
+        "id": "1654002469180178432",
+        "name": "Cynthia C♥️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852775832038891520/PPal3nCT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4594,
+          "following_count": 592,
+          "like_count": 2818,
+          "listed_count": 13,
+          "media_count": 289,
+          "tweet_count": 4273
+        },
+        "username": "cynti023",
+        "verified": true
+      }
+    ]
+  }
+}

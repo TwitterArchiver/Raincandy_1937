@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064713755565670400"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2064392076427756017",
+    "created_at": "2026-06-10T14:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064713761500643529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1787251561649045504",
+          "start": 0,
+          "username": "idoihrt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TWbaqyFQ6L",
+          "end": 60,
+          "expanded_url": "https://x.com/Raincandy_1937/status/2064713761500643529/photo/1",
+          "media_key": "3_2064713755565670400",
+          "start": 37,
+          "url": "https://t.co/TWbaqyFQ6L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064713761500643529",
+    "in_reply_to_user_id": "1787251561649045504",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064392076427756017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idoihrt i love i love i loooooove u https://t.co/TWbaqyFQ6L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 374,
+        "media_key": "3_2064713755565670400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdWOKtawAA1BBZ.jpg",
+        "width": 374
+      },
+      {
+        "height": 720,
+        "media_key": "3_2064159498265415680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVeIJXb0AA8Atz.png",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064713755565670400"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2064392076427756017",
+        "created_at": "2026-06-10T14:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064713761500643529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1787251561649045504",
+              "start": 0,
+              "username": "idoihrt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TWbaqyFQ6L",
+              "end": 60,
+              "expanded_url": "https://x.com/Raincandy_1937/status/2064713761500643529/photo/1",
+              "media_key": "3_2064713755565670400",
+              "start": 37,
+              "url": "https://t.co/TWbaqyFQ6L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064713761500643529",
+        "in_reply_to_user_id": "1787251561649045504",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064392076427756017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idoihrt i love i love i loooooove u https://t.co/TWbaqyFQ6L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064159498265415680"
+          ]
+        },
+        "author_id": "1787251561649045504",
+        "conversation_id": "2064392076427756017",
+        "created_at": "2026-06-09T17:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064392076427756017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u7XReUI7Mf",
+              "end": 44,
+              "expanded_url": "https://x.com/idoihrt/status/2064392076427756017/photo/1",
+              "media_key": "3_2064159498265415680",
+              "start": 21,
+              "url": "https://t.co/u7XReUI7Mf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064392076427756017",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 4618,
+          "like_count": 716,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "hmm... do u love me? https://t.co/u7XReUI7Mf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 1725,
+          "like_count": 16519,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 7203
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T22:42:51.000Z",
+        "description": "꒰⠀ ୨୧⠀꒱⠀⠀♡⠀⠀ インターネット・エンジェル ただいま降臨 ！ ☆ #NEEDYGIRLOVERDOSE",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 38,
+                "tag": "NEEDYGIRLOVERDOSE"
+              }
+            ]
+          }
+        },
+        "id": "1787251561649045504",
+        "location": "⠀⠀ in your heart⠀⠀ ♪ ",
+        "name": "♡ ︎ ︎ vivi ︎ ︎ ˎˊ- ︎",
+        "pinned_tweet_id": "1989654537590972755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040427544344997888/yUK-dbHe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4345,
+          "following_count": 3401,
+          "like_count": 55335,
+          "listed_count": 21,
+          "media_count": 899,
+          "tweet_count": 6833
+        },
+        "username": "idoihrt",
+        "verified": false
+      }
+    ]
+  }
+}

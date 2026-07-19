@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1995099929489142058",
+    "created_at": "2025-12-01T09:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T10:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995418558558540213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1366512947015520259",
+          "start": 0,
+          "username": "gsjzyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995418558558540213",
+    "in_reply_to_user_id": "1366512947015520259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995099929489142058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gsjzyyy 这讲啥的啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1995099929489142058",
+        "created_at": "2025-12-01T09:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T10:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995418558558540213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1366512947015520259",
+              "start": 0,
+              "username": "gsjzyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995418558558540213",
+        "in_reply_to_user_id": "1366512947015520259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995099929489142058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gsjzyyy 这讲啥的啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1366512947015520259",
+        "conversation_id": "1995099929489142058",
+        "created_at": "2025-11-30T11:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T12:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995099929489142058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woshiamio/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/woshiamio/status/1994577434038210843",
+              "start": 30,
+              "url": "https://t.co/XaEHCSxiyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995099929489142058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1741,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994577434038210843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "世界上所有喜欢lain的全是脑瘫，也别什么之一，就是纯脑瘫 https://t.co/XaEHCSxiyn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 1463,
+          "like_count": 12080,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 5672
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-01T22:17:43.000Z",
+        "description": "king regards,\nHao",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "goresee.com/w/aCB6wp6TYaMy…",
+                "end": 23,
+                "expanded_url": "https://goresee.com/w/aCB6wp6TYaMyPNc1zG7MRN",
+                "start": 0,
+                "url": "https://t.co/w5WnMfQnea"
+              }
+            ]
+          }
+        },
+        "id": "1366512947015520259",
+        "location": "距离您的位置50米",
+        "name": "Mr.焚蒿🎩🏴",
+        "pinned_tweet_id": "1905459125469020289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956954922458775552/0UbX2eeV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1799,
+          "following_count": 1595,
+          "like_count": 126059,
+          "listed_count": 11,
+          "media_count": 1908,
+          "tweet_count": 27549
+        },
+        "url": "https://t.co/w5WnMfQnea",
+        "username": "gsjzyyy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1938561238973182005",
+    "created_at": "2025-06-27T16:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T17:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938639394178806179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1848778576507842560",
+          "start": 0,
+          "username": "LovelyCheshire_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938639394178806179",
+    "in_reply_to_user_id": "1848778576507842560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938561238973182005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LovelyCheshire_ 帮他们把窗户打开，别让老登太难办"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2221,
+        "media_key": "3_1938561236284903424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GucnLGgakAA79Oe.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1938561238973182005",
+        "created_at": "2025-06-27T16:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T17:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938639394178806179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1848778576507842560",
+              "start": 0,
+              "username": "LovelyCheshire_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938639394178806179",
+        "in_reply_to_user_id": "1848778576507842560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938561238973182005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LovelyCheshire_ 帮他们把窗户打开，别让老登太难办"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938561236284903424"
+          ]
+        },
+        "author_id": "1848778576507842560",
+        "conversation_id": "1938561238973182005",
+        "created_at": "2025-06-27T11:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T12:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938561238973182005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0pyi1XWOqR",
+              "end": 29,
+              "expanded_url": "https://x.com/LovelyCheshire_/status/1938561238973182005/photo/1",
+              "media_key": "3_1938561236284903424",
+              "start": 6,
+              "url": "https://t.co/0pyi1XWOqR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938561238973182005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1315,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挺惨的感觉 https://t.co/0pyi1XWOqR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 1181,
+          "like_count": 8829,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 4577
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-22T17:29:09.000Z",
+        "description": "",
+        "id": "1848778576507842560",
+        "location": "樱丘女子高等学校轻音部",
+        "name": "坂下六花老师火的原因我认为有很多，至少我嗅到的有很多",
+        "pinned_tweet_id": "1901191209315672294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938279091318435840/Ku2lX840_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 258,
+          "like_count": 4826,
+          "listed_count": 0,
+          "media_count": 440,
+          "tweet_count": 2328
+        },
+        "username": "LovelyCheshire_",
+        "verified": false
+      }
+    ]
+  }
+}

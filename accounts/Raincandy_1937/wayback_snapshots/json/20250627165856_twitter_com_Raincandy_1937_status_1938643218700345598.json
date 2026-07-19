@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1938580243926949990",
+    "created_at": "2025-06-27T16:58:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T17:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938643218700345598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1568500924049461249",
+          "start": 0,
+          "username": "yinyu_dom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938643218700345598",
+    "in_reply_to_user_id": "1568500924049461249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938580243926949990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yinyu_dom 这人吃人子酱长大的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1938580243926949990",
+        "created_at": "2025-06-27T16:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T17:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938643218700345598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1568500924049461249",
+              "start": 0,
+              "username": "yinyu_dom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938643218700345598",
+        "in_reply_to_user_id": "1568500924049461249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938580243926949990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinyu_dom 这人吃人子酱长大的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568500924049461249",
+        "conversation_id": "1938580243926949990",
+        "created_at": "2025-06-27T12:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T13:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938580243926949990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaowenxin999/…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/xiaowenxin999/status/1938225085464432700",
+              "start": 92,
+              "url": "https://t.co/e9y7g8lawy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938580243926949990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2014,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938225085464432700",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卵子会情不自禁往外喷哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈 https://t.co/e9y7g8lawy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 1182,
+          "like_count": 8838,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 4581
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T07:25:46.000Z",
+        "description": "所见即是我 性癖很多的变态 dom/s 卡哇1 24/7                                                             \n男女不忌 喜欢漂亮肉体 可以勾引我 发生殖器拉黑 私信请说明来意 暂时不看八字 匿名箱https://t.co/vPbTI2qoqa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yinyu_dom",
+                "end": 156,
+                "expanded_url": "https://ngl.link/yinyu_dom",
+                "start": 133,
+                "url": "https://t.co/vPbTI2qoqa"
+              }
+            ]
+          }
+        },
+        "id": "1568500924049461249",
+        "location": "我凿人的 洗干净屁股再发情",
+        "name": "殷予",
+        "pinned_tweet_id": "1756623056779555108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769347105532043264/ILXmGigq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31431,
+          "following_count": 199,
+          "like_count": 23685,
+          "listed_count": 53,
+          "media_count": 844,
+          "tweet_count": 7262
+        },
+        "username": "yinyu_dom",
+        "verified": false
+      }
+    ]
+  }
+}

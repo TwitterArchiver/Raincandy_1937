@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1899364093636891015",
+    "created_at": "2025-03-11T07:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T08:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899364093636891015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1424420454601609216",
+          "start": 3,
+          "username": "shovash_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899364093636891015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898710199734767873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shovash_: 喜欢有女性气质的男人，不是穿着女装灵魂沾满爹味的男娘。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1899364093636891015",
+        "created_at": "2025-03-11T07:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T08:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899364093636891015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1424420454601609216",
+              "start": 3,
+              "username": "shovash_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899364093636891015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898710199734767873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shovash_: 喜欢有女性气质的男人，不是穿着女装灵魂沾满爹味的男娘。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424420454601609216",
+        "conversation_id": "1898710199734767873",
+        "created_at": "2025-03-09T12:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T13:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898710199734767873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898710199734767873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 456,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢有女性气质的男人，不是穿着女装灵魂沾满爹味的男娘。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 846,
+          "like_count": 6331,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 3251
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-08T17:21:34.000Z",
+        "description": "喜欢内核稳定且强大的人，3i/4i。默许我扭曲的人格施予痛苦。",
+        "id": "1424420454601609216",
+        "location": "不喜欢男娘不喜欢烂吊别私信我",
+        "name": "水火",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879224390447226880/EQ39w_tw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 225,
+          "like_count": 799,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 172
+        },
+        "username": "shovash_",
+        "verified": false
+      }
+    ]
+  }
+}

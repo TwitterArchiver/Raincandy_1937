@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928383246288535552",
+        "3_1928383271278153728",
+        "3_1928383297668665344"
+      ],
+      "media_source_tweet_id": [
+        "1928383529852739735",
+        "1928383529852739735",
+        "1928383529852739735"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1928774544988451126",
+    "created_at": "2025-05-31T11:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T12:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928774544988451126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CXSgytyDej",
+          "end": 99,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1928383529852739735/photo/1",
+          "media_key": "3_1928383246288535552",
+          "start": 76,
+          "url": "https://t.co/CXSgytyDej"
+        },
+        {
+          "display_url": "pic.x.com/CXSgytyDej",
+          "end": 99,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1928383529852739735/photo/1",
+          "media_key": "3_1928383271278153728",
+          "start": 76,
+          "url": "https://t.co/CXSgytyDej"
+        },
+        {
+          "display_url": "pic.x.com/CXSgytyDej",
+          "end": 99,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1928383529852739735/photo/1",
+          "media_key": "3_1928383297668665344",
+          "start": 76,
+          "url": "https://t.co/CXSgytyDej"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928774544988451126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 222
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928383529852739735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 近日，上海，黑龙江等多地下发文件，要求未经报批，禁止医生做自媒体健康科普。\n有医院开始统计个人自媒体账号数量。 https://t.co/CXSgytyDej"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1077,
+        "media_key": "3_1928383246288535552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsL-WHHXwAAZPH_.jpg",
+        "width": 1262
+      },
+      {
+        "height": 872,
+        "media_key": "3_1928383271278153728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsL-XkNXEAAicj7.jpg",
+        "width": 1318
+      },
+      {
+        "height": 644,
+        "media_key": "3_1928383297668665344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsL-ZGhWUAAGtTT.jpg",
+        "width": 1336
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928383246288535552",
+            "3_1928383271278153728",
+            "3_1928383297668665344"
+          ],
+          "media_source_tweet_id": [
+            "1928383529852739735",
+            "1928383529852739735",
+            "1928383529852739735"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1928774544988451126",
+        "created_at": "2025-05-31T11:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T12:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928774544988451126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CXSgytyDej",
+              "end": 99,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1928383529852739735/photo/1",
+              "media_key": "3_1928383246288535552",
+              "start": 76,
+              "url": "https://t.co/CXSgytyDej"
+            },
+            {
+              "display_url": "pic.x.com/CXSgytyDej",
+              "end": 99,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1928383529852739735/photo/1",
+              "media_key": "3_1928383271278153728",
+              "start": 76,
+              "url": "https://t.co/CXSgytyDej"
+            },
+            {
+              "display_url": "pic.x.com/CXSgytyDej",
+              "end": 99,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1928383529852739735/photo/1",
+              "media_key": "3_1928383297668665344",
+              "start": 76,
+              "url": "https://t.co/CXSgytyDej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928774544988451126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 222
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928383529852739735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 近日，上海，黑龙江等多地下发文件，要求未经报批，禁止医生做自媒体健康科普。\n有医院开始统计个人自媒体账号数量。 https://t.co/CXSgytyDej"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928383246288535552",
+            "3_1928383271278153728",
+            "3_1928383297668665344"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1928383529852739735",
+        "created_at": "2025-05-30T09:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T10:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928383529852739735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CXSgytyDej",
+              "end": 79,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1928383529852739735/photo/1",
+              "media_key": "3_1928383246288535552",
+              "start": 56,
+              "url": "https://t.co/CXSgytyDej"
+            },
+            {
+              "display_url": "pic.x.com/CXSgytyDej",
+              "end": 79,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1928383529852739735/photo/1",
+              "media_key": "3_1928383271278153728",
+              "start": 56,
+              "url": "https://t.co/CXSgytyDej"
+            },
+            {
+              "display_url": "pic.x.com/CXSgytyDej",
+              "end": 79,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1928383529852739735/photo/1",
+              "media_key": "3_1928383297668665344",
+              "start": 56,
+              "url": "https://t.co/CXSgytyDej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928383529852739735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 400,
+          "impression_count": 538265,
+          "like_count": 2058,
+          "quote_count": 23,
+          "reply_count": 158,
+          "retweet_count": 222
+        },
+        "reply_settings": "everyone",
+        "text": "近日，上海，黑龙江等多地下发文件，要求未经报批，禁止医生做自媒体健康科普。\n有医院开始统计个人自媒体账号数量。 https://t.co/CXSgytyDej"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 1128,
+          "like_count": 8376,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 4309
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1928054426180206731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2000984,
+          "following_count": 949,
+          "like_count": 6612,
+          "listed_count": 8158,
+          "media_count": 29049,
+          "tweet_count": 35557
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

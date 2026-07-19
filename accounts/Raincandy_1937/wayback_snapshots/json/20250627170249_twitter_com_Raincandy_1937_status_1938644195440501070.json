@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1938640030978768969",
+    "created_at": "2025-06-27T17:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T18:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938644195440501070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1663112063009574912",
+          "start": 0,
+          "username": "Lanyinwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938644195440501070",
+    "in_reply_to_user_id": "1663112063009574912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938640030978768969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lanyinwu 没有啊，还是那么萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1048,
+        "media_key": "3_1938639981867626496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuduysqW8AAz101.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1938640030978768969",
+        "created_at": "2025-06-27T17:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T18:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938644195440501070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1663112063009574912",
+              "start": 0,
+              "username": "Lanyinwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938644195440501070",
+        "in_reply_to_user_id": "1663112063009574912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938640030978768969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lanyinwu 没有啊，还是那么萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938639981867626496"
+          ]
+        },
+        "author_id": "1663112063009574912",
+        "conversation_id": "1938640030978768969",
+        "created_at": "2025-06-27T16:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T17:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938640030978768969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GpQZVv11Dj",
+              "end": 65,
+              "expanded_url": "https://x.com/Lanyinwu/status/1938640030978768969/photo/1",
+              "media_key": "3_1938639981867626496",
+              "start": 42,
+              "url": "https://t.co/GpQZVv11Dj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938640030978768969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2715,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我发张自拍，假装吐槽自己变丑了，你们就在底下评论没有啊，还是那么萌之类的，知豆了吗 https://t.co/GpQZVv11Dj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 1182,
+          "like_count": 8839,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 4583
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T09:16:36.000Z",
+        "description": "大号@Lanyinwu  小号 @kiraxiaoyao 丨仅此两号，私信不开，其余墙内外账号都是假号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "Lanyinwu"
+              },
+              {
+                "end": 28,
+                "start": 16,
+                "username": "kiraxiaoyao"
+              }
+            ]
+          }
+        },
+        "id": "1663112063009574912",
+        "name": "盛予",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916826737205202944/poLcIf-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108887,
+          "following_count": 7,
+          "like_count": 8438,
+          "listed_count": 160,
+          "media_count": 230,
+          "tweet_count": 3972
+        },
+        "username": "Lanyinwu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921169507886002177"
+      ],
+      "media_source_tweet_id": [
+        "1921169522431565937"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1921258172070699257",
+    "created_at": "2025-05-10T17:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T18:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921258172070699257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1580274306",
+          "start": 3,
+          "username": "NishikujiC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a1Lu1MZfhw",
+          "end": 44,
+          "expanded_url": "https://x.com/NishikujiC/status/1921169522431565937/photo/1",
+          "media_key": "3_1921169507886002177",
+          "start": 21,
+          "url": "https://t.co/a1Lu1MZfhw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921258172070699257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 607
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921169522431565937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NishikujiC: 污血泣涙 https://t.co/a1Lu1MZfhw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1921258172070699257].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1921258172070699257",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1921258172070699257"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1921169507886002177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqldfRbbcAEaq1Y.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921169507886002177"
+          ]
+        },
+        "author_id": "1580274306",
+        "conversation_id": "1921169522431565937",
+        "created_at": "2025-05-10T11:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T12:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921169522431565937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a1Lu1MZfhw",
+              "end": 28,
+              "expanded_url": "https://x.com/NishikujiC/status/1921169522431565937/photo/1",
+              "media_key": "3_1921169507886002177",
+              "start": 5,
+              "url": "https://t.co/a1Lu1MZfhw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921169522431565937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 17939,
+          "like_count": 2425,
+          "quote_count": 8,
+          "reply_count": 1,
+          "retweet_count": 607
+        },
+        "reply_settings": "everyone",
+        "text": "污血泣涙 https://t.co/a1Lu1MZfhw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 1089,
+          "like_count": 8187,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 4220
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-09T12:51:01.000Z",
+        "description": "=ShiiC/西九时\n中国人★現在地：プロムン沼（アルガリア！）★ 他いろいろ\n中国語日本語OK。English probably OK。成人済み\nicon:@South_AC\nheader:@Kelala_R\nマシュマロ：https://t.co/Y61Y0zEqWs\nAI禁止🚫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "South_AC"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "username": "Kelala_R"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/nishikujic",
+                "end": 135,
+                "expanded_url": "http://marshmallow-qa.com/nishikujic",
+                "start": 112,
+                "url": "https://t.co/Y61Y0zEqWs"
+              }
+            ]
+          }
+        },
+        "id": "1580274306",
+        "location": "連絡：nishikuji@gmail.com",
+        "name": "西九時 in ラ・マンチャランド",
+        "pinned_tweet_id": "1920451244180844756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894590345226354689/jhAMJaLG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62434,
+          "following_count": 364,
+          "like_count": 22460,
+          "listed_count": 218,
+          "media_count": 1806,
+          "tweet_count": 10921
+        },
+        "username": "NishikujiC",
+        "verified": false
+      }
+    ]
+  }
+}

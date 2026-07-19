@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "2068371453406478513",
+    "created_at": "2026-06-20T16:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T17:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068371453406478513"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/needygirl_anim…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/needygirl_anime/status/2068362991670902798",
+          "start": 9,
+          "url": "https://t.co/r6vKr8BkP8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068371453406478513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068362991670902798",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "她們三個這麽萌！ https://t.co/r6vKr8BkP8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2067648413517361152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHDRvgaMAAq4Qc.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2068371453406478513",
+        "created_at": "2026-06-20T16:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068371453406478513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/needygirl_anim…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/needygirl_anime/status/2068362991670902798",
+              "start": 9,
+              "url": "https://t.co/r6vKr8BkP8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068371453406478513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068362991670902798",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她們三個這麽萌！ https://t.co/r6vKr8BkP8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067648413517361152"
+          ]
+        },
+        "author_id": "1980941101763842049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2068362991670902798",
+        "created_at": "2026-06-20T15:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068362991670902798"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 130,
+              "tag": "ニディガ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 127,
+              "id": "4764134012",
+              "start": 118,
+              "username": "matchach"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wv9U1HRg6L",
+              "end": 159,
+              "expanded_url": "https://x.com/needygirl_anime/status/2068362991670902798/photo/1",
+              "media_key": "3_2067648413517361152",
+              "start": 136,
+              "url": "https://t.co/Wv9U1HRg6L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068362991670902798",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 10334,
+          "like_count": 649,
+          "quote_count": 10,
+          "reply_count": 1,
+          "retweet_count": 197
+        },
+        "reply_settings": "everyone",
+        "text": "─────•✦•─────\n\n 𝑁𝐸𝐸𝐷𝑌 𝐺𝐼𝑅𝐿 𝑂𝑉𝐸𝑅𝐷𝑂𝑆𝐸\n　　　 エンドカード\n\n─────•✦•─────\n\n第12話 INTERNET YAMERO\nエンドカード公開✨\n\n🧬illustration\nMatchaさん（@matchach）\n\n#ニディガ https://t.co/Wv9U1HRg6L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 1770,
+          "like_count": 16885,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 7350
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T10:17:13.000Z",
+        "description": "『NEEDY GIRL OVERDOSE』アニメ公式アカウント｜TVアニメ26年4月より毎週土曜24:30～ 順次放送中｜アニメーション制作：Yostar Pictures｜【推奨タグ】#ニディガ ｜【ラジオ公式タグ】#ニディガラジオ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 93,
+                "tag": "ニディガ"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "tag": "ニディガラジオ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "needygirl-anime.com",
+                "end": 23,
+                "expanded_url": "https://needygirl-anime.com/",
+                "start": 0,
+                "url": "https://t.co/6rMK2MS8Mu"
+              }
+            ]
+          }
+        },
+        "id": "1980941101763842049",
+        "name": "アニメ『NEEDY GIRL OVERDOSE』公式",
+        "pinned_tweet_id": "2068363747387723781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031308461120884736/op5QKraD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46458,
+          "following_count": 27,
+          "like_count": 41,
+          "listed_count": 116,
+          "media_count": 788,
+          "tweet_count": 1578
+        },
+        "url": "https://t.co/6rMK2MS8Mu",
+        "username": "needygirl_anime",
+        "verified": false
+      }
+    ]
+  }
+}

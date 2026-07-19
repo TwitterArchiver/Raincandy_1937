@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "1906746684484493395",
+    "created_at": "2025-03-31T16:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T17:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906746684484493395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906746684484493395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906662141421379984",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 31日，有网友曝料称，有不少读者因在海棠文学充值被问话了，警察还顺藤摸瓜找到了经销商。这名网友还称，甚至出现读者光看不写也遭到问话的情况，他补充说：用校园网的居多\n 另一名博主表示，就算是写免费文章，没有盈利，同样可能被抓，并劝告大家不要…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1453,
+        "media_key": "3_1906660229615624192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnXRYH2aoAA-od-.jpg",
+        "width": 540
+      },
+      {
+        "height": 1092,
+        "media_key": "3_1906660238545309696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnXRYpHa0AAJyh7.jpg",
+        "width": 968
+      },
+      {
+        "height": 1739,
+        "media_key": "3_1906660261857206272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnXRZ_9aIAAUbDE.jpg",
+        "width": 883
+      },
+      {
+        "height": 805,
+        "media_key": "3_1906660272267493376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnXRamvagAAyJok.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1906746684484493395",
+        "created_at": "2025-03-31T16:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T17:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906746684484493395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906746684484493395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906662141421379984",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 31日，有网友曝料称，有不少读者因在海棠文学充值被问话了，警察还顺藤摸瓜找到了经销商。这名网友还称，甚至出现读者光看不写也遭到问话的情况，他补充说：用校园网的居多\n 另一名博主表示，就算是写免费文章，没有盈利，同样可能被抓，并劝告大家不要…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906660229615624192",
+            "3_1906660238545309696",
+            "3_1906660261857206272",
+            "3_1906660272267493376"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1906662141421379984",
+        "created_at": "2025-03-31T10:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T11:53:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906661135648264433",
+          "1906662141421379984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/btrHcc1Bvd",
+              "end": 161,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1906662141421379984/photo/1",
+              "media_key": "3_1906660229615624192",
+              "start": 138,
+              "url": "https://t.co/btrHcc1Bvd"
+            },
+            {
+              "display_url": "pic.x.com/btrHcc1Bvd",
+              "end": 161,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1906662141421379984/photo/1",
+              "media_key": "3_1906660238545309696",
+              "start": 138,
+              "url": "https://t.co/btrHcc1Bvd"
+            },
+            {
+              "display_url": "pic.x.com/btrHcc1Bvd",
+              "end": 161,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1906662141421379984/photo/1",
+              "media_key": "3_1906660261857206272",
+              "start": 138,
+              "url": "https://t.co/btrHcc1Bvd"
+            },
+            {
+              "display_url": "pic.x.com/btrHcc1Bvd",
+              "end": 161,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1906662141421379984/photo/1",
+              "media_key": "3_1906660272267493376",
+              "start": 138,
+              "url": "https://t.co/btrHcc1Bvd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906662141421379984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "31日，有网友曝料称，有不少读者因在海棠文学充值被问话了，警察还顺藤摸瓜找到了经销商。这名网友还称，甚至出现读者光看不写也遭到问话的情况，他补充说：用校园网的居多\n 另一名博主表示，就算是写免费文章，没有盈利，同样可能被抓，并劝告大家不要在外网留下任何能找到你内网账户的信息\n 据悉，去年6月起，海棠站上多达50位耽美作者遭逮捕判刑，其中最严重者被判刑超过5年，缴纳罚金近400万人民币，有人不得不四处筹款以求轻判。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 151042,
+          "like_count": 423,
+          "quote_count": 13,
+          "reply_count": 60,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "31日，有网友曝料称，有不少读者因在海棠文学充值被问话了，警察还顺藤摸瓜找到了经销商。这名网友还称，甚至出现读者光看不写也遭到问话的情况，他补充说：用校园网的居多\n 另一名博主表示，就算是写免费文章，没有盈利，同样可能被抓，并劝告大家不要在外网留下任何能找到你内网账户的信息 https://t.co/btrHcc1Bvd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 956,
+          "like_count": 7260,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 3753
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1963818,
+          "following_count": 946,
+          "like_count": 6134,
+          "listed_count": 8079,
+          "media_count": 25712,
+          "tweet_count": 32124
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

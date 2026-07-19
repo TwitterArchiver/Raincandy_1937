@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048642571669516288"
+      ],
+      "media_source_tweet_id": [
+        "2048642826880287151"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2049343952382542123",
+    "created_at": "2026-04-29T04:24:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T05:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049343952382542123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "267695291",
+          "start": 3,
+          "username": "badiucao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NGzjApERAY",
+          "end": 53,
+          "expanded_url": "https://x.com/badiucao/status/2048642826880287151/photo/1",
+          "media_key": "3_2048642571669516288",
+          "start": 30,
+          "url": "https://t.co/NGzjApERAY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049343952382542123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048642826880287151",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @badiucao: 漫画《女人，深圳，烟头和警察》 https://t.co/NGzjApERAY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2842,
+        "media_key": "3_2048642571669516288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG49kJQasAAuF_s.jpg",
+        "width": 2167
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048642571669516288"
+          ],
+          "media_source_tweet_id": [
+            "2048642826880287151"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2049343952382542123",
+        "created_at": "2026-04-29T04:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T05:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049343952382542123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "267695291",
+              "start": 3,
+              "username": "badiucao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NGzjApERAY",
+              "end": 53,
+              "expanded_url": "https://x.com/badiucao/status/2048642826880287151/photo/1",
+              "media_key": "3_2048642571669516288",
+              "start": 30,
+              "url": "https://t.co/NGzjApERAY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049343952382542123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048642826880287151",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @badiucao: 漫画《女人，深圳，烟头和警察》 https://t.co/NGzjApERAY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048642571669516288"
+          ]
+        },
+        "author_id": "267695291",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2048642826880287151",
+        "created_at": "2026-04-27T05:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048642826880287151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NGzjApERAY",
+              "end": 39,
+              "expanded_url": "https://x.com/badiucao/status/2048642826880287151/photo/1",
+              "media_key": "3_2048642571669516288",
+              "start": 16,
+              "url": "https://t.co/NGzjApERAY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048642826880287151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 59883,
+          "like_count": 2065,
+          "quote_count": 10,
+          "reply_count": 41,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "漫画《女人，深圳，烟头和警察》 https://t.co/NGzjApERAY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 1610,
+          "like_count": 14510,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 6656
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-17T11:22:49.000Z",
+        "description": "Chinese Australian artist/Award wining cartoonist for @theage @smh /Human rights Activist/Anti-CCP/New Book https://t.co/O7ZmTytF6D",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 54,
+                "username": "theage"
+              },
+              {
+                "end": 66,
+                "start": 62,
+                "username": "smh"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "badiucao.com/book",
+                "end": 131,
+                "expanded_url": "http://www.badiucao.com/book",
+                "start": 108,
+                "url": "https://t.co/O7ZmTytF6D"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "badiucao.com",
+                "end": 23,
+                "expanded_url": "https://badiucao.com",
+                "start": 0,
+                "url": "https://t.co/kCZxU6rJLo"
+              }
+            ]
+          }
+        },
+        "id": "267695291",
+        "name": "巴丢草 Bad ї ucao",
+        "pinned_tweet_id": "2019663942713504158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1251816290211082240/jo1xNu8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126314,
+          "following_count": 16278,
+          "like_count": 43365,
+          "listed_count": 931,
+          "media_count": 11595,
+          "tweet_count": 230317
+        },
+        "url": "https://t.co/kCZxU6rJLo",
+        "username": "badiucao",
+        "verified": true
+      }
+    ]
+  }
+}

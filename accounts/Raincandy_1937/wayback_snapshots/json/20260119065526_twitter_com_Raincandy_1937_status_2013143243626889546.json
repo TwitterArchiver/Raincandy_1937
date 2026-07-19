@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2013143243626889546",
+    "created_at": "2026-01-19T06:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T07:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013143243626889546"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8Bexb88/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/8Bexb88/status/2012898059022225445",
+          "start": 11,
+          "url": "https://t.co/wfndS0Zqts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013143243626889546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012898059022225445",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我愛妳謝謝小籠包再見 https://t.co/wfndS0Zqts"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012898052177088512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9AHRkXUAA-OhK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2013143243626889546",
+        "created_at": "2026-01-19T06:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T07:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013143243626889546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8Bexb88/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/8Bexb88/status/2012898059022225445",
+              "start": 11,
+              "url": "https://t.co/wfndS0Zqts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013143243626889546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012898059022225445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我愛妳謝謝小籠包再見 https://t.co/wfndS0Zqts"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012898052177088512"
+          ]
+        },
+        "author_id": "1790696768705097728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2012898059022225445",
+        "created_at": "2026-01-18T14:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012898059022225445"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "湾ちゃん",
+              "probability": 0.8477,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WtSGiBFOl9",
+              "end": 53,
+              "expanded_url": "https://x.com/8Bexb88/status/2012898059022225445/photo/1",
+              "media_key": "3_2012898052177088512",
+              "start": 30,
+              "url": "https://t.co/WtSGiBFOl9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012898059022225445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1214,
+          "impression_count": 301202,
+          "like_count": 10913,
+          "quote_count": 41,
+          "reply_count": 5,
+          "retweet_count": 1276
+        },
+        "reply_settings": "following",
+        "text": "湾ちゃんのイラストに中文書く時は気をつけてくれー！ってパロ https://t.co/WtSGiBFOl9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 1523,
+          "like_count": 12955,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 6002
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T10:52:52.000Z",
+        "description": "↑18/APH/亞細亞，東.北歐領（日/中/한）⚠️NSFW",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/edGZXsH9O2Y7…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/edGZXsH9O2Y7JexKWJlvrpUI88c2",
+                "start": 0,
+                "url": "https://t.co/ftB4HAWEdi"
+              }
+            ]
+          }
+        },
+        "id": "1790696768705097728",
+        "name": "新人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010710807714398208/HJrBik0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 69,
+          "like_count": 12988,
+          "listed_count": 7,
+          "media_count": 213,
+          "tweet_count": 1051
+        },
+        "url": "https://t.co/ftB4HAWEdi",
+        "username": "8Bexb88",
+        "verified": false
+      }
+    ]
+  }
+}

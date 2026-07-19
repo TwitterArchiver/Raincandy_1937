@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1912334380544193007",
+    "created_at": "2025-04-16T02:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T03:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912334380544193007"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jakobsonradica…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/jakobsonradical/status/1911939404496818234",
+          "start": 11,
+          "url": "https://t.co/NMntJuRSY7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912334380544193007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911939404496818234",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "近前看其详，上写着😩 https://t.co/NMntJuRSY7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1911939400864247808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoiSwVSWMAAoVdl.jpg",
+        "width": 959
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1911939400814014464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoiSwVGXsAACGbZ.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1911939400939732992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoiSwVkWAAAdl4t.jpg",
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1912334380544193007",
+        "created_at": "2025-04-16T02:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T03:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912334380544193007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jakobsonradica…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/jakobsonradical/status/1911939404496818234",
+              "start": 11,
+              "url": "https://t.co/NMntJuRSY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912334380544193007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911939404496818234",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "近前看其详，上写着😩 https://t.co/NMntJuRSY7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911939400864247808",
+            "3_1911939400814014464",
+            "3_1911939400939732992"
+          ]
+        },
+        "author_id": "1249525383797456898",
+        "conversation_id": "1911939404496818234",
+        "created_at": "2025-04-15T00:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T01:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911939404496818234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8MsybRzrkZ",
+              "end": 94,
+              "expanded_url": "https://x.com/jakobsonradical/status/1911939404496818234/photo/1",
+              "media_key": "3_1911939400864247808",
+              "start": 71,
+              "url": "https://t.co/8MsybRzrkZ"
+            },
+            {
+              "display_url": "pic.x.com/8MsybRzrkZ",
+              "end": 94,
+              "expanded_url": "https://x.com/jakobsonradical/status/1911939404496818234/photo/1",
+              "media_key": "3_1911939400814014464",
+              "start": 71,
+              "url": "https://t.co/8MsybRzrkZ"
+            },
+            {
+              "display_url": "pic.x.com/8MsybRzrkZ",
+              "end": 94,
+              "expanded_url": "https://x.com/jakobsonradical/status/1911939404496818234/photo/1",
+              "media_key": "3_1911939400939732992",
+              "start": 71,
+              "url": "https://t.co/8MsybRzrkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911939404496818234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 280,
+          "impression_count": 503426,
+          "like_count": 2254,
+          "quote_count": 24,
+          "reply_count": 232,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "一名在俄的中国留学生，控诉俄罗斯人歧视：有人在宿舍公共浴室上面贴了纸条，扫描上面二维码则会跳转到图三所示的辱华视频，视频里在那说“秦腔穷”。 https://t.co/8MsybRzrkZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 1032,
+          "like_count": 7965,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 4036
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236562,
+          "following_count": 1476,
+          "like_count": 41516,
+          "listed_count": 959,
+          "media_count": 17988,
+          "tweet_count": 25182
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

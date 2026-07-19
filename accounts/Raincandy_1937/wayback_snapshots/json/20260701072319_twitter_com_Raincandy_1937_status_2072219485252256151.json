@@ -1,0 +1,533 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      }
+    ],
+    "conversation_id": "2072219485252256151",
+    "created_at": "2026-07-01T07:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T08:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072219485252256151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072219485252256151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072160767047053729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 苏联笑话永不过时：从“辱女”上升到“辱华”，《恋与深空》遭大量官媒下场点名\n\n6月30日，此前陷入舆论风波的国产手游《恋与深空》 ，最终因触及政治红线、被指“影射侵华日军731部队的历史惨案”，引发大量官媒下场点名。\n迫于压力，《恋与深空…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2072071983525703680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMF6fZ8WsAAezIp.jpg",
+        "width": 900
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2072071983546638336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMF6faBWIAAHUcm.jpg",
+        "width": 552
+      },
+      {
+        "duration_ms": 23754,
+        "height": 1280,
+        "media_key": "13_2072071983580274688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072071983580274688/img/EGS4N73E83ZGFDJW.jpg",
+        "public_metrics": {
+          "view_count": 34321
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072071983580274688/vid/avc1/320x598/n8zOthDm8pMUSbt7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072071983580274688/vid/avc1/480x898/dG30cQSij4zBKXUM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072071983580274688/vid/avc1/684x1280/__qVf3mQpMSGFltf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072071983580274688/pl/ucs2dn4_urHkPcFU.m3u8?v=cfc"
+          }
+        ],
+        "width": 684
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2072071983538356224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMF6fZ_XwAAMhWK.jpg",
+        "width": 615
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2072219485252256151",
+        "created_at": "2026-07-01T07:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072219485252256151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072219485252256151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072160767047053729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 苏联笑话永不过时：从“辱女”上升到“辱华”，《恋与深空》遭大量官媒下场点名\n\n6月30日，此前陷入舆论风波的国产手游《恋与深空》 ，最终因触及政治红线、被指“影射侵华日军731部队的历史惨案”，引发大量官媒下场点名。\n迫于压力，《恋与深空…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072071983525703680",
+            "3_2072071983546638336",
+            "13_2072071983580274688",
+            "3_2072071983538356224"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2072160767047053729",
+        "created_at": "2026-07-01T03:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072160767047053729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3qPrQ6jnBO",
+              "end": 154,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2072160767047053729/video/1",
+              "media_key": "3_2072071983525703680",
+              "start": 131,
+              "url": "https://t.co/3qPrQ6jnBO"
+            },
+            {
+              "display_url": "pic.x.com/3qPrQ6jnBO",
+              "end": 154,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2072160767047053729/video/1",
+              "media_key": "3_2072071983546638336",
+              "start": 131,
+              "url": "https://t.co/3qPrQ6jnBO"
+            },
+            {
+              "display_url": "pic.x.com/3qPrQ6jnBO",
+              "end": 154,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2072160767047053729/video/1",
+              "media_key": "13_2072071983580274688",
+              "start": 131,
+              "url": "https://t.co/3qPrQ6jnBO"
+            },
+            {
+              "display_url": "pic.x.com/3qPrQ6jnBO",
+              "end": 154,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2072160767047053729/video/1",
+              "media_key": "3_2072071983538356224",
+              "start": 131,
+              "url": "https://t.co/3qPrQ6jnBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072160767047053729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "苏联笑话永不过时：从“辱女”上升到“辱华”，《恋与深空》遭大量官媒下场点名\n\n6月30日，此前陷入舆论风波的国产手游《恋与深空》 ，最终因触及政治红线、被指“影射侵华日军731部队的历史惨案”，引发大量官媒下场点名。\n迫于压力，《恋与深空》发布公告以平息事态。\n\n值得注意的是，在此次涉及政治敏感议题的风波之前，大量女性玩家已发起多轮维权，却始终未获得官方的实质性回应。\n\n最初，不少女性玩家对新角色的造型设计及空降方式表示不满。\n\n随后，官方宣发PV中出现了“引狼入室有什么不好？”的文案，画面呈现独居女性遭陌生男性闯入的场景。场景被指 “将非法侵入住宅的刑事犯罪浪漫化”，严重冒犯女性安全。\n官方还曾使用涉及“锅里洗澡”等规则怪谈类文案，被玩家解读为影射社会恶性刑事案件。宣发内容 与陕西白水县“灌面汤杀妻案”高度吻合：丈夫与妻子争吵后将其强行按入滚烫面汤锅中致其窒息死亡。\n\n6月27日，数万玩家自发参与“万人书”集体签名征集活动。\n随着玩家持续退游、游戏口碑全面下滑，应用商店评分一度跌至1.6至1.8分。\n\n直到“0731”编号事件引发政治正确的舆论风波，大量官媒集中发声，官方才迅速发布公告。\n\n有网友说：“辱女根本不会改变。\n只有挖空心思、大搞文字狱，扯上「政治立场」的旗帜，才可以致一家公司于死地。\n文革遗风在此时已经体现的淋漓尽致了，看谁不好就说他立场有问题，让上面清算他。”\n\n还有网友说：\n“恋与深空这件事给我的感觉还是那个苏联笑话：\n因为丈夫家暴报警，没有人受理。\n妻子说，他打我的时候还骂了勃列日涅夫，然后丈夫被逮捕了。\n苏联笑话永不过时。”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 77867,
+          "like_count": 461,
+          "quote_count": 11,
+          "reply_count": 69,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "苏联笑话永不过时：从“辱女”上升到“辱华”，《恋与深空》遭大量官媒下场点名\n\n6月30日，此前陷入舆论风波的国产手游《恋与深空》 ，最终因触及政治红线、被指“影射侵华日军731部队的历史惨案”，引发大量官媒下场点名。\n迫于压力，《恋与深空》发布公告以平息事态。 https://t.co/3qPrQ6jnBO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1783,
+          "like_count": 17073,
+          "listed_count": 1,
+          "media_count": 229,
+          "tweet_count": 7414
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242523,
+          "following_count": 1071,
+          "like_count": 9769,
+          "listed_count": 8809,
+          "media_count": 49565,
+          "tweet_count": 56754
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

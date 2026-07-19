@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1928774837385777645",
+    "created_at": "2025-05-31T11:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T12:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928774837385777645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1592865779241734144",
+          "start": 3,
+          "username": "yuanyuan774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928774837385777645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928706796673446236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuanyuan774: 为什么单取我为什么单取我。单取就好像我在家里做好了饭等你回来 结果你在外面吃饱了还要和别人嘲讽一句我做饭难吃。就好像我感觉还在热恋期结果你已经单方面和我分手了。为什么单取我为什么为什么为什么。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1928774837385777645",
+        "created_at": "2025-05-31T11:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T12:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928774837385777645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1592865779241734144",
+              "start": 3,
+              "username": "yuanyuan774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928774837385777645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928706796673446236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuanyuan774: 为什么单取我为什么单取我。单取就好像我在家里做好了饭等你回来 结果你在外面吃饱了还要和别人嘲讽一句我做饭难吃。就好像我感觉还在热恋期结果你已经单方面和我分手了。为什么单取我为什么为什么为什么。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592865779241734144",
+        "conversation_id": "1928706796673446236",
+        "created_at": "2025-05-31T06:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T07:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928706796673446236"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928706796673446236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1461,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么单取我为什么单取我。单取就好像我在家里做好了饭等你回来 结果你在外面吃饱了还要和别人嘲讽一句我做饭难吃。就好像我感觉还在热恋期结果你已经单方面和我分手了。为什么单取我为什么为什么为什么。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 1128,
+          "like_count": 8378,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 4311
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "路边的小猫是我变的⁃ ⩊ ⁃",
+        "id": "1592865779241734144",
+        "location": "喜欢就打钱",
+        "name": "你是不是欠",
+        "pinned_tweet_id": "1927374338707145034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922329752402051075/lE1Q0HWe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9674,
+          "following_count": 301,
+          "like_count": 26485,
+          "listed_count": 16,
+          "media_count": 1031,
+          "tweet_count": 21308
+        },
+        "username": "yuanyuan774",
+        "verified": false
+      }
+    ]
+  }
+}

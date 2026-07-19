@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996908959794712582"
+      ],
+      "media_source_tweet_id": [
+        "1996908966094524874"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1997317777045311570",
+    "created_at": "2025-12-06T14:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T15:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997317777045311570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1682912923851841536",
+          "start": 3,
+          "username": "chan19890604t04"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4Vtt1SNgXw",
+          "end": 47,
+          "expanded_url": "https://x.com/chan19890604t04/status/1996908966094524874/photo/1",
+          "media_key": "3_1996908959794712582",
+          "start": 24,
+          "url": "https://t.co/4Vtt1SNgXw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997317777045311570",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 150
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996908966094524874",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chan19890604t04: 支持 https://t.co/4Vtt1SNgXw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 619,
+        "media_key": "3_1996908959794712582",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ZyHm1b0AYyfHC.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996908959794712582"
+          ],
+          "media_source_tweet_id": [
+            "1996908966094524874"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1997317777045311570",
+        "created_at": "2025-12-06T14:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T15:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997317777045311570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1682912923851841536",
+              "start": 3,
+              "username": "chan19890604t04"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Vtt1SNgXw",
+              "end": 47,
+              "expanded_url": "https://x.com/chan19890604t04/status/1996908966094524874/photo/1",
+              "media_key": "3_1996908959794712582",
+              "start": 24,
+              "url": "https://t.co/4Vtt1SNgXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997317777045311570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 150
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996908966094524874",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chan19890604t04: 支持 https://t.co/4Vtt1SNgXw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996908959794712582"
+          ]
+        },
+        "author_id": "1682912923851841536",
+        "conversation_id": "1996908966094524874",
+        "created_at": "2025-12-05T11:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T12:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996908966094524874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Vtt1SNgXw",
+              "end": 26,
+              "expanded_url": "https://x.com/chan19890604t04/status/1996908966094524874/photo/1",
+              "media_key": "3_1996908959794712582",
+              "start": 3,
+              "url": "https://t.co/4Vtt1SNgXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996908966094524874",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 43523,
+          "like_count": 1576,
+          "quote_count": 9,
+          "reply_count": 37,
+          "retweet_count": 150
+        },
+        "reply_settings": "everyone",
+        "text": "支持 https://t.co/4Vtt1SNgXw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 1469,
+          "like_count": 12223,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 5723
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T00:38:40.000Z",
+        "description": "不跟粉蛆🕷️🐷🐰對話 圖和影片皆是轉載的 備用號@chan19890604to5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "chan19890604to5"
+              }
+            ]
+          }
+        },
+        "id": "1682912923851841536",
+        "location": "Taiwan",
+        "name": "陳少4.0",
+        "pinned_tweet_id": "1992999502090031395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906652458711171072/LTlW2rI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2495,
+          "following_count": 1648,
+          "like_count": 65925,
+          "listed_count": 19,
+          "media_count": 12785,
+          "tweet_count": 31755
+        },
+        "username": "chan19890604t04",
+        "verified": false
+      }
+    ]
+  }
+}

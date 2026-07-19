@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1899364024636375144",
+    "created_at": "2025-03-11T07:37:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T08:37:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1899364024636375144"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jakobsonradica…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/jakobsonradical/status/1899281413893206053",
+          "start": 7,
+          "url": "https://t.co/BXwtLeasEe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899364024636375144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899281413893206053",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "教的就是这个 https://t.co/BXwtLeasEe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1899281407459184640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GluaYJQb0AA8cUx.jpg",
+        "width": 682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1899364024636375144",
+        "created_at": "2025-03-11T07:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T08:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899364024636375144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jakobsonradica…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/jakobsonradical/status/1899281413893206053",
+              "start": 7,
+              "url": "https://t.co/BXwtLeasEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899364024636375144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899281413893206053",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "教的就是这个 https://t.co/BXwtLeasEe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899281407459184640"
+          ]
+        },
+        "author_id": "1249525383797456898",
+        "conversation_id": "1899281413893206053",
+        "created_at": "2025-03-11T02:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T03:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899281413893206053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MS0FaV8yzB",
+              "end": 58,
+              "expanded_url": "https://x.com/jakobsonradical/status/1899281413893206053/photo/1",
+              "media_key": "3_1899281407459184640",
+              "start": 35,
+              "url": "https://t.co/MS0FaV8yzB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899281413893206053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 87197,
+          "like_count": 840,
+          "quote_count": 10,
+          "reply_count": 124,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "中国人看到现在高中开始减负后的思考。自己淋过雨，也要把别人的伞撕烂。 https://t.co/MS0FaV8yzB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 846,
+          "like_count": 6330,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 3250
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233670,
+          "following_count": 1476,
+          "like_count": 41573,
+          "listed_count": 951,
+          "media_count": 17674,
+          "tweet_count": 24864
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

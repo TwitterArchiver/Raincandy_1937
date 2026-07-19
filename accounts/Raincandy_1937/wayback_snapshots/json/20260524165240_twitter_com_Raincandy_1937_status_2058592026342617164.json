@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2058592026342617164",
+    "created_at": "2026-05-24T16:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T17:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058592026342617164"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yokkishai/stat…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/Yokkishai/status/2058271762635182143",
+          "start": 50,
+          "url": "https://t.co/XF3hgW5Pil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058592026342617164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058271762635182143",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想我喜歡這部動畫的幾乎所有設定——除了涉嫌破壞財產的部分，不那麽浪漫地說，美血華的錢包要減脂了🥀 https://t.co/XF3hgW5Pil"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1075,
+        "media_key": "3_2058271469210116096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJBy_v2XIAAugAl.jpg",
+        "width": 1075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2058592026342617164",
+        "created_at": "2026-05-24T16:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058592026342617164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yokkishai/stat…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/Yokkishai/status/2058271762635182143",
+              "start": 50,
+              "url": "https://t.co/XF3hgW5Pil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058592026342617164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058271762635182143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想我喜歡這部動畫的幾乎所有設定——除了涉嫌破壞財產的部分，不那麽浪漫地說，美血華的錢包要減脂了🥀 https://t.co/XF3hgW5Pil"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058271469210116096"
+          ]
+        },
+        "author_id": "1282221662704992256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2058271762635182143",
+        "created_at": "2026-05-23T19:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T20:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058271762635182143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4TaUawmGlW",
+              "end": 121,
+              "expanded_url": "https://x.com/Yokkishai/status/2058271762635182143/photo/1",
+              "media_key": "3_2058271469210116096",
+              "start": 98,
+              "url": "https://t.co/4TaUawmGlW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058271762635182143",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1137,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "you ever wonder how much in total damages these windows in the Needy Girl anime start racking up? https://t.co/4TaUawmGlW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 1693,
+          "like_count": 15684,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 6902
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-12T07:54:08.000Z",
+        "description": "Menhera internet angel vtuber! Host of The Self Destruction Internet Broadcast! 💜🪽 |  18+ 🔞 |  i like NGO | 🎨 #yokkiart | ALT @yokkishai2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 119,
+                "start": 110,
+                "tag": "yokkiart"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 137,
+                "start": 126,
+                "username": "yokkishai2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/h43vh5B",
+                "end": 23,
+                "expanded_url": "https://discord.gg/h43vh5B",
+                "start": 0,
+                "url": "https://t.co/GgS5Di0Bvm"
+              }
+            ]
+          }
+        },
+        "id": "1282221662704992256",
+        "location": "The Wired",
+        "name": "Yokkishai 💜💊",
+        "pinned_tweet_id": "1990735906089676979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052849248270442497/Y3949AuG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6493,
+          "following_count": 710,
+          "like_count": 29175,
+          "listed_count": 6,
+          "media_count": 2364,
+          "tweet_count": 11776
+        },
+        "url": "https://t.co/GgS5Di0Bvm",
+        "username": "Yokkishai",
+        "verified": true
+      }
+    ]
+  }
+}

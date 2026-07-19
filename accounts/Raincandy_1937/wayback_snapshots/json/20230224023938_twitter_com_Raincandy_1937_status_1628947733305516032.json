@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1628907775442194433",
+    "created_at": "2023-02-24T02:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2023-02-24T03:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1628947733305516032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1361192406062747649",
+          "start": 0,
+          "username": "Ariel88140322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1628947733305516032",
+    "in_reply_to_user_id": "1361192406062747649",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1628907775442194433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ariel88140322 学校生活好累🤧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1628907775442194433",
+        "created_at": "2023-02-24T02:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2023-02-24T03:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1628947733305516032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1361192406062747649",
+              "start": 0,
+              "username": "Ariel88140322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1628947733305516032",
+        "in_reply_to_user_id": "1361192406062747649",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1628907775442194433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ariel88140322 学校生活好累🤧"
+      },
+      {
+        "attachments": {},
+        "author_id": "1361192406062747649",
+        "conversation_id": "1628907775442194433",
+        "created_at": "2023-02-24T00:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2023-02-24T00:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1628907775442194433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1628907775442194433",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 150,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上學了好痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "我们是最后一代。",
+        "id": "1522094771136831488",
+        "location": "Asuka-mura, Nara",
+        "name": "Raincandy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596381435165691904/6s80mveD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 273,
+          "listed_count": 0,
+          "tweet_count": 644
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-15T05:55:54.000Z",
+        "description": "08/♀/病み/多重人格/被害妄想/境界性パーソナリティ障害/精神不安定/自傷行為/依存症/地雷系/希死念慮/台灣人🇹🇼 雙性戀🏳️‍🌈接陪聊爸爸活💗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/xuan_yu_322?ig…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/xuan_yu_322?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/BmHCL05HWH"
+              }
+            ]
+          }
+        },
+        "id": "1361192406062747649",
+        "location": "討厭的世界",
+        "name": "花奈絵里🪦🤍",
+        "pinned_tweet_id": "1626432569679163393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627175935727534080/_oK4TFZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 976,
+          "listed_count": 4,
+          "tweet_count": 4749
+        },
+        "url": "https://t.co/BmHCL05HWH",
+        "username": "Ariel88140322",
+        "verified": false
+      }
+    ]
+  }
+}

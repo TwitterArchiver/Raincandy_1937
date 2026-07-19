@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2036432585585467461",
+    "created_at": "2026-03-24T13:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T14:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036432585585467461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1975500696427581440",
+          "start": 3,
+          "username": "TReverie_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036432585585467461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036372811489652935",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TReverie_: 你是人，不是什么中国人，更不是什么中华民族。人有自己自由的意志，不被国籍束缚，更不被种族束缚。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2036432585585467461",
+        "created_at": "2026-03-24T13:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036432585585467461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1975500696427581440",
+              "start": 3,
+              "username": "TReverie_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036432585585467461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036372811489652935",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TReverie_: 你是人，不是什么中国人，更不是什么中华民族。人有自己自由的意志，不被国籍束缚，更不被种族束缚。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975500696427581440",
+        "conversation_id": "2036372811489652935",
+        "created_at": "2026-03-24T09:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T10:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036372811489652935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036372811489652935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3909,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "你是人，不是什么中国人，更不是什么中华民族。人有自己自由的意志，不被国籍束缚，更不被种族束缚。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 1583,
+          "like_count": 13981,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 6456
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "I will be the one to strike the final blow against the CCP.",
+        "id": "1975500696427581440",
+        "location": "Ohio, USA",
+        "name": "Tiny Reverie🇺🇸✝️",
+        "pinned_tweet_id": "2000516104544997765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023995101543104512/aX_mx8Xf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6988,
+          "following_count": 1392,
+          "like_count": 19810,
+          "listed_count": 64,
+          "media_count": 1342,
+          "tweet_count": 4165
+        },
+        "username": "TReverie_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2062726755949945277",
+    "created_at": "2026-06-05T13:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062882653532266648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1851622105428738048",
+          "start": 0,
+          "username": "thairizard"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062882653532266648",
+    "in_reply_to_user_id": "1851622105428738048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062726755949945277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thairizard 正常人類：只是呼吸\n右翼臭蛆：這是覺醒主義！！！打倒覺醒主義！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1074,
+        "media_key": "3_2062726746944712704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBHDCxWMAAJjlk.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2062726755949945277",
+        "created_at": "2026-06-05T13:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062882653532266648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851622105428738048",
+              "start": 0,
+              "username": "thairizard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062882653532266648",
+        "in_reply_to_user_id": "1851622105428738048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062726755949945277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thairizard 正常人類：只是呼吸\n右翼臭蛆：這是覺醒主義！！！打倒覺醒主義！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062726746944712704"
+          ]
+        },
+        "author_id": "1851622105428738048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044917017",
+              "name": "God of War"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044917017",
+              "name": "God of War"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897364881178624",
+              "name": "Action-adventure games"
+            }
+          }
+        ],
+        "conversation_id": "2062726755949945277",
+        "created_at": "2026-06-05T02:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062726755949945277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q2PwzDT7R8",
+              "end": 128,
+              "expanded_url": "https://x.com/thairizard/status/2062726755949945277/photo/1",
+              "media_key": "3_2062726746944712704",
+              "start": 105,
+              "url": "https://t.co/q2PwzDT7R8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062726755949945277",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 39933,
+          "like_count": 3240,
+          "quote_count": 13,
+          "reply_count": 110,
+          "retweet_count": 149
+        },
+        "reply_settings": "everyone",
+        "text": "A Sony fez a família tradicional nórdica no God of War e tem dodói falando que é Woke. Dá pra entender?! https://t.co/q2PwzDT7R8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 1720,
+          "like_count": 16382,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 7139
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T13:48:22.000Z",
+        "description": "3D printing. cybersecurity. tech career opportunities. on-chain content. global geopolitical analyses 🇧🇷🇺🇸🇪🇺.\n@Palmeiras 🇮🇹. I luv my boyfriend.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 110,
+                "username": "Palmeiras"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/thairizard",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/thairizard",
+                "start": 0,
+                "url": "https://t.co/zUptbIJpn4"
+              }
+            ]
+          }
+        },
+        "id": "1851622105428738048",
+        "name": "Thai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054073943556796416/nUzPatYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18538,
+          "following_count": 1509,
+          "like_count": 59891,
+          "listed_count": 22,
+          "media_count": 818,
+          "tweet_count": 34184
+        },
+        "url": "https://t.co/zUptbIJpn4",
+        "username": "thairizard",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1996274455245717858",
+    "created_at": "2025-12-03T17:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T18:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996274455245717858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "111942564",
+          "start": 3,
+          "username": "boiledwater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996274455245717858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996160983891431455",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boiledwater: 日本李颖  2025年11月22日\n\n这个问题说到底还是权力问题\n\n年轻人处在权力结构的底层，所以年轻人不管干什么都是错的，年轻人的活动比如打游戏比如cosplay比如摇滚那都是玩物丧志那都是歪门邪道那都是被西方腐朽思想侵蚀颓废堕落… http…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 943,
+        "media_key": "3_1996160979944566784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7PJ1cwXcAAo-gS.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1996274455245717858",
+        "created_at": "2025-12-03T17:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T18:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996274455245717858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "111942564",
+              "start": 3,
+              "username": "boiledwater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996274455245717858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996160983891431455",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @boiledwater: 日本李颖  2025年11月22日\n\n这个问题说到底还是权力问题\n\n年轻人处在权力结构的底层，所以年轻人不管干什么都是错的，年轻人的活动比如打游戏比如cosplay比如摇滚那都是玩物丧志那都是歪门邪道那都是被西方腐朽思想侵蚀颓废堕落… http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996160979944566784"
+          ]
+        },
+        "author_id": "111942564",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1996160983891431455",
+        "created_at": "2025-12-03T10:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T11:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996160983891431455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LyyMHE9UGQ",
+              "end": 140,
+              "expanded_url": "https://x.com/boiledwater/status/1996160983891431455/photo/1",
+              "media_key": "3_1996160979944566784",
+              "start": 117,
+              "url": "https://t.co/LyyMHE9UGQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996160983891431455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "日本李颖  2025年11月22日\n\n这个问题说到底还是权力问题\n\n年轻人处在权力结构的底层，所以年轻人不管干什么都是错的，年轻人的活动比如打游戏比如cosplay比如摇滚那都是玩物丧志那都是歪门邪道那都是被西方腐朽思想侵蚀颓废堕落\n\n老年人处在权力结构上层，所以老年人不管干什么都是对的，老年人的活动比如喝酒比如打麻将比如炒古玩炒红木炒茶，那都是文化那都是传承那都是博大精深\n\n再过几十年，现在的年轻人变成老年人，爬上权力结构的上层，他们喜欢的游戏cosplay就会变成文化变成传承变成博大精深，然后他们又会打压下一代年轻人，说他们喜欢的东西是玩物丧志是歪门邪道是西方腐朽思想侵蚀颓废堕落，完全忘记了几十年前自己是怎么样被上一代打压的。\n\n所以说很多东西的好坏评价，关键并不在于那个东西本身怎么样，而在于评价者在权力结构中所处的地位如何。\n\n典型的比如匪年轻的时候就煽动学生造反，匪掌权了就要用坦克碾压造反的学生。匪年轻的时候就杀地主杀资本家，匪掌权了就变成全世界最大最残酷的地主资本家。匪年轻的时候就喊民主喊自由喊民族独立，匪掌权了就把民主派自由派民族独立派统统关进监狱。\n\n道理都是一样的，在权力结构中的地位变了，利益和心态也就完全相反了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 6608,
+          "like_count": 110,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "日本李颖  2025年11月22日\n\n这个问题说到底还是权力问题\n\n年轻人处在权力结构的底层，所以年轻人不管干什么都是错的，年轻人的活动比如打游戏比如cosplay比如摇滚那都是玩物丧志那都是歪门邪道那都是被西方腐朽思想侵蚀颓废堕落 https://t.co/LyyMHE9UGQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 1468,
+          "like_count": 12185,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 5699
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-06T17:49:59.000Z",
+        "description": "打破原生家庭之环的人，只能是你自己。",
+        "id": "111942564",
+        "location": "Stockholm, Sverige",
+        "name": "Jess",
+        "pinned_tweet_id": "1940516537993252971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983445356277841920/TJ0mJFDl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42898,
+          "following_count": 1750,
+          "like_count": 31595,
+          "listed_count": 154,
+          "media_count": 5068,
+          "tweet_count": 38590
+        },
+        "username": "boiledwater",
+        "verified": true
+      }
+    ]
+  }
+}

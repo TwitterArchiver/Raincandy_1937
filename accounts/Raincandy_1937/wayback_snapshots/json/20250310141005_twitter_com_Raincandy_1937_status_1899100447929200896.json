@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1899100447929200896",
+    "created_at": "2025-03-10T14:10:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T15:10:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899100447929200896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1437773326131384325",
+          "start": 3,
+          "username": "bingo2x10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899100447929200896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898697051308954029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bingo2x10: 男的出轨，结果留两个女孩子在原地扯头花，觉得都是彼此恶心了对方……\n雌竞简直是父权制的毒瘤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1899100447929200896",
+        "created_at": "2025-03-10T14:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T15:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899100447929200896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1437773326131384325",
+              "start": 3,
+              "username": "bingo2x10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899100447929200896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898697051308954029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bingo2x10: 男的出轨，结果留两个女孩子在原地扯头花，觉得都是彼此恶心了对方……\n雌竞简直是父权制的毒瘤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437773326131384325",
+        "conversation_id": "1898697051308954029",
+        "created_at": "2025-03-09T11:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T12:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898697051308954029"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898697051308954029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 27944,
+          "like_count": 440,
+          "quote_count": 4,
+          "reply_count": 15,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "男的出轨，结果留两个女孩子在原地扯头花，觉得都是彼此恶心了对方……\n雌竞简直是父权制的毒瘤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 841,
+          "like_count": 6313,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 3243
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-14T13:41:03.000Z",
+        "description": "「靡不有初 鲜克有终」",
+        "id": "1437773326131384325",
+        "location": "秉烛夜游",
+        "name": "餅崽",
+        "pinned_tweet_id": "1722901677123219528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884675670590316544/QV8kavrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3909,
+          "following_count": 159,
+          "like_count": 20048,
+          "listed_count": 19,
+          "media_count": 206,
+          "tweet_count": 663
+        },
+        "username": "bingo2x10",
+        "verified": false
+      }
+    ]
+  }
+}

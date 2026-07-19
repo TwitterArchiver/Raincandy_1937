@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992180801799385088"
+      ],
+      "media_source_tweet_id": [
+        "1992180818589179984"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1992266773505397121",
+    "created_at": "2025-11-22T16:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T17:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992266773505397121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1581478431274983424",
+          "start": 3,
+          "username": "zhoynqi3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tPFJ73n035",
+          "end": 68,
+          "expanded_url": "https://x.com/zhoynqi3/status/1992180818589179984/photo/1",
+          "media_key": "3_1992180801799385088",
+          "start": 45,
+          "url": "https://t.co/tPFJ73n035"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992266773505397121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992180818589179984",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhoynqi3: 就在昨天，南非政府宣布将杀害女性和性别暴力列为国家紧急状态。 https://t.co/tPFJ73n035"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1325,
+        "media_key": "3_1992180801799385088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Wl4lua8AAIf_0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992180801799385088"
+          ],
+          "media_source_tweet_id": [
+            "1992180818589179984"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1992266773505397121",
+        "created_at": "2025-11-22T16:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992266773505397121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1581478431274983424",
+              "start": 3,
+              "username": "zhoynqi3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tPFJ73n035",
+              "end": 68,
+              "expanded_url": "https://x.com/zhoynqi3/status/1992180818589179984/photo/1",
+              "media_key": "3_1992180801799385088",
+              "start": 45,
+              "url": "https://t.co/tPFJ73n035"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992266773505397121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992180818589179984",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhoynqi3: 就在昨天，南非政府宣布将杀害女性和性别暴力列为国家紧急状态。 https://t.co/tPFJ73n035"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992180801799385088"
+          ]
+        },
+        "author_id": "1581478431274983424",
+        "conversation_id": "1992180818589179984",
+        "created_at": "2025-11-22T10:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992180818589179984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tPFJ73n035",
+              "end": 54,
+              "expanded_url": "https://x.com/zhoynqi3/status/1992180818589179984/photo/1",
+              "media_key": "3_1992180801799385088",
+              "start": 31,
+              "url": "https://t.co/tPFJ73n035"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992180818589179984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2074,
+          "like_count": 136,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "就在昨天，南非政府宣布将杀害女性和性别暴力列为国家紧急状态。 https://t.co/tPFJ73n035"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 1446,
+          "like_count": 11852,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 5583
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "1976511377679487385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3538,
+          "following_count": 184,
+          "like_count": 26800,
+          "listed_count": 16,
+          "media_count": 256,
+          "tweet_count": 6278
+        },
+        "username": "zhoynqi3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1909069722068599258",
+    "created_at": "2025-04-07T15:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T16:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909261779366297663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2396906006",
+          "start": 0,
+          "username": "shizunyan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909261779366297663",
+    "in_reply_to_user_id": "2396906006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909069722068599258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shizunyan_ 新品吗？据说国外的比老钟特供的劲大🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1909069714741190657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn5gynaa4AExYEL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1909069714745446400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn5gynbb0AAQ9CC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1909069722068599258",
+        "created_at": "2025-04-07T15:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T16:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909261779366297663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2396906006",
+              "start": 0,
+              "username": "shizunyan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909261779366297663",
+        "in_reply_to_user_id": "2396906006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909069722068599258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shizunyan_ 新品吗？据说国外的比老钟特供的劲大🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909069714741190657",
+            "3_1909069714745446400"
+          ]
+        },
+        "author_id": "2396906006",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1909069722068599258",
+        "created_at": "2025-04-07T02:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T03:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909069722068599258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vRj7RSeEDv",
+              "end": 55,
+              "expanded_url": "https://x.com/shizunyan_/status/1909069722068599258/photo/1",
+              "media_key": "3_1909069714741190657",
+              "start": 32,
+              "url": "https://t.co/vRj7RSeEDv"
+            },
+            {
+              "display_url": "pic.x.com/vRj7RSeEDv",
+              "end": 55,
+              "expanded_url": "https://x.com/shizunyan_/status/1909069722068599258/photo/1",
+              "media_key": "3_1909069714745446400",
+              "start": 32,
+              "url": "https://t.co/vRj7RSeEDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909069722068599258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 8154,
+          "like_count": 188,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "这配色和那液体色\n这颜值，这味儿太冲了吧 估计能火\n\n黑粉魔爪 https://t.co/vRj7RSeEDv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 1000,
+          "like_count": 7644,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 3934
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-18T23:23:12.000Z",
+        "description": "shizu | 自傷 shtwt |",
+        "id": "2396906006",
+        "location": "void",
+        "name": "しず",
+        "pinned_tweet_id": "1868889445971472456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853737893241704448/tz8XbgoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2660,
+          "following_count": 408,
+          "like_count": 33801,
+          "listed_count": 3,
+          "media_count": 211,
+          "tweet_count": 3883
+        },
+        "username": "shizunyan_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1902307914750009344"
+      ],
+      "media_source_tweet_id": [
+        "1903666767076950064"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1904172303782748640",
+    "created_at": "2025-03-24T14:03:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T15:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904172303782748640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1847778949272584192",
+          "start": 3,
+          "username": "jingsheng237248"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3qwSF3M9A4",
+          "end": 53,
+          "expanded_url": "https://x.com/jingsheng237248/status/1903666767076950064/photo/1",
+          "media_key": "3_1902307914750009344",
+          "start": 30,
+          "url": "https://t.co/3qwSF3M9A4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904172303782748640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903666767076950064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingsheng237248: ？？我成黑奴了？ https://t.co/3qwSF3M9A4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 405,
+        "media_key": "3_1902307914750009344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmZa-DgWoAAsrjb.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902307914750009344"
+          ],
+          "media_source_tweet_id": [
+            "1903666767076950064"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1904172303782748640",
+        "created_at": "2025-03-24T14:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T15:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904172303782748640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1847778949272584192",
+              "start": 3,
+              "username": "jingsheng237248"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3qwSF3M9A4",
+              "end": 53,
+              "expanded_url": "https://x.com/jingsheng237248/status/1903666767076950064/photo/1",
+              "media_key": "3_1902307914750009344",
+              "start": 30,
+              "url": "https://t.co/3qwSF3M9A4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904172303782748640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903666767076950064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jingsheng237248: ？？我成黑奴了？ https://t.co/3qwSF3M9A4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902307914750009344"
+          ]
+        },
+        "author_id": "1847778949272584192",
+        "conversation_id": "1903666767076950064",
+        "created_at": "2025-03-23T04:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T05:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903666767076950064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3qwSF3M9A4",
+              "end": 32,
+              "expanded_url": "https://x.com/jingsheng237248/status/1903666767076950064/photo/1",
+              "media_key": "3_1902307914750009344",
+              "start": 9,
+              "url": "https://t.co/3qwSF3M9A4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903666767076950064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 178784,
+          "like_count": 1766,
+          "quote_count": 3,
+          "reply_count": 29,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "？？我成黑奴了？ https://t.co/3qwSF3M9A4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 938,
+          "like_count": 6860,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 3586
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T23:17:00.000Z",
+        "description": "觉得梗图有意思的话可以给我的YouTube 频道点个订阅求求你了https://t.co/sbQiOkuo3u｜墙外聪明吧联盟tg群https://t.co/hO6v9AsESp｜💯回关，漏fo请私信｜接推广，广告",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@naofujiang?si…",
+                "end": 55,
+                "expanded_url": "https://youtube.com/@naofujiang?si=PB1KJBBda1TvehWg",
+                "start": 32,
+                "url": "https://t.co/sbQiOkuo3u"
+              },
+              {
+                "display_url": "t.me/+-r03gqqFd_9jN…",
+                "end": 89,
+                "expanded_url": "https://t.me/+-r03gqqFd_9jNmIx",
+                "start": 66,
+                "url": "https://t.co/hO6v9AsESp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/xiaona…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/xiaonaofujiang.bsky.social",
+                "start": 0,
+                "url": "https://t.co/t48ryNaoYR"
+              }
+            ]
+          }
+        },
+        "id": "1847778949272584192",
+        "location": "小号@xiaobenzhu211",
+        "name": "脑斧酱-聪明吧",
+        "pinned_tweet_id": "1903666767076950064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873060612315455488/mf2pvdmw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11006,
+          "following_count": 10719,
+          "like_count": 3827,
+          "listed_count": 18,
+          "media_count": 721,
+          "tweet_count": 3527
+        },
+        "url": "https://t.co/t48ryNaoYR",
+        "username": "jingsheng237248",
+        "verified": false
+      }
+    ]
+  }
+}

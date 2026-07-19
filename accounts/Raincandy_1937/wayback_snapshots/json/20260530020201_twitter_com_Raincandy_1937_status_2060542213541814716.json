@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2060542213541814716",
+    "created_at": "2026-05-30T02:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T03:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060542213541814716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1632172411885068288",
+          "start": 3,
+          "username": "dorayaki_utu_20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060542213541814716",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060264167526002815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dorayaki_utu_20: 生きてることが自傷行為"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2060542213541814716",
+        "created_at": "2026-05-30T02:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060542213541814716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1632172411885068288",
+              "start": 3,
+              "username": "dorayaki_utu_20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060542213541814716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060264167526002815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dorayaki_utu_20: 生きてることが自傷行為"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632172411885068288",
+        "conversation_id": "2060264167526002815",
+        "created_at": "2026-05-29T07:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060264167526002815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060264167526002815",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 619,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "生きてることが自傷行為"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 1714,
+          "like_count": 16023,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 6995
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-05T00:13:43.000Z",
+        "description": "09/ドラえもん・ミセス好き/やりたいこと全部してから終わりたい/辛い",
+        "id": "1632172411885068288",
+        "location": "適応障害/パニック障害・発作",
+        "name": "どら焼き食べたい",
+        "pinned_tweet_id": "1963242201707679871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951299373129781248/Zz_7OXfL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 435,
+          "like_count": 170533,
+          "listed_count": 3,
+          "media_count": 3,
+          "tweet_count": 356
+        },
+        "username": "dorayaki_utu_20",
+        "verified": false
+      }
+    ]
+  }
+}

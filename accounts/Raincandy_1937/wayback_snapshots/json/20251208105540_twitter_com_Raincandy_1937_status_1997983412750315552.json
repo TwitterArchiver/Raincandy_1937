@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1997852414079340671",
+    "created_at": "2025-12-08T10:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T11:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997983412750315552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "891195860142379008",
+          "start": 0,
+          "username": "chihaya0425"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997983412750315552",
+    "in_reply_to_user_id": "891195860142379008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997852414079340671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chihaya0425 かつての戦勝国は、独裁政党の暴政によって悪に堕ちた。今こそ、現代​​文明の力で正義を守るべき時である。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_1997852404877004800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7nMLVpakAAhcK6.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1997852414079340671",
+        "created_at": "2025-12-08T10:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T11:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997983412750315552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "891195860142379008",
+              "start": 0,
+              "username": "chihaya0425"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997983412750315552",
+        "in_reply_to_user_id": "891195860142379008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997852414079340671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chihaya0425 かつての戦勝国は、独裁政党の暴政によって悪に堕ちた。今こそ、現代​​文明の力で正義を守るべき時である。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997852404877004800"
+          ]
+        },
+        "author_id": "891195860142379008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1377318190846382081",
+              "name": "Japan Ministry of Defense"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1377318190846382081",
+              "name": "Japan Ministry of Defense"
+            }
+          }
+        ],
+        "conversation_id": "1997852414079340671",
+        "created_at": "2025-12-08T02:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T03:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997852414079340671"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "アジア",
+              "probability": 0.4858,
+              "start": 25,
+              "type": "Place"
+            },
+            {
+              "end": 52,
+              "normalized_text": "沖縄",
+              "probability": 0.9307,
+              "start": 51,
+              "type": "Place"
+            },
+            {
+              "end": 126,
+              "normalized_text": "八紘一宇",
+              "probability": 0.2188,
+              "start": 123,
+              "type": "Organization"
+            },
+            {
+              "end": 136,
+              "normalized_text": "日本",
+              "probability": 0.6528,
+              "start": 135,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/24faor8N9q",
+              "end": 172,
+              "expanded_url": "https://x.com/chihaya0425/status/1997852414079340671/photo/1",
+              "media_key": "3_1997852404877004800",
+              "start": 149,
+              "url": "https://t.co/24faor8N9q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997852414079340671",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 67948,
+          "like_count": 1885,
+          "quote_count": 87,
+          "reply_count": 466,
+          "retweet_count": 354
+        },
+        "reply_settings": "everyone",
+        "text": "今日は開戦の日。\n大東亜戦争は欧米植民地支配を砕きアジアを独立させた聖戦だった\n今、中国空母「遼寧」が沖縄の喉元で艦載機100回発進。  \n自衛隊機にレーダー照射。\n84年前の禍根は欧米列強だったが、今は中国共産党。\n今こそ聖戦の精神を継ぐ時、\n八紘一宇の理想を再び。\n日本よ、誇りを取り戻せ🇯🇵 https://t.co/24faor8N9q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 1474,
+          "like_count": 12291,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 5744
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-29T07:17:05.000Z",
+        "description": "独り言用垢です▪️ https://t.co/Ckr3AejF5d ▪️YouTube→ https://t.co/XBnulwL4hn ▪️Instagram→ kusunoki_chihaya ▪️blog→ https://t.co/a5R4KgTVnA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amzn.asia/d/hjBzWL4",
+                "end": 33,
+                "expanded_url": "https://amzn.asia/d/hjBzWL4",
+                "start": 10,
+                "url": "https://t.co/Ckr3AejF5d"
+              },
+              {
+                "display_url": "m.youtube.com/@yamashitahiroe",
+                "end": 68,
+                "expanded_url": "https://m.youtube.com/@yamashitahiroe",
+                "start": 45,
+                "url": "https://t.co/XBnulwL4hn"
+              },
+              {
+                "display_url": "ameblo.jp/chihaya0425/",
+                "end": 130,
+                "expanded_url": "https://ameblo.jp/chihaya0425/",
+                "start": 107,
+                "url": "https://t.co/a5R4KgTVnA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nankou-kenkyukai.com",
+                "end": 23,
+                "expanded_url": "https://www.nankou-kenkyukai.com/",
+                "start": 0,
+                "url": "https://t.co/5grQq74wDy"
+              }
+            ]
+          }
+        },
+        "id": "891195860142379008",
+        "location": "大阪 千早赤阪村",
+        "name": "山下弘枝",
+        "pinned_tweet_id": "1671142585824595968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1468973566578216970/M8hxKOn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22408,
+          "following_count": 3077,
+          "like_count": 53682,
+          "listed_count": 164,
+          "media_count": 2486,
+          "tweet_count": 11178
+        },
+        "url": "https://t.co/5grQq74wDy",
+        "username": "chihaya0425",
+        "verified": true
+      }
+    ]
+  }
+}

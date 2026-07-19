@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1971587119920607405",
+    "created_at": "2025-09-28T08:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T09:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972222454769803305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "808311771136036864",
+          "start": 0,
+          "username": "Na_Gredmin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972222454769803305",
+    "in_reply_to_user_id": "808311771136036864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971587119920607405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Na_Gredmin 所以我认为粉红色厕所应该上游戏业界黑名单"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2068,
+        "media_key": "3_1971587112060510209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1x8CFIa4AEwhry.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1971587119920607405",
+        "created_at": "2025-09-28T08:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T09:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972222454769803305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "808311771136036864",
+              "start": 0,
+              "username": "Na_Gredmin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972222454769803305",
+        "in_reply_to_user_id": "808311771136036864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971587119920607405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Na_Gredmin 所以我认为粉红色厕所应该上游戏业界黑名单"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971587112060510209"
+          ]
+        },
+        "author_id": "808311771136036864",
+        "conversation_id": "1971587119920607405",
+        "created_at": "2025-09-26T14:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T15:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971587119920607405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vBZmehvMXE",
+              "end": 23,
+              "expanded_url": "https://x.com/Na_Gredmin/status/1971587119920607405/photo/1",
+              "media_key": "3_1971587112060510209",
+              "start": 0,
+              "url": "https://t.co/vBZmehvMXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971587119920607405",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 63963,
+          "like_count": 594,
+          "quote_count": 8,
+          "reply_count": 28,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vBZmehvMXE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 1362,
+          "like_count": 10438,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 5187
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-12T14:05:18.000Z",
+        "description": "退订回复TD",
+        "id": "808311771136036864",
+        "name": "💡",
+        "pinned_tweet_id": "1966402949221068851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912439762566119424/z_eB520X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7291,
+          "following_count": 864,
+          "like_count": 16082,
+          "listed_count": 34,
+          "media_count": 154,
+          "tweet_count": 2278
+        },
+        "username": "Na_Gredmin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057982362906951680"
+      ],
+      "media_source_tweet_id": [
+        "2057982364903493930"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058226028108214697",
+    "created_at": "2026-05-23T16:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T17:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058226028108214697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1951924643322798080",
+          "start": 3,
+          "username": "heyReze"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gMlY5e0apa",
+          "end": 36,
+          "expanded_url": "https://x.com/heyReze/status/2057982364903493930/photo/1",
+          "media_key": "3_2057982362906951680",
+          "start": 13,
+          "url": "https://t.co/gMlY5e0apa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058226028108214697",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 519
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057982364903493930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @heyReze: https://t.co/gMlY5e0apa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1075,
+        "media_key": "3_2057982362906951680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI9sDi8WgAAp7tW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057982362906951680"
+          ],
+          "media_source_tweet_id": [
+            "2057982364903493930"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058226028108214697",
+        "created_at": "2026-05-23T16:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058226028108214697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1951924643322798080",
+              "start": 3,
+              "username": "heyReze"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gMlY5e0apa",
+              "end": 36,
+              "expanded_url": "https://x.com/heyReze/status/2057982364903493930/photo/1",
+              "media_key": "3_2057982362906951680",
+              "start": 13,
+              "url": "https://t.co/gMlY5e0apa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058226028108214697",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 519
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057982364903493930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @heyReze: https://t.co/gMlY5e0apa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057982362906951680"
+          ]
+        },
+        "author_id": "1951924643322798080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057982364903493930",
+        "created_at": "2026-05-23T00:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T01:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057982364903493930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gMlY5e0apa",
+              "end": 23,
+              "expanded_url": "https://x.com/heyReze/status/2057982364903493930/photo/1",
+              "media_key": "3_2057982362906951680",
+              "start": 0,
+              "url": "https://t.co/gMlY5e0apa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057982364903493930",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 14357,
+          "like_count": 1883,
+          "quote_count": 12,
+          "reply_count": 1,
+          "retweet_count": 519
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gMlY5e0apa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 1690,
+          "like_count": 15576,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 6878
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T08:34:48.000Z",
+        "description": "reze fan (⁠≧⁠▽⁠≦⁠)",
+        "id": "1951924643322798080",
+        "name": "☆",
+        "pinned_tweet_id": "2044120256067551336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033577338185912320/dJp3ox2x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2740,
+          "following_count": 448,
+          "like_count": 2624,
+          "listed_count": 6,
+          "media_count": 639,
+          "tweet_count": 825
+        },
+        "username": "heyReze",
+        "verified": true
+      }
+    ]
+  }
+}

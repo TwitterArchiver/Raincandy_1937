@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1984166521602764862",
+    "created_at": "2025-10-31T09:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T10:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984188781583585594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "835869741419909120",
+          "start": 0,
+          "username": "YoiteTc_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984188781583585594",
+    "in_reply_to_user_id": "835869741419909120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984166521602764862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YoiteTc_404 别去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1984166521602764862",
+        "created_at": "2025-10-31T09:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T10:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984188781583585594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "835869741419909120",
+              "start": 0,
+              "username": "YoiteTc_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984188781583585594",
+        "in_reply_to_user_id": "835869741419909120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984166521602764862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YoiteTc_404 别去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "835869741419909120",
+        "conversation_id": "1984166521602764862",
+        "created_at": "2025-10-31T07:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T08:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984166521602764862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984166521602764862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纠结要花四五十块去听one last kiss吗，听说裁剪和翻译都很烂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 1419,
+          "like_count": 11280,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 5416
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-26T15:10:50.000Z",
+        "description": "那些听不见音乐的人认为那些跳舞的人疯了。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tc11142",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tc11142",
+                "start": 0,
+                "url": "https://t.co/yoYf6fB5K4"
+              }
+            ]
+          }
+        },
+        "id": "835869741419909120",
+        "location": "ᵕ̈ ",
+        "name": "烤虚拟鱼",
+        "pinned_tweet_id": "1891130324953727380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832091806822969349/CFE2O-rz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9086,
+          "following_count": 1277,
+          "like_count": 11682,
+          "listed_count": 17,
+          "media_count": 3174,
+          "tweet_count": 10402
+        },
+        "url": "https://t.co/yoYf6fB5K4",
+        "username": "YoiteTc_404",
+        "verified": false
+      }
+    ]
+  }
+}

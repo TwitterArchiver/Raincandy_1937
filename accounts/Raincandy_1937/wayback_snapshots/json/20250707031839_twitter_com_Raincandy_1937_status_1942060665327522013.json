@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941473451836911616"
+      ],
+      "media_source_tweet_id": [
+        "1941473455456780428"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1942060665327522013",
+    "created_at": "2025-07-07T03:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T04:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942060665327522013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1691385929968062464",
+          "start": 3,
+          "username": "zhou1919456789"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ePVb7cx8z8",
+          "end": 50,
+          "expanded_url": "https://x.com/zhou1919456789/status/1941473455456780428/photo/1",
+          "media_key": "3_1941473451836911616",
+          "start": 27,
+          "url": "https://t.co/ePVb7cx8z8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942060665327522013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 283
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941473455456780428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhou1919456789: 你中了几条？ https://t.co/ePVb7cx8z8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 842,
+        "media_key": "3_1941473451836911616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvF_0W2XMAAs5TB.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941473451836911616"
+          ],
+          "media_source_tweet_id": [
+            "1941473455456780428"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1942060665327522013",
+        "created_at": "2025-07-07T03:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T04:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942060665327522013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1691385929968062464",
+              "start": 3,
+              "username": "zhou1919456789"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ePVb7cx8z8",
+              "end": 50,
+              "expanded_url": "https://x.com/zhou1919456789/status/1941473455456780428/photo/1",
+              "media_key": "3_1941473451836911616",
+              "start": 27,
+              "url": "https://t.co/ePVb7cx8z8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942060665327522013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 283
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941473455456780428",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhou1919456789: 你中了几条？ https://t.co/ePVb7cx8z8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941473451836911616"
+          ]
+        },
+        "author_id": "1691385929968062464",
+        "conversation_id": "1941473455456780428",
+        "created_at": "2025-07-05T12:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T13:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941473455456780428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ePVb7cx8z8",
+              "end": 30,
+              "expanded_url": "https://x.com/zhou1919456789/status/1941473455456780428/photo/1",
+              "media_key": "3_1941473451836911616",
+              "start": 7,
+              "url": "https://t.co/ePVb7cx8z8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941473455456780428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 377,
+          "impression_count": 946833,
+          "like_count": 5566,
+          "quote_count": 22,
+          "reply_count": 89,
+          "retweet_count": 283
+        },
+        "reply_settings": "everyone",
+        "text": "你中了几条？ https://t.co/ePVb7cx8z8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 1216,
+          "like_count": 9124,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 4709
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T09:47:02.000Z",
+        "description": "you can call me in your favour way/高中生/可互fo",
+        "id": "1691385929968062464",
+        "location": "Shanghai ",
+        "name": "明日美",
+        "pinned_tweet_id": "1941874017989951884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923343824744747008/2zTVcKUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 895,
+          "like_count": 1488,
+          "listed_count": 1,
+          "media_count": 287,
+          "tweet_count": 691
+        },
+        "username": "zhou1919456789",
+        "verified": false
+      }
+    ]
+  }
+}

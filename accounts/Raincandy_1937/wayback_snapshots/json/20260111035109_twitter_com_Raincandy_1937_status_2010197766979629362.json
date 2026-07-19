@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2010197766979629362",
+    "created_at": "2026-01-11T03:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T04:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010197766979629362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "733016836552437761",
+          "start": 3,
+          "username": "starlightcaesar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010197766979629362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009972009166614833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @starlightcaesar: 有个现象我一直不能理解，就是有些人明明不是小粉红，也有能力翻墙，却还是执着于从墙内平台获取信息；哪怕他们知道墙内平台的言论审查有多变态、甚至自己的号也中过枪，也还是更倾向于相信墙内那套叙事。真是太别扭了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2010197766979629362",
+        "created_at": "2026-01-11T03:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T04:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010197766979629362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "733016836552437761",
+              "start": 3,
+              "username": "starlightcaesar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010197766979629362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009972009166614833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @starlightcaesar: 有个现象我一直不能理解，就是有些人明明不是小粉红，也有能力翻墙，却还是执着于从墙内平台获取信息；哪怕他们知道墙内平台的言论审查有多变态、甚至自己的号也中过枪，也还是更倾向于相信墙内那套叙事。真是太别扭了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "733016836552437761",
+        "conversation_id": "2009972009166614833",
+        "created_at": "2026-01-10T12:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T13:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009972009166614833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009972009166614833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 73854,
+          "like_count": 761,
+          "quote_count": 11,
+          "reply_count": 489,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "有个现象我一直不能理解，就是有些人明明不是小粉红，也有能力翻墙，却还是执着于从墙内平台获取信息；哪怕他们知道墙内平台的言论审查有多变态、甚至自己的号也中过枪，也还是更倾向于相信墙内那套叙事。真是太别扭了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 1523,
+          "like_count": 12998,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 5991
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-18T19:30:07.000Z",
+        "description": "I'm fearless.\n\nYouTube:安争鸣/小鸣说",
+        "id": "733016836552437761",
+        "name": "小鸣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998574418914873344/Vv4oa_J6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26087,
+          "following_count": 276,
+          "like_count": 25489,
+          "listed_count": 79,
+          "media_count": 892,
+          "tweet_count": 2569
+        },
+        "username": "starlightcaesar",
+        "verified": false
+      }
+    ]
+  }
+}

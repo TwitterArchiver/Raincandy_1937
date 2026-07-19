@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1877697887582195926",
+    "created_at": "2025-01-10T13:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T14:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877706704420307063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1639894055948816387",
+          "start": 0,
+          "username": "sakumamutsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877706704420307063",
+    "in_reply_to_user_id": "1639894055948816387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877697887582195926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakumamutsuki 先给自己冷静下来的时间嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1877697887582195926",
+        "created_at": "2025-01-10T13:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T14:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877706704420307063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639894055948816387",
+              "start": 0,
+              "username": "sakumamutsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877706704420307063",
+        "in_reply_to_user_id": "1639894055948816387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877697887582195926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakumamutsuki 先给自己冷静下来的时间嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639894055948816387",
+        "conversation_id": "1877697887582195926",
+        "created_at": "2025-01-10T12:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T13:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877697887582195926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877697887582195926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我压力好大……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 658,
+          "like_count": 4923,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 2496
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T07:36:33.000Z",
+        "description": "=kayo/丽塔/mutsuki｜孩子们这是长期素食推特@sayo0707_丨一直逃避下去就好了。丨天天犯中二病。欢迎收看《中二病也要活下去》丨作为互联网神明会永远守护你、眷顾你｜任何歧视偏见极端粉红顺直滚。和我吵就是你对丨夸夸bot。补药骂我丨负能垢：@049hate_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "sayo0707_"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "049hate_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kayo1126_/",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kayo1126_/",
+                "start": 0,
+                "url": "https://t.co/Anuu9ef1ih"
+              }
+            ]
+          }
+        },
+        "id": "1639894055948816387",
+        "location": "宫益坂女子学园",
+        "name": "kayo",
+        "pinned_tweet_id": "1871120591778152498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869513596516061184/Jz5FyXZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 854,
+          "like_count": 11338,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 3570
+        },
+        "url": "https://t.co/Anuu9ef1ih",
+        "username": "sakumamutsuki",
+        "verified": false
+      }
+    ]
+  }
+}

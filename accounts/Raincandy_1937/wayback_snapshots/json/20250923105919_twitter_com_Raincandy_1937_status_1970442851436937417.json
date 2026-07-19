@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1886871025104621571",
+          "name": "Halftime Show Super Bowl LIX"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1833933476950618113",
+          "name": "Super Bowl LIX: Chiefs at Eagles"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1886871025104621571",
+          "name": "Halftime Show Super Bowl LIX"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "689566314835259392",
+          "name": "NFL"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1304458033888505856",
+          "name": "Super Bowl"
+        }
+      }
+    ],
+    "conversation_id": "1970442851436937417",
+    "created_at": "2025-09-23T10:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T11:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970442851436937417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1645340482061631491",
+          "start": 3,
+          "username": "laomanpindao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970442851436937417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 317
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970008577353060858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @laomanpindao: 不要有任何疑问，这就是红色贵族在筛选和匹配器官了。\n\n中国并不存在法律上的DNA数据库这种东西，财政上没有相关的预算，更没有相关的主管部门。获取的信息如何使用并关联到公民个人，同样也没有任何相关法律法规。\n\n只要收到这种大规模采集血样的通知，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1277,
+        "media_key": "3_1970008568545046529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1bgWwSacAES26g.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1833933476950618113",
+              "name": "Super Bowl LIX: Chiefs at Eagles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304458033888505856",
+              "name": "Super Bowl"
+            }
+          }
+        ],
+        "conversation_id": "1970442851436937417",
+        "created_at": "2025-09-23T10:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T11:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970442851436937417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1645340482061631491",
+              "start": 3,
+              "username": "laomanpindao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970442851436937417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 317
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970008577353060858",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @laomanpindao: 不要有任何疑问，这就是红色贵族在筛选和匹配器官了。\n\n中国并不存在法律上的DNA数据库这种东西，财政上没有相关的预算，更没有相关的主管部门。获取的信息如何使用并关联到公民个人，同样也没有任何相关法律法规。\n\n只要收到这种大规模采集血样的通知，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970008568545046529"
+          ]
+        },
+        "author_id": "1645340482061631491",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1833933476950618113",
+              "name": "Super Bowl LIX: Chiefs at Eagles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304458033888505856",
+              "name": "Super Bowl"
+            }
+          }
+        ],
+        "conversation_id": "1970008577353060858",
+        "created_at": "2025-09-22T06:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T07:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970008577353060858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9MW1Lp7YnQ",
+              "end": 158,
+              "expanded_url": "https://x.com/laomanpindao/status/1970008577353060858/photo/1",
+              "media_key": "3_1970008568545046529",
+              "start": 135,
+              "url": "https://t.co/9MW1Lp7YnQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970008577353060858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 400,
+          "impression_count": 417991,
+          "like_count": 1708,
+          "quote_count": 12,
+          "reply_count": 130,
+          "retweet_count": 317
+        },
+        "reply_settings": "everyone",
+        "text": "不要有任何疑问，这就是红色贵族在筛选和匹配器官了。\n\n中国并不存在法律上的DNA数据库这种东西，财政上没有相关的预算，更没有相关的主管部门。获取的信息如何使用并关联到公民个人，同样也没有任何相关法律法规。\n\n只要收到这种大规模采集血样的通知，不要有任何迟疑，赶紧跑路。 https://t.co/9MW1Lp7YnQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 1346,
+          "like_count": 10215,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 5128
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-10T08:18:59.000Z",
+        "description": "数据在手，天下我有！\n油管号也是“老蛮频道”。",
+        "id": "1645340482061631491",
+        "name": "老蛮频道",
+        "pinned_tweet_id": "1970294967160709483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658285496731340801/LVwKwyad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312332,
+          "following_count": 442,
+          "like_count": 73,
+          "listed_count": 1578,
+          "media_count": 1662,
+          "tweet_count": 9891
+        },
+        "username": "laomanpindao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058258325809291264"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058258376937869383",
+    "created_at": "2026-05-23T18:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T19:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058258376937869383"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jYytBAl30k",
+          "end": 33,
+          "expanded_url": "https://x.com/Raincandy_1937/status/2058258376937869383/photo/1",
+          "media_key": "3_2058258325809291264",
+          "start": 10,
+          "url": "https://t.co/jYytBAl30k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058258376937869383",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚安\n*睡到明天* https://t.co/jYytBAl30k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 235,
+        "media_key": "3_2058258325809291264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJBnCs3aYAAREjH.png",
+        "width": 589
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058258325809291264"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058258376937869383",
+        "created_at": "2026-05-23T18:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T19:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058258376937869383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jYytBAl30k",
+              "end": 33,
+              "expanded_url": "https://x.com/Raincandy_1937/status/2058258376937869383/photo/1",
+              "media_key": "3_2058258325809291264",
+              "start": 10,
+              "url": "https://t.co/jYytBAl30k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058258376937869383",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安\n*睡到明天* https://t.co/jYytBAl30k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 1692,
+          "like_count": 15641,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 6895
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

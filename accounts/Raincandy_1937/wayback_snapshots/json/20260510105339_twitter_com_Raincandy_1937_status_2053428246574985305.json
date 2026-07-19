@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2053428246574985305",
+    "created_at": "2026-05-10T10:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053428246574985305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miaowuqvq/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/miaowuqvq/status/2053306593563877431",
+          "start": 17,
+          "url": "https://t.co/fNzkyPBy1J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053428246574985305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053306593563877431",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去誰給我一個模板這個模板好好玩 https://t.co/fNzkyPBy1J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2053306521090473991",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7PZuyXQAccrZD.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2053428246574985305",
+        "created_at": "2026-05-10T10:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053428246574985305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miaowuqvq/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/miaowuqvq/status/2053306593563877431",
+              "start": 17,
+              "url": "https://t.co/fNzkyPBy1J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053428246574985305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053306593563877431",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去誰給我一個模板這個模板好好玩 https://t.co/fNzkyPBy1J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053306521090473991"
+          ]
+        },
+        "author_id": "1829679457411477504",
+        "conversation_id": "2053306593563877431",
+        "created_at": "2026-05-10T02:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T03:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053306593563877431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7cvi4SK4B",
+              "end": 36,
+              "expanded_url": "https://x.com/miaowuqvq/status/2053306593563877431/photo/1",
+              "media_key": "3_2053306521090473991",
+              "start": 13,
+              "url": "https://t.co/j7cvi4SK4B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053306593563877431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4305,
+          "like_count": 123,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "只是一般路过的艺考生罢了 https://t.co/j7cvi4SK4B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 1626,
+          "like_count": 14910,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 6728
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T00:35:58.000Z",
+        "description": "恒人党党魁 幻想乡贤者反支萝莉 成人层司书 云南华欣药业官号 动漫小说 精日 妹控 战车道\n好闺蜜@jilianmeing\n @Lilin__Lilit\n @axzamyzed\n@KashabaiSilver\n@mimi_VnV\n@hhjnjkoguyunmo \n赛博老婆@YayoiYukimi\n永远18岁的绮梦酱!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 49,
+                "username": "jilianmeing"
+              },
+              {
+                "end": 76,
+                "start": 63,
+                "username": "Lilin__Lilit"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "KashabaiSilver"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "mimi_VnV"
+              },
+              {
+                "end": 130,
+                "start": 115,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 148,
+                "start": 136,
+                "username": "YayoiYukimi"
+              }
+            ]
+          }
+        },
+        "id": "1829679457411477504",
+        "location": "加拿大 马卡姆/幻想乡 雾之湖 /赛尔德兰帝国 银辉城大公",
+        "name": "绮梦天禄哒呦！♀️🈵🏳️‍🌈🎌🗾🍐互fo谢谢(永远与须臾的轮椅侠)🤚😭✋",
+        "pinned_tweet_id": "2015115229969940875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004767849303232513/-EovBf2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2302,
+          "following_count": 3437,
+          "like_count": 11959,
+          "listed_count": 10,
+          "media_count": 912,
+          "tweet_count": 16528
+        },
+        "username": "miaowuqvq",
+        "verified": false
+      }
+    ]
+  }
+}

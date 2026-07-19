@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2060756780570099984",
+    "created_at": "2026-05-30T16:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T17:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060756780570099984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kudo_eru/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/kudo_eru/status/2060628360217395570",
+          "start": 11,
+          "url": "https://t.co/Z8GQW5PphN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060756780570099984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060628360217395570",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "提示：後面那個是魅魔 https://t.co/Z8GQW5PphN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1044,
+        "media_key": "3_2060628311504777216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjSiBla8AAV43J.jpg",
+        "width": 1218
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2060756780570099984",
+        "created_at": "2026-05-30T16:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060756780570099984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kudo_eru/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/kudo_eru/status/2060628360217395570",
+              "start": 11,
+              "url": "https://t.co/Z8GQW5PphN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060756780570099984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060628360217395570",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "提示：後面那個是魅魔 https://t.co/Z8GQW5PphN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060628311504777216"
+          ]
+        },
+        "author_id": "1201513602835828737",
+        "conversation_id": "2060628360217395570",
+        "created_at": "2026-05-30T07:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060628360217395570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XvB1GQe081",
+              "end": 26,
+              "expanded_url": "https://x.com/kudo_eru/status/2060628360217395570/photo/1",
+              "media_key": "3_2060628311504777216",
+              "start": 3,
+              "url": "https://t.co/XvB1GQe081"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060628360217395570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1506,
+          "impression_count": 194467,
+          "like_count": 19541,
+          "quote_count": 21,
+          "reply_count": 22,
+          "retweet_count": 1213
+        },
+        "reply_settings": "everyone",
+        "text": "煩悩 https://t.co/XvB1GQe081"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 1718,
+          "like_count": 16082,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 7020
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-02T14:49:11.000Z",
+        "description": "絵を描きます！ ■創作百合ミコレイ🎹単行本発売中■きららMAX【江口さんちの純情サキュバス】連載中🥀単行本1\n～2巻発売中 ■お仕事のご連絡は【✉️：sikisiki910＠gmail.com】までお願いします。 AI学習×",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/54891433",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/54891433",
+                "start": 0,
+                "url": "https://t.co/1BmGW5mWpG"
+              }
+            ]
+          }
+        },
+        "id": "1201513602835828737",
+        "name": "工藤える🎀ミコレイ＆純サキュ②5月発売",
+        "pinned_tweet_id": "2050555778931757125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621440257475612672/5pIcEIGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233545,
+          "following_count": 728,
+          "like_count": 18728,
+          "listed_count": 1626,
+          "media_count": 234,
+          "tweet_count": 4375
+        },
+        "url": "https://t.co/1BmGW5mWpG",
+        "username": "kudo_eru",
+        "verified": true
+      }
+    ]
+  }
+}

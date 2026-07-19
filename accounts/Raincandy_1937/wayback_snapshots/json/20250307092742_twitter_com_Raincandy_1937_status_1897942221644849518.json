@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1897942221644849518",
+    "created_at": "2025-03-07T09:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T10:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897942221644849518"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/torontobigface…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/torontobigface/status/1897647943684866079",
+          "start": 13,
+          "url": "https://t.co/Ec54AL5YO5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897942221644849518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897647943684866079",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "公民，你也为我着迷吧😼🌹 https://t.co/Ec54AL5YO5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1112,
+        "media_key": "3_1897647918527504384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlXMukyXYAAIGNO.jpg",
+        "width": 1681
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1897942221644849518",
+        "created_at": "2025-03-07T09:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T10:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897942221644849518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/torontobigface…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/torontobigface/status/1897647943684866079",
+              "start": 13,
+              "url": "https://t.co/Ec54AL5YO5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897942221644849518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897647943684866079",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "公民，你也为我着迷吧😼🌹 https://t.co/Ec54AL5YO5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897647918527504384"
+          ]
+        },
+        "author_id": "1477342523555135490",
+        "conversation_id": "1897647943684866079",
+        "created_at": "2025-03-06T13:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T14:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897647943684866079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nFqMHCRzYl",
+              "end": 30,
+              "expanded_url": "https://x.com/torontobigface/status/1897647943684866079/photo/1",
+              "media_key": "3_1897647918527504384",
+              "start": 7,
+              "url": "https://t.co/nFqMHCRzYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897647943684866079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 258628,
+          "like_count": 941,
+          "quote_count": 19,
+          "reply_count": 213,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "你着迷了吗？ https://t.co/nFqMHCRzYl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 813,
+          "like_count": 6197,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 3180
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T18:14:50.000Z",
+        "description": "YouTube：https://t.co/JrdyvNc63o 投稿邮箱:Torontosquareface@gmail.com 粉丝群：https://t.co/7fI2Xsn7l9 李币社区群：https://t.co/Uao93nfZ79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Torontobigface",
+                "end": 31,
+                "expanded_url": "http://youtube.com/@Torontobigface",
+                "start": 8,
+                "url": "https://t.co/JrdyvNc63o"
+              },
+              {
+                "display_url": "t.me/+X3WjedrKfxUwY…",
+                "end": 92,
+                "expanded_url": "https://t.me/+X3WjedrKfxUwYTk1",
+                "start": 69,
+                "url": "https://t.co/7fI2Xsn7l9"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 122,
+                "expanded_url": "https://t.me/whyyoutouzhele_memecoin",
+                "start": 99,
+                "url": "https://t.co/Uao93nfZ79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "torontosquareface.com",
+                "end": 23,
+                "expanded_url": "https://www.torontosquareface.com",
+                "start": 0,
+                "url": "https://t.co/t3lSrmZImQ"
+              }
+            ]
+          }
+        },
+        "id": "1477342523555135490",
+        "location": "乌鲁木齐中路，温哥华",
+        "name": "多伦多方脸",
+        "pinned_tweet_id": "1895795996720091473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581508796845019137/iNF3fAIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688079,
+          "following_count": 252,
+          "like_count": 4034,
+          "listed_count": 2107,
+          "media_count": 4964,
+          "tweet_count": 16407
+        },
+        "url": "https://t.co/t3lSrmZImQ",
+        "username": "torontobigface",
+        "verified": true
+      }
+    ]
+  }
+}

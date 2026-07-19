@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062278520143822849"
+      ],
+      "media_source_tweet_id": [
+        "2062388876782510427"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2062406166844715023",
+    "created_at": "2026-06-04T05:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T06:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062406166844715023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j7H1AQ9qHP",
+          "end": 103,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2062388876782510427/photo/1",
+          "media_key": "3_2062278520143822849",
+          "start": 80,
+          "url": "https://t.co/j7H1AQ9qHP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062406166844715023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062388876782510427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 网友投稿:6月3日，B站的运营私信UP主，要求各位主播严肃注意直播间弹幕，所有2的2倍、3倍、4倍数有关的弹幕不要念。 https://t.co/j7H1AQ9qHP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2062278520143822849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ6vYz0XQAEomkR.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062278520143822849"
+          ],
+          "media_source_tweet_id": [
+            "2062388876782510427"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2062406166844715023",
+        "created_at": "2026-06-04T05:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062406166844715023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7H1AQ9qHP",
+              "end": 103,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2062388876782510427/photo/1",
+              "media_key": "3_2062278520143822849",
+              "start": 80,
+              "url": "https://t.co/j7H1AQ9qHP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062406166844715023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062388876782510427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 网友投稿:6月3日，B站的运营私信UP主，要求各位主播严肃注意直播间弹幕，所有2的2倍、3倍、4倍数有关的弹幕不要念。 https://t.co/j7H1AQ9qHP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062278520143822849"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2062388876782510427",
+        "created_at": "2026-06-04T04:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062388876782510427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7H1AQ9qHP",
+              "end": 83,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2062388876782510427/photo/1",
+              "media_key": "3_2062278520143822849",
+              "start": 60,
+              "url": "https://t.co/j7H1AQ9qHP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062388876782510427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 37865,
+          "like_count": 396,
+          "quote_count": 2,
+          "reply_count": 65,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿:6月3日，B站的运营私信UP主，要求各位主播严肃注意直播间弹幕，所有2的2倍、3倍、4倍数有关的弹幕不要念。 https://t.co/j7H1AQ9qHP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062390090383675392/ildwCzDS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 1719,
+          "like_count": 16324,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 7115
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2234856,
+          "following_count": 1068,
+          "like_count": 9629,
+          "listed_count": 8785,
+          "media_count": 47890,
+          "tweet_count": 55038
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

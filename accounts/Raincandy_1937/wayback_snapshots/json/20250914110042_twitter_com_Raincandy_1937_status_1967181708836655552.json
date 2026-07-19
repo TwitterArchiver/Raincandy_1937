@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967102365032710144",
+        "3_1967102365020155909",
+        "3_1967102365020155912",
+        "3_1967102365032706048"
+      ],
+      "media_source_tweet_id": [
+        "1967102369189294299",
+        "1967102369189294299",
+        "1967102369189294299",
+        "1967102369189294299"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1967181708836655552",
+    "created_at": "2025-09-14T11:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T12:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967181708836655552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1332712954047856641",
+          "start": 3,
+          "username": "xinwendiaocha"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mWnCSNfYyB",
+          "end": 119,
+          "expanded_url": "https://x.com/xinwendiaocha/status/1967102369189294299/photo/1",
+          "media_key": "3_1967102365032710144",
+          "start": 96,
+          "url": "https://t.co/mWnCSNfYyB"
+        },
+        {
+          "display_url": "pic.x.com/mWnCSNfYyB",
+          "end": 119,
+          "expanded_url": "https://x.com/xinwendiaocha/status/1967102369189294299/photo/1",
+          "media_key": "3_1967102365020155909",
+          "start": 96,
+          "url": "https://t.co/mWnCSNfYyB"
+        },
+        {
+          "display_url": "pic.x.com/mWnCSNfYyB",
+          "end": 119,
+          "expanded_url": "https://x.com/xinwendiaocha/status/1967102369189294299/photo/1",
+          "media_key": "3_1967102365020155912",
+          "start": 96,
+          "url": "https://t.co/mWnCSNfYyB"
+        },
+        {
+          "display_url": "pic.x.com/mWnCSNfYyB",
+          "end": 119,
+          "expanded_url": "https://x.com/xinwendiaocha/status/1967102369189294299/photo/1",
+          "media_key": "3_1967102365032706048",
+          "start": 96,
+          "url": "https://t.co/mWnCSNfYyB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967181708836655552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967102369189294299",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xinwendiaocha: 尽管警方排除了于朦胧坠亡事件的刑事嫌疑，但全网网友和粉丝、及明星好友不依不挠，要求北京警方公布调查真相。\n墙内的贴孑容易封，这里的封不了！\n请大家转发！ https://t.co/mWnCSNfYyB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 890,
+        "media_key": "3_1967102365032710144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0yNLcibAAAjQ5w.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1806,
+        "media_key": "3_1967102365020155909",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0yNLcfbcAU7ngn.jpg",
+        "width": 1220
+      },
+      {
+        "height": 525,
+        "media_key": "3_1967102365020155912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0yNLcfbcAgR_ry.jpg",
+        "width": 636
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1967102365032706048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0yNLcia8AAzprm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967102365032710144",
+            "3_1967102365020155909",
+            "3_1967102365020155912",
+            "3_1967102365032706048"
+          ],
+          "media_source_tweet_id": [
+            "1967102369189294299",
+            "1967102369189294299",
+            "1967102369189294299",
+            "1967102369189294299"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1967181708836655552",
+        "created_at": "2025-09-14T11:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T12:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967181708836655552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1332712954047856641",
+              "start": 3,
+              "username": "xinwendiaocha"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mWnCSNfYyB",
+              "end": 119,
+              "expanded_url": "https://x.com/xinwendiaocha/status/1967102369189294299/photo/1",
+              "media_key": "3_1967102365032710144",
+              "start": 96,
+              "url": "https://t.co/mWnCSNfYyB"
+            },
+            {
+              "display_url": "pic.x.com/mWnCSNfYyB",
+              "end": 119,
+              "expanded_url": "https://x.com/xinwendiaocha/status/1967102369189294299/photo/1",
+              "media_key": "3_1967102365020155909",
+              "start": 96,
+              "url": "https://t.co/mWnCSNfYyB"
+            },
+            {
+              "display_url": "pic.x.com/mWnCSNfYyB",
+              "end": 119,
+              "expanded_url": "https://x.com/xinwendiaocha/status/1967102369189294299/photo/1",
+              "media_key": "3_1967102365020155912",
+              "start": 96,
+              "url": "https://t.co/mWnCSNfYyB"
+            },
+            {
+              "display_url": "pic.x.com/mWnCSNfYyB",
+              "end": 119,
+              "expanded_url": "https://x.com/xinwendiaocha/status/1967102369189294299/photo/1",
+              "media_key": "3_1967102365032706048",
+              "start": 96,
+              "url": "https://t.co/mWnCSNfYyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967181708836655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967102369189294299",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xinwendiaocha: 尽管警方排除了于朦胧坠亡事件的刑事嫌疑，但全网网友和粉丝、及明星好友不依不挠，要求北京警方公布调查真相。\n墙内的贴孑容易封，这里的封不了！\n请大家转发！ https://t.co/mWnCSNfYyB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967102365032710144",
+            "3_1967102365020155909",
+            "3_1967102365020155912",
+            "3_1967102365032706048"
+          ]
+        },
+        "author_id": "1332712954047856641",
+        "conversation_id": "1967102369189294299",
+        "created_at": "2025-09-14T05:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T06:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967102369189294299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mWnCSNfYyB",
+              "end": 100,
+              "expanded_url": "https://x.com/xinwendiaocha/status/1967102369189294299/photo/1",
+              "media_key": "3_1967102365032710144",
+              "start": 77,
+              "url": "https://t.co/mWnCSNfYyB"
+            },
+            {
+              "display_url": "pic.x.com/mWnCSNfYyB",
+              "end": 100,
+              "expanded_url": "https://x.com/xinwendiaocha/status/1967102369189294299/photo/1",
+              "media_key": "3_1967102365020155909",
+              "start": 77,
+              "url": "https://t.co/mWnCSNfYyB"
+            },
+            {
+              "display_url": "pic.x.com/mWnCSNfYyB",
+              "end": 100,
+              "expanded_url": "https://x.com/xinwendiaocha/status/1967102369189294299/photo/1",
+              "media_key": "3_1967102365020155912",
+              "start": 77,
+              "url": "https://t.co/mWnCSNfYyB"
+            },
+            {
+              "display_url": "pic.x.com/mWnCSNfYyB",
+              "end": 100,
+              "expanded_url": "https://x.com/xinwendiaocha/status/1967102369189294299/photo/1",
+              "media_key": "3_1967102365032706048",
+              "start": 77,
+              "url": "https://t.co/mWnCSNfYyB"
+            },
+            {
+              "display_url": "x.com/xinwendiaocha/…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/xinwendiaocha/status/1967098978899816474",
+              "start": 101,
+              "url": "https://t.co/XKvI1q6r7R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967102369189294299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 19279,
+          "like_count": 73,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967098978899816474",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尽管警方排除了于朦胧坠亡事件的刑事嫌疑，但全网网友和粉丝、及明星好友不依不挠，要求北京警方公布调查真相。\n墙内的贴孑容易封，这里的封不了！\n请大家转发！ https://t.co/mWnCSNfYyB https://t.co/XKvI1q6r7R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 1325,
+          "like_count": 9964,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 5048
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-28T15:48:33.000Z",
+        "description": "追踪新闻，调查真相！ 投稿、商务合作邮箱：charles811203@gmail.com 蓝天号：https://t.co/jAbho9ANSf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/xinwen…",
+                "end": 72,
+                "expanded_url": "https://bsky.app/profile/xinwendiaocha2025.bsky.social",
+                "start": 49,
+                "url": "https://t.co/jAbho9ANSf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@caijinglengya…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@caijinglengyan?si=c8_FduFeV9Xu3KnO",
+                "start": 0,
+                "url": "https://t.co/7tHKzRuGFb"
+              }
+            ]
+          }
+        },
+        "id": "1332712954047856641",
+        "name": "新闻调查",
+        "pinned_tweet_id": "1967098978899816474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347827975383760896/6aV1UyGk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597304,
+          "following_count": 84,
+          "like_count": 3566,
+          "listed_count": 1572,
+          "media_count": 34456,
+          "tweet_count": 51844
+        },
+        "url": "https://t.co/7tHKzRuGFb",
+        "username": "xinwendiaocha",
+        "verified": true
+      }
+    ]
+  }
+}

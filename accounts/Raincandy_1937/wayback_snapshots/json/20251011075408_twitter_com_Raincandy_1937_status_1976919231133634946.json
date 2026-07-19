@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1976561871936438741",
+    "created_at": "2025-10-11T07:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T08:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976919231133634946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1581478431274983424",
+          "start": 0,
+          "username": "zhoynqi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976919231133634946",
+    "in_reply_to_user_id": "1581478431274983424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976561871936438741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhoynqi3 我更想扮演一个独立自主的人，无论是笃，俄洛伊还是艾比，艾莉，她们都让我感受到了开发者投注的心血与让她们作为人生存下去的心境，这一点是那些沉沦在男本位享乐当中的所谓“玩家”无法理解的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1976561871936438741",
+        "created_at": "2025-10-11T07:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T08:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976919231133634946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1581478431274983424",
+              "start": 0,
+              "username": "zhoynqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976919231133634946",
+        "in_reply_to_user_id": "1581478431274983424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976561871936438741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoynqi3 我更想扮演一个独立自主的人，无论是笃，俄洛伊还是艾比，艾莉，她们都让我感受到了开发者投注的心血与让她们作为人生存下去的心境，这一点是那些沉沦在男本位享乐当中的所谓“玩家”无法理解的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581478431274983424",
+        "conversation_id": "1976561871936438741",
+        "created_at": "2025-10-10T08:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T09:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976561871936438741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mrphillipchan/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/mrphillipchan/status/1976006553049366943",
+              "start": 10,
+              "url": "https://t.co/jdJxwGuklY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976561871936438741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4408,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976006553049366943",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "右边看起来舒服多了 https://t.co/jdJxwGuklY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 1380,
+          "like_count": 10679,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 5250
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "yo89yo64",
+        "pinned_tweet_id": "1976511377679487385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672979337656631298/mQbOFn-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2748,
+          "following_count": 162,
+          "like_count": 22005,
+          "listed_count": 11,
+          "media_count": 189,
+          "tweet_count": 5176
+        },
+        "username": "zhoynqi3",
+        "verified": false
+      }
+    ]
+  }
+}

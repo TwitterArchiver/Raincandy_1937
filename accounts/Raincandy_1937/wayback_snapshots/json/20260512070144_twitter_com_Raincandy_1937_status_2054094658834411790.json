@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2054094658834411790",
+    "created_at": "2026-05-12T07:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T08:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054094658834411790"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ebihimes/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/ebihimes/status/2053495428843250098",
+          "start": 14,
+          "url": "https://t.co/T6IIu0Hx3x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054094658834411790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053495428843250098",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家喜歡粉x金還是粉x黑（ https://t.co/T6IIu0Hx3x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2053494542779785219",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH96aCKXoAMZAP4.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1050,
+        "media_key": "3_2053495302548504585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH97GQhWQAk1NPY.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2054094658834411790",
+        "created_at": "2026-05-12T07:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T08:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054094658834411790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ebihimes/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/ebihimes/status/2053495428843250098",
+              "start": 14,
+              "url": "https://t.co/T6IIu0Hx3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054094658834411790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053495428843250098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家喜歡粉x金還是粉x黑（ https://t.co/T6IIu0Hx3x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053494542779785219",
+            "3_2053495302548504585"
+          ]
+        },
+        "author_id": "3087919210",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053495428843250098",
+        "created_at": "2026-05-10T15:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053495428843250098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QkBAdLwROk",
+              "end": 65,
+              "expanded_url": "https://x.com/ebihimes/status/2053495428843250098/photo/1",
+              "media_key": "3_2053494542779785219",
+              "start": 42,
+              "url": "https://t.co/QkBAdLwROk"
+            },
+            {
+              "display_url": "pic.x.com/QkBAdLwROk",
+              "end": 65,
+              "expanded_url": "https://x.com/ebihimes/status/2053495428843250098/photo/1",
+              "media_key": "3_2053495302548504585",
+              "start": 42,
+              "url": "https://t.co/QkBAdLwROk"
+            },
+            {
+              "display_url": "x.com/Elea_Sunshine/…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/Elea_Sunshine/status/2052948651945906424",
+              "start": 66,
+              "url": "https://t.co/7Yg9OCIH50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053495428843250098",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2556,
+          "impression_count": 259289,
+          "like_count": 11439,
+          "quote_count": 53,
+          "reply_count": 28,
+          "retweet_count": 892
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052948651945906424",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "straight people: i love you \n\ngay people: https://t.co/QkBAdLwROk https://t.co/7Yg9OCIH50"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 1645,
+          "like_count": 15056,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 6756
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-12T03:39:56.000Z",
+        "description": "(she/her) I'm ebi-hime & I write VNs inc. Blackberry Honey & Sweetest Monster\ndiscord: https://t.co/7Mb1AhimVM / email: ebihimes@gmail.com / ♥ @yuzukimasu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 143,
+                "username": "yuzukimasu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/5swZWV8fzU",
+                "end": 110,
+                "expanded_url": "https://discord.gg/5swZWV8fzU",
+                "start": 87,
+                "url": "https://t.co/7Mb1AhimVM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ebihime.carrd.co",
+                "end": 23,
+                "expanded_url": "https://ebihime.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/lyvVmaYLeZ"
+              }
+            ]
+          }
+        },
+        "id": "3087919210",
+        "location": "░Y░U░E░L░I░N░B░I░O░",
+        "name": "✨🦐 ebi 🦐✨",
+        "pinned_tweet_id": "2052609207862730819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/945891661871161344/1aND2Qip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26655,
+          "following_count": 369,
+          "like_count": 20009,
+          "listed_count": 83,
+          "media_count": 3865,
+          "tweet_count": 23520
+        },
+        "url": "https://t.co/lyvVmaYLeZ",
+        "username": "ebihimes",
+        "verified": false
+      }
+    ]
+  }
+}

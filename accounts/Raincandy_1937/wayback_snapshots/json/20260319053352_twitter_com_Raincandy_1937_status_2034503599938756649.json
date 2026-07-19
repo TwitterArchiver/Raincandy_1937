@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2034220014840979790",
+    "created_at": "2026-03-19T05:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T06:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034503599938756649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1679397205180915713",
+          "start": 0,
+          "username": "wanghui90"
+        },
+        {
+          "end": 19,
+          "id": "282295901",
+          "start": 11,
+          "username": "danzwku"
+        },
+        {
+          "end": 31,
+          "id": "1841327709190070272",
+          "start": 20,
+          "username": "UnbrokenKR"
+        },
+        {
+          "end": 45,
+          "id": "1382208963454844928",
+          "start": 32,
+          "username": "defend_north"
+        },
+        {
+          "end": 59,
+          "id": "1416796477569994753",
+          "start": 46,
+          "username": "yangshouyang"
+        },
+        {
+          "end": 71,
+          "id": "4148621113",
+          "start": 60,
+          "username": "softwarnet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034503599938756649",
+    "in_reply_to_user_id": "1679397205180915713",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034220014840979790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanghui90 @danzwku @UnbrokenKR @defend_north @yangshouyang @softwarnet That red regime should disappear from the world; no innocent person should be born to be its slave."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 617,
+        "media_key": "3_2034220012307730434",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDsAUsyX0AIDpx-.jpg",
+        "width": 513
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2034220014840979790",
+        "created_at": "2026-03-19T05:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T06:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034503599938756649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1679397205180915713",
+              "start": 0,
+              "username": "wanghui90"
+            },
+            {
+              "end": 19,
+              "id": "282295901",
+              "start": 11,
+              "username": "danzwku"
+            },
+            {
+              "end": 31,
+              "id": "1841327709190070272",
+              "start": 20,
+              "username": "UnbrokenKR"
+            },
+            {
+              "end": 45,
+              "id": "1382208963454844928",
+              "start": 32,
+              "username": "defend_north"
+            },
+            {
+              "end": 59,
+              "id": "1416796477569994753",
+              "start": 46,
+              "username": "yangshouyang"
+            },
+            {
+              "end": 71,
+              "id": "4148621113",
+              "start": 60,
+              "username": "softwarnet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034503599938756649",
+        "in_reply_to_user_id": "1679397205180915713",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034220014840979790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanghui90 @danzwku @UnbrokenKR @defend_north @yangshouyang @softwarnet That red regime should disappear from the world; no innocent person should be born to be its slave."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034220012307730434"
+          ]
+        },
+        "author_id": "1679397205180915713",
+        "conversation_id": "2034220014840979790",
+        "created_at": "2026-03-18T10:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T11:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034220014840979790"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "MadeInChina",
+              "probability": 0.5019,
+              "start": 16,
+              "type": "Place"
+            },
+            {
+              "end": 89,
+              "normalized_text": "CCP",
+              "probability": 0.4488,
+              "start": 87,
+              "type": "Organization"
+            },
+            {
+              "end": 171,
+              "normalized_text": "CCP",
+              "probability": 0.5272,
+              "start": 169,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 15,
+              "tag": "MadeInChina"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 182,
+              "id": "282295901",
+              "start": 174,
+              "username": "danzwku"
+            },
+            {
+              "end": 194,
+              "id": "1841327709190070272",
+              "start": 183,
+              "username": "UnbrokenKR"
+            },
+            {
+              "end": 208,
+              "id": "1382208963454844928",
+              "start": 195,
+              "username": "defend_north"
+            },
+            {
+              "end": 222,
+              "id": "1416796477569994753",
+              "start": 209,
+              "username": "yangshouyang"
+            },
+            {
+              "end": 234,
+              "id": "4148621113",
+              "start": 223,
+              "username": "softwarnet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TK0NU8bowp",
+              "end": 258,
+              "expanded_url": "https://x.com/wanghui90/status/2034220014840979790/photo/1",
+              "media_key": "3_2034220012307730434",
+              "start": 235,
+              "url": "https://t.co/TK0NU8bowp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034220014840979790",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2987,
+          "like_count": 78,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "Definitely not #MadeInChina.\n\nThe legit Chinese territory is way smaller than what the CCP shows in its propaganda-infused maps.\n\nIs spreading lies a core policy of the CCP? @danzwku @UnbrokenKR @defend_north @yangshouyang @softwarnet https://t.co/TK0NU8bowp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 1580,
+          "like_count": 13864,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 6412
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T07:48:29.000Z",
+        "description": "Independent Taiwan / Pro-Democracy / Actions Speak Louder Than Words, proud taiwanese",
+        "id": "1679397205180915713",
+        "name": "Wang Hui",
+        "pinned_tweet_id": "2032001978721845310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679399667241570309/RD-cLrOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1410,
+          "following_count": 2383,
+          "like_count": 1480,
+          "listed_count": 21,
+          "media_count": 615,
+          "tweet_count": 3278
+        },
+        "username": "wanghui90",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-14T23:11:59.000Z",
+        "description": "Chinese-Taiwanese-Canadian\n\nbcuz not every Taiwanese is of Han/Chinese descent\n\n& not every Chinese supports the PRC 🇨🇳 \n\nRT/like/follow 🚫 endorsement",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/danielku118",
+                "end": 23,
+                "expanded_url": "http://youtube.com/danielku118",
+                "start": 0,
+                "url": "https://t.co/NDvQgy56ut"
+              }
+            ]
+          }
+        },
+        "id": "282295901",
+        "name": "Daniel Ku 顧仲文 🇹🇼🇨🇦",
+        "pinned_tweet_id": "1573493921568927746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1125107759240712192/sBMuEo_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3931,
+          "following_count": 7187,
+          "like_count": 73150,
+          "listed_count": 28,
+          "media_count": 2958,
+          "tweet_count": 59113
+        },
+        "url": "https://t.co/NDvQgy56ut",
+        "username": "danzwku",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-02T04:02:19.000Z",
+        "description": "🇰🇷🇺🇸🇯🇵 ROK–U.S.–Japan Alliance\n                       🗳️ Restore Election Integrity                    👊\nYoon Again ✨️ Pro-Trump",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "election-fraud.com/iemt",
+                "end": 23,
+                "expanded_url": "http://www.election-fraud.com/iemt",
+                "start": 0,
+                "url": "https://t.co/RoMoMm7td5"
+              }
+            ]
+          }
+        },
+        "id": "1841327709190070272",
+        "name": "YetAgain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032939051221921793/Zz-R8Hxb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3574,
+          "following_count": 3056,
+          "like_count": 69073,
+          "listed_count": 4,
+          "media_count": 629,
+          "tweet_count": 10738
+        },
+        "url": "https://t.co/RoMoMm7td5",
+        "username": "UnbrokenKR",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-14T05:50:27.000Z",
+        "description": "I HATE LIARS; INDEED BLOCKED BY 🇨🇳GLOBAL TIMES. CHINA'S🇨🇳 SEA CLAIMS FAKE NEWS OF THE CENTURY. I STAND ON FREEDOM AND DEMOCRACY. A ROMAN CATHOLIC.",
+        "id": "1382208963454844928",
+        "name": "Patriot PH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030414804410908672/QRRbnqaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 2552,
+          "like_count": 85734,
+          "listed_count": 1,
+          "media_count": 13167,
+          "tweet_count": 84146
+        },
+        "username": "defend_north",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-18T16:27:48.000Z",
+        "description": "“In a time of universal deceit - telling the truth is a revolutionary act.” \n\n- George Orwell",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "drive.google.com/file/d/1KDLy2S…",
+                "end": 23,
+                "expanded_url": "https://drive.google.com/file/d/1KDLy2ShNNdRiqfIN5v6jcRNo4L4XbgJw/view?pli=1",
+                "start": 0,
+                "url": "https://t.co/go1jzTQM7A"
+              }
+            ]
+          }
+        },
+        "id": "1416796477569994753",
+        "location": "中国浙江",
+        "name": "杨守样",
+        "pinned_tweet_id": "2030780847532450146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1493614062818959363/14QMTvU0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 246,
+          "like_count": 55965,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 78344
+        },
+        "url": "https://t.co/go1jzTQM7A",
+        "username": "yangshouyang",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-06T18:05:22.000Z",
+        "description": "QUAD A-10 staff, former journalist, author, expert encryption security programmer, developed Quantum based encryption using light.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "softwar.net",
+                "end": 23,
+                "expanded_url": "http://www.softwar.net",
+                "start": 0,
+                "url": "https://t.co/20cmx4SbOl"
+              }
+            ]
+          }
+        },
+        "id": "4148621113",
+        "location": "Richmond, VA",
+        "name": "Charles R. Smith🔹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676986688508252160/8Ydv8f-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10179,
+          "following_count": 706,
+          "like_count": 133305,
+          "listed_count": 9,
+          "media_count": 118101,
+          "tweet_count": 331381
+        },
+        "url": "https://t.co/20cmx4SbOl",
+        "username": "softwarnet",
+        "verified": true
+      }
+    ]
+  }
+}

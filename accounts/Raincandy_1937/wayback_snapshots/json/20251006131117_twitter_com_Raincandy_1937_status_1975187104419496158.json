@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1975187104419496158",
+    "created_at": "2025-10-06T13:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T14:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975187104419496158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1493107305402888192",
+          "start": 3,
+          "username": "nononin08292082"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975187104419496158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975003475147980885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nononin08292082: 力工是啥？天天出新词，牠算什么力工？想结婚，干过一毛家务吗？煮过一餐饭吗？小个便连水都不冲手也不洗，能干好什么工？结婚的钱也赚不到，不是靠虜蛆供养90%的莮没那个能力结婚。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1975187104419496158",
+        "created_at": "2025-10-06T13:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T14:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975187104419496158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1493107305402888192",
+              "start": 3,
+              "username": "nononin08292082"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975187104419496158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975003475147980885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nononin08292082: 力工是啥？天天出新词，牠算什么力工？想结婚，干过一毛家务吗？煮过一餐饭吗？小个便连水都不冲手也不洗，能干好什么工？结婚的钱也赚不到，不是靠虜蛆供养90%的莮没那个能力结婚。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493107305402888192",
+        "conversation_id": "1975003475147980885",
+        "created_at": "2025-10-06T01:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T02:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975003475147980885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaojingcanxue…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/xiaojingcanxue/status/1974508933000929671",
+              "start": 87,
+              "url": "https://t.co/qgdpKmBnIa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975003475147980885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1650,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974508933000929671",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "力工是啥？天天出新词，牠算什么力工？想结婚，干过一毛家务吗？煮过一餐饭吗？小个便连水都不冲手也不洗，能干好什么工？结婚的钱也赚不到，不是靠虜蛆供养90%的莮没那个能力结婚。 https://t.co/qgdpKmBnIa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 1369,
+          "like_count": 10600,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 5230
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-14T06:19:04.000Z",
+        "description": "",
+        "id": "1493107305402888192",
+        "name": "no",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1493107506293346304/g22QYDdD_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 421,
+          "like_count": 17693,
+          "listed_count": 4,
+          "media_count": 31,
+          "tweet_count": 2332
+        },
+        "username": "nononin08292082",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1942444091007996337",
+    "created_at": "2025-07-08T04:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T05:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942444091007996337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688397365336850432",
+          "start": 3,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942444091007996337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942249106870784021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hongpigu980: 红大爷事件警示女性，我们守的不是妇道，守的是HPV，梅毒，艾滋病，性病，宫颈癌等各种脏男"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1942444091007996337",
+        "created_at": "2025-07-08T04:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T05:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942444091007996337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688397365336850432",
+              "start": 3,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942444091007996337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942249106870784021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hongpigu980: 红大爷事件警示女性，我们守的不是妇道，守的是HPV，梅毒，艾滋病，性病，宫颈癌等各种脏男"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688397365336850432",
+        "conversation_id": "1942249106870784021",
+        "created_at": "2025-07-07T15:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T16:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942249106870784021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942249106870784021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 131125,
+          "like_count": 1073,
+          "quote_count": 5,
+          "reply_count": 54,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "红大爷事件警示女性，我们守的不是妇道，守的是HPV，梅毒，艾滋病，性病，宫颈癌等各种脏男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 1216,
+          "like_count": 9150,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 4724
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1939656969788551526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54344,
+          "following_count": 45,
+          "like_count": 51,
+          "listed_count": 45,
+          "media_count": 672,
+          "tweet_count": 850
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

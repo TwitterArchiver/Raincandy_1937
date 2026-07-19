@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988006126504321024"
+      ],
+      "media_source_tweet_id": [
+        "1988006128945688839"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1988107067870302337",
+    "created_at": "2025-11-11T04:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T05:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988107067870302337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1363489029430403073",
+          "start": 3,
+          "username": "5cmdkOARZbuaVAG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oFRPFHXfnp",
+          "end": 103,
+          "expanded_url": "https://x.com/5cmdkOARZbuaVAG/status/1988006128945688839/photo/1",
+          "media_key": "3_1988006126504321024",
+          "start": 80,
+          "url": "https://t.co/oFRPFHXfnp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988107067870302337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988006128945688839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5cmdkOARZbuaVAG: 🤣👍这个目标真的一点也不激进，全是男权社会这几千年一直对女人干的事，女人只是想以男性为榜样，跟着有样学样而已🤷‍♀️ https://t.co/oFRPFHXfnp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1988006126504321024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5bRCgWXIAA4duC.jpg",
+        "width": 527
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988006126504321024"
+          ],
+          "media_source_tweet_id": [
+            "1988006128945688839"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1988107067870302337",
+        "created_at": "2025-11-11T04:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T05:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988107067870302337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1363489029430403073",
+              "start": 3,
+              "username": "5cmdkOARZbuaVAG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oFRPFHXfnp",
+              "end": 103,
+              "expanded_url": "https://x.com/5cmdkOARZbuaVAG/status/1988006128945688839/photo/1",
+              "media_key": "3_1988006126504321024",
+              "start": 80,
+              "url": "https://t.co/oFRPFHXfnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988107067870302337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988006128945688839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5cmdkOARZbuaVAG: 🤣👍这个目标真的一点也不激进，全是男权社会这几千年一直对女人干的事，女人只是想以男性为榜样，跟着有样学样而已🤷‍♀️ https://t.co/oFRPFHXfnp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988006126504321024"
+          ]
+        },
+        "author_id": "1363489029430403073",
+        "conversation_id": "1988006128945688839",
+        "created_at": "2025-11-10T22:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T23:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988006128945688839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oFRPFHXfnp",
+              "end": 82,
+              "expanded_url": "https://x.com/5cmdkOARZbuaVAG/status/1988006128945688839/photo/1",
+              "media_key": "3_1988006126504321024",
+              "start": 59,
+              "url": "https://t.co/oFRPFHXfnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988006128945688839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1486,
+          "like_count": 90,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "🤣👍这个目标真的一点也不激进，全是男权社会这几千年一直对女人干的事，女人只是想以男性为榜样，跟着有样学样而已🤷‍♀️ https://t.co/oFRPFHXfnp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981300664668917760/a0dxEGOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 1438,
+          "like_count": 11648,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 5510
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T14:02:24.000Z",
+        "description": "Es ist ein Segen für dich, mich zu kennen, und es ist auch deine Vergeltung.  \n👸“我”本位。\n女巫“三倍定律”：无论你给予我任何，我必将三倍奉还。\n不完全统计99%的男的都是蠢货，挨骂是必然。来吧，向我证明你是那1%",
+        "id": "1363489029430403073",
+        "name": "Wilde Hexe",
+        "pinned_tweet_id": "1955747936601825626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889719360555474945/DKKl6W8p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4251,
+          "following_count": 448,
+          "like_count": 95619,
+          "listed_count": 25,
+          "media_count": 2289,
+          "tweet_count": 50177
+        },
+        "username": "5cmdkOARZbuaVAG",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1904360940688351268",
+    "created_at": "2025-03-25T02:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T03:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1904360940688351268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yingxue2074780…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/yingxue20747802/status/1903740869427245085",
+          "start": 8,
+          "url": "https://t.co/OsOvm1U9EX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904360940688351268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903740869427245085",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是哪个👉🏻👈🏻 https://t.co/OsOvm1U9EX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 948,
+        "media_key": "3_1903740866814226432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmtyO17bMAAI2-F.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1904360940688351268",
+        "created_at": "2025-03-25T02:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T03:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904360940688351268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yingxue2074780…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/yingxue20747802/status/1903740869427245085",
+              "start": 8,
+              "url": "https://t.co/OsOvm1U9EX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904360940688351268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903740869427245085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是哪个👉🏻👈🏻 https://t.co/OsOvm1U9EX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903740866814226432"
+          ]
+        },
+        "author_id": "1652582280974708736",
+        "conversation_id": "1903740869427245085",
+        "created_at": "2025-03-23T09:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T10:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903740869427245085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dyS60OOVMU",
+              "end": 29,
+              "expanded_url": "https://x.com/yingxue20747802/status/1903740869427245085/photo/1",
+              "media_key": "3_1903740866814226432",
+              "start": 6,
+              "url": "https://t.co/dyS60OOVMU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903740869427245085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 15273,
+          "like_count": 109,
+          "quote_count": 6,
+          "reply_count": 49,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "是哪个👉👈 https://t.co/dyS60OOVMU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 937,
+          "like_count": 6891,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 3597
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T07:55:02.000Z",
+        "description": "对我不友善的替我挡灾！\n\n这里是简介，我可以打广告吗？（广告位招租）←假嘟~就算你给我钱也不会打广告喔（除非你给的太多啦！）\n\n文学少女📖 │ les-ppl │ 退役魔法少女🪄（尊嘟）│ 美食生活岁静日常推 │ 聪明的笨蛋 │ 愿我，也愿你能一而再，再而三，三而不竭，千次万次毫不犹豫地救自己于这世间水火之中",
+        "id": "1652582280974708736",
+        "location": "霍格沃茨",
+        "name": "樱雪（退役魔法少女） 🍜🍔🍱🍇🍰🍒🍓🍟🍧",
+        "pinned_tweet_id": "1887136773245190229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846140890232102912/ExumaWMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33129,
+          "following_count": 79,
+          "like_count": 71024,
+          "listed_count": 38,
+          "media_count": 2717,
+          "tweet_count": 11640
+        },
+        "username": "yingxue20747802",
+        "verified": false
+      }
+    ]
+  }
+}

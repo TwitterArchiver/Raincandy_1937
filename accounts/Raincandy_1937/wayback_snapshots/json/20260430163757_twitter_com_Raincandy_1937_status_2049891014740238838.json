@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049835035734462464"
+      ],
+      "media_source_tweet_id": [
+        "2049835041552015833"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2049891014740238838",
+    "created_at": "2026-04-30T16:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T17:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049891014740238838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1575765089030139905",
+          "start": 3,
+          "username": "wodanggangqiang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W4Grd7DGJm",
+          "end": 57,
+          "expanded_url": "https://x.com/wodanggangqiang/status/2049835041552015833/photo/1",
+          "media_key": "3_2049835035734462464",
+          "start": 34,
+          "url": "https://t.co/W4Grd7DGJm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049891014740238838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049835041552015833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wodanggangqiang: 发声有用，不要放弃发声。 https://t.co/W4Grd7DGJm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049835035734462464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJ6GsEaUAAfZpL.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049835035734462464"
+          ],
+          "media_source_tweet_id": [
+            "2049835041552015833"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2049891014740238838",
+        "created_at": "2026-04-30T16:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049891014740238838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1575765089030139905",
+              "start": 3,
+              "username": "wodanggangqiang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W4Grd7DGJm",
+              "end": 57,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2049835041552015833/photo/1",
+              "media_key": "3_2049835035734462464",
+              "start": 34,
+              "url": "https://t.co/W4Grd7DGJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049891014740238838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049835041552015833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wodanggangqiang: 发声有用，不要放弃发声。 https://t.co/W4Grd7DGJm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049835035734462464"
+          ]
+        },
+        "author_id": "1575765089030139905",
+        "conversation_id": "2049835041552015833",
+        "created_at": "2026-04-30T12:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049835041552015833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W4Grd7DGJm",
+              "end": 36,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2049835041552015833/photo/1",
+              "media_key": "3_2049835035734462464",
+              "start": 13,
+              "url": "https://t.co/W4Grd7DGJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049835041552015833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5197,
+          "like_count": 512,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "发声有用，不要放弃发声。 https://t.co/W4Grd7DGJm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 1614,
+          "like_count": 14553,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 6668
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28851,
+          "following_count": 558,
+          "like_count": 35125,
+          "listed_count": 90,
+          "media_count": 9942,
+          "tweet_count": 27215
+        },
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

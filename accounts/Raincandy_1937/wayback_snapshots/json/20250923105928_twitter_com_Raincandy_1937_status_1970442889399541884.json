@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970093965660577792"
+      ],
+      "media_source_tweet_id": [
+        "1970093968223547795"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1970442889399541884",
+    "created_at": "2025-09-23T10:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T11:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970442889399541884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1353169870691549184",
+          "start": 3,
+          "username": "iPaulCanada"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UV2CrBZFFE",
+          "end": 67,
+          "expanded_url": "https://x.com/iPaulCanada/status/1970093968223547795/photo/1",
+          "media_key": "3_1970093965660577792",
+          "start": 44,
+          "url": "https://t.co/UV2CrBZFFE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970442889399541884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970093968223547795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iPaulCanada: 过来人都知道，中国人压力最小的，其实是上大学那4年。 https://t.co/UV2CrBZFFE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 484,
+        "media_key": "3_1970093965660577792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1cuBhVW4AA9bBg.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970093965660577792"
+          ],
+          "media_source_tweet_id": [
+            "1970093968223547795"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1970442889399541884",
+        "created_at": "2025-09-23T10:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T11:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970442889399541884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353169870691549184",
+              "start": 3,
+              "username": "iPaulCanada"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UV2CrBZFFE",
+              "end": 67,
+              "expanded_url": "https://x.com/iPaulCanada/status/1970093968223547795/photo/1",
+              "media_key": "3_1970093965660577792",
+              "start": 44,
+              "url": "https://t.co/UV2CrBZFFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970442889399541884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970093968223547795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iPaulCanada: 过来人都知道，中国人压力最小的，其实是上大学那4年。 https://t.co/UV2CrBZFFE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970093965660577792"
+          ]
+        },
+        "author_id": "1353169870691549184",
+        "conversation_id": "1970093968223547795",
+        "created_at": "2025-09-22T11:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T12:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970093968223547795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UV2CrBZFFE",
+              "end": 50,
+              "expanded_url": "https://x.com/iPaulCanada/status/1970093968223547795/photo/1",
+              "media_key": "3_1970093965660577792",
+              "start": 27,
+              "url": "https://t.co/UV2CrBZFFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970093968223547795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 157883,
+          "like_count": 1183,
+          "quote_count": 10,
+          "reply_count": 38,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "过来人都知道，中国人压力最小的，其实是上大学那4年。 https://t.co/UV2CrBZFFE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 1346,
+          "like_count": 10216,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 5129
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T02:37:27.000Z",
+        "description": "自由万岁",
+        "id": "1353169870691549184",
+        "location": "Canada",
+        "name": "iPaul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353172142502809601/a03iLOp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141239,
+          "following_count": 507,
+          "like_count": 7511,
+          "listed_count": 585,
+          "media_count": 9739,
+          "tweet_count": 16089
+        },
+        "username": "iPaulCanada",
+        "verified": true
+      }
+    ]
+  }
+}

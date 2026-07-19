@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970536571016486913",
+        "3_1970536571373002753",
+        "3_1970536573713420288"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1234945774347112448",
+          "name": "VALORANT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1234945774347112448",
+          "name": "VALORANT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898252936970260",
+          "name": "Free-to-play games"
+        }
+      }
+    ],
+    "conversation_id": "1970536577052090641",
+    "created_at": "2025-09-23T17:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T18:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970536577052090641"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HL2ohIfoAu",
+          "end": 151,
+          "expanded_url": "https://x.com/Raincandy_1937/status/1970536577052090641/photo/1",
+          "media_key": "3_1970536571016486913",
+          "start": 128,
+          "url": "https://t.co/HL2ohIfoAu"
+        },
+        {
+          "display_url": "pic.x.com/HL2ohIfoAu",
+          "end": 151,
+          "expanded_url": "https://x.com/Raincandy_1937/status/1970536577052090641/photo/1",
+          "media_key": "3_1970536571373002753",
+          "start": 128,
+          "url": "https://t.co/HL2ohIfoAu"
+        },
+        {
+          "display_url": "pic.x.com/HL2ohIfoAu",
+          "end": 151,
+          "expanded_url": "https://x.com/Raincandy_1937/status/1970536577052090641/photo/1",
+          "media_key": "3_1970536573713420288",
+          "start": 128,
+          "url": "https://t.co/HL2ohIfoAu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970536577052090641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天回顾了曾经的乐子动画《我们的雨色协议》，惊觉其中主角们玩的游戏虽然在地图和角色上像是《Valorant》的粗劣复制，但在画风上居然有那么点上古老物CS Neo的味道🫣\n图三是CS Neo的画风，这游戏是街机多人对战类的FPS，我一直以为是视觉小说来着 https://t.co/HL2ohIfoAu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 415,
+        "media_key": "3_1970536571016486913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1jAkixaoAEtosb.jpg",
+        "width": 739
+      },
+      {
+        "height": 576,
+        "media_key": "3_1970536571373002753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1jAkkGaoAEOhGm.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1008,
+        "media_key": "3_1970536573713420288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1jAks0akAAdCJs.jpg",
+        "width": 2244
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970536571016486913",
+            "3_1970536571373002753",
+            "3_1970536573713420288"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          }
+        ],
+        "conversation_id": "1970536577052090641",
+        "created_at": "2025-09-23T17:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T18:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970536577052090641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HL2ohIfoAu",
+              "end": 151,
+              "expanded_url": "https://x.com/Raincandy_1937/status/1970536577052090641/photo/1",
+              "media_key": "3_1970536571016486913",
+              "start": 128,
+              "url": "https://t.co/HL2ohIfoAu"
+            },
+            {
+              "display_url": "pic.x.com/HL2ohIfoAu",
+              "end": 151,
+              "expanded_url": "https://x.com/Raincandy_1937/status/1970536577052090641/photo/1",
+              "media_key": "3_1970536571373002753",
+              "start": 128,
+              "url": "https://t.co/HL2ohIfoAu"
+            },
+            {
+              "display_url": "pic.x.com/HL2ohIfoAu",
+              "end": 151,
+              "expanded_url": "https://x.com/Raincandy_1937/status/1970536577052090641/photo/1",
+              "media_key": "3_1970536573713420288",
+              "start": 128,
+              "url": "https://t.co/HL2ohIfoAu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970536577052090641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天回顾了曾经的乐子动画《我们的雨色协议》，惊觉其中主角们玩的游戏虽然在地图和角色上像是《Valorant》的粗劣复制，但在画风上居然有那么点上古老物CS Neo的味道🫣\n图三是CS Neo的画风，这游戏是街机多人对战类的FPS，我一直以为是视觉小说来着 https://t.co/HL2ohIfoAu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 1351,
+          "like_count": 10242,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 5136
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

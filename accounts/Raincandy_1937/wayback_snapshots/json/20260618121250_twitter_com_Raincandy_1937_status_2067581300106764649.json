@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2067529252761674086",
+    "created_at": "2026-06-18T12:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067581300106764649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1993126165276418048",
+          "start": 0,
+          "username": "bosveryaaaaaaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067581300106764649",
+    "in_reply_to_user_id": "1993126165276418048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067529252761674086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bosveryaaaaaaaa 2的（16-4）次方\n说实话，我也很想知道它到底是多少\n如果这是我的账户余额就好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 635,
+        "media_key": "3_2067529247594315776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFW5X2XAAAKHfg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2067529252761674086",
+        "created_at": "2026-06-18T12:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067581300106764649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1993126165276418048",
+              "start": 0,
+              "username": "bosveryaaaaaaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067581300106764649",
+        "in_reply_to_user_id": "1993126165276418048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067529252761674086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bosveryaaaaaaaa 2的（16-4）次方\n说实话，我也很想知道它到底是多少\n如果这是我的账户余额就好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067529247594315776"
+          ]
+        },
+        "author_id": "1993126165276418048",
+        "conversation_id": "2067529252761674086",
+        "created_at": "2026-06-18T08:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067529252761674086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2hEjQ9BKol",
+              "end": 108,
+              "expanded_url": "https://x.com/bosveryaaaaaaaa/status/2067529252761674086/photo/1",
+              "media_key": "3_2067529247594315776",
+              "start": 85,
+              "url": "https://t.co/2hEjQ9BKol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067529252761674086",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 30455,
+          "like_count": 347,
+          "quote_count": 1,
+          "reply_count": 214,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "hesap makinesi kullanmadan bu işlemi çözebilecek misin ?\n\nDoğru cevap sizce kaçtır ? https://t.co/2hEjQ9BKol"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 1760,
+          "like_count": 16800,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 7323
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T01:15:39.000Z",
+        "description": "𝒓𝒆𝒌𝒍𝒂𝒎  &  𝒊̇𝒔̧ 𝒃𝒊𝒓𝒍𝒊𝒈̆𝒊  𝒊𝒄̧𝒊𝒏  𝒅𝒎  💌",
+        "id": "1993126165276418048",
+        "location": "@son1imkan Powerpuff 🪄✨ 💗🤍",
+        "name": "Boşverme",
+        "pinned_tweet_id": "2067529252761674086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057419201493471232/rzDIacZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4763,
+          "following_count": 3145,
+          "like_count": 24561,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 3367
+        },
+        "username": "bosveryaaaaaaaa",
+        "verified": true
+      }
+    ]
+  }
+}

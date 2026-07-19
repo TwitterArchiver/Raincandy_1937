@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967103744056950784"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1966996817671057794",
+    "created_at": "2025-09-14T05:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T06:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967103747424960842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879395690230738944",
+          "start": 0,
+          "username": "CuteKittenO3O"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZcXboPRlJp",
+          "end": 64,
+          "expanded_url": "https://x.com/Raincandy_1937/status/1967103747424960842/photo/1",
+          "media_key": "3_1967103744056950784",
+          "start": 41,
+          "url": "https://t.co/ZcXboPRlJp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967103747424960842",
+    "in_reply_to_user_id": "1879395690230738944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966996817671057794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuteKittenO3O 只有粉红是支那人——支持阿共图纸，完美的逻辑闭环😼 https://t.co/ZcXboPRlJp"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1966996817671057794].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1966996817671057794",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1966996817671057794"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1220,
+        "media_key": "3_1967103744056950784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0yObtzbAAA4lTz.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967103744056950784"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1966996817671057794",
+        "created_at": "2025-09-14T05:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T06:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967103747424960842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879395690230738944",
+              "start": 0,
+              "username": "CuteKittenO3O"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZcXboPRlJp",
+              "end": 64,
+              "expanded_url": "https://x.com/Raincandy_1937/status/1967103747424960842/photo/1",
+              "media_key": "3_1967103744056950784",
+              "start": 41,
+              "url": "https://t.co/ZcXboPRlJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967103747424960842",
+        "in_reply_to_user_id": "1879395690230738944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966996817671057794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuteKittenO3O 只有粉红是支那人——支持阿共图纸，完美的逻辑闭环😼 https://t.co/ZcXboPRlJp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 1317,
+          "like_count": 9892,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 5027
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "𝓢𝓬𝓲𝓮𝓷𝓽𝓲𝓼𝓽 | 𝓟𝓱𝓲𝓵𝓸𝓼𝓸𝓹𝓱𝓮𝓻 | 𝓛𝓪𝓫 𝓡𝓪𝓽｜🍧:@Chufeinya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Chufeinya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/6thcutek1tten1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/6thcutek1tten1",
+                "start": 0,
+                "url": "https://t.co/nRpYRqPS2U"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "name": "小猫",
+        "pinned_tweet_id": "1960304514504044996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964380508445679616/vaBwEQUe_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 532,
+          "like_count": 12315,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 5231
+        },
+        "url": "https://t.co/nRpYRqPS2U",
+        "username": "CuteKittenO3O",
+        "verified": false
+      }
+    ]
+  }
+}

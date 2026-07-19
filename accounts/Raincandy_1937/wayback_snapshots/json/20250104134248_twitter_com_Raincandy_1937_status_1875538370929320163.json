@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1875538370929320163",
+    "created_at": "2025-01-04T13:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T14:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875538370929320163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1780578393739931648",
+          "start": 3,
+          "username": "veronica_kcz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875538370929320163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875077380982866283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @veronica_kcz: 有没有教程可以把直男掰成四爱的🤲🏻\n边骗边哄边操感觉他生理拒绝啊。但是我好想…."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1875538370929320163",
+        "created_at": "2025-01-04T13:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T14:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875538370929320163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1780578393739931648",
+              "start": 3,
+              "username": "veronica_kcz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875538370929320163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875077380982866283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @veronica_kcz: 有没有教程可以把直男掰成四爱的🤲🏻\n边骗边哄边操感觉他生理拒绝啊。但是我好想…."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780578393739931648",
+        "conversation_id": "1875077380982866283",
+        "created_at": "2025-01-03T07:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T08:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875077380982866283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875077380982866283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 288,
+          "impression_count": 671766,
+          "like_count": 1993,
+          "quote_count": 6,
+          "reply_count": 148,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "有没有教程可以把直男掰成四爱的🤲🏻\n边骗边哄边操感觉他生理拒绝啊。但是我好想…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 627,
+          "like_count": 4536,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 2344
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T12:46:31.000Z",
+        "description": "4is｜施虐狂｜38岁离异带俩娃",
+        "id": "1780578393739931648",
+        "location": "距您3.7km",
+        "name": "Yu riii",
+        "pinned_tweet_id": "1871063334373765257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787362738932715520/vatbSO7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11773,
+          "following_count": 393,
+          "like_count": 1304,
+          "listed_count": 14,
+          "media_count": 108,
+          "tweet_count": 8143
+        },
+        "username": "veronica_kcz",
+        "verified": false
+      }
+    ]
+  }
+}

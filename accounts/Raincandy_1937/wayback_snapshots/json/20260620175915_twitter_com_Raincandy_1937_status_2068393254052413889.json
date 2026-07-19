@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2068393254052413889",
+    "created_at": "2026-06-20T17:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T18:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068393254052413889"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nyalra/status/…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/nyalra/status/2068362526832881981",
+          "start": 142,
+          "url": "https://t.co/Y3z2KWpGG3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068393254052413889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068362526832881981",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看起來這就是給到糖糖的最終結局了\n作爲普通的游戲玩家，應該說這是我意料之中的事情\n如同糖糖爲自己寫的那樣，她最後離開了網路選擇誰也不知曉的幸福度過一生。完成使命的天使，終化爲屬於現實，超越現實的，“完全的人”\n謝謝您，Nyalra老師，您筆下的角色，您傳達給我的真摯情感，我此生難忘 https://t.co/Y3z2KWpGG3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 259328,
+        "height": 1080,
+        "media_key": "7_2068362320234110976",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2068362320234110976/pu/img/Bo0aoPNZuwwARrCi.jpg",
+        "public_metrics": {
+          "view_count": 5334
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2068362320234110976/pu/pl/oN9JbJk3W5tpnvHn.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068362320234110976/pu/vid/avc1/640x360/UboT2JEiB9sa8FoJ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068362320234110976/pu/vid/avc1/1920x1080/x1J7vKxZv1UcSE40.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068362320234110976/pu/vid/avc1/480x270/bIbqQI8cp3jMNRCa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068362320234110976/pu/vid/avc1/1280x720/M5RdBfpLyakTKy6n.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2068393254052413889",
+        "created_at": "2026-06-20T17:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068393254052413889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyalra/status/…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/nyalra/status/2068362526832881981",
+              "start": 142,
+              "url": "https://t.co/Y3z2KWpGG3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068393254052413889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068362526832881981",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看起來這就是給到糖糖的最終結局了\n作爲普通的游戲玩家，應該說這是我意料之中的事情\n如同糖糖爲自己寫的那樣，她最後離開了網路選擇誰也不知曉的幸福度過一生。完成使命的天使，終化爲屬於現實，超越現實的，“完全的人”\n謝謝您，Nyalra老師，您筆下的角色，您傳達給我的真摯情感，我此生難忘 https://t.co/Y3z2KWpGG3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2068362320234110976"
+          ]
+        },
+        "author_id": "349054800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2068362526832881981",
+        "created_at": "2026-06-20T15:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068362526832881981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lXnFoGo2m5",
+              "end": 137,
+              "expanded_url": "https://x.com/nyalra/status/2068362526832881981/video/1",
+              "media_key": "7_2068362320234110976",
+              "start": 114,
+              "url": "https://t.co/lXnFoGo2m5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068362526832881981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 15467,
+          "like_count": 657,
+          "quote_count": 8,
+          "reply_count": 8,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "NEEDY ANIME 12話ありがとうございました。\n今までの映像をつないでオープニングを動画にしました♫\nこれで｢INTERNET ｣を冠するAiobahnと作ってきた音楽も最後です。\n\n次週の最終回も是非ご覧くださいね。 https://t.co/lXnFoGo2m5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 1770,
+          "like_count": 16890,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 7352
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-05T13:27:45.000Z",
+        "description": "◆https://t.co/2RlDkCWnQW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nyalra.net",
+                "end": 24,
+                "expanded_url": "https://nyalra.net",
+                "start": 1,
+                "url": "https://t.co/2RlDkCWnQW"
+              }
+            ]
+          }
+        },
+        "id": "349054800",
+        "name": "nyalra",
+        "pinned_tweet_id": "2005988774371864634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806370210762657792/GjnpN4qn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165516,
+          "following_count": 666,
+          "like_count": 393764,
+          "listed_count": 1110,
+          "media_count": 4239,
+          "tweet_count": 43883
+        },
+        "url": "",
+        "username": "nyalra",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033915865159372807"
+      ],
+      "media_source_tweet_id": [
+        "2033915868099367353"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2033979407438848444",
+    "created_at": "2026-03-17T18:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T19:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033979407438848444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1903099585129816064",
+          "start": 3,
+          "username": "tokerumaisurii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/geikcH7gY0",
+          "end": 103,
+          "expanded_url": "https://x.com/tokerumaisurii/status/2033915868099367353/photo/1",
+          "media_key": "3_2033915865159372807",
+          "start": 80,
+          "url": "https://t.co/geikcH7gY0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033979407438848444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033915868099367353",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tokerumaisurii: 原来压榨逼死研究生的导师被揭露批判了叫被社会骚扰吗，那我祝福这个导师连带这个院长都一辈子被社会骚扰到没法工作然后死掉。 https://t.co/geikcH7gY0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033915865159372807",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnrtAXbEAcIWjG.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033915865159372807"
+          ],
+          "media_source_tweet_id": [
+            "2033915868099367353"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2033979407438848444",
+        "created_at": "2026-03-17T18:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T19:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033979407438848444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1903099585129816064",
+              "start": 3,
+              "username": "tokerumaisurii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/geikcH7gY0",
+              "end": 103,
+              "expanded_url": "https://x.com/tokerumaisurii/status/2033915868099367353/photo/1",
+              "media_key": "3_2033915865159372807",
+              "start": 80,
+              "url": "https://t.co/geikcH7gY0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033979407438848444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033915868099367353",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tokerumaisurii: 原来压榨逼死研究生的导师被揭露批判了叫被社会骚扰吗，那我祝福这个导师连带这个院长都一辈子被社会骚扰到没法工作然后死掉。 https://t.co/geikcH7gY0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033915865159372807"
+          ]
+        },
+        "author_id": "1903099585129816064",
+        "conversation_id": "2033915868099367353",
+        "created_at": "2026-03-17T14:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T15:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033915868099367353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/geikcH7gY0",
+              "end": 83,
+              "expanded_url": "https://x.com/tokerumaisurii/status/2033915868099367353/photo/1",
+              "media_key": "3_2033915865159372807",
+              "start": 60,
+              "url": "https://t.co/geikcH7gY0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033915868099367353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8566,
+          "like_count": 284,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "原来压榨逼死研究生的导师被揭露批判了叫被社会骚扰吗，那我祝福这个导师连带这个院长都一辈子被社会骚扰到没法工作然后死掉。 https://t.co/geikcH7gY0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 1575,
+          "like_count": 13823,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 6393
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼@自由意志主义者 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ 寻回自我……？ ¦ 计算机 语言学 舞萌 鸣潮 崩铁 终末地 ++",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "VentusUta"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "Opiumash"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPr6i9"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2882,
+          "following_count": 280,
+          "like_count": 89095,
+          "listed_count": 8,
+          "media_count": 1134,
+          "tweet_count": 16415
+        },
+        "url": "https://t.co/JLTijPr6i9",
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

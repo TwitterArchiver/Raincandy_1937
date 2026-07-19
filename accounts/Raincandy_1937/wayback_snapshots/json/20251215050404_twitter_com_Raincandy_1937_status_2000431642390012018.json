@@ -1,0 +1,632 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Painting",
+          "id": "847869659957182464",
+          "name": "Painting"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Painting",
+          "id": "847869659957182464",
+          "name": "Painting"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2000431642390012018",
+    "created_at": "2025-12-15T05:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T06:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000431642390012018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1571833154138243074",
+          "start": 3,
+          "username": "buhuifei666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000431642390012018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000362800351211909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @buhuifei666: 美女留学生張冬寧因在日本画猪头🐷漫画，被刑拘2年，现已刑满获释\n\n张冬宁，1997年1月21日出生，安徽省淮南市人，漫画师，曾赴日本创作，“猪头人身”系列漫画作品创作者。\n近年来，因以中国大陆发生的诸多热点新闻事件为背景，创作出300余幅“猪头…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2000362795758411778",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8K3XUcWYAI1QEs.jpg",
+        "width": 1066
+      },
+      {
+        "height": 195,
+        "media_key": "3_2000362795741630469",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8K3XUYWUAUdDkK.jpg",
+        "width": 258
+      },
+      {
+        "height": 478,
+        "media_key": "3_2000362795737485316",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8K3XUXXEAQhFbY.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Painting",
+              "id": "847869659957182464",
+              "name": "Painting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Painting",
+              "id": "847869659957182464",
+              "name": "Painting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2000431642390012018",
+        "created_at": "2025-12-15T05:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T06:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000431642390012018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1571833154138243074",
+              "start": 3,
+              "username": "buhuifei666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000431642390012018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000362800351211909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @buhuifei666: 美女留学生張冬寧因在日本画猪头🐷漫画，被刑拘2年，现已刑满获释\n\n张冬宁，1997年1月21日出生，安徽省淮南市人，漫画师，曾赴日本创作，“猪头人身”系列漫画作品创作者。\n近年来，因以中国大陆发生的诸多热点新闻事件为背景，创作出300余幅“猪头…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000362795758411778",
+            "3_2000362795741630469",
+            "3_2000362795737485316"
+          ]
+        },
+        "author_id": "1571833154138243074",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Painting",
+              "id": "847869659957182464",
+              "name": "Painting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Painting",
+              "id": "847869659957182464",
+              "name": "Painting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2000362800351211909",
+        "created_at": "2025-12-15T00:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T01:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000362800351211909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vq9i4enjUX",
+              "end": 165,
+              "expanded_url": "https://x.com/buhuifei666/status/2000362800351211909/photo/1",
+              "media_key": "3_2000362795758411778",
+              "start": 142,
+              "url": "https://t.co/Vq9i4enjUX"
+            },
+            {
+              "display_url": "pic.x.com/Vq9i4enjUX",
+              "end": 165,
+              "expanded_url": "https://x.com/buhuifei666/status/2000362800351211909/photo/1",
+              "media_key": "3_2000362795741630469",
+              "start": 142,
+              "url": "https://t.co/Vq9i4enjUX"
+            },
+            {
+              "display_url": "pic.x.com/Vq9i4enjUX",
+              "end": 165,
+              "expanded_url": "https://x.com/buhuifei666/status/2000362800351211909/photo/1",
+              "media_key": "3_2000362795737485316",
+              "start": 142,
+              "url": "https://t.co/Vq9i4enjUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000362800351211909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 666,
+                "start": 662,
+                "tag": "良心犯"
+              },
+              {
+                "end": 672,
+                "start": 667,
+                "tag": "一人一推"
+              }
+            ]
+          },
+          "text": "美女留学生張冬寧因在日本画猪头🐷漫画，被刑拘2年，现已刑满获释\n\n张冬宁，1997年1月21日出生，安徽省淮南市人，漫画师，曾赴日本创作，“猪头人身”系列漫画作品创作者。\n近年来，因以中国大陆发生的诸多热点新闻事件为背景，创作出300余幅“猪头人身”系列漫画作品，引起社会广泛热议。\n2019年5月，在其从日本持旅游签证回国之后，很快就被安徽省淮南市田家庵区警方抓捕、刑拘，自此失联；2019年7月28日，被地方检察院以其漫画作品涉及“辱华”为罪由正式批捕，并指控其创作“猪头人身”系列漫画行为是刻意歪曲中国历史，曲解社会热点新闻事件，违反了中国相关法律；已被当局列为“精日”分子（“精日”系一种网路流行语，即精神日本人的简称，又称为精日分子，在中国大陆政治和社会议题中属于负面指涉用语，专指极端崇拜日本军国主义仇恨自身民族、在精神上将自己视同军国主义日本人的非日籍人群），其案被当局视为境内外“精日”分子合作利用互联网实施“辱华”违法犯罪活动之案件。\n后获知政府以“寻衅滋事罪”判刑1年，2020年5月8日，刑满出狱。\n2020年11月11日，因张冬宁以“江歌案”为笔下的漫画题材，再次被安徽省淮南市警方以“寻衅滋事罪”逮捕，并被安徽省淮南市法院判处有期徒刑1年；判决书表示，张冬宁在网上看到凶案相关信息后，为发泄个人情绪，画出侮辱和讽刺江秋莲和其女儿的漫画，并先后用多个微博账号把漫画发布至网路，被点击浏览一千余万次，给被害人生活造成恶劣影响，也混淆了公众视听，严重扰乱公共秩序。\n2021年11月10日，刑满获释。\n\n#良心犯 #一人一推"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 22856,
+          "like_count": 270,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "美女留学生張冬寧因在日本画猪头🐷漫画，被刑拘2年，现已刑满获释\n\n张冬宁，1997年1月21日出生，安徽省淮南市人，漫画师，曾赴日本创作，“猪头人身”系列漫画作品创作者。\n近年来，因以中国大陆发生的诸多热点新闻事件为背景，创作出300余幅“猪头人身”系列漫画作品，引起社会广泛热议。 https://t.co/Vq9i4enjUX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998397096031035392/5bZUUqPS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 1472,
+          "like_count": 12520,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 5823
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T12:07:44.000Z",
+        "description": "等着中共邪教倒台❗️因为举牌，骂习近平，反共反党被，国保，三堂会审！审判国贼习近平，推翻邪教独裁中共！#AntiCCP #FreeChina #罗湖勇士 #张展",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "AntiCCP"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "tag": "FreeChina"
+              },
+              {
+                "end": 76,
+                "start": 71,
+                "tag": "罗湖勇士"
+              },
+              {
+                "end": 80,
+                "start": 77,
+                "tag": "张展"
+              }
+            ]
+          }
+        },
+        "id": "1571833154138243074",
+        "name": "段宇弦",
+        "pinned_tweet_id": "1995848944547451387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990229318107017216/M0xeOTDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6163,
+          "following_count": 1186,
+          "like_count": 12161,
+          "listed_count": 26,
+          "media_count": 5031,
+          "tweet_count": 15672
+        },
+        "username": "buhuifei666",
+        "verified": false
+      }
+    ]
+  }
+}

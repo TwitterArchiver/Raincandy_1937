@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1935233193143321005",
+    "created_at": "2025-06-18T07:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T08:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935233193143321005"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jakobsonradica…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/jakobsonradical/status/1935119849359032696",
+          "start": 5,
+          "url": "https://t.co/Iy95r5ZoNm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935233193143321005",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935119849359032696",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑得笔筒 https://t.co/Iy95r5ZoNm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935119838969741313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtrtPaeaQAExeCn.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1935233193143321005",
+        "created_at": "2025-06-18T07:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T08:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935233193143321005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jakobsonradica…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/jakobsonradical/status/1935119849359032696",
+              "start": 5,
+              "url": "https://t.co/Iy95r5ZoNm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935233193143321005",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935119849359032696",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑得笔筒 https://t.co/Iy95r5ZoNm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935119838969741313"
+          ]
+        },
+        "author_id": "1249525383797456898",
+        "conversation_id": "1935119849359032696",
+        "created_at": "2025-06-17T23:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T00:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935119849359032696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FftmldUl5Z",
+              "end": 62,
+              "expanded_url": "https://x.com/jakobsonradical/status/1935119849359032696/photo/1",
+              "media_key": "3_1935119838969741313",
+              "start": 39,
+              "url": "https://t.co/FftmldUl5Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935119849359032696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 131954,
+          "like_count": 479,
+          "quote_count": 11,
+          "reply_count": 124,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "有中国网友如此向伊朗驻华大使馆提意见，并强调“我多年的红警经验不是白玩的！” https://t.co/FftmldUl5Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 1156,
+          "like_count": 8618,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 4430
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240930,
+          "following_count": 1474,
+          "like_count": 41432,
+          "listed_count": 974,
+          "media_count": 18532,
+          "tweet_count": 25724
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

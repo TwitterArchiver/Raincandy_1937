@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2057416039734845555",
+    "created_at": "2026-05-21T13:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057458097267118256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2271326305",
+          "start": 0,
+          "username": "thevxst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057458097267118256",
+    "in_reply_to_user_id": "2271326305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057416039734845555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thevxst 恭喜恭喜🥳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2057416039734845555",
+        "created_at": "2026-05-21T13:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057458097267118256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2271326305",
+              "start": 0,
+              "username": "thevxst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057458097267118256",
+        "in_reply_to_user_id": "2271326305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057416039734845555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thevxst 恭喜恭喜🥳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2271326305",
+        "conversation_id": "2057416039734845555",
+        "created_at": "2026-05-21T10:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057416039734845555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057416039734845555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2170,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "结婚啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370883875381248/w_VYzmIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 1680,
+          "like_count": 15446,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 6852
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-01T07:41:32.000Z",
+        "description": "Stay fortitude, Do good, Be excellence: 永远坚强，永远善良，永远卓越 / Google Deepmind / Gemini Large Scale Pretraining / Nemo ante mortem beatus / 🐱🐰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/vxst",
+                "end": 23,
+                "expanded_url": "https://github.com/vxst",
+                "start": 0,
+                "url": "https://t.co/oHsVu5mtC0"
+              }
+            ]
+          }
+        },
+        "id": "2271326305",
+        "location": "Zurich, Switzerland",
+        "name": "Jyn Spring 琴春🇨🇭🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661330013193420800/jZfXDUen_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7090,
+          "following_count": 1245,
+          "like_count": 1145,
+          "listed_count": 26,
+          "media_count": 161,
+          "tweet_count": 1575
+        },
+        "url": "https://t.co/oHsVu5mtC0",
+        "username": "thevxst",
+        "verified": true
+      }
+    ]
+  }
+}

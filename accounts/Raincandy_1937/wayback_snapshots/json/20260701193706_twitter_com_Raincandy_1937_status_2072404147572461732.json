@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072144513431425024"
+      ],
+      "media_source_tweet_id": [
+        "2072144600979177921"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2072404147572461732",
+    "created_at": "2026-07-01T19:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T20:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072404147572461732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1865629305574973441",
+          "start": 3,
+          "username": "suwarinko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HoDAMDdsMN",
+          "end": 44,
+          "expanded_url": "https://x.com/suwarinko/status/2072144600979177921/photo/1",
+          "media_key": "3_2072144513431425024",
+          "start": 21,
+          "url": "https://t.co/HoDAMDdsMN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072404147572461732",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 198
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072144600979177921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suwarinko: 眼鏡まふゆ https://t.co/HoDAMDdsMN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2072144513431425024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMG8dM5a0AABXS9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072144513431425024"
+          ],
+          "media_source_tweet_id": [
+            "2072144600979177921"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2072404147572461732",
+        "created_at": "2026-07-01T19:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T20:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072404147572461732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1865629305574973441",
+              "start": 3,
+              "username": "suwarinko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HoDAMDdsMN",
+              "end": 44,
+              "expanded_url": "https://x.com/suwarinko/status/2072144600979177921/photo/1",
+              "media_key": "3_2072144513431425024",
+              "start": 21,
+              "url": "https://t.co/HoDAMDdsMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072404147572461732",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 198
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072144600979177921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suwarinko: 眼鏡まふゆ https://t.co/HoDAMDdsMN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072144513431425024"
+          ]
+        },
+        "author_id": "1865629305574973441",
+        "conversation_id": "2072144600979177921",
+        "created_at": "2026-07-01T02:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T03:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072144600979177921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HoDAMDdsMN",
+              "end": 29,
+              "expanded_url": "https://x.com/suwarinko/status/2072144600979177921/photo/1",
+              "media_key": "3_2072144513431425024",
+              "start": 6,
+              "url": "https://t.co/HoDAMDdsMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072144600979177921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 279,
+          "impression_count": 15592,
+          "like_count": 2198,
+          "quote_count": 10,
+          "reply_count": 2,
+          "retweet_count": 198
+        },
+        "reply_settings": "everyone",
+        "text": "眼鏡まふゆ https://t.co/HoDAMDdsMN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1784,
+          "like_count": 17086,
+          "listed_count": 1,
+          "media_count": 229,
+          "tweet_count": 7419
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T05:27:51.000Z",
+        "description": "【pixiv】https://t.co/SBd2IeZLPT 【Patreon】https://t.co/lwwMWGifqr Sub→@suwarinkosub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 68,
+                "username": "suwarinkosub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/91764184",
+                "end": 30,
+                "expanded_url": "https://www.pixiv.net/users/91764184",
+                "start": 7,
+                "url": "https://t.co/SBd2IeZLPT"
+              },
+              {
+                "display_url": "patreon.com/c/suwarink",
+                "end": 63,
+                "expanded_url": "https://www.patreon.com/c/suwarink",
+                "start": 40,
+                "url": "https://t.co/lwwMWGifqr"
+              }
+            ]
+          }
+        },
+        "id": "1865629305574973441",
+        "location": "use SD",
+        "name": "すわり",
+        "pinned_tweet_id": "2072144600979177921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889219717300473856/kVgYxN1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 3,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "suwarinko",
+        "verified": false
+      }
+    ]
+  }
+}

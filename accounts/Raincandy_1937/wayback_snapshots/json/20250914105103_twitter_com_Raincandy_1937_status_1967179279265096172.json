@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1967179279265096172",
+    "created_at": "2025-09-14T10:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T11:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967179279265096172"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Raincandy_1937…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/Raincandy_1937/status/1967179118346424797",
+          "start": 18,
+          "url": "https://t.co/IA7yZHLiBv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967179279265096172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967179118346424797",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唯一类人的蕾蒂给爆改成皮城执法官了 https://t.co/IA7yZHLiBv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1967179279265096172",
+        "created_at": "2025-09-14T10:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T11:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967179279265096172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Raincandy_1937…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Raincandy_1937/status/1967179118346424797",
+              "start": 18,
+              "url": "https://t.co/IA7yZHLiBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967179279265096172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967179118346424797",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唯一类人的蕾蒂给爆改成皮城执法官了 https://t.co/IA7yZHLiBv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1967179118346424797",
+        "created_at": "2025-09-14T10:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T11:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967179118346424797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967179118346424797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "网飞版鬼泣拍的就是一群蛆啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052641272451073/lFlpkk6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 1325,
+          "like_count": 9951,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 5045
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

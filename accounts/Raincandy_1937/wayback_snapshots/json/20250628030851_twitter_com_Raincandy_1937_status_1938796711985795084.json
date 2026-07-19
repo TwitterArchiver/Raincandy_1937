@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938745551241256961"
+      ],
+      "media_source_tweet_id": [
+        "1938745553715937472"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1938796711985795084",
+    "created_at": "2025-06-28T03:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T04:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938796711985795084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1249525383797456898",
+          "start": 3,
+          "username": "jakobsonradical"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H76yiNPoIv",
+          "end": 54,
+          "expanded_url": "https://x.com/jakobsonradical/status/1938745553715937472/photo/1",
+          "media_key": "3_1938745551241256961",
+          "start": 31,
+          "url": "https://t.co/H76yiNPoIv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938796711985795084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938745553715937472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jakobsonradical: 这个观点好新奇—— https://t.co/H76yiNPoIv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938745551241256961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GufOzpOaoAEwT2E.jpg",
+        "width": 570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938745551241256961"
+          ],
+          "media_source_tweet_id": [
+            "1938745553715937472"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1938796711985795084",
+        "created_at": "2025-06-28T03:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T04:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938796711985795084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1249525383797456898",
+              "start": 3,
+              "username": "jakobsonradical"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H76yiNPoIv",
+              "end": 54,
+              "expanded_url": "https://x.com/jakobsonradical/status/1938745553715937472/photo/1",
+              "media_key": "3_1938745551241256961",
+              "start": 31,
+              "url": "https://t.co/H76yiNPoIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938796711985795084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938745553715937472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jakobsonradical: 这个观点好新奇—— https://t.co/H76yiNPoIv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938745551241256961"
+          ]
+        },
+        "author_id": "1249525383797456898",
+        "conversation_id": "1938745553715937472",
+        "created_at": "2025-06-27T23:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T00:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938745553715937472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H76yiNPoIv",
+              "end": 33,
+              "expanded_url": "https://x.com/jakobsonradical/status/1938745553715937472/photo/1",
+              "media_key": "3_1938745551241256961",
+              "start": 10,
+              "url": "https://t.co/H76yiNPoIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938745553715937472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 27729,
+          "like_count": 254,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "这个观点好新奇—— https://t.co/H76yiNPoIv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 1190,
+          "like_count": 8867,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 4594
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241616,
+          "following_count": 1474,
+          "like_count": 41391,
+          "listed_count": 975,
+          "media_count": 18630,
+          "tweet_count": 25821
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

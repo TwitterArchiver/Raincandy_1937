@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1849168662483136512"
+      ],
+      "media_source_tweet_id": [
+        "1921845301138108806"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "1921849630347690276",
+    "created_at": "2025-05-12T08:47:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T09:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921849630347690276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1160422458207326208",
+          "start": 3,
+          "username": "roketdan1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iZaw3kQKsa",
+          "end": 44,
+          "expanded_url": "https://x.com/cutestscats/status/1921845301138108806/video/1",
+          "media_key": "13_1849168662483136512",
+          "start": 21,
+          "url": "https://t.co/iZaw3kQKsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921849630347690276",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921848744707837957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @roketdan1: 可愛い😂😂 https://t.co/iZaw3kQKsa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15566,
+        "height": 1280,
+        "media_key": "13_1849168662483136512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1849168662483136512/img/-5rhee0V8aULoVq6.jpg",
+        "public_metrics": {
+          "view_count": 1660
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1849168662483136512/vid/avc1/320x568/DlI1tqk8MjYT85-h.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1849168662483136512/vid/avc1/480x852/pW5fm0fY8R0_oKgZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1849168662483136512/vid/avc1/720x1280/ieLa6xL3bwuG9g9g.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1849168662483136512/pl/KSPrPnIlzgrhe-sc.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1849168662483136512"
+          ],
+          "media_source_tweet_id": [
+            "1921845301138108806"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1921849630347690276",
+        "created_at": "2025-05-12T08:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T09:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921849630347690276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1160422458207326208",
+              "start": 3,
+              "username": "roketdan1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iZaw3kQKsa",
+              "end": 44,
+              "expanded_url": "https://x.com/cutestscats/status/1921845301138108806/video/1",
+              "media_key": "13_1849168662483136512",
+              "start": 21,
+              "url": "https://t.co/iZaw3kQKsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921849630347690276",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921848744707837957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @roketdan1: 可愛い😂😂 https://t.co/iZaw3kQKsa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1849168662483136512"
+          ],
+          "media_source_tweet_id": [
+            "1921845301138108806"
+          ]
+        },
+        "author_id": "1160422458207326208",
+        "conversation_id": "1921848744707837957",
+        "created_at": "2025-05-12T08:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T09:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921848744707837957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iZaw3kQKsa",
+              "end": 29,
+              "expanded_url": "https://x.com/cutestscats/status/1921845301138108806/video/1",
+              "media_key": "13_1849168662483136512",
+              "start": 6,
+              "url": "https://t.co/iZaw3kQKsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921848744707837957",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "可愛い😂😂 https://t.co/iZaw3kQKsa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 1091,
+          "like_count": 8206,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 4230
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-11T05:27:28.000Z",
+        "description": "🐾🙀進撃のCat🙀🐾（ネコの動画）※引用動画リツイートします。是非フォローよろしくお願いします！！！進撃のZoo @roketdan3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "roketdan3"
+              }
+            ]
+          }
+        },
+        "id": "1160422458207326208",
+        "location": "もふもふ",
+        "name": "進撃のCat",
+        "pinned_tweet_id": "1684360018978807808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1316417698159501313/ugfAn1M__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88509,
+          "following_count": 32846,
+          "like_count": 16283,
+          "listed_count": 455,
+          "media_count": 11082,
+          "tweet_count": 11481
+        },
+        "username": "roketdan1",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

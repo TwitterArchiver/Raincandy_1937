@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1871441541589573939",
+    "created_at": "2024-12-24T06:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T07:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871446257643999643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1166960282884694017",
+          "start": 0,
+          "username": "SwitchJoin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871446257643999643",
+    "in_reply_to_user_id": "1166960282884694017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871441541589573939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SwitchJoin 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1871441541589573939",
+        "created_at": "2024-12-24T06:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T07:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871446257643999643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1166960282884694017",
+              "start": 0,
+              "username": "SwitchJoin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871446257643999643",
+        "in_reply_to_user_id": "1166960282884694017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871441541589573939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SwitchJoin 好！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871441532076883968"
+          ]
+        },
+        "author_id": "1166960282884694017",
+        "conversation_id": "1871441541589573939",
+        "created_at": "2024-12-24T06:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T07:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871441541589573939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kEAP6BHj2J",
+              "end": 47,
+              "expanded_url": "https://x.com/SwitchJoin/status/1871441541589573939/photo/1",
+              "media_key": "3_1871441532076883968",
+              "start": 24,
+              "url": "https://t.co/kEAP6BHj2J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871441541589573939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天明天在朋友圈发长津湖的我都要把你们拉黑删除 https://t.co/kEAP6BHj2J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1870066582061486495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 584,
+          "like_count": 3725,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 2047
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-29T06:26:35.000Z",
+        "description": "嘿嘿 进来麦门祈祈福 小号属性为低俗混沌杂志社 @siren14siren     匿名提问箱：https://t.co/9uQZaUxhez",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "siren14siren"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/switchjoin",
+                "end": 71,
+                "expanded_url": "https://ngl.link/switchjoin",
+                "start": 48,
+                "url": "https://t.co/9uQZaUxhez"
+              }
+            ]
+          }
+        },
+        "id": "1166960282884694017",
+        "location": "麦当劳第8号监狱",
+        "name": "麦当牢服刑人员",
+        "pinned_tweet_id": "1835002799375237387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841152455154778115/uLo9TZS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 982,
+          "like_count": 23542,
+          "listed_count": 1,
+          "media_count": 437,
+          "tweet_count": 3251
+        },
+        "username": "SwitchJoin",
+        "verified": false
+      }
+    ]
+  }
+}

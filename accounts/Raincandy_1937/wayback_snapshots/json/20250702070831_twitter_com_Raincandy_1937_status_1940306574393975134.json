@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "1940306574393975134",
+    "created_at": "2025-07-02T07:08:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T08:08:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940306574393975134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1620792340897054720",
+          "start": 3,
+          "username": "Orange007Orange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940306574393975134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940013398130852085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Orange007Orange: 男的不占理就会开始造黄谣\n然后搞得大家都知道你是个性压抑incel国渴逼又厌女 哎你看这事弄得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "1940306574393975134",
+        "created_at": "2025-07-02T07:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T08:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940306574393975134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1620792340897054720",
+              "start": 3,
+              "username": "Orange007Orange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940306574393975134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940013398130852085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Orange007Orange: 男的不占理就会开始造黄谣\n然后搞得大家都知道你是个性压抑incel国渴逼又厌女 哎你看这事弄得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620792340897054720",
+        "conversation_id": "1940013398130852085",
+        "created_at": "2025-07-01T11:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T12:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940013398130852085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940013398130852085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1329,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男的不占理就会开始造黄谣\n然后搞得大家都知道你是个性压抑incel国渴逼又厌女 哎你看这事弄得"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "借来的翅膀，能划过雨幕笼罩的天空吗",
+        "id": "1522094771136831488",
+        "location": "Rubicon 3",
+        "name": "Rain_Raven🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863122654086963200/7umTYmER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 1213,
+          "like_count": 9022,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 4663
+        },
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T14:33:23.000Z",
+        "description": "请问你今天要来一个🍊吗｜afab｜无性别｜偶像🍊不总营业｜百合厨｜mfy单推｜不回非互fo私信",
+        "id": "1620792340897054720",
+        "name": "melatonin🍊（求p小于0.05版）",
+        "pinned_tweet_id": "1935274813045571758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939387717529354241/hivMcJLI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 382,
+          "like_count": 34218,
+          "listed_count": 3,
+          "media_count": 371,
+          "tweet_count": 10387
+        },
+        "username": "Orange007Orange",
+        "verified": false
+      }
+    ]
+  }
+}

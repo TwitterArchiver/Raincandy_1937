@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2076901542628855956",
+    "created_at": "2026-07-14T05:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T06:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076901542628855956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meguruKirara/s…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/meguruKirara/status/2076571024003567758",
+          "start": 17,
+          "url": "https://t.co/yA9UA2qDP7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076901542628855956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076571024003567758",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中國人又在幫大家推薦優質遊戲了😁 https://t.co/yA9UA2qDP7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 348,
+        "media_key": "3_2076570710089326592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNF2DwXa4AAURpj.png",
+        "width": 391
+      },
+      {
+        "height": 631,
+        "media_key": "3_2076570977476247552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNF2TUdbgAAVy19.png",
+        "width": 433
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2076901542628855956",
+        "created_at": "2026-07-14T05:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076901542628855956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meguruKirara/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/meguruKirara/status/2076571024003567758",
+              "start": 17,
+              "url": "https://t.co/yA9UA2qDP7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076901542628855956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076571024003567758",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中國人又在幫大家推薦優質遊戲了😁 https://t.co/yA9UA2qDP7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076570710089326592",
+            "3_2076570977476247552"
+          ]
+        },
+        "author_id": "1582576763615383552",
+        "conversation_id": "2076571024003567758",
+        "created_at": "2026-07-13T07:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076571024003567758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0T1HjzhHYU",
+              "end": 33,
+              "expanded_url": "https://x.com/meguruKirara/status/2076571024003567758/photo/1",
+              "media_key": "3_2076570710089326592",
+              "start": 10,
+              "url": "https://t.co/0T1HjzhHYU"
+            },
+            {
+              "display_url": "pic.x.com/0T1HjzhHYU",
+              "end": 33,
+              "expanded_url": "https://x.com/meguruKirara/status/2076571024003567758/photo/1",
+              "media_key": "3_2076570977476247552",
+              "start": 10,
+              "url": "https://t.co/0T1HjzhHYU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076571024003567758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 85967,
+          "like_count": 580,
+          "quote_count": 16,
+          "reply_count": 91,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "中國人怎麼又哈氣了 https://t.co/0T1HjzhHYU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1791,
+          "like_count": 17222,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 7481
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-19T03:38:48.000Z",
+        "description": "zh-tw, yue-Hant, en-us, ja-jp. ⭐️正義の味方、登臨です！🪄⭐️ 🩵 Stand with 🇭🇰 & 🇹🇼 ☭⃠ 🩵 小帳/alt/鍵垢@reisa_music",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 83,
+                "username": "reisa_music"
+              }
+            ]
+          }
+        },
+        "id": "1582576763615383552",
+        "location": "Kansas, USA",
+        "name": "小紗💤（低浮上マジカル🪄）",
+        "pinned_tweet_id": "1780490157524910589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018651676857831424/imlR5sJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1613,
+          "following_count": 2739,
+          "like_count": 96812,
+          "listed_count": 9,
+          "media_count": 1571,
+          "tweet_count": 21062
+        },
+        "url": "",
+        "username": "meguruKirara",
+        "verified": false
+      }
+    ]
+  }
+}

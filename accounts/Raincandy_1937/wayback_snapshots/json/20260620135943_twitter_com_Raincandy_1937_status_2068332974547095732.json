@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068225464666292224"
+      ],
+      "media_source_tweet_id": [
+        "2068225471549260192"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2068332974547095732",
+    "created_at": "2026-06-20T13:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T14:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068332974547095732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1735728536827334657",
+          "start": 3,
+          "username": "SakurasakaRiko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XYtS8DyCQz",
+          "end": 55,
+          "expanded_url": "https://x.com/SakurasakaRiko/status/2068225471549260192/photo/1",
+          "media_key": "3_2068225464666292224",
+          "start": 32,
+          "url": "https://t.co/XYtS8DyCQz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068332974547095732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068225471549260192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakurasakaRiko: ？\n还真有这种傻逼啊？ https://t.co/XYtS8DyCQz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068225464666292224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPQGijaAAAaJE7.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068225464666292224"
+          ],
+          "media_source_tweet_id": [
+            "2068225471549260192"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2068332974547095732",
+        "created_at": "2026-06-20T13:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068332974547095732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1735728536827334657",
+              "start": 3,
+              "username": "SakurasakaRiko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XYtS8DyCQz",
+              "end": 55,
+              "expanded_url": "https://x.com/SakurasakaRiko/status/2068225471549260192/photo/1",
+              "media_key": "3_2068225464666292224",
+              "start": 32,
+              "url": "https://t.co/XYtS8DyCQz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068332974547095732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068225471549260192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakurasakaRiko: ？\n还真有这种傻逼啊？ https://t.co/XYtS8DyCQz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068225464666292224"
+          ]
+        },
+        "author_id": "1735728536827334657",
+        "conversation_id": "2068225471549260192",
+        "created_at": "2026-06-20T06:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068225471549260192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XYtS8DyCQz",
+              "end": 35,
+              "expanded_url": "https://x.com/SakurasakaRiko/status/2068225471549260192/photo/1",
+              "media_key": "3_2068225464666292224",
+              "start": 12,
+              "url": "https://t.co/XYtS8DyCQz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068225471549260192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 35302,
+          "like_count": 284,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "？\n还真有这种傻逼啊？ https://t.co/XYtS8DyCQz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 1768,
+          "like_count": 16879,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 7348
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T18:28:33.000Z",
+        "description": "日本語🇯🇵/中文🇨🇳/EN🇺🇸🇬🇧 OK\n喜欢玩各种音游的普通玩家，数码设备爱好者\n前移动端音游公司总助｜PM｜周边主管｜赛事策划\n maimai 樱桃堇晓橙白熊华超檄辉将持有，真神持有\n你可以称呼我为riko或者璃子\n全球各地旅游中，偶尔发发酒店评价\n⬛️🟨⬛️🟪⬛️🟨⬛️🟪⬛️🟨⬛️",
+        "id": "1735728536827334657",
+        "location": "Tokyo",
+        "name": "樱坂璃子Riko",
+        "pinned_tweet_id": "2068052501732237657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063885823553191936/2yMWRrzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2399,
+          "following_count": 608,
+          "like_count": 6735,
+          "listed_count": 4,
+          "media_count": 314,
+          "tweet_count": 2160
+        },
+        "url": "",
+        "username": "SakurasakaRiko",
+        "verified": true
+      }
+    ]
+  }
+}

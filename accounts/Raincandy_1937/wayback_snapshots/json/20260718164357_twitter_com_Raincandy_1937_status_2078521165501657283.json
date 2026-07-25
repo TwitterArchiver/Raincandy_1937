@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2078521165501657283",
+    "created_at": "2026-07-18T16:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T17:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078521165501657283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/EScanlon95354/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/EScanlon95354/status/2078487658574279163",
+          "start": 6,
+          "url": "https://t.co/YNE3pny1gR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078521165501657283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078487658574279163",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "簡直是嘴替 https://t.co/YNE3pny1gR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2078521165501657283",
+        "created_at": "2026-07-18T16:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078521165501657283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EScanlon95354/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/EScanlon95354/status/2078487658574279163",
+              "start": 6,
+              "url": "https://t.co/YNE3pny1gR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078521165501657283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078487658574279163",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "簡直是嘴替 https://t.co/YNE3pny1gR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878225515561332736",
+        "conversation_id": "2078487658574279163",
+        "created_at": "2026-07-18T14:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078487658574279163"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078487658574279163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2764,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给新手跨女一点小建议：如果你要改变自己，必须和过去的国男划清界限，保持长期rle，半年后你就能看到明显效果。 rle 比你现在天天纸上谈兵研究怎么选衣服和化妆品更重要。因为rle 是能让你最快进入女性的生活状态，你才知道你现在优先需要做什么。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 1796,
+          "like_count": 17286,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 7502
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T23:40:50.000Z",
+        "description": "友跨不翻车！不雌堕！不吃糖！",
+        "id": "1878225515561332736",
+        "name": "大 E（友跨顺直男）",
+        "pinned_tweet_id": "1913519699222003943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972161890035085312/hmpyjcQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3481,
+          "following_count": 2451,
+          "like_count": 7043,
+          "listed_count": 6,
+          "media_count": 49,
+          "tweet_count": 2560
+        },
+        "url": "",
+        "username": "EScanlon95354",
+        "verified": false
+      }
+    ]
+  }
+}

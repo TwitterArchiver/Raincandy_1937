@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2078954375167537567",
+    "created_at": "2026-07-19T21:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T22:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078954375167537567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1662429916443582464",
+          "start": 3,
+          "username": "HuiYuano"
+        },
+        {
+          "end": 21,
+          "id": "1664742004423794688",
+          "start": 14,
+          "username": "rwayne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078954375167537567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078777558771089742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HuiYuano: @rwayne 优绩主义的做题蛆还不明白，经济下行压力山大的环境里没有人再喜欢浪费流量浪费时间看这群自以为是的傻逼猴子沾沾自喜地表演小丑马戏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2078954375167537567",
+        "created_at": "2026-07-19T21:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T22:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078954375167537567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1662429916443582464",
+              "start": 3,
+              "username": "HuiYuano"
+            },
+            {
+              "end": 21,
+              "id": "1664742004423794688",
+              "start": 14,
+              "username": "rwayne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078954375167537567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078777558771089742",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HuiYuano: @rwayne 优绩主义的做题蛆还不明白，经济下行压力山大的环境里没有人再喜欢浪费流量浪费时间看这群自以为是的傻逼猴子沾沾自喜地表演小丑马戏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662429916443582464",
+        "conversation_id": "2078497269075378311",
+        "created_at": "2026-07-19T09:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078777558771089742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1664742004423794688",
+              "start": 0,
+              "username": "rwayne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078777558771089742",
+        "in_reply_to_user_id": "1664742004423794688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 36353,
+          "like_count": 375,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078497269075378311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rwayne 优绩主义的做题蛆还不明白，经济下行压力山大的环境里没有人再喜欢浪费流量浪费时间看这群自以为是的傻逼猴子沾沾自喜地表演小丑马戏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 1799,
+          "like_count": 17272,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 7516
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T12:06:03.000Z",
+        "description": "",
+        "id": "1662429916443582464",
+        "name": "Woddun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078778944128720896/YdvyYhES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 29,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "HuiYuano",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T21:13:29.000Z",
+        "description": "医学，经济学与人工智能交叉领域段子手研究员🤡\n我的科研Skill：rw-research-skill\n发段子是因为科研很压抑了...😅",
+        "id": "1664742004423794688",
+        "location": "Australia",
+        "name": "Roland.W",
+        "pinned_tweet_id": "2077401955387982126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52848,
+          "following_count": 782,
+          "like_count": 39255,
+          "listed_count": 274,
+          "media_count": 6365,
+          "tweet_count": 21013
+        },
+        "url": "",
+        "username": "rwayne",
+        "verified": true
+      }
+    ]
+  }
+}

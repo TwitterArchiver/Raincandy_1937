@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2078891165785698432",
+    "created_at": "2026-07-19T17:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T18:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078891165785698432"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/needygirl_o/st…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/needygirl_o/status/2078313819257131295",
+          "start": 68,
+          "url": "https://t.co/41v9YL8Uap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078891165785698432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078313819257131295",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這封繪怎麽能這麽好看\n我最喜歡的是Pien貓爲了超天醬去接危險的打工那一話\n還有Pien貓累了看誰都是方塊人那一話\n超級溫馨想哭的兩話 https://t.co/41v9YL8Uap"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2078032002696269824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNanGLia0AAVJW3.jpg",
+        "width": 846
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2078891165785698432",
+        "created_at": "2026-07-19T17:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T18:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078891165785698432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/needygirl_o/st…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/needygirl_o/status/2078313819257131295",
+              "start": 68,
+              "url": "https://t.co/41v9YL8Uap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078891165785698432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078313819257131295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這封繪怎麽能這麽好看\n我最喜歡的是Pien貓爲了超天醬去接危險的打工那一話\n還有Pien貓累了看誰都是方塊人那一話\n超級溫馨想哭的兩話 https://t.co/41v9YL8Uap"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078032002696269824"
+          ]
+        },
+        "author_id": "1790319108875227136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2078313819257131295",
+        "created_at": "2026-07-18T03:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078313819257131295"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 97,
+              "tag": "病病事変"
+            },
+            {
+              "end": 108,
+              "start": 103,
+              "tag": "ニディガ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "公式Xで掲載した「病病事変」ファーストシーズンを完全収録！　超てんちゃんとピの愉快で不健全な日常をお届けします♪　さらに、超てんちゃんを愛するピたちへのご褒美描き下ろし漫画も収録！",
+              "display_url": "amzn.asia/d/0hAVs1im",
+              "end": 95,
+              "expanded_url": "https://amzn.asia/d/0hAVs1im",
+              "images": [
+                {
+                  "height": 1000,
+                  "url": "https://pbs.twimg.com/news_img/2078313866434617345/I8t5ERKG?format=jpg&name=orig",
+                  "width": 1910
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2078313866434617345/I8t5ERKG?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 72,
+              "status": 200,
+              "title": "NEEDY GIRL OVERDOSE 絶対革命病病事変 ミッドナイト配信LOVE　†あめちゃんとピの絶望の100日間† (ムゲンコミックス)",
+              "unwound_url": "https://www.amazon.co.jp/dp/B0H831PVLC?ref=cm_sw_r_ffobk_cp_ud_dp_GWBRBR2AR25N0PN4FZQY&ref_=cm_sw_r_ffobk_cp_ud_dp_GWBRBR2AR25N0PN4FZQY&social_share=cm_sw_r_ffobk_cp_ud_dp_GWBRBR2AR25N0PN4FZQY&bestFormat=true",
+              "url": "https://t.co/tuA97SOUEv"
+            },
+            {
+              "display_url": "pic.x.com/YSDrOt52Ff",
+              "end": 132,
+              "expanded_url": "https://x.com/needygirl_o/status/2078313819257131295/photo/1",
+              "media_key": "3_2078032002696269824",
+              "start": 109,
+              "url": "https://t.co/YSDrOt52Ff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078313819257131295",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 231,
+          "impression_count": 112090,
+          "like_count": 1737,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 260
+        },
+        "reply_settings": "everyone",
+        "text": "✝　電子版配信スタート　✝\n\nニディガ公式Xで連載中の漫画『病病事変』の電子版コミックスが本日配信開始！\n描き下ろし漫画も収録されてるよ🥺✨\n\nhttps://t.co/tuA97SOUEv\n\n#病病事変 #ニディガ https://t.co/YSDrOt52Ff"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 1799,
+          "like_count": 17263,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 7511
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T09:52:26.000Z",
+        "description": "最強配信者（インターネット・エンジェル）と暮らすADV「NEEDY GIRL OVERDOSE」（ニディガと呼ぶ人もいるよ！）の公式アカウントです。\nYouTube：https://t.co/BKpkQo5DFg\nお問い合わせ：https://t.co/nXwN8xhR49",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wssplayground",
+                "end": 106,
+                "expanded_url": "https://www.youtube.com/@wssplayground",
+                "start": 83,
+                "url": "https://t.co/BKpkQo5DFg"
+              },
+              {
+                "display_url": "angelkawaii.com",
+                "end": 137,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 114,
+                "url": "https://t.co/nXwN8xhR49"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whysoserious.jp/needy/",
+                "end": 23,
+                "expanded_url": "https://whysoserious.jp/needy/",
+                "start": 0,
+                "url": "https://t.co/M5DW5V8xeX"
+              }
+            ]
+          }
+        },
+        "id": "1790319108875227136",
+        "name": "NEEDY GIRL Official",
+        "pinned_tweet_id": "2071760635319230817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790321034090147840/ohWusD8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63402,
+          "following_count": 9,
+          "like_count": 35,
+          "listed_count": 75,
+          "media_count": 765,
+          "tweet_count": 1346
+        },
+        "url": "https://t.co/M5DW5V8xeX",
+        "username": "needygirl_o",
+        "verified": true
+      }
+    ]
+  }
+}

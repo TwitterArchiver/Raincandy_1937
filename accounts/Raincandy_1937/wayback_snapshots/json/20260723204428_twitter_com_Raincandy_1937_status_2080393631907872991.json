@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2080393631907872991",
+    "created_at": "2026-07-23T20:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T21:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080393631907872991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1992492016736088064",
+          "start": 3,
+          "username": "Lee_Hood64"
+        },
+        {
+          "end": 31,
+          "id": "1260553941714186241",
+          "start": 16,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080393631907872991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004100939100418555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lee_Hood64: @whyyoutouzhele 这帮家伙里粉蛆不少（不然也绝对写不出那些游戏内容），现在被铁拳属实是令人喜闻乐见的狗咬狗了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2080393631907872991",
+        "created_at": "2026-07-23T20:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T21:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080393631907872991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1992492016736088064",
+              "start": 3,
+              "username": "Lee_Hood64"
+            },
+            {
+              "end": 31,
+              "id": "1260553941714186241",
+              "start": 16,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080393631907872991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004100939100418555",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lee_Hood64: @whyyoutouzhele 这帮家伙里粉蛆不少（不然也绝对写不出那些游戏内容），现在被铁拳属实是令人喜闻乐见的狗咬狗了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992492016736088064",
+        "conversation_id": "2004084702408585616",
+        "created_at": "2025-12-25T08:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T09:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004100939100418555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004100939100418555",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 29770,
+          "like_count": 691,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004084702408585616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 这帮家伙里粉蛆不少（不然也绝对写不出那些游戏内容），现在被铁拳属实是令人喜闻乐见的狗咬狗了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 1798,
+          "like_count": 17283,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 7526
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T07:14:59.000Z",
+        "description": "僭主川普政权的倒台是俄罗斯帝国、中华帝国和伊朗帝国解体的必要条件！\n#川普主义就是共产主义\n#川普主义就是中国主义\n#川普主义就是大俄罗斯主义\n#川普主义就是伊斯兰革命主义\n#天火焚城川多玛",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 34,
+                "tag": "川普主义就是共产主义"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "tag": "川普主义就是中国主义"
+              },
+              {
+                "end": 71,
+                "start": 58,
+                "tag": "川普主义就是大俄罗斯主义"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "tag": "川普主义就是伊斯兰革命主义"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "tag": "天火焚城川多玛"
+              }
+            ]
+          }
+        },
+        "id": "1992492016736088064",
+        "location": "Free City of Shanghai ",
+        "name": "Lee Hood Johnston(Slava Confederacy & Ukraine!)",
+        "pinned_tweet_id": "2067965012413436140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002533871246569472/eKIR92ZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 583,
+          "like_count": 27357,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 5078
+        },
+        "url": "",
+        "username": "Lee_Hood64",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2078717699849630025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243644,
+          "following_count": 1079,
+          "like_count": 9807,
+          "listed_count": 8834,
+          "media_count": 50943,
+          "tweet_count": 58163
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

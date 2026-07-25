@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2080042105469292655",
+    "created_at": "2026-07-23T20:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T21:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080393875303342152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1522621726085062657",
+          "start": 0,
+          "username": "danqingyinmo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080393875303342152",
+    "in_reply_to_user_id": "1522621726085062657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080042105469292655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@danqingyinmo1 看完這集被隔著兩層帳篷鎖頭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1618,
+        "media_key": "3_2080041554954375168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN3KxhEbUAAmkT7.jpg",
+        "width": 1618
+      },
+      {
+        "height": 716,
+        "media_key": "3_2080041554954379264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN3KxhEbYAAmyBh.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2080041757157605376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN3K9SVbwAAeU7n.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2080042105469292655",
+        "created_at": "2026-07-23T20:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T21:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080393875303342152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1522621726085062657",
+              "start": 0,
+              "username": "danqingyinmo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080393875303342152",
+        "in_reply_to_user_id": "1522621726085062657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080042105469292655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@danqingyinmo1 看完這集被隔著兩層帳篷鎖頭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080041554954375168",
+            "3_2080041554954379264",
+            "3_2080041757157605376"
+          ]
+        },
+        "author_id": "1522621726085062657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1296453350263676931",
+              "name": "Escape from Tarkov"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296453350263676931",
+              "name": "Escape from Tarkov"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          }
+        ],
+        "conversation_id": "2080042105469292655",
+        "created_at": "2026-07-22T21:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T22:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080042105469292655"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 26,
+              "tag": "escapefromtarkov"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s0n0TAUzHY",
+              "end": 67,
+              "expanded_url": "https://x.com/danqingyinmo1/status/2080042105469292655/photo/1",
+              "media_key": "3_2080041554954375168",
+              "start": 44,
+              "url": "https://t.co/s0n0TAUzHY"
+            },
+            {
+              "display_url": "pic.x.com/s0n0TAUzHY",
+              "end": 67,
+              "expanded_url": "https://x.com/danqingyinmo1/status/2080042105469292655/photo/1",
+              "media_key": "3_2080041554954379264",
+              "start": 44,
+              "url": "https://t.co/s0n0TAUzHY"
+            },
+            {
+              "display_url": "pic.x.com/s0n0TAUzHY",
+              "end": 67,
+              "expanded_url": "https://x.com/danqingyinmo1/status/2080042105469292655/photo/1",
+              "media_key": "3_2080041757157605376",
+              "start": 44,
+              "url": "https://t.co/s0n0TAUzHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080042105469292655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 349,
+          "impression_count": 27899,
+          "like_count": 1382,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 169
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得wedge穿这个会很有意思，所以，我画了一个\n#escapefromtarkov https://t.co/s0n0TAUzHY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 1798,
+          "like_count": 17285,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 7527
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-06T16:58:16.000Z",
+        "description": "丹青殷墨，正在画画的路上前进",
+        "id": "1522621726085062657",
+        "name": "丹青殷墨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042766962330390528/rs1FIDXn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 53,
+          "like_count": 27,
+          "listed_count": 3,
+          "media_count": 28,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "danqingyinmo1",
+        "verified": false
+      }
+    ]
+  }
+}

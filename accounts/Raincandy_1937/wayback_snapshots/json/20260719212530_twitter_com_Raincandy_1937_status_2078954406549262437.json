@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2078954406549262437",
+    "created_at": "2026-07-19T21:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T22:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078954406549262437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1648747950951256064",
+          "start": 3,
+          "username": "cleoclos"
+        },
+        {
+          "end": 21,
+          "id": "1664742004423794688",
+          "start": 14,
+          "username": "rwayne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078954406549262437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078781461986202054",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cleoclos: @rwayne 做题蛆喜欢拿技校装逼自嘲，真被人当技校了还急了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2078954406549262437",
+        "created_at": "2026-07-19T21:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T22:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078954406549262437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1648747950951256064",
+              "start": 3,
+              "username": "cleoclos"
+            },
+            {
+              "end": 21,
+              "id": "1664742004423794688",
+              "start": 14,
+              "username": "rwayne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078954406549262437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078781461986202054",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cleoclos: @rwayne 做题蛆喜欢拿技校装逼自嘲，真被人当技校了还急了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648747950951256064",
+        "conversation_id": "2078497269075378311",
+        "created_at": "2026-07-19T09:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078781461986202054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1664742004423794688",
+              "start": 0,
+              "username": "rwayne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078781461986202054",
+        "in_reply_to_user_id": "1664742004423794688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9292,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078497269075378311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rwayne 做题蛆喜欢拿技校装逼自嘲，真被人当技校了还急了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062765522014633984/oH8KlQMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 1799,
+          "like_count": 17272,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 7517
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T17:58:49.000Z",
+        "description": "",
+        "id": "1648747950951256064",
+        "name": "Prometheus",
+        "pinned_tweet_id": "1726984030443467196",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 160,
+          "like_count": 673,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 5690
+        },
+        "url": "",
+        "username": "cleoclos",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T21:13:29.000Z",
+        "description": "医学，经济学与人工智能交叉领域段子手研究员🤡\n我的科研Skill：rw-research-skill\n发段子是因为科研很压抑了...😅",
+        "id": "1664742004423794688",
+        "location": "Australia",
+        "name": "Roland.W",
+        "pinned_tweet_id": "2077401955387982126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52848,
+          "following_count": 782,
+          "like_count": 39255,
+          "listed_count": 274,
+          "media_count": 6365,
+          "tweet_count": 21013
+        },
+        "url": "",
+        "username": "rwayne",
+        "verified": true
+      }
+    ]
+  }
+}

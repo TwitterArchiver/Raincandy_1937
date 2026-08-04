@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2083578800068341914",
+    "created_at": "2026-08-02T10:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083867227481415871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1811429986752155648",
+          "start": 0,
+          "username": "LemuSakuya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083867227481415871",
+    "in_reply_to_user_id": "1811429986752155648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083578800068341914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LemuSakuya 跟你放什麼沒關係，你放個習近平在裡面她也會想辦法控制你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2083578797316882432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpb4HubwAAvXQF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2083578800068341914",
+        "created_at": "2026-08-02T10:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083867227481415871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1811429986752155648",
+              "start": 0,
+              "username": "LemuSakuya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083867227481415871",
+        "in_reply_to_user_id": "1811429986752155648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083578800068341914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LemuSakuya 跟你放什麼沒關係，你放個習近平在裡面她也會想辦法控制你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083578797316882432"
+          ]
+        },
+        "author_id": "1811429986752155648",
+        "conversation_id": "2083578800068341914",
+        "created_at": "2026-08-01T15:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083578800068341914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dYyq9K5102",
+              "end": 140,
+              "expanded_url": "https://x.com/LemuSakuya/status/2083578800068341914/photo/1",
+              "media_key": "3_2083578797316882432",
+              "start": 117,
+              "url": "https://t.co/dYyq9K5102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083578800068341914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 23980,
+          "like_count": 468,
+          "quote_count": 3,
+          "reply_count": 42,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "老妈：以后不要带这么不男不女的包出来了\n老妈：这很明显是个女生背的包，里面的都是女生\n我：（其实那是个男生）\n老妈：也不知道为什么你变成这样子，我们家里都很正常的\n老妈：孩子你的性取向一定要对，你一个男生，你知道一定要喜欢男生的东西 https://t.co/dYyq9K5102"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 1788,
+          "like_count": 17453,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 7594
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T15:59:15.000Z",
+        "description": "中國大陸，人工智能專業，計算機協會前會長，非常喜歡可愛的東西，喜歡女裝！ovo\n分區：音游丨東方 Project丨泛 VOCALOID丨Arknights丨Project Sekai\n推：Hatsune Miku丨Hakurei Reimu丨Akiyama Mizuki\nQQ：3346769277\n@ymyx52519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "ymyx52519"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lemusakuya.com",
+                "end": 23,
+                "expanded_url": "https://lemusakuya.com",
+                "start": 0,
+                "url": "https://t.co/OnSpaOwQQr"
+              }
+            ]
+          }
+        },
+        "id": "1811429986752155648",
+        "location": "廣州/長沙",
+        "name": "LemuSakuya",
+        "pinned_tweet_id": "2064141516256485490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023947498935775232/hblT3pN2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 868,
+          "like_count": 4674,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 1462
+        },
+        "url": "https://t.co/OnSpaOwQQr",
+        "username": "LemuSakuya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2081268710489440725",
+    "created_at": "2026-07-26T06:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T07:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081268710489440725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1444716723978981380",
+          "start": 3,
+          "username": "EleanorAnatidae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081268710489440725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081005488460706152",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EleanorAnatidae: 看到了法国总统马克龙对王虹获得菲尔兹奖的祝贺内容，然后发现——\n国内的官方媒体，刻意截取掉了我视频里的这段，大意：王虹是一个很好的榜样，可以吸引更多的年轻女孩投身研究和科学领域\n（找了一段带英语字幕的视频，大家听不懂法语的可以看字幕）…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24793,
+        "height": 2868,
+        "media_key": "13_2081005295657259008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081005295657259008/img/uZhU_T0FLj7vVqEy.jpg",
+        "public_metrics": {
+          "view_count": 1378
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081005295657259008/vid/avc1/720x1564/FNiE2ErGZIiwnTF8.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081005295657259008/vid/avc1/320x694/pl68yxCiEJ2QcasM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081005295657259008/pl/k2CEya4PLXMBOySD.m3u8?v=51a"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081005295657259008/vid/avc1/480x1042/e66_ccJN1KDmf4tp.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081005295657259008/vid/avc1/1320x2868/0QZEVQ_0a9pvkhHV.mp4"
+          }
+        ],
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2081268710489440725",
+        "created_at": "2026-07-26T06:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081268710489440725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1444716723978981380",
+              "start": 3,
+              "username": "EleanorAnatidae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081268710489440725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081005488460706152",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EleanorAnatidae: 看到了法国总统马克龙对王虹获得菲尔兹奖的祝贺内容，然后发现——\n国内的官方媒体，刻意截取掉了我视频里的这段，大意：王虹是一个很好的榜样，可以吸引更多的年轻女孩投身研究和科学领域\n（找了一段带英语字幕的视频，大家听不懂法语的可以看字幕）…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081005295657259008"
+          ]
+        },
+        "author_id": "1444716723978981380",
+        "conversation_id": "2081005488460706152",
+        "created_at": "2026-07-25T13:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081005488460706152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EPV09thHdB",
+              "end": 189,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2081005488460706152/video/1",
+              "media_key": "13_2081005295657259008",
+              "start": 166,
+              "url": "https://t.co/EPV09thHdB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081005488460706152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看到了法国总统马克龙对王虹获得菲尔兹奖的祝贺内容，然后发现——\n国内的官方媒体，刻意截取掉了我视频里的这段，大意：王虹是一个很好的榜样，可以吸引更多的年轻女孩投身研究和科学领域\n（找了一段带英语字幕的视频，大家听不懂法语的可以看字幕）\nEt aussi pour les jeunes filles , c'est un\ntres beau modèle .\nPour moi,c'est important qu'on le fasse\ns’avoir.\nParce qu'il y a beaucoup de jeunes filles qu'on veut attirer dans les metiers\nscientifiques et la recherche.\n不敢放出来，是在害怕什么啊？\n现实就是，一个女孩想选理工科就是“脑子笨不适合学”，喜欢枪械就是“小姑娘得文静一点”，想去现场和危险环境就会被“你一个小姑娘不能这样”，就算是值个夜班、拉去偏远地区，也要“照顾女同志”，这真的是照顾吗？\n联想到身边，某些学校把获奖者的黄头发用AI改成黑色，把跨女获奖者说成男性；\n联想到王虹本人说Collage给她的是Discourage\n联想到无论是在校园，还是在职场，官方都在努力维持它那一套劳保叙事，就会因为身份感受到巨大的恶意和排挤，我就觉得真的挺可悲的（叹气）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3095,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "看到了法国总统马克龙对王虹获得菲尔兹奖的祝贺内容，然后发现——\n国内的官方媒体，刻意截取掉了我视频里的这段，大意：王虹是一个很好的榜样，可以吸引更多的年轻女孩投身研究和科学领域\n（找了一段带英语字幕的视频，大家听不懂法语的可以看字幕）\nEt aussi pour les jeunes filles , c'est un\ntres https://t.co/EPV09thHdB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 1801,
+          "like_count": 17314,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 7536
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "恋人👩‍❤️‍👩🦌@aliciathesika/姐姐🐇@Shirlene_girl /写代码的/一起来给贫困孩子捐赠物资吧❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 41,
+                "start": 27,
+                "username": "Shirlene_girl"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "pinned_tweet_id": "2041053609320964326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044799701971832832/750oUfl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4047,
+          "following_count": 1740,
+          "like_count": 31833,
+          "listed_count": 10,
+          "media_count": 92,
+          "tweet_count": 7210
+        },
+        "url": "",
+        "username": "EleanorAnatidae",
+        "verified": true
+      }
+    ]
+  }
+}

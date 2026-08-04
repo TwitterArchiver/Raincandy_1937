@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2081242633930944698",
+    "created_at": "2026-07-27T21:23:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T22:23:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081853128526500152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081853128526500152",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081242633930944698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 這麼好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2081242633930944698",
+        "created_at": "2026-07-27T21:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T22:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081853128526500152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081853128526500152",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081242633930944698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 這麼好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2081242633930944698",
+        "created_at": "2026-07-26T04:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081242633930944698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081242633930944698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2062,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主包正逛街呢，同伴过来了。\n\n先鬼鬼祟祟和我说“你知不知道三角洲？”\n我说知道啊…\n“里面有个人和你长得好像啊…”\n……\n我就想不会又是那位吧…\n\n去看立牌…果然…\n又被人说长得像麦小雯了。😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 1798,
+          "like_count": 17356,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 7555
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "太阳应该燃烧。❤️我也有足够的爱。/一个热烈、分享欲强、情绪丰富、愿意给予的小孩。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2079584347494211710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7523,
+          "following_count": 4536,
+          "like_count": 43553,
+          "listed_count": 18,
+          "media_count": 3201,
+          "tweet_count": 43141
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

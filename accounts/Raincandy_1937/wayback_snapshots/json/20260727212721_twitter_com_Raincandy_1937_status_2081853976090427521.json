@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2080642079282348334",
+    "created_at": "2026-07-27T21:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T22:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081853976090427521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1359104118028046345",
+          "start": 0,
+          "username": "celesfleur"
+        },
+        {
+          "end": 23,
+          "id": "1565895325944270849",
+          "start": 12,
+          "username": "raycat2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081853976090427521",
+    "in_reply_to_user_id": "1359104118028046345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080646408319672592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@celesfleur @raycat2021 正如留言所說的，中國宗教是白名單制度，而且他們還會在中學時期的政治課本裡面潛移默化地給學生灌輸這種制度，讓他們從小對宗教產生不良的偏見"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2080642079282348334",
+        "created_at": "2026-07-27T21:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T22:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081853976090427521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359104118028046345",
+              "start": 0,
+              "username": "celesfleur"
+            },
+            {
+              "end": 23,
+              "id": "1565895325944270849",
+              "start": 12,
+              "username": "raycat2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081853976090427521",
+        "in_reply_to_user_id": "1359104118028046345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080646408319672592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@celesfleur @raycat2021 正如留言所說的，中國宗教是白名單制度，而且他們還會在中學時期的政治課本裡面潛移默化地給學生灌輸這種制度，讓他們從小對宗教產生不良的偏見"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359104118028046345",
+        "conversation_id": "2080642079282348334",
+        "created_at": "2026-07-24T13:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080646408319672592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1565895325944270849",
+              "start": 0,
+              "username": "raycat2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080646408319672592",
+        "in_reply_to_user_id": "1565895325944270849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 20370,
+          "like_count": 431,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080642079282348334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raycat2021 中國法律怕是要規定這種宗教是邪教"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 1798,
+          "like_count": 17359,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 7557
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-09T11:38:01.000Z",
+        "description": "not your keys not your coins",
+        "id": "1359104118028046345",
+        "location": "El Salvador",
+        "name": "Celeste",
+        "pinned_tweet_id": "1999660279215587727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866101075524427776/g34KzSo1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 619,
+          "like_count": 31835,
+          "listed_count": 6,
+          "media_count": 114,
+          "tweet_count": 6866
+        },
+        "url": "",
+        "username": "celesfleur",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-03T02:52:04.000Z",
+        "description": "Mont Pelerin的信徒｜Satoshi的服务生；订阅“老猫美股研究” https://t.co/WQAycdVtUV，解剖美股机会/趋势",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "raycat.substack.com",
+                "end": 62,
+                "expanded_url": "http://raycat.substack.com",
+                "start": 39,
+                "url": "https://t.co/WQAycdVtUV"
+              }
+            ]
+          }
+        },
+        "id": "1565895325944270849",
+        "location": "Land of Abundance",
+        "name": "徐老猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1593960369914933248/IWhkfyKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120381,
+          "following_count": 1032,
+          "like_count": 19178,
+          "listed_count": 1369,
+          "media_count": 3648,
+          "tweet_count": 11379
+        },
+        "url": "",
+        "username": "raycat2021",
+        "verified": true
+      }
+    ]
+  }
+}

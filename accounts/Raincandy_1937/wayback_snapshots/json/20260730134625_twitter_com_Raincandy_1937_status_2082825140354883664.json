@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2082491369054957569"
+      ],
+      "media_source_tweet_id": [
+        "2082491382141178061"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2082825140354883664",
+    "created_at": "2026-07-30T13:46:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:46:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082825140354883664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1997405129574846464",
+          "start": 3,
+          "username": "Rotten_fraise"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PLCYzefhnV",
+          "end": 113,
+          "expanded_url": "https://x.com/Rotten_fraise/status/2082491382141178061/photo/1",
+          "media_key": "16_2082491369054957569",
+          "start": 90,
+          "url": "https://t.co/PLCYzefhnV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082825140354883664",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1458
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082491382141178061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rotten_fraise: whoever said that teenage years were the best years of life was LYING. https://t.co/PLCYzefhnV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 234,
+        "media_key": "16_2082491369054957569",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HOZ-3dxWcAEGsUR.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HOZ-3dxWcAEGsUR.mp4"
+          }
+        ],
+        "width": 230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2082491369054957569"
+          ]
+        },
+        "author_id": "1997405129574846464",
+        "conversation_id": "2082491382141178061",
+        "created_at": "2026-07-29T15:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082491382141178061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PLCYzefhnV",
+              "end": 94,
+              "expanded_url": "https://x.com/Rotten_fraise/status/2082491382141178061/photo/1",
+              "media_key": "16_2082491369054957569",
+              "start": 71,
+              "url": "https://t.co/PLCYzefhnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082491382141178061",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 26599,
+          "like_count": 4136,
+          "quote_count": 38,
+          "reply_count": 23,
+          "retweet_count": 1458
+        },
+        "reply_settings": "everyone",
+        "text": "whoever said that teenage years were the best years of life was LYING. https://t.co/PLCYzefhnV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2082491369054957569"
+          ],
+          "media_source_tweet_id": [
+            "2082491382141178061"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2082825140354883664",
+        "created_at": "2026-07-30T13:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082825140354883664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1997405129574846464",
+              "start": 3,
+              "username": "Rotten_fraise"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PLCYzefhnV",
+              "end": 113,
+              "expanded_url": "https://x.com/Rotten_fraise/status/2082491382141178061/photo/1",
+              "media_key": "16_2082491369054957569",
+              "start": 90,
+              "url": "https://t.co/PLCYzefhnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082825140354883664",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1458
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082491382141178061",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rotten_fraise: whoever said that teenage years were the best years of life was LYING. https://t.co/PLCYzefhnV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 1797,
+          "like_count": 17424,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 7580
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T20:38:57.000Z",
+        "description": "꒰ ⑅ ᐡ hiro ᐡ ⑅ ꒱\n.　　૮․ ․ ྀིა　pure slop account atpᲘ⑅𐑼\n　( ˊo̴̶̷̤ ̫ o̴̶̷̤ˋ) ී᳝᳝.๑　 ♡\n\n　　　　꒰𓏼´  `𓏼  ྀིᥩ　 :　  　#shedtwt\n𓏵𓊆ྀི❤︎𓊇ྀི𓏵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "shedtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rentry.co/hirobun",
+                "end": 23,
+                "expanded_url": "https://rentry.co/hirobun",
+                "start": 0,
+                "url": "https://t.co/ES1YgpOUBn"
+              }
+            ]
+          }
+        },
+        "id": "1997405129574846464",
+        "name": "hiro Ი⑅𐑼",
+        "pinned_tweet_id": "2054901448496812315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018574291319545856/js9eSgSv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2316,
+          "following_count": 2104,
+          "like_count": 29384,
+          "listed_count": 28,
+          "media_count": 1520,
+          "tweet_count": 4624
+        },
+        "url": "https://t.co/ES1YgpOUBn",
+        "username": "Rotten_fraise",
+        "verified": false
+      }
+    ]
+  }
+}

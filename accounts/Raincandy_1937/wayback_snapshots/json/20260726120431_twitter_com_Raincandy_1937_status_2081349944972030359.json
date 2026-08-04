@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      }
+    ],
+    "conversation_id": "2081349944972030359",
+    "created_at": "2026-07-26T12:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081349944972030359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1761861143780528128",
+          "start": 3,
+          "username": "Fingding8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081349944972030359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 400
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080998178544099428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fingding8964: 给国内翻墙网友的一份安全自查手册。最近风声紧，很多朋友还在用日常手机直接翻墙，这非常危险。整理了一份最基本的隔离操作指南，核心原则只有一个：让墙外的你，和墙内的你在物理上彻底是两个人。\n\n一、 设备隔离：一机一用，永不交叉\n这是所有安全的基础…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2081349944972030359",
+        "created_at": "2026-07-26T12:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081349944972030359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1761861143780528128",
+              "start": 3,
+              "username": "Fingding8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081349944972030359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 400
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080998178544099428",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fingding8964: 给国内翻墙网友的一份安全自查手册。最近风声紧，很多朋友还在用日常手机直接翻墙，这非常危险。整理了一份最基本的隔离操作指南，核心原则只有一个：让墙外的你，和墙内的你在物理上彻底是两个人。\n\n一、 设备隔离：一机一用，永不交叉\n这是所有安全的基础…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761861143780528128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2080998178544099428",
+        "created_at": "2026-07-25T12:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080998178544099428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fingding8964/s…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/Fingding8964/status/2080272896279421127",
+              "start": 139,
+              "url": "https://t.co/JsBEDvhUau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080998178544099428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "ipleak.net",
+                "end": 1286,
+                "expanded_url": "http://ipleak.net",
+                "start": 1263,
+                "url": "https://t.co/V9MaBQ4tkF"
+              },
+              {
+                "display_url": "dnsleaktest.com",
+                "end": 1312,
+                "expanded_url": "http://dnsleaktest.com",
+                "start": 1289,
+                "url": "https://t.co/YlXUv52xsN"
+              }
+            ]
+          },
+          "text": "给国内翻墙网友的一份安全自查手册。最近风声紧，很多朋友还在用日常手机直接翻墙，这非常危险。整理了一份最基本的隔离操作指南，核心原则只有一个：让墙外的你，和墙内的你在物理上彻底是两个人。\n\n一、 设备隔离：一机一用，永不交叉\n这是所有安全的基础。\n\n1. 准备一台专用的翻墙手机\n这台手机只做一件事：翻墙。不要让它承担任何其他功能。\n无卡，无号： 手机里永远不要插国内的SIM卡，彻底拔掉。只要有卡，基站就能对你三角定位，无论你开不开VPN。\n\n只用外版iPhone： 强烈不建议使用安卓机，尤其是2021年后生产的国产安卓机，系统底层普遍存在合规上报接口。外版iPhone相对干净，也没有国内定制ROM。\n绝对干净： 这台手机上，除了代理软件，什么都不要装。微信、支付宝、淘宝、美团、抖音、百度地图、高德、拼多多，一个都不能有。\n\n为什么？因为你连着VPN打开美团的瞬间，你的VPN出口IP就和你的家庭收货地址、外卖地址永久关联了。警察不需要破解VPN，他只需要查美团的数据。\n\n2. 身份隔离：手机号是最大的漏洞\n\n千万不要用 +86 手机号去注册任何墙外服务，包括 Telegram、X (推特)、Gmail、Instagram。\n\n你收一条验证码，运营商的网关有完整记录。现在所有记录都是AI自动分析并推送的。通过一个手机号，就能把你所有的外网账号一网打尽。\n\n你需要的是：一个用海外邮箱注册的外区 Apple ID，付款方式与国内身份完全无关。\n\n二、 系统隔离：把手机的嘴堵上\n\niPhone拿到手之后，先做这几件事：\n1. 切断所有上报通道\n进入 设置 > 隐私与安全：\n关闭所有App的定位服务，只给地图类代理软件开“使用期间”。关闭“系统服务”里的所有定位。\n进入 设置 > 隐私与安全 > 跟踪，关闭“允许App请求跟踪”。\n进入 设置 > 隐私与安全 > 分析与改进，把“共享iPhone分析”、“共享iCloud分析”全部关闭。\n\n2. 切断云同步\n永远、永远不要在这台翻墙机上登录你日常使用的 iCloud 账号。一旦登录，通讯录、照片、钥匙串、Safari记录会瞬间合并，你之前的隔离就全白费了。\n关闭 iCloud 钥匙串和 Safari 自动填充，里面可能存着你的真实身份。\n\n3. 开启锁定模式\niOS 16以上，设置 > 隐私与安全 > 锁定模式。开启它。可以有效防御绝大部分零点击的木马和间谍软件攻击。\n\n三、 网络隔离：防止你的真实IP一秒泄露\n1. 必须开启 Kill Switch (断网开关)\n这是VPN客户端里最重要的功能。一定要设置成“VPN断开时，自动切断所有网络”。否则VPN闪断的那1秒，你的真实IP就已经发到服务器上了。\n2. 使用带混淆的协议\n传统的 OpenVPN、L2TP 特征太明显，很容易被识别和阻断。现在尽量使用 VLESS + Reality / Hysteria2 / TUIC 这类抗封锁协议。\n\n3. 检查DNS和WebRTC泄露\n打开浏览器，访问 https://t.co/V9MaBQ4tkF 或 https://t.co/YlXUv52xsN 做一次检测。如果DNS显示还是联通、电信、移动的DNS，就说明你的代理在漏水，赶紧换客户端。\n4. 正确的连接姿势\n拔掉SIM卡 > 打开飞行模式 > 再手动打开WiFi连接网络。这样可以保证你完全通过WiFi上网，杜绝基站定位。\n尽量使用自己的家庭宽带，不要用需要实名认证的公共WiFi。\n\n四、 行为隔离：比技术更重要的，是习惯\n\n技术上的漏洞可以补，人行为上的漏洞是致命的。\n1. 时间和空间不要重叠\n不要让你的翻墙手机24小时在线挂在家里。不要把它带到你的工作单位。更不要出现这种情况：你的日常手机正在用美团点外卖，外卖地址是你家，而你的翻墙手机同时在线。这两个行为一关联，地址就锁定了。\n\n2. 绝对不要互相导流\n不要把墙外看到的内容截图，然后用微信、QQ转发给朋友。截图会包含设备信息，而国产社交软件会扫描你的相册。要转发，请用文字转述。\n翻墙机和日常机，不要连同一个WiFi，不要互相开热点。最好、最彻底的做法是给翻墙机单独配一个不记名的随身WiFi。\n\n3. 支付彻底分开\n购买VPN、购买海外服务，绝对不能用支付宝、微信支付、银联卡。这会直接形成资金链关联。使用加密货币、海外礼品卡等方式。\n\n最后总结\n请大家记住这个模型：\n\n日常手机 = 你的身份证 + 你的家庭住址\n翻墙手机 = 一个在现实世界中完全不存在的幽灵\n你做的所有安全措施，都是为了防止这两个身份产生任何交集。只要有一次交集，所有的隔离就都失效了。\n\n这份手册不是让你恐慌，而是希望你在不安全的环境里，能多一分安全。\n请务必转发给身边还在用大号裸奔翻墙的朋友。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2432,
+          "impression_count": 557508,
+          "like_count": 2266,
+          "quote_count": 9,
+          "reply_count": 156,
+          "retweet_count": 400
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080272896279421127",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给国内翻墙网友的一份安全自查手册。最近风声紧，很多朋友还在用日常手机直接翻墙，这非常危险。整理了一份最基本的隔离操作指南，核心原则只有一个：让墙外的你，和墙内的你在物理上彻底是两个人。\n\n一、 设备隔离：一机一用，永不交叉\n这是所有安全的基础。\n\n1. 准备一台专用的翻墙手机 https://t.co/JsBEDvhUau"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 1800,
+          "like_count": 17327,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 7544
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T21:10:21.000Z",
+        "description": "居落基山下，看世界变局。\n基督徒 / 保守主义者 / 独立时评人。\n经济学视角的理性观察者，\n偶作杂文与趣谈。\n我哋真係好撚鐘意香港。\n替中共说话，宣传的、抬杠的，谩骂的一律拉黑。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/findingca",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/findingca",
+                "start": 0,
+                "url": "https://t.co/QoKyeAKHxu"
+              }
+            ]
+          }
+        },
+        "id": "1761861143780528128",
+        "location": "North American",
+        "name": "Finding🇨🇦🇺🇸",
+        "pinned_tweet_id": "2080089077282697720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072883597418328064/bdooq1RW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25548,
+          "following_count": 5068,
+          "like_count": 57961,
+          "listed_count": 119,
+          "media_count": 1218,
+          "tweet_count": 29171
+        },
+        "url": "https://t.co/QoKyeAKHxu",
+        "username": "Fingding8964",
+        "verified": true
+      }
+    ]
+  }
+}

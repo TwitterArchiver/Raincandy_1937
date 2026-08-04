@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2083868159384449125",
+    "created_at": "2026-08-02T10:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083868159384449125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/innocentb1tch_…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/innocentb1tch_/status/2083436811217690764",
+          "start": 23,
+          "url": "https://t.co/j14rpjD1gV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083868159384449125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083436811217690764",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好不容易在推上刷到一條真畜牲拉出來給你們看看 https://t.co/j14rpjD1gV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2083868159384449125",
+        "created_at": "2026-08-02T10:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083868159384449125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/innocentb1tch_…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/innocentb1tch_/status/2083436811217690764",
+              "start": 23,
+              "url": "https://t.co/j14rpjD1gV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083868159384449125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083436811217690764",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好不容易在推上刷到一條真畜牲拉出來給你們看看 https://t.co/j14rpjD1gV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491134477162008576",
+        "conversation_id": "2083436811217690764",
+        "created_at": "2026-08-01T06:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083436811217690764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083436811217690764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 109825,
+          "like_count": 690,
+          "quote_count": 48,
+          "reply_count": 208,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "老是刷到说自己哪个哪个朋友死了去天堂了，讣告里把ta描述的像个天使一样，怀着惋惜的心情点进主页一看又是一群聚众自残od注射卖b的小众神人嗯嗯嗯嗯。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 1789,
+          "like_count": 17455,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 7596
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T19:39:15.000Z",
+        "description": "想你真的太痛甚至超过一把刀",
+        "id": "1491134477162008576",
+        "name": "你们都是我的杯子",
+        "pinned_tweet_id": "2065131670140043570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073854250128384000/Q_04-h1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3432,
+          "following_count": 24,
+          "like_count": 4513,
+          "listed_count": 6,
+          "media_count": 124,
+          "tweet_count": 1064
+        },
+        "url": "",
+        "username": "InnocentB1tch_",
+        "verified": false
+      }
+    ]
+  }
+}

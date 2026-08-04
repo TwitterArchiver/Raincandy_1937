@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081337991851839488"
+      ],
+      "media_source_tweet_id": [
+        "2081338003469836345"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2081657457164841008",
+    "created_at": "2026-07-27T08:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081657457164841008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1602328096622800896",
+          "start": 3,
+          "username": "dutyge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bs31sswXzU",
+          "end": 60,
+          "expanded_url": "https://x.com/dutyge/status/2081338003469836345/photo/1",
+          "media_key": "3_2081337991851839488",
+          "start": 37,
+          "url": "https://t.co/Bs31sswXzU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081657457164841008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 159
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081338003469836345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dutyge: 丘成桐邀请王虹邓煜回国任教，你怎么看？\n\n如图。 https://t.co/Bs31sswXzU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1467,
+        "media_key": "3_2081337991851839488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJl4E3akAADhwN.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081337991851839488"
+          ]
+        },
+        "author_id": "1602328096622800896",
+        "conversation_id": "2081338003469836345",
+        "created_at": "2026-07-26T11:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081338003469836345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bs31sswXzU",
+              "end": 48,
+              "expanded_url": "https://x.com/dutyge/status/2081338003469836345/photo/1",
+              "media_key": "3_2081337991851839488",
+              "start": 25,
+              "url": "https://t.co/Bs31sswXzU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081338003469836345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 72465,
+          "like_count": 1639,
+          "quote_count": 6,
+          "reply_count": 79,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "丘成桐邀请王虹邓煜回国任教，你怎么看？\n\n如图。 https://t.co/Bs31sswXzU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081337991851839488"
+          ],
+          "media_source_tweet_id": [
+            "2081338003469836345"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2081657457164841008",
+        "created_at": "2026-07-27T08:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081657457164841008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1602328096622800896",
+              "start": 3,
+              "username": "dutyge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bs31sswXzU",
+              "end": 60,
+              "expanded_url": "https://x.com/dutyge/status/2081338003469836345/photo/1",
+              "media_key": "3_2081337991851839488",
+              "start": 37,
+              "url": "https://t.co/Bs31sswXzU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081657457164841008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 159
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081338003469836345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dutyge: 丘成桐邀请王虹邓煜回国任教，你怎么看？\n\n如图。 https://t.co/Bs31sswXzU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 1799,
+          "like_count": 17344,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 7550
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:42:59.000Z",
+        "description": "失业报道采集检索",
+        "id": "1602328096622800896",
+        "location": "颐和园路",
+        "name": "失业观察日报",
+        "pinned_tweet_id": "1704100809909080560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913529297802756096/Zhm8-Qqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57969,
+          "following_count": 96,
+          "like_count": 0,
+          "listed_count": 280,
+          "media_count": 9171,
+          "tweet_count": 15375
+        },
+        "url": "",
+        "username": "dutyge",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2082115927257256254",
+    "created_at": "2026-07-28T14:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T15:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082115927257256254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2081655831528083908",
+          "start": 32,
+          "url": "https://t.co/UYAc92uTmn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082115927257256254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081655831528083908",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我們從不認為哪裡有人間天堂\n我們只是想從地獄出來，找個人間生長 https://t.co/UYAc92uTmn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2211,
+        "media_key": "3_2081654116133068800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOFY7lXYAAg5Jj.jpg",
+        "width": 1028
+      },
+      {
+        "height": 2384,
+        "media_key": "3_2081654681097367553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOF50PWcAELpFr.jpg",
+        "width": 1172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2082115927257256254",
+        "created_at": "2026-07-28T14:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082115927257256254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2081655831528083908",
+              "start": 32,
+              "url": "https://t.co/UYAc92uTmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082115927257256254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081655831528083908",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我們從不認為哪裡有人間天堂\n我們只是想從地獄出來，找個人間生長 https://t.co/UYAc92uTmn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081654116133068800",
+            "3_2081654681097367553"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2081655831528083908",
+        "created_at": "2026-07-27T08:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081655831528083908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nM3gAyudPi",
+              "end": 38,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2081655831528083908/photo/1",
+              "media_key": "3_2081654116133068800",
+              "start": 15,
+              "url": "https://t.co/nM3gAyudPi"
+            },
+            {
+              "display_url": "pic.x.com/nM3gAyudPi",
+              "end": 38,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2081655831528083908/photo/1",
+              "media_key": "3_2081654681097367553",
+              "start": 15,
+              "url": "https://t.co/nM3gAyudPi"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2080981387612696602",
+              "start": 39,
+              "url": "https://t.co/6zrzbXSRXL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081655831528083908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 289,
+          "impression_count": 872756,
+          "like_count": 1638,
+          "quote_count": 11,
+          "reply_count": 104,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080981387612696602",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“不要寻找故土，要找沃土。” https://t.co/nM3gAyudPi https://t.co/6zrzbXSRXL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 1797,
+          "like_count": 17371,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 7558
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244242,
+          "following_count": 1082,
+          "like_count": 9819,
+          "listed_count": 8833,
+          "media_count": 51213,
+          "tweet_count": 58441
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

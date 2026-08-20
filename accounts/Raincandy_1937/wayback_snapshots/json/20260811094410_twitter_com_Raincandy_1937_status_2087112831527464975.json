@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086338276454240257",
+        "3_2086338276512993280",
+        "3_2086338276412280832"
+      ],
+      "media_source_tweet_id": [
+        "2086338283425128472",
+        "2086338283425128472",
+        "2086338283425128472"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087112831527464975",
+    "created_at": "2026-08-11T09:44:10.000Z",
+    "display_text_range": [
+      0,
+      129
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T10:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087112831527464975"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 85,
+          "start": 76,
+          "tag": "wangwang"
+        },
+        {
+          "end": 105,
+          "start": 86,
+          "tag": "justiceforwangwang"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1575765089030139905",
+          "start": 3,
+          "username": "wodanggangqiang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8r3Fy5FWEQ",
+          "end": 129,
+          "expanded_url": "https://x.com/wodanggangqiang/status/2086338283425128472/photo/1",
+          "media_key": "3_2086338276454240257",
+          "start": 106,
+          "url": "https://t.co/8r3Fy5FWEQ"
+        },
+        {
+          "display_url": "pic.x.com/8r3Fy5FWEQ",
+          "end": 129,
+          "expanded_url": "https://x.com/wodanggangqiang/status/2086338283425128472/photo/1",
+          "media_key": "3_2086338276512993280",
+          "start": 106,
+          "url": "https://t.co/8r3Fy5FWEQ"
+        },
+        {
+          "display_url": "pic.x.com/8r3Fy5FWEQ",
+          "end": 129,
+          "expanded_url": "https://x.com/wodanggangqiang/status/2086338283425128472/photo/1",
+          "media_key": "3_2086338276412280832",
+          "start": 106,
+          "url": "https://t.co/8r3Fy5FWEQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087112831527464975",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086338276454240257"
+      },
+      {
+        "media_key": "3_2086338276512993280"
+      },
+      {
+        "media_key": "3_2086338276412280832"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086338283425128472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wodanggangqiang: 刚才想把淘宝名称改成：不要忘记旺旺啊，发现违规，于是尝试更改为其它，后来才明白“旺旺”在淘宝已经属于违规昵称。#wangwang #justiceforwangwang https://t.co/8r3Fy5FWEQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1812,
+        "media_key": "3_2086338276454240257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQpm8lbEAE2txY.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2086338276512993280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQpm8zbkAAnuIz.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1631,
+        "media_key": "3_2086338276412280832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQpm8ba0AAfEq6.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086338276454240257",
+            "3_2086338276512993280",
+            "3_2086338276412280832"
+          ]
+        },
+        "author_id": "1575765089030139905",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086338283425128472",
+        "created_at": "2026-08-09T06:26:23.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T07:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086338283425128472"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 55,
+              "tag": "wangwang"
+            },
+            {
+              "end": 84,
+              "start": 65,
+              "tag": "justiceforwangwang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8r3Fy5FWEQ",
+              "end": 108,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2086338283425128472/photo/1",
+              "media_key": "3_2086338276454240257",
+              "start": 85,
+              "url": "https://t.co/8r3Fy5FWEQ"
+            },
+            {
+              "display_url": "pic.x.com/8r3Fy5FWEQ",
+              "end": 108,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2086338283425128472/photo/1",
+              "media_key": "3_2086338276512993280",
+              "start": 85,
+              "url": "https://t.co/8r3Fy5FWEQ"
+            },
+            {
+              "display_url": "pic.x.com/8r3Fy5FWEQ",
+              "end": 108,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2086338283425128472/photo/1",
+              "media_key": "3_2086338276412280832",
+              "start": 85,
+              "url": "https://t.co/8r3Fy5FWEQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086338283425128472",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086338276454240257"
+          },
+          {
+            "media_key": "3_2086338276512993280"
+          },
+          {
+            "media_key": "3_2086338276412280832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4070,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 32,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "刚才想把淘宝名称改成：不要忘记旺旺啊，发现违规，于是尝试更改为其它，后来才明白“旺旺”在淘宝已经属于违规昵称。#wangwang #justiceforwangwang https://t.co/8r3Fy5FWEQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086338276454240257",
+            "3_2086338276512993280",
+            "3_2086338276412280832"
+          ],
+          "media_source_tweet_id": [
+            "2086338283425128472",
+            "2086338283425128472",
+            "2086338283425128472"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087112831527464975",
+        "created_at": "2026-08-11T09:44:10.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T10:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087112831527464975"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 76,
+              "tag": "wangwang"
+            },
+            {
+              "end": 105,
+              "start": 86,
+              "tag": "justiceforwangwang"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1575765089030139905",
+              "start": 3,
+              "username": "wodanggangqiang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8r3Fy5FWEQ",
+              "end": 129,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2086338283425128472/photo/1",
+              "media_key": "3_2086338276454240257",
+              "start": 106,
+              "url": "https://t.co/8r3Fy5FWEQ"
+            },
+            {
+              "display_url": "pic.x.com/8r3Fy5FWEQ",
+              "end": 129,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2086338283425128472/photo/1",
+              "media_key": "3_2086338276512993280",
+              "start": 106,
+              "url": "https://t.co/8r3Fy5FWEQ"
+            },
+            {
+              "display_url": "pic.x.com/8r3Fy5FWEQ",
+              "end": 129,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2086338283425128472/photo/1",
+              "media_key": "3_2086338276412280832",
+              "start": 106,
+              "url": "https://t.co/8r3Fy5FWEQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087112831527464975",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086338276454240257"
+          },
+          {
+            "media_key": "3_2086338276512993280"
+          },
+          {
+            "media_key": "3_2086338276412280832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086338283425128472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wodanggangqiang: 刚才想把淘宝名称改成：不要忘记旺旺啊，发现违规，于是尝试更改为其它，后来才明白“旺旺”在淘宝已经属于违规昵称。#wangwang #justiceforwangwang https://t.co/8r3Fy5FWEQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "is_identity_verified": false,
+        "location": "銀河車站",
+        "most_recent_tweet_id": "2087112831527464975",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094771136831488/1779637288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 1779,
+          "like_count": 17522,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 7632
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "is_identity_verified": true,
+        "location": "Japan",
+        "most_recent_tweet_id": "2087110363355693351",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1575765089030139905/1716443792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30558,
+          "following_count": 601,
+          "like_count": 38773,
+          "listed_count": 89,
+          "media_count": 10536,
+          "tweet_count": 29086
+        },
+        "url": "",
+        "username": "wodanggangqiang",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

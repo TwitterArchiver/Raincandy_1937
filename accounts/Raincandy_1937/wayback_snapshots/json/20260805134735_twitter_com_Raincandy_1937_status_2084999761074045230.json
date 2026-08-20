@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2084999761074045230",
+    "created_at": "2026-08-05T13:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T14:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084999761074045230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1886349915267473408",
+          "start": 3,
+          "username": "ShenDuQiePian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084999761074045230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084125995989426392",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShenDuQiePian: 出入境新规落地：当局可以不告知当事人，直接禁止出境，这就是我之前说的“文革2.0”正在落地的具体例子。\n\n14岁少年张琪沅，只因直播问了句“习近平是不是独裁者”，就被关进精神病院，再被转到特殊学校关了半年。警察拿带刺木棍威胁他。… http…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 119572,
+        "height": 2160,
+        "media_key": "13_2084122002206687232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084122002206687232/img/qmO4nh8ih0e7_xFd.jpg",
+        "public_metrics": {
+          "view_count": 37969
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084122002206687232/vid/avc1/3840x2160/Y2RoXHyshLAb5lV9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084122002206687232/vid/avc1/1280x720/uwUqH4LAEtEN_Zaa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084122002206687232/pl/EzFETmVDy5HbpZFr.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084122002206687232/vid/avc1/1920x1080/zjBWVB1Hr8E2Auza.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084122002206687232/vid/avc1/480x270/caAXNM1elh9j5iAC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084122002206687232/vid/avc1/640x360/etSmarUGp1rhUC8Z.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2084999761074045230",
+        "created_at": "2026-08-05T13:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084999761074045230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1886349915267473408",
+              "start": 3,
+              "username": "ShenDuQiePian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084999761074045230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084125995989426392",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShenDuQiePian: 出入境新规落地：当局可以不告知当事人，直接禁止出境，这就是我之前说的“文革2.0”正在落地的具体例子。\n\n14岁少年张琪沅，只因直播问了句“习近平是不是独裁者”，就被关进精神病院，再被转到特殊学校关了半年。警察拿带刺木棍威胁他。… http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084122002206687232"
+          ]
+        },
+        "author_id": "1886349915267473408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2084125995989426392",
+        "created_at": "2026-08-03T03:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084125995989426392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MwcqgUnct6",
+              "end": 138,
+              "expanded_url": "https://x.com/ShenDuQiePian/status/2084125995989426392/video/1",
+              "media_key": "13_2084122002206687232",
+              "start": 115,
+              "url": "https://t.co/MwcqgUnct6"
+            },
+            {
+              "display_url": "x.com/ShenDuQiePian/…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/ShenDuQiePian/status/2083742788622192848",
+              "start": 139,
+              "url": "https://t.co/lz2V9OhyPc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084125995989426392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 182,
+                "start": 178,
+                "tag": "张琪沅"
+              },
+              {
+                "end": 187,
+                "start": 183,
+                "tag": "文革2"
+              },
+              {
+                "end": 195,
+                "start": 189,
+                "tag": "出入境新规"
+              },
+              {
+                "end": 201,
+                "start": 196,
+                "tag": "被精神病"
+              }
+            ]
+          },
+          "text": "出入境新规落地：当局可以不告知当事人，直接禁止出境，这就是我之前说的“文革2.0”正在落地的具体例子。\n\n14岁少年张琪沅，只因直播问了句“习近平是不是独裁者”，就被关进精神病院，再被转到特殊学校关了半年。警察拿带刺木棍威胁他。\n\n从“被精神病”到边境自由说没就没，一个人的遭遇把整套高压机器暴露无遗。\n\n视频是洛杉矶领馆前的抗议现场。完整经过看回复。\n\n#张琪沅 #文革2  #出入境新规 #被精神病"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 208597,
+          "like_count": 193,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083742788622192848",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "出入境新规落地：当局可以不告知当事人，直接禁止出境，这就是我之前说的“文革2.0”正在落地的具体例子。\n\n14岁少年张琪沅，只因直播问了句“习近平是不是独裁者”，就被关进精神病院，再被转到特殊学校关了半年。警察拿带刺木棍威胁他。 https://t.co/MwcqgUnct6 https://t.co/lz2V9OhyPc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 1788,
+          "like_count": 17477,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 7609
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T09:44:14.000Z",
+        "description": "给时代做切片，为历史留证词。\n独立视角 · 现场记录 · 逻辑穿透表象\n\n深度长视频见下方链接 👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@shenduqiepian…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@shenduqiepian?si=_SmbpJvjtL6nBC_G",
+                "start": 0,
+                "url": "https://t.co/gU9jwT9OE6"
+              }
+            ]
+          }
+        },
+        "id": "1886349915267473408",
+        "location": "USA | YouTube频道：",
+        "name": "深度切片",
+        "pinned_tweet_id": "2080564985655128316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069251987074646016/dTAqrRFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2594,
+          "following_count": 112,
+          "like_count": 511,
+          "listed_count": 9,
+          "media_count": 460,
+          "tweet_count": 2998
+        },
+        "url": "https://t.co/gU9jwT9OE6",
+        "username": "ShenDuQiePian",
+        "verified": true
+      }
+    ]
+  }
+}

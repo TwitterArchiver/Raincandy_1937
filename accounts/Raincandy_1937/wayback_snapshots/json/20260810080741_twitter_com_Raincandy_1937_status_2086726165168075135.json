@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086290945923067904"
+      ],
+      "media_source_tweet_id": [
+        "2086290973404049463"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2086726165168075135",
+    "created_at": "2026-08-10T08:07:41.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T09:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086726165168075135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1653278595719081986",
+          "start": 3,
+          "username": "QuanLujun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kByLnHHrCz",
+          "end": 83,
+          "expanded_url": "https://x.com/QuanLujun/status/2086290973404049463/video/1",
+          "media_key": "13_2086290945923067904",
+          "start": 60,
+          "url": "https://t.co/kByLnHHrCz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086726165168075135",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2086290945923067904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086290973404049463",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QuanLujun: 不要忘记中国第一个举起白纸抗议中共残暴封控的南京传媒学院学生李康梦始终处于长期失联状态。 https://t.co/kByLnHHrCz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 1000,
+        "media_key": "13_2086290945923067904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086290945923067904/img/GE6P2SEtm1qhyGGZ.jpg",
+        "public_metrics": {
+          "view_count": 11275
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086290945923067904/vid/avc1/320x444/meKaP6xfKkI48jXH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086290945923067904/vid/avc1/480x666/PJ2rQnmrMbAavAbw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086290945923067904/vid/avc1/720x1000/Xqjxfrrv2CueAlgS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086290945923067904/pl/oKxLe9TMW8CoZ8U3.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086290945923067904"
+          ]
+        },
+        "author_id": "1653278595719081986",
+        "conversation_id": "2086290973404049463",
+        "created_at": "2026-08-09T03:18:24.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T04:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086290973404049463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kByLnHHrCz",
+              "end": 68,
+              "expanded_url": "https://x.com/QuanLujun/status/2086290973404049463/video/1",
+              "media_key": "13_2086290945923067904",
+              "start": 45,
+              "url": "https://t.co/kByLnHHrCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086290973404049463",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086290945923067904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 23776,
+          "like_count": 571,
+          "quote_count": 6,
+          "reply_count": 70,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "不要忘记中国第一个举起白纸抗议中共残暴封控的南京传媒学院学生李康梦始终处于长期失联状态。 https://t.co/kByLnHHrCz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086290945923067904"
+          ],
+          "media_source_tweet_id": [
+            "2086290973404049463"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2086726165168075135",
+        "created_at": "2026-08-10T08:07:41.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T09:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086726165168075135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1653278595719081986",
+              "start": 3,
+              "username": "QuanLujun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kByLnHHrCz",
+              "end": 83,
+              "expanded_url": "https://x.com/QuanLujun/status/2086290973404049463/video/1",
+              "media_key": "13_2086290945923067904",
+              "start": 60,
+              "url": "https://t.co/kByLnHHrCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086726165168075135",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086290945923067904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086290973404049463",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QuanLujun: 不要忘记中国第一个举起白纸抗议中共残暴封控的南京传媒学院学生李康梦始终处于长期失联状态。 https://t.co/kByLnHHrCz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "is_identity_verified": false,
+        "location": "銀河車站",
+        "most_recent_tweet_id": "2086726165168075135",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094771136831488/1779637288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 1778,
+          "like_count": 17518,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 7627
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-02T06:02:43.000Z",
+        "description": "台湾就是台湾；守护民主自由就是守护普世价值与人类的底线未来，对邪恶中共说不！结束习近平中共封建独裁专制纳粹暴政祸害世界；「世界需要真实的声音」 ！🔥【欢迎加入反共电报群https://t.co/xxJHoK3DNT】基督✝️文明世界必将战胜邪恶撒旦；守护民主自由/荣耀基督联盟 Luke-权录军",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+_MojCr8soxMyN…",
+                "end": 107,
+                "expanded_url": "https://t.me/+_MojCr8soxMyNGEx",
+                "start": 84,
+                "url": "https://t.co/xxJHoK3DNT"
+              }
+            ]
+          }
+        },
+        "id": "1653278595719081986",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2086721049803317483",
+        "name": "LuJun Quan",
+        "pinned_tweet_id": "2069514459455078543",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653278595719081986/1761814774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780063090182365184/OY7ky_fp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25891,
+          "following_count": 9114,
+          "like_count": 39370,
+          "listed_count": 128,
+          "media_count": 3458,
+          "tweet_count": 20981
+        },
+        "url": "",
+        "username": "QuanLujun",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

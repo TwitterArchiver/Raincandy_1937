@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "The animal rights movement, sometimes called the animal liberation movement, animal personhood, or animal advocacy movement, is a social movement which seeks an end to the rigid moral and legal distinction drawn between human and non-human animals, an end to the status of animals as property, and an end to their use in the research, food, clothing, and entertainment industries",
+          "id": "913399929548152833",
+          "name": "Animal Rights Movement"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Social causes",
+          "id": "1074751614123008000",
+          "name": "Social causes"
+        }
+      }
+    ],
+    "conversation_id": "2087112778884813311",
+    "created_at": "2026-08-11T09:43:57.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T10:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087112778884813311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2066301983993241600",
+          "start": 3,
+          "username": "qwert555551ip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087112778884813311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085641381406761232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qwert555551ip: 💔 即使澳門巴士上聲援狗媽媽「旺旺」的廣告遭到強制下架，正義與愛心依然不會被抹滅！\n\n讓人欣慰的是，今天在台灣桃園的街道上，公車上的聲援廣告依然在每個角落傳播著。這份對生命的溫柔與堅持，會繼續在台灣發光。✨\n\n邀請大家一起擴散，讓世界看見我…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2901,
+        "height": 960,
+        "media_key": "13_2085641331272298496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085641331272298496/img/0TQrfdgVoCsatMMb.jpg",
+        "public_metrics": {
+          "view_count": 621
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085641331272298496/vid/avc1/320x426/8k45UdLflabOE1M-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085641331272298496/vid/avc1/480x640/OxfllbPrUmI7VzSO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085641331272298496/vid/avc1/720x960/RUgZE_NxV65PId-U.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085641331272298496/pl/C5fqsZMeDh__CyQz.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1586,
+        "media_key": "3_2085641366261080064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGvxbzaIAAYvht.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "The animal rights movement, sometimes called the animal liberation movement, animal personhood, or animal advocacy movement, is a social movement which seeks an end to the rigid moral and legal distinction drawn between human and non-human animals, an end to the status of animals as property, and an end to their use in the research, food, clothing, and entertainment industries",
+              "id": "913399929548152833",
+              "name": "Animal Rights Movement"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Social causes",
+              "id": "1074751614123008000",
+              "name": "Social causes"
+            }
+          }
+        ],
+        "conversation_id": "2087112778884813311",
+        "created_at": "2026-08-11T09:43:57.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T10:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087112778884813311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2066301983993241600",
+              "start": 3,
+              "username": "qwert555551ip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087112778884813311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085641381406761232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qwert555551ip: 💔 即使澳門巴士上聲援狗媽媽「旺旺」的廣告遭到強制下架，正義與愛心依然不會被抹滅！\n\n讓人欣慰的是，今天在台灣桃園的街道上，公車上的聲援廣告依然在每個角落傳播著。這份對生命的溫柔與堅持，會繼續在台灣發光。✨\n\n邀請大家一起擴散，讓世界看見我…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085641331272298496",
+            "3_2085641366261080064"
+          ]
+        },
+        "author_id": "2066301983993241600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "The animal rights movement, sometimes called the animal liberation movement, animal personhood, or animal advocacy movement, is a social movement which seeks an end to the rigid moral and legal distinction drawn between human and non-human animals, an end to the status of animals as property, and an end to their use in the research, food, clothing, and entertainment industries",
+              "id": "913399929548152833",
+              "name": "Animal Rights Movement"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Social causes",
+              "id": "1074751614123008000",
+              "name": "Social causes"
+            }
+          }
+        ],
+        "conversation_id": "2085641381406761232",
+        "created_at": "2026-08-07T08:17:09.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:57:39.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085636474700230988",
+          "2085641381406761232"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 150,
+              "start": 131,
+              "tag": "JusticeForWangWang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oN3nAWmwR5",
+              "end": 174,
+              "expanded_url": "https://x.com/qwert555551ip/status/2085641381406761232/video/1",
+              "media_key": "13_2085641331272298496",
+              "start": 151,
+              "url": "https://t.co/oN3nAWmwR5"
+            },
+            {
+              "display_url": "pic.x.com/oN3nAWmwR5",
+              "end": 174,
+              "expanded_url": "https://x.com/qwert555551ip/status/2085641381406761232/video/1",
+              "media_key": "3_2085641366261080064",
+              "start": 151,
+              "url": "https://t.co/oN3nAWmwR5"
+            },
+            {
+              "display_url": "x.com/qwert555551ip/…",
+              "end": 198,
+              "expanded_url": "https://twitter.com/qwert555551ip/status/2085635425700545016",
+              "start": 175,
+              "url": "https://t.co/JFt4weHc4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085641381406761232",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2085641331272298496"
+          },
+          {
+            "media_key": "3_2085641366261080064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 150,
+                "start": 131,
+                "tag": "JusticeForWangWang"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "tag": "可以不愛請勿傷害"
+              },
+              {
+                "end": 166,
+                "start": 161,
+                "tag": "動物保護"
+              },
+              {
+                "end": 172,
+                "start": 167,
+                "tag": "桃園公車"
+              },
+              {
+                "end": 179,
+                "start": 173,
+                "tag": "狗媽媽旺旺"
+              }
+            ]
+          },
+          "text": "💔 即使澳門巴士上聲援狗媽媽「旺旺」的廣告遭到強制下架，正義與愛心依然不會被抹滅！\n\n讓人欣慰的是，今天在台灣桃園的街道上，公車上的聲援廣告依然在每個角落傳播著。這份對生命的溫柔與堅持，會繼續在台灣發光。✨\n\n邀請大家一起擴散，讓世界看見我們守護動物的決心！\n\n#JusticeForWangWang #可以不愛請勿傷害 #動物保護 #桃園公車 #狗媽媽旺旺"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5904,
+          "like_count": 94,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085635425700545016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "💔 即使澳門巴士上聲援狗媽媽「旺旺」的廣告遭到強制下架，正義與愛心依然不會被抹滅！\n\n讓人欣慰的是，今天在台灣桃園的街道上，公車上的聲援廣告依然在每個角落傳播著。這份對生命的溫柔與堅持，會繼續在台灣發光。✨\n\n邀請大家一起擴散，讓世界看見我們守護動物的決心！\n\n#JusticeForWangWang https://t.co/oN3nAWmwR5 https://t.co/JFt4weHc4l"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "is_identity_verified": false,
+        "location": "銀河車站",
+        "most_recent_tweet_id": "2087112778884813311",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094771136831488/1779637288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 1778,
+          "like_count": 17522,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 7631
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T23:30:14.000Z",
+        "description": "我又回來了，除非他們殺死我，否則我不會停止揭發真相。\nI'm back, and I won't stop revealing the truth unless they kill me.\n私は戻ってきた。そして、殺されない限り、真実を暴露し続けるつもりだ。",
+        "id": "2066301983993241600",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2087099442977739061",
+        "name": "小貓看世界@子猫は世界を見る",
+        "pinned_tweet_id": "2085281661521207642",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066301983993241600/1785970552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085137735359328256/dFxmQ081_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1657,
+          "following_count": 1236,
+          "like_count": 2353,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 598
+        },
+        "url": "",
+        "username": "qwert555551ip",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

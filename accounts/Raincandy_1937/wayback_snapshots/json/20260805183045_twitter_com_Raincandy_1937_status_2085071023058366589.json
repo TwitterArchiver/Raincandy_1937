@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2085071023058366589",
+    "created_at": "2026-08-05T18:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T19:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085071023058366589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085071023058366589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084474411932156222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: “奇怪，怎么退出视频还有声音？”\n\n7月29日，一名刚结束高考的学生在B站发布了一段长约8分钟的家庭日常。视频中，他在暑假玩电脑、点奶茶，母亲则不断要求他规划未来、不能被其他人甩开，并称“不是不让你玩”，而是要“有目标地玩”。… http…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 76565,
+        "height": 1280,
+        "media_key": "13_2084443205773430784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084443205773430784/img/bVqKPoi5VdQk68gq.jpg",
+        "public_metrics": {
+          "view_count": 439583
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084443205773430784/vid/avc1/320x568/6LOBXo03a_8zCrRO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084443205773430784/vid/avc1/480x852/wKwQ5iA8pvKPMXBH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084443205773430784/vid/avc1/720x1280/zREwhFd_EO4ry2G3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084443205773430784/pl/9HCy84QY_C2B0ZWl.m3u8?v=3e6"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1427,
+        "media_key": "3_2084443093793992704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1t8zAbcAA5RZD.jpg",
+        "width": 961
+      },
+      {
+        "height": 1374,
+        "media_key": "3_2084443108201377793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1t9orasAEmb3p.jpg",
+        "width": 973
+      },
+      {
+        "height": 1146,
+        "media_key": "3_2084443122260717568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1t-dDbMAAZuae.jpg",
+        "width": 979
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2085071023058366589",
+        "created_at": "2026-08-05T18:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T19:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085071023058366589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085071023058366589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084474411932156222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: “奇怪，怎么退出视频还有声音？”\n\n7月29日，一名刚结束高考的学生在B站发布了一段长约8分钟的家庭日常。视频中，他在暑假玩电脑、点奶茶，母亲则不断要求他规划未来、不能被其他人甩开，并称“不是不让你玩”，而是要“有目标地玩”。… http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084443205773430784",
+            "3_2084443093793992704",
+            "3_2084443108201377793",
+            "3_2084443122260717568"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084474411932156222",
+        "created_at": "2026-08-04T03:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084474411932156222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/grwotZLAqM",
+              "end": 137,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2084474411932156222/video/1",
+              "media_key": "13_2084443205773430784",
+              "start": 114,
+              "url": "https://t.co/grwotZLAqM"
+            },
+            {
+              "display_url": "pic.x.com/grwotZLAqM",
+              "end": 137,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2084474411932156222/video/1",
+              "media_key": "3_2084443093793992704",
+              "start": 114,
+              "url": "https://t.co/grwotZLAqM"
+            },
+            {
+              "display_url": "pic.x.com/grwotZLAqM",
+              "end": 137,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2084474411932156222/video/1",
+              "media_key": "3_2084443108201377793",
+              "start": 114,
+              "url": "https://t.co/grwotZLAqM"
+            },
+            {
+              "display_url": "pic.x.com/grwotZLAqM",
+              "end": 137,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2084474411932156222/video/1",
+              "media_key": "3_2084443122260717568",
+              "start": 114,
+              "url": "https://t.co/grwotZLAqM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084474411932156222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“奇怪，怎么退出视频还有声音？”\n\n7月29日，一名刚结束高考的学生在B站发布了一段长约8分钟的家庭日常。视频中，他在暑假玩电脑、点奶茶，母亲则不断要求他规划未来、不能被其他人甩开，并称“不是不让你玩”，而是要“有目标地玩”。\n\n视频很快引发大量年轻人共鸣。视频获得3.1万条评论，最高进入B站全站排行榜第31名。\n\n网友评论称：\n“经典‘不是不让你玩’，这话在我家真的已经听烂了。”\n“有目标地玩是啥？”\n“都高考完了还学啥呢？她其实就是想找茬，看你天天玩她生气。”\n“收藏了，想家就看一眼。”\n“奇怪，怎么退出视频还有声音？”\n“比我好，晚上吃着饭，我妈说希望我成为张雪峰一样的人。”\n“不是说高考完、上大学就轻松了吗？怎么现在又不让我玩了，怎么骗人啊？”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 679,
+          "impression_count": 681860,
+          "like_count": 2448,
+          "quote_count": 9,
+          "reply_count": 274,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "“奇怪，怎么退出视频还有声音？”\n\n7月29日，一名刚结束高考的学生在B站发布了一段长约8分钟的家庭日常。视频中，他在暑假玩电脑、点奶茶，母亲则不断要求他规划未来、不能被其他人甩开，并称“不是不让你玩”，而是要“有目标地玩”。 https://t.co/grwotZLAqM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 1789,
+          "like_count": 17485,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 7616
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2246500,
+          "following_count": 1081,
+          "like_count": 9839,
+          "listed_count": 8860,
+          "media_count": 51588,
+          "tweet_count": 58849
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085993500450119680"
+      ],
+      "media_source_tweet_id": [
+        "2085993509266546918"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2086727841690030531",
+    "created_at": "2026-08-10T08:14:21.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T09:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086727841690030531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1813561571941183488",
+          "start": 3,
+          "username": "careforme123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zPSsUI14X2",
+          "end": 67,
+          "expanded_url": "https://x.com/careforme123/status/2085993509266546918/photo/1",
+          "media_key": "3_2085993500450119680",
+          "start": 44,
+          "url": "https://t.co/zPSsUI14X2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086727841690030531",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2085993500450119680"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085993509266546918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @careforme123: 中国人乐衷于给比他们发达的国家取一些低俗降智的绰号 https://t.co/zPSsUI14X2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2085993500450119680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPLwCV4aYAA-Vwk.jpg",
+        "width": 1082
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085993500450119680"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2085993509266546918",
+        "created_at": "2026-08-08T07:36:23.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T08:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085993509266546918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zPSsUI14X2",
+              "end": 49,
+              "expanded_url": "https://x.com/careforme123/status/2085993509266546918/photo/1",
+              "media_key": "3_2085993500450119680",
+              "start": 26,
+              "url": "https://t.co/zPSsUI14X2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085993509266546918",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2085993500450119680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 321,
+          "impression_count": 380181,
+          "like_count": 1654,
+          "quote_count": 21,
+          "reply_count": 373,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "中国人乐衷于给比他们发达的国家取一些低俗降智的绰号 https://t.co/zPSsUI14X2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085993500450119680"
+          ],
+          "media_source_tweet_id": [
+            "2085993509266546918"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2086727841690030531",
+        "created_at": "2026-08-10T08:14:21.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T09:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086727841690030531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813561571941183488",
+              "start": 3,
+              "username": "careforme123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zPSsUI14X2",
+              "end": 67,
+              "expanded_url": "https://x.com/careforme123/status/2085993509266546918/photo/1",
+              "media_key": "3_2085993500450119680",
+              "start": 44,
+              "url": "https://t.co/zPSsUI14X2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086727841690030531",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2085993500450119680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085993509266546918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @careforme123: 中国人乐衷于给比他们发达的国家取一些低俗降智的绰号 https://t.co/zPSsUI14X2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "is_identity_verified": false,
+        "location": "銀河車站",
+        "most_recent_tweet_id": "2086727841690030531",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094771136831488/1779637288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 1778,
+          "like_count": 17525,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 7631
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086425150451491061",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3006,
+          "following_count": 825,
+          "like_count": 8089,
+          "listed_count": 10,
+          "media_count": 838,
+          "tweet_count": 3216
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2085005287455703316",
+    "created_at": "2026-08-05T14:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T15:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085005287455703316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1761861143780528128",
+          "start": 3,
+          "username": "Fingding8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085005287455703316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084942501777932392",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fingding8964: 毛泽东时代闭关锁国，是直接把国门焊死，机场关了，护照作废，明摆着告诉你不让走。习近平时代正在搞的这套，是它的升级版，而且高明得多。护照照发，飞机照飞，嘴上还天天喊对外开放。但真正决定你能不能走的，早就不是你手里那本护照了，是一个你看不见的数据…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2084858186893570049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO7neZTbMAEYFuH.jpg",
+        "width": 775
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2085005287455703316",
+        "created_at": "2026-08-05T14:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085005287455703316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1761861143780528128",
+              "start": 3,
+              "username": "Fingding8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085005287455703316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084942501777932392",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fingding8964: 毛泽东时代闭关锁国，是直接把国门焊死，机场关了，护照作废，明摆着告诉你不让走。习近平时代正在搞的这套，是它的升级版，而且高明得多。护照照发，飞机照飞，嘴上还天天喊对外开放。但真正决定你能不能走的，早就不是你手里那本护照了，是一个你看不见的数据…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084858186893570049"
+          ]
+        },
+        "author_id": "1761861143780528128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2084942501777932392",
+        "created_at": "2026-08-05T10:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084942501777932392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RK9WNIsluo",
+              "end": 164,
+              "expanded_url": "https://x.com/Fingding8964/status/2084942501777932392/photo/1",
+              "media_key": "3_2084858186893570049",
+              "start": 141,
+              "url": "https://t.co/RK9WNIsluo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084942501777932392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "毛泽东时代闭关锁国，是直接把国门焊死，机场关了，护照作废，明摆着告诉你不让走。习近平时代正在搞的这套，是它的升级版，而且高明得多。护照照发，飞机照飞，嘴上还天天喊对外开放。但真正决定你能不能走的，早就不是你手里那本护照了，是一个你看不见的数据库，一个风险标签，一次说不清道不明的电子审查。\n\n门看着是开着的，转来转去，可遥控器不在你手里。这门开着，但不是为你开的。\n\n很多人觉得，非得等到所有人都出不去、护照全面停发，才算闭关锁国。这个理解是错的。真正决定一个制度性质的，从来不是眼下有多少人还能出去，而是国家有没有在不断扩大自己控制人口、技术、资本、信息跨境流动的权力，出境这件事，到底还是不是一项你生来就有的权利，还是已经悄悄变成了一项要看脸色批准的许可。\n\n所以别拿\"现在大部分人还能出境\"来自我安慰，这说明不了什么问题。历史上的封闭从来不是哪一天突然拍板完成的，它总是先从敏感行业、关键人才、政治异议者、有海外关系的人下手，然后\"国家安全\"这条线不断往外拉，适用的人越来越多。\n\n今天放你走，只说明笼子还没完全关上，不代表它没在关。\n\n而这种挑人下手的封锁，天生就有自我扩张的本能。一开始被盯上的，可能就是半导体、人工智能、稀土交易里那几个\"关键人员\"；接下来企业家、科研人员、律师、记者、学者，只要被认为手里有敏感信息、跟海外沾边，都会被塞进同一套安全逻辑里。国家安全这个词能模糊到什么地步，被认定\"不能随便离开\"的人就能多到什么地步。\n\n国门不会一夜之间轰然关上，但出境的自由可以一层一层被掏空：先是变得让人猜不透，然后变得处处要解释，最后变成，只有权力点头，你才配拥有的特权。\n\n这不是开放和封闭的区别，这只是封闭换了张脸而已。\n\n而这套话术，其实早就有人替它准备好了。\n\n中国最权威的历史刊物、中国社会科学院主办的《历史研究》，2022年第3期登过一篇文章，叫《明清时期\"闭关锁国\"问题新探》，作者是高翔。文章的核心意思是：明清那套关门政策，根本算不上\"闭关锁国\"，顶多叫\"自主限关\"，是为了维护主权、防着西方殖民者，跟真正的闭关锁国不是一回事，因为它既没掐断对外贸易，也没切断中西交流。\n\n这篇文章发在什么时候，谁在什么位置发的，都不是巧合。等哪天中国真的走到了\"绝大多数人出不去\"那一步，这套\"自主限X\"的说法，早就摆在那儿了，随时可以拿出来用：护照没有全面停发，飞机也没有全停，所以这不叫封闭，顶多叫\"自主限出\"。\n\n历史学最先被改写，往往不是为了纪念过去，而是为了给将来的现实找一个提前写好的说法。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 11475,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "毛泽东时代闭关锁国，是直接把国门焊死，机场关了，护照作废，明摆着告诉你不让走。习近平时代正在搞的这套，是它的升级版，而且高明得多。护照照发，飞机照飞，嘴上还天天喊对外开放。但真正决定你能不能走的，早就不是你手里那本护照了，是一个你看不见的数据库，一个风险标签，一次说不清道不明的电 https://t.co/RK9WNIsluo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 1788,
+          "like_count": 17480,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 7612
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T21:10:21.000Z",
+        "description": "居落基山下，看世界变局。\n基督徒 / 保守主义者 / 独立时评人。\n经济学视角的理性观察者，\n偶作杂文与趣谈。\n欢迎投稿：finding8964@proton.me\n替中共说话，宣传的、抬杠的，谩骂的一律拉黑。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/findingca",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/findingca",
+                "start": 0,
+                "url": "https://t.co/QoKyeAKHxu"
+              }
+            ]
+          }
+        },
+        "id": "1761861143780528128",
+        "location": "North American",
+        "name": "Finding🇨🇦🇺🇸",
+        "pinned_tweet_id": "2083739561696346530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072883597418328064/bdooq1RW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28319,
+          "following_count": 5305,
+          "like_count": 61606,
+          "listed_count": 139,
+          "media_count": 1257,
+          "tweet_count": 31962
+        },
+        "url": "https://t.co/QoKyeAKHxu",
+        "username": "Fingding8964",
+        "verified": true
+      }
+    ]
+  }
+}

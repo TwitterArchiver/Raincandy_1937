@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088892304295600128"
+      ],
+      "media_source_tweet_id": [
+        "2088930013622215166"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2089341409891619192",
+    "created_at": "2026-08-17T13:19:44.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T14:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089341409891619192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669250248265302020",
+          "start": 3,
+          "username": "xu96175836"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0eR1gGLItR",
+          "end": 45,
+          "expanded_url": "https://x.com/xu96175836/status/2088930013622215166/photo/1",
+          "media_key": "3_2088892304295600128",
+          "start": 22,
+          "url": "https://t.co/0eR1gGLItR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089341409891619192",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088892304295600128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088930013622215166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xu96175836: 你支持吗？ https://t.co/0eR1gGLItR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 872,
+        "media_key": "3_2088892304295600128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP08e7uWIAAv0f7.jpg",
+        "width": 872
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088892304295600128"
+          ],
+          "media_source_tweet_id": [
+            "2088930013622215166"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2089341409891619192",
+        "created_at": "2026-08-17T13:19:44.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089341409891619192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1669250248265302020",
+              "start": 3,
+              "username": "xu96175836"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0eR1gGLItR",
+              "end": 45,
+              "expanded_url": "https://x.com/xu96175836/status/2088930013622215166/photo/1",
+              "media_key": "3_2088892304295600128",
+              "start": 22,
+              "url": "https://t.co/0eR1gGLItR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089341409891619192",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088892304295600128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088930013622215166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xu96175836: 你支持吗？ https://t.co/0eR1gGLItR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088892304295600128"
+          ]
+        },
+        "author_id": "1669250248265302020",
+        "conversation_id": "2088930013622215166",
+        "created_at": "2026-08-16T10:05:00.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088930013622215166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0eR1gGLItR",
+              "end": 29,
+              "expanded_url": "https://x.com/xu96175836/status/2088930013622215166/photo/1",
+              "media_key": "3_2088892304295600128",
+              "start": 6,
+              "url": "https://t.co/0eR1gGLItR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088930013622215166",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088892304295600128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 43200,
+          "like_count": 1152,
+          "quote_count": 7,
+          "reply_count": 266,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "你支持吗？ https://t.co/0eR1gGLItR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "is_identity_verified": false,
+        "location": "銀河車站",
+        "most_recent_tweet_id": "2089341409891619192",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094771136831488/1779637288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 1785,
+          "like_count": 17571,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 7667
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-15T07:47:28.000Z",
+        "description": "一个人的各种品性之中，德行是第一位的。\n优良的品性是真正的财富，而衬显这品性的是良好的教养。",
+        "id": "1669250248265302020",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089307501074497607",
+        "name": "雪柔",
+        "pinned_tweet_id": "1855778217598337030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1669250248265302020/1691921924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690669189856444417/1SYUbSmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128625,
+          "following_count": 1519,
+          "like_count": 8033,
+          "listed_count": 392,
+          "media_count": 11817,
+          "tweet_count": 13358
+        },
+        "url": "",
+        "username": "xu96175836",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

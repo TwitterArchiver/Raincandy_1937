@@ -1,0 +1,509 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093537977314242560",
+        "3_2093537977330974721",
+        "3_2093537977310052352"
+      ],
+      "media_source_tweet_id": [
+        "2093571850919882979",
+        "2093571850919882979",
+        "2093571850919882979"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+          "id": "847543836330958848",
+          "name": "Global security & terrorism"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      }
+    ],
+    "conversation_id": "2093594735747227859",
+    "created_at": "2026-08-29T07:00:56.000Z",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T08:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093594735747227859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5uVDy3eKmH",
+          "end": 137,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2093571850919882979/photo/1",
+          "media_key": "3_2093537977314242560",
+          "start": 114,
+          "url": "https://t.co/5uVDy3eKmH"
+        },
+        {
+          "display_url": "pic.x.com/5uVDy3eKmH",
+          "end": 137,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2093571850919882979/photo/1",
+          "media_key": "3_2093537977330974721",
+          "start": 114,
+          "url": "https://t.co/5uVDy3eKmH"
+        },
+        {
+          "display_url": "pic.x.com/5uVDy3eKmH",
+          "end": 137,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2093571850919882979/photo/1",
+          "media_key": "3_2093537977310052352",
+          "start": 114,
+          "url": "https://t.co/5uVDy3eKmH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093594735747227859",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093537977314242560"
+      },
+      {
+        "media_key": "3_2093537977330974721"
+      },
+      {
+        "media_key": "3_2093537977310052352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093571850919882979",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 8月28日，中国全国人大常委会修订通过《国防动员法》，新法将于10月1日起施行。\n相比2010年旧法，这次修法一个值得关注的变化是，民用资源从原本的“征用”进一步扩大为“征收、征用”。… https://t.co/5uVDy3eKmH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 814,
+        "media_key": "3_2093537977314242560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ29ssWa8AArR7R.jpg",
+        "width": 1381
+      },
+      {
+        "height": 464,
+        "media_key": "3_2093537977330974721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ29ssaaQAEFFzb.jpg",
+        "width": 1182
+      },
+      {
+        "height": 140,
+        "media_key": "3_2093537977310052352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ29ssVbAAAs6Qi.jpg",
+        "width": 1151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093537977314242560",
+            "3_2093537977330974721",
+            "3_2093537977310052352"
+          ],
+          "media_source_tweet_id": [
+            "2093571850919882979",
+            "2093571850919882979",
+            "2093571850919882979"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "2093594735747227859",
+        "created_at": "2026-08-29T07:00:56.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T08:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093594735747227859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5uVDy3eKmH",
+              "end": 137,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2093571850919882979/photo/1",
+              "media_key": "3_2093537977314242560",
+              "start": 114,
+              "url": "https://t.co/5uVDy3eKmH"
+            },
+            {
+              "display_url": "pic.x.com/5uVDy3eKmH",
+              "end": 137,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2093571850919882979/photo/1",
+              "media_key": "3_2093537977330974721",
+              "start": 114,
+              "url": "https://t.co/5uVDy3eKmH"
+            },
+            {
+              "display_url": "pic.x.com/5uVDy3eKmH",
+              "end": 137,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2093571850919882979/photo/1",
+              "media_key": "3_2093537977310052352",
+              "start": 114,
+              "url": "https://t.co/5uVDy3eKmH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093594735747227859",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093537977314242560"
+          },
+          {
+            "media_key": "3_2093537977330974721"
+          },
+          {
+            "media_key": "3_2093537977310052352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093571850919882979",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 8月28日，中国全国人大常委会修订通过《国防动员法》，新法将于10月1日起施行。\n相比2010年旧法，这次修法一个值得关注的变化是，民用资源从原本的“征用”进一步扩大为“征收、征用”。… https://t.co/5uVDy3eKmH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093537977314242560",
+            "3_2093537977330974721",
+            "3_2093537977310052352"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "2093571850919882979",
+        "created_at": "2026-08-29T05:30:00.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T06:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093571850919882979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5uVDy3eKmH",
+              "end": 116,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2093571850919882979/photo/1",
+              "media_key": "3_2093537977314242560",
+              "start": 93,
+              "url": "https://t.co/5uVDy3eKmH"
+            },
+            {
+              "display_url": "pic.x.com/5uVDy3eKmH",
+              "end": 116,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2093571850919882979/photo/1",
+              "media_key": "3_2093537977330974721",
+              "start": 93,
+              "url": "https://t.co/5uVDy3eKmH"
+            },
+            {
+              "display_url": "pic.x.com/5uVDy3eKmH",
+              "end": 116,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2093571850919882979/photo/1",
+              "media_key": "3_2093537977310052352",
+              "start": 93,
+              "url": "https://t.co/5uVDy3eKmH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093571850919882979",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093537977314242560"
+          },
+          {
+            "media_key": "3_2093537977330974721"
+          },
+          {
+            "media_key": "3_2093537977310052352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "8月28日，中国全国人大常委会修订通过《国防动员法》，新法将于10月1日起施行。\n相比2010年旧法，这次修法一个值得关注的变化是，民用资源从原本的“征用”进一步扩大为“征收、征用”。\n\n新法规定，国家决定实施国防动员后，组织和个人所有或使用的设施、设备、交通工具、场所等民用资源，可以依法征收、征用；拒绝、拖延履行相关义务，逾期不改的，可以被强制履行。\n\n与此同时，新法进一步将普通公民、企业、社会组织、战略物资、军品生产能力、专业保障等纳入国防动员体系。\n企业拒绝或拖延军事采购、战略物资储备、专业保障等任务，同样可能被强制履行并处罚款。\n\n新法还首次进一步明确国防动员状态下的信息管理：禁止编造、传播所谓“虚假国防动员信息”，并规定国家实施国防动员后，依法“加强各类传播平台管理，规范信息发布和传播秩序”。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 52874,
+          "like_count": 344,
+          "quote_count": 8,
+          "reply_count": 88,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "8月28日，中国全国人大常委会修订通过《国防动员法》，新法将于10月1日起施行。\n相比2010年旧法，这次修法一个值得关注的变化是，民用资源从原本的“征用”进一步扩大为“征收、征用”。 https://t.co/5uVDy3eKmH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "is_identity_verified": false,
+        "location": "銀河車站",
+        "most_recent_tweet_id": "2093594735747227859",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094771136831488/1779637288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 1777,
+          "like_count": 17630,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 7710
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2093594504167047620",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2257991,
+          "following_count": 1083,
+          "like_count": 10303,
+          "listed_count": 8894,
+          "media_count": 52910,
+          "tweet_count": 60229
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

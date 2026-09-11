@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2097234493686092119",
+    "created_at": "2026-09-08T08:04:02.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T09:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097234493686092119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1346189622334771202",
+          "start": 3,
+          "username": "1_4_2_imak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097234493686092119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096867223545786475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1_4_2_imak: 溫知識\n\n會講出「男生沒有什麼是一把遊戲解決不了的」的男性，多半就是從小由他霸凌或者參與霸凌的人。把人際成本轉嫁給被欺負的對象，還以為自己跟被欺凌受害者混得很好，如此一來，他們就能覺得世界是通透的、簡單又輕鬆的。見過太多這種混球，再見到那種陽光大…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2097234493686092119",
+        "created_at": "2026-09-08T08:04:02.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T09:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097234493686092119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1346189622334771202",
+              "start": 3,
+              "username": "1_4_2_imak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097234493686092119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096867223545786475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1_4_2_imak: 溫知識\n\n會講出「男生沒有什麼是一把遊戲解決不了的」的男性，多半就是從小由他霸凌或者參與霸凌的人。把人際成本轉嫁給被欺負的對象，還以為自己跟被欺凌受害者混得很好，如此一來，他們就能覺得世界是通透的、簡單又輕鬆的。見過太多這種混球，再見到那種陽光大…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1346189622334771202",
+        "conversation_id": "2096867223545786475",
+        "created_at": "2026-09-07T07:44:38.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T08:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096867223545786475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/smiroyama/status/2096307749747601574",
+              "start": 132,
+              "url": "https://t.co/I2zbR1ZQ1N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096867223545786475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 18406,
+          "like_count": 518,
+          "quote_count": 3,
+          "reply_count": 60,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096307749747601574",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "溫知識\n\n會講出「男生沒有什麼是一把遊戲解決不了的」的男性，多半就是從小由他霸凌或者參與霸凌的人。把人際成本轉嫁給被欺負的對象，還以為自己跟被欺凌受害者混得很好，如此一來，他們就能覺得世界是通透的、簡單又輕鬆的。見過太多這種混球，再見到那種陽光大男孩我就ptsd https://t.co/I2zbR1ZQ1N"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "is_identity_verified": false,
+        "location": "銀河車站",
+        "most_recent_tweet_id": "2097234493686092119",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094771136831488/1779637288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 1781,
+          "like_count": 17550,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 7747
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-04T20:19:57.000Z",
+        "description": "💧🪵大學店在逃研究生，正式宣布「及早離去」才是學術圈唯一出路！\n料理、攝影、寫作、emo，隨機發瘋/發廚，亂糟八七，還有其他隨機的暴言。一般的fgo player，2.6一番推。\n「好好說話是一種值得珍惜的能力」\n寫是Ж但是讀成k哦。",
+        "id": "1346189622334771202",
+        "is_identity_verified": false,
+        "location": "台灣",
+        "most_recent_tweet_id": "2097177983471767917",
+        "name": "Ж",
+        "pinned_tweet_id": "1660774960808468480",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1346189622334771202/1775935789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772272100684050432/miWudCe9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 362,
+          "like_count": 114422,
+          "listed_count": 4,
+          "media_count": 1024,
+          "tweet_count": 11681
+        },
+        "url": "",
+        "username": "1_4_2_imak",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

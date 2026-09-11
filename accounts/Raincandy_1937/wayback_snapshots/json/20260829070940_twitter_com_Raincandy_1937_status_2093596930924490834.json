@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093233292862730240",
+        "3_2093233292858494976"
+      ],
+      "media_source_tweet_id": [
+        "2093233299435200562",
+        "2093233299435200562"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2093596930924490834",
+    "created_at": "2026-08-29T07:09:40.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T08:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093596930924490834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1653278595719081986",
+          "start": 3,
+          "username": "QuanLujun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eg1A52u5pE",
+          "end": 83,
+          "expanded_url": "https://x.com/QuanLujun/status/2093233299435200562/photo/1",
+          "media_key": "3_2093233292862730240",
+          "start": 60,
+          "url": "https://t.co/eg1A52u5pE"
+        },
+        {
+          "display_url": "pic.x.com/eg1A52u5pE",
+          "end": 83,
+          "expanded_url": "https://x.com/QuanLujun/status/2093233299435200562/photo/1",
+          "media_key": "3_2093233292858494976",
+          "start": 60,
+          "url": "https://t.co/eg1A52u5pE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093596930924490834",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093233292862730240"
+      },
+      {
+        "media_key": "3_2093233292858494976"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093233299435200562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QuanLujun: 有网友在上海机场出关时被工作人员故意撕破护照并以此为阻拦的理由，差点出不来，还不赶快跑！ https://t.co/eg1A52u5pE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_2093233292862730240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQyoluUasAAMCnS.jpg",
+        "width": 414
+      },
+      {
+        "height": 681,
+        "media_key": "3_2093233292858494976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQyoluTaEAAB-5M.jpg",
+        "width": 644
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093233292862730240",
+            "3_2093233292858494976"
+          ],
+          "media_source_tweet_id": [
+            "2093233299435200562",
+            "2093233299435200562"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2093596930924490834",
+        "created_at": "2026-08-29T07:09:40.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T08:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093596930924490834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1653278595719081986",
+              "start": 3,
+              "username": "QuanLujun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eg1A52u5pE",
+              "end": 83,
+              "expanded_url": "https://x.com/QuanLujun/status/2093233299435200562/photo/1",
+              "media_key": "3_2093233292862730240",
+              "start": 60,
+              "url": "https://t.co/eg1A52u5pE"
+            },
+            {
+              "display_url": "pic.x.com/eg1A52u5pE",
+              "end": 83,
+              "expanded_url": "https://x.com/QuanLujun/status/2093233299435200562/photo/1",
+              "media_key": "3_2093233292858494976",
+              "start": 60,
+              "url": "https://t.co/eg1A52u5pE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093596930924490834",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093233292862730240"
+          },
+          {
+            "media_key": "3_2093233292858494976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093233299435200562",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QuanLujun: 有网友在上海机场出关时被工作人员故意撕破护照并以此为阻拦的理由，差点出不来，还不赶快跑！ https://t.co/eg1A52u5pE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093233292862730240",
+            "3_2093233292858494976"
+          ]
+        },
+        "author_id": "1653278595719081986",
+        "conversation_id": "2093233299435200562",
+        "created_at": "2026-08-28T07:04:43.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T08:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093233299435200562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eg1A52u5pE",
+              "end": 68,
+              "expanded_url": "https://x.com/QuanLujun/status/2093233299435200562/photo/1",
+              "media_key": "3_2093233292862730240",
+              "start": 45,
+              "url": "https://t.co/eg1A52u5pE"
+            },
+            {
+              "display_url": "pic.x.com/eg1A52u5pE",
+              "end": 68,
+              "expanded_url": "https://x.com/QuanLujun/status/2093233299435200562/photo/1",
+              "media_key": "3_2093233292858494976",
+              "start": 45,
+              "url": "https://t.co/eg1A52u5pE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093233299435200562",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093233292862730240"
+          },
+          {
+            "media_key": "3_2093233292858494976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 25996,
+          "like_count": 99,
+          "quote_count": 4,
+          "reply_count": 74,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "有网友在上海机场出关时被工作人员故意撕破护照并以此为阻拦的理由，差点出不来，还不赶快跑！ https://t.co/eg1A52u5pE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "is_identity_verified": false,
+        "location": "銀河車站",
+        "most_recent_tweet_id": "2093596930924490834",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094771136831488/1779637288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 1777,
+          "like_count": 17634,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 7711
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-02T06:02:43.000Z",
+        "description": "台湾就是台湾；守护民主自由就是守护普世价值与人类的底线未来，对邪恶中共说不！结束习近平中共封建独裁专制纳粹暴政祸害世界；「世界需要真实的声音」 ！🔥【欢迎加入反共电报群https://t.co/xxJHoK3DNT】基督✝️文明世界必将战胜邪恶撒旦；守护民主自由/荣耀基督联盟 Luke-权录军",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+_MojCr8soxMyN…",
+                "end": 107,
+                "expanded_url": "https://t.me/+_MojCr8soxMyNGEx",
+                "start": 84,
+                "url": "https://t.co/xxJHoK3DNT"
+              }
+            ]
+          }
+        },
+        "id": "1653278595719081986",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2093591770995327035",
+        "name": "LuJun Quan",
+        "pinned_tweet_id": "2069514459455078543",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653278595719081986/1761814774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780063090182365184/OY7ky_fp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27385,
+          "following_count": 9783,
+          "like_count": 40257,
+          "listed_count": 128,
+          "media_count": 3727,
+          "tweet_count": 21561
+        },
+        "url": "",
+        "username": "QuanLujun",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

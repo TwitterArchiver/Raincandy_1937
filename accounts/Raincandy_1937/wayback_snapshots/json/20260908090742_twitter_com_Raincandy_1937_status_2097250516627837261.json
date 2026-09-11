@@ -1,0 +1,526 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1645481766226993163",
+          "name": "Swarm"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1645481766226993163",
+          "name": "Swarm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1645491688658411539",
+          "name": "Thriller series"
+        }
+      }
+    ],
+    "conversation_id": "2097250516627837261",
+    "created_at": "2026-09-08T09:07:42.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T10:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097250516627837261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "455264233",
+          "start": 3,
+          "username": "PaulGolding"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097250516627837261",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2168
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095088199076810786",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PaulGolding: There's a new shaming trend in China.\nWhen Chinese girls are on dates with immigrants, crowds swarm and film them so it ca…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9681,
+        "height": 936,
+        "media_key": "13_2094661491324846080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094661491324846080/img/qLR9TbGgbxw--NJe.jpg",
+        "public_metrics": {
+          "view_count": 6653640
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094661491324846080/vid/avc1/320x416/J4dyZVYvbfYJq_m1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094661491324846080/vid/avc1/480x624/RwCqK1basgrOXEHH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094661491324846080/vid/avc1/720x936/bKQ-v9oEk7W-VbeD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094661491324846080/pl/084vxqSsrxJ1rEhg.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1645481766226993163",
+              "name": "Swarm"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1645481766226993163",
+              "name": "Swarm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1645491688658411539",
+              "name": "Thriller series"
+            }
+          }
+        ],
+        "conversation_id": "2097250516627837261",
+        "created_at": "2026-09-08T09:07:42.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T10:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097250516627837261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "455264233",
+              "start": 3,
+              "username": "PaulGolding"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097250516627837261",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2168
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095088199076810786",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PaulGolding: There's a new shaming trend in China.\nWhen Chinese girls are on dates with immigrants, crowds swarm and film them so it ca…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094661491324846080"
+          ],
+          "media_source_tweet_id": [
+            "2094661512535454200"
+          ]
+        },
+        "author_id": "455264233",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1645481766226993163",
+              "name": "Swarm"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1645481766226993163",
+              "name": "Swarm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1645491688658411539",
+              "name": "Thriller series"
+            }
+          }
+        ],
+        "conversation_id": "2095088199076810786",
+        "created_at": "2026-09-02T09:55:26.000Z",
+        "display_text_range": [
+          0,
+          187
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T10:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095088199076810786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4VKvZ2PbEb",
+              "end": 187,
+              "expanded_url": "https://x.com/dabowagaga/status/2094661512535454200/video/1",
+              "media_key": "13_2094661491324846080",
+              "start": 164,
+              "url": "https://t.co/4VKvZ2PbEb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095088199076810786",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2094661491324846080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1861,
+          "impression_count": 1896357,
+          "like_count": 31571,
+          "quote_count": 346,
+          "reply_count": 1472,
+          "retweet_count": 2168
+        },
+        "reply_settings": "everyone",
+        "text": "There's a new shaming trend in China.\nWhen Chinese girls are on dates with immigrants, crowds swarm and film them so it can be posted online to ridicule the women. https://t.co/4VKvZ2PbEb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "is_identity_verified": false,
+        "location": "銀河車站",
+        "most_recent_tweet_id": "2097250516627837261",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094771136831488/1779637288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 1781,
+          "like_count": 17559,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 7753
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-01-04T22:41:24.000Z",
+        "description": "Leader of @BFirstParty, a staunch nationalist remigration political party registered with the Electoral Commission!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "BFirstParty"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "britainfirst.org/books",
+                "end": 23,
+                "expanded_url": "https://www.britainfirst.org/books",
+                "start": 0,
+                "url": "https://t.co/OLM1bwaAg1"
+              }
+            ]
+          }
+        },
+        "id": "455264233",
+        "is_identity_verified": true,
+        "location": "London, England",
+        "most_recent_tweet_id": "2097225955919933586",
+        "name": "Paul Golding",
+        "pinned_tweet_id": "2096912214573621749",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/455264233/1787608591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073918800013967361/CK4ZCTW3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286745,
+          "following_count": 493,
+          "like_count": 15145,
+          "listed_count": 1026,
+          "media_count": 29463,
+          "tweet_count": 48343
+        },
+        "url": "https://t.co/OLM1bwaAg1",
+        "username": "PaulGolding",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2090774113514369342",
+    "created_at": "2026-08-21T12:12:48.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T13:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090774113514369342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2842549538",
+          "start": 3,
+          "username": "Reflectier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090774113514369342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090258311157514249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Reflectier: 从胖猫到大同强奸案到性同意年龄再到抗议男明星不难看出，只有国男的裤裆受到影响时他们才会愤怒地团结起来发出声音。\n同样在他们的逻辑里你帮女人说话肯定是为了获得交配权😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2090774113514369342",
+        "created_at": "2026-08-21T12:12:48.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090774113514369342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2842549538",
+              "start": 3,
+              "username": "Reflectier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090774113514369342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090258311157514249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Reflectier: 从胖猫到大同强奸案到性同意年龄再到抗议男明星不难看出，只有国男的裤裆受到影响时他们才会愤怒地团结起来发出声音。\n同样在他们的逻辑里你帮女人说话肯定是为了获得交配权😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2842549538",
+        "conversation_id": "2090258311157514249",
+        "created_at": "2026-08-20T02:03:11.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T03:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090258311157514249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090258311157514249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 22981,
+          "like_count": 1978,
+          "quote_count": 3,
+          "reply_count": 167,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "从胖猫到大同强奸案到性同意年龄再到抗议男明星不难看出，只有国男的裤裆受到影响时他们才会愤怒地团结起来发出声音。\n同样在他们的逻辑里你帮女人说话肯定是为了获得交配权😅"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "is_identity_verified": false,
+        "location": "銀河車站",
+        "most_recent_tweet_id": "2090774113514369342",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094771136831488/1779637288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 1781,
+          "like_count": 17598,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 7688
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-06T17:18:11.000Z",
+        "description": "夜撫でるネコたち\n无孩爱猫男。日常向，但混杂键政内容，但在努力不键政中，谨慎关注\n粉红和男拳师会直接拉黑，所以欢迎一击脱离",
+        "id": "2842549538",
+        "is_identity_verified": false,
+        "location": "Victoria, Australia",
+        "most_recent_tweet_id": "2090258311157514249",
+        "name": "森絵",
+        "pinned_tweet_id": "1932021028630471065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2842549538/1726035866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008429721395359750/rSe6FYnu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 930,
+          "like_count": 47196,
+          "listed_count": 11,
+          "media_count": 1569,
+          "tweet_count": 26060
+        },
+        "url": "",
+        "username": "Reflectier",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

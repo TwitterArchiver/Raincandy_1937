@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088437690102632448"
+      ],
+      "media_source_tweet_id": [
+        "2088437692061376969"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2088952940287684643",
+    "created_at": "2026-08-16T11:36:06.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T12:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088952940287684643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "85875473",
+          "start": 3,
+          "username": "CDTChinese"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1sCJ4Vm9oT",
+          "end": 39,
+          "expanded_url": "https://x.com/CDTChinese/status/2088437692061376969/photo/1",
+          "media_key": "3_2088437690102632448",
+          "start": 16,
+          "url": "https://t.co/1sCJ4Vm9oT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088952940287684643",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2088437690102632448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 124
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088437692061376969",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CDTChinese: https://t.co/1sCJ4Vm9oT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2088437690102632448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPufA54a0AA91pj.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088437690102632448"
+          ],
+          "media_source_tweet_id": [
+            "2088437692061376969"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2088952940287684643",
+        "created_at": "2026-08-16T11:36:06.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T12:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088952940287684643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "85875473",
+              "start": 3,
+              "username": "CDTChinese"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1sCJ4Vm9oT",
+              "end": 39,
+              "expanded_url": "https://x.com/CDTChinese/status/2088437692061376969/photo/1",
+              "media_key": "3_2088437690102632448",
+              "start": 16,
+              "url": "https://t.co/1sCJ4Vm9oT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088952940287684643",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088437690102632448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088437692061376969",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CDTChinese: https://t.co/1sCJ4Vm9oT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088437690102632448"
+          ]
+        },
+        "author_id": "85875473",
+        "conversation_id": "2088437692061376969",
+        "created_at": "2026-08-15T01:28:41.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T02:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088437692061376969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1sCJ4Vm9oT",
+              "end": 23,
+              "expanded_url": "https://x.com/CDTChinese/status/2088437692061376969/photo/1",
+              "media_key": "3_2088437690102632448",
+              "start": 0,
+              "url": "https://t.co/1sCJ4Vm9oT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088437692061376969",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088437690102632448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 57163,
+          "like_count": 1075,
+          "quote_count": 8,
+          "reply_count": 15,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1sCJ4Vm9oT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "is_identity_verified": false,
+        "location": "銀河車站",
+        "most_recent_tweet_id": "2088952940287684643",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094771136831488/1779637288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 1785,
+          "like_count": 17544,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 7651
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-10-28T18:13:55.000Z",
+        "description": "中国数字时代（China Digital Times, CDT）中文官方推特账号。英文账号：@CDT\n中国数字时代致力于记录和传播中文互联网上被审查的信息，以及人们对抗政治压迫的努力。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 46,
+                "username": "CDT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chinadigitaltimes.net/chinese",
+                "end": 23,
+                "expanded_url": "http://chinadigitaltimes.net/chinese",
+                "start": 0,
+                "url": "https://t.co/cgrUsoB7iE"
+              }
+            ]
+          }
+        },
+        "id": "85875473",
+        "is_identity_verified": false,
+        "location": "UC Berkeley",
+        "most_recent_tweet_id": "2088876658094911898",
+        "name": "中国数字时代",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85875473/1778051512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051920953727442944/Zctm3m-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442340,
+          "following_count": 325,
+          "like_count": 109,
+          "listed_count": 1915,
+          "media_count": 5239,
+          "tweet_count": 67272
+        },
+        "url": "https://t.co/cgrUsoB7iE",
+        "username": "CDTChinese",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2089246245323956642",
+    "created_at": "2026-08-17T13:13:43.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T14:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089339895282380995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1575765089030139905",
+          "start": 0,
+          "username": "wodanggangqiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089339895282380995",
+    "in_reply_to_user_id": "1575765089030139905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089246245323956642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wodanggangqiang 這社會怎麼了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1581,
+        "media_key": "3_2089246240668299264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP5-YvdasAAWeAZ.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2089246245323956642",
+        "created_at": "2026-08-17T13:13:43.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089339895282380995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1575765089030139905",
+              "start": 0,
+              "username": "wodanggangqiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089339895282380995",
+        "in_reply_to_user_id": "1575765089030139905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089246245323956642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wodanggangqiang 這社會怎麼了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089246240668299264"
+          ]
+        },
+        "author_id": "1575765089030139905",
+        "conversation_id": "2089246245323956642",
+        "created_at": "2026-08-17T07:01:35.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T08:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089246245323956642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xNggiUhtVV",
+              "end": 31,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2089246245323956642/photo/1",
+              "media_key": "3_2089246240668299264",
+              "start": 8,
+              "url": "https://t.co/xNggiUhtVV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089246245323956642",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089246240668299264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11270,
+          "like_count": 431,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "好歹毒的词条。 https://t.co/xNggiUhtVV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "is_identity_verified": false,
+        "location": "銀河車站",
+        "most_recent_tweet_id": "2089339895282380995",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094771136831488/1779637288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 1785,
+          "like_count": 17562,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 7661
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "is_identity_verified": true,
+        "location": "Japan",
+        "most_recent_tweet_id": "2089331947487342954",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1575765089030139905/1716443792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30639,
+          "following_count": 603,
+          "like_count": 38996,
+          "listed_count": 89,
+          "media_count": 10594,
+          "tweet_count": 29249
+        },
+        "url": "",
+        "username": "wodanggangqiang",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

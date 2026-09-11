@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2094290973899493849",
+    "created_at": "2026-08-31T11:14:50.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T12:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094383408348885133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1862933126466666496",
+          "start": 0,
+          "username": "moremoreagain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094383408348885133",
+    "in_reply_to_user_id": "1862933126466666496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094290973899493849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moremoreagain 有這種好事嗎老大"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2094290952126963712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRBqhmHXoAA6S1L.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1021,
+        "media_key": "3_2094290966832144384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRBqic5W4AA5ZUt.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2094290973899493849",
+        "created_at": "2026-08-31T11:14:50.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T12:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094383408348885133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862933126466666496",
+              "start": 0,
+              "username": "moremoreagain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094383408348885133",
+        "in_reply_to_user_id": "1862933126466666496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094290973899493849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moremoreagain 有這種好事嗎老大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094290952126963712",
+            "3_2094290966832144384"
+          ]
+        },
+        "author_id": "1862933126466666496",
+        "conversation_id": "2094290973899493849",
+        "created_at": "2026-08-31T05:07:32.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T06:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094290973899493849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ITtNZo3KAl",
+              "end": 57,
+              "expanded_url": "https://x.com/moremoreagain/status/2094290973899493849/photo/1",
+              "media_key": "3_2094290952126963712",
+              "start": 34,
+              "url": "https://t.co/ITtNZo3KAl"
+            },
+            {
+              "display_url": "pic.x.com/ITtNZo3KAl",
+              "end": 57,
+              "expanded_url": "https://x.com/moremoreagain/status/2094290973899493849/photo/1",
+              "media_key": "3_2094290966832144384",
+              "start": 34,
+              "url": "https://t.co/ITtNZo3KAl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094290973899493849",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094290952126963712"
+          },
+          {
+            "media_key": "3_2094290966832144384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 18694,
+          "like_count": 222,
+          "quote_count": 1,
+          "reply_count": 50,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以防你们不知道地球online多和npc对话几次真的能解锁特殊cg https://t.co/ITtNZo3KAl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "is_identity_verified": false,
+        "location": "銀河車站",
+        "most_recent_tweet_id": "2094383408348885133",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094771136831488/1779637288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 1781,
+          "like_count": 17518,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 7719
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-30T18:54:15.000Z",
+        "description": "轻薄欢谑｜自诩为非自愿圣人｜审判我的一个就够｜中正平和｜最尊重零糖饮料之人｜没关系我不在乎｜",
+        "id": "1862933126466666496",
+        "is_identity_verified": false,
+        "location": "上阙",
+        "most_recent_tweet_id": "2094383266698793150",
+        "name": "相公痴",
+        "pinned_tweet_id": "2041380219974787240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1862933126466666496/1733106559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936741037256404992/tkBYioIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1115,
+          "like_count": 79368,
+          "listed_count": 4,
+          "media_count": 1767,
+          "tweet_count": 39532
+        },
+        "url": "",
+        "username": "moremoreagain",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

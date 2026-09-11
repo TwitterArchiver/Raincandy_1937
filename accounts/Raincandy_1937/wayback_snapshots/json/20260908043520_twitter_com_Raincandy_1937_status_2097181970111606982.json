@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096815696189722624"
+      ],
+      "media_source_tweet_id": [
+        "2096815707916820642"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2097181970111606982",
+    "created_at": "2026-09-08T04:35:20.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T05:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097181970111606982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1789837129247531008",
+          "start": 3,
+          "username": "SatoHiromichi01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/axMB1Ko3lz",
+          "end": 61,
+          "expanded_url": "https://x.com/SatoHiromichi01/status/2096815707916820642/photo/1",
+          "media_key": "3_2096815696189722624",
+          "start": 38,
+          "url": "https://t.co/axMB1Ko3lz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097181970111606982",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096815696189722624"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 244
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096815707916820642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SatoHiromichi01: 所以，各位看出來區別了嗎？🤓☝️ https://t.co/axMB1Ko3lz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2096815696189722624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlixCraEAA3ihs.jpg",
+        "width": 769
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096815696189722624"
+          ],
+          "media_source_tweet_id": [
+            "2096815707916820642"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2097181970111606982",
+        "created_at": "2026-09-08T04:35:20.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T05:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097181970111606982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1789837129247531008",
+              "start": 3,
+              "username": "SatoHiromichi01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/axMB1Ko3lz",
+              "end": 61,
+              "expanded_url": "https://x.com/SatoHiromichi01/status/2096815707916820642/photo/1",
+              "media_key": "3_2096815696189722624",
+              "start": 38,
+              "url": "https://t.co/axMB1Ko3lz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097181970111606982",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096815696189722624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 244
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096815707916820642",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SatoHiromichi01: 所以，各位看出來區別了嗎？🤓☝️ https://t.co/axMB1Ko3lz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096815696189722624"
+          ]
+        },
+        "author_id": "1789837129247531008",
+        "conversation_id": "2096815707916820642",
+        "created_at": "2026-09-07T04:19:56.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096815707916820642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/axMB1Ko3lz",
+              "end": 40,
+              "expanded_url": "https://x.com/SatoHiromichi01/status/2096815707916820642/photo/1",
+              "media_key": "3_2096815696189722624",
+              "start": 17,
+              "url": "https://t.co/axMB1Ko3lz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096815707916820642",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096815696189722624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 98773,
+          "like_count": 2287,
+          "quote_count": 9,
+          "reply_count": 173,
+          "retweet_count": 244
+        },
+        "reply_settings": "everyone",
+        "text": "所以，各位看出來區別了嗎？🤓☝️ https://t.co/axMB1Ko3lz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "is_identity_verified": false,
+        "location": "銀河車站",
+        "most_recent_tweet_id": "2097181970111606982",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094771136831488/1779637288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 1780,
+          "like_count": 17543,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 7744
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-13T01:58:49.000Z",
+        "description": "中非與伊斯蘭原始人的主人，AI漫畫家、創作者，逆統戰人士（統戰人士的剋星）\n小雅妹妹：@XK_suzushio114\n♥：@ProcyonCoke731\n莉奈妹妹：@RinaSato01\n液態貓貓：@saya8964cat\n星怒：@NationalPureVF4\n好朋友：@Eris37298",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 43,
+                "username": "XK_suzushio114"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "ProcyonCoke731"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "RinaSato01"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "saya8964cat"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "NationalPureVF4"
+              },
+              {
+                "end": 146,
+                "start": 136,
+                "username": "Eris37298"
+              }
+            ]
+          }
+        },
+        "id": "1789837129247531008",
+        "is_identity_verified": false,
+        "location": "大日本帝國台北州",
+        "most_recent_tweet_id": "2097170235900211321",
+        "name": "✠✝️🇦🇹茉莉奶茶🇯🇵🌸🧋",
+        "pinned_tweet_id": "2088541350115643590",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1789837129247531008/1774376187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077229392905031680/R6ALPvBC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4885,
+          "following_count": 3429,
+          "like_count": 112899,
+          "listed_count": 30,
+          "media_count": 5764,
+          "tweet_count": 38050
+        },
+        "url": "",
+        "username": "SatoHiromichi01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

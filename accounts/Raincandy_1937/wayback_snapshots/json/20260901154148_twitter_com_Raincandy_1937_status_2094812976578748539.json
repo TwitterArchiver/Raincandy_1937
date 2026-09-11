@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094330849844174848"
+      ],
+      "media_source_tweet_id": [
+        "2094330859553960176"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094812976578748539",
+    "created_at": "2026-09-01T15:41:48.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T16:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094812976578748539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1968187553695272960",
+          "start": 3,
+          "username": "EzraRan__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cMSL88QuJq",
+          "end": 40,
+          "expanded_url": "https://x.com/EzraRan__/status/2094330859553960176/photo/1",
+          "media_key": "3_2094330849844174848",
+          "start": 17,
+          "url": "https://t.co/cMSL88QuJq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094812976578748539",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2094330849844174848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094330859553960176",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EzraRan__: 🙂 https://t.co/cMSL88QuJq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2094330849844174848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCOz8saoAAiHMp.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094330849844174848"
+          ],
+          "media_source_tweet_id": [
+            "2094330859553960176"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094812976578748539",
+        "created_at": "2026-09-01T15:41:48.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094812976578748539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1968187553695272960",
+              "start": 3,
+              "username": "EzraRan__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cMSL88QuJq",
+              "end": 40,
+              "expanded_url": "https://x.com/EzraRan__/status/2094330859553960176/photo/1",
+              "media_key": "3_2094330849844174848",
+              "start": 17,
+              "url": "https://t.co/cMSL88QuJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094812976578748539",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2094330849844174848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094330859553960176",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EzraRan__: 🙂 https://t.co/cMSL88QuJq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094330849844174848"
+          ]
+        },
+        "author_id": "1968187553695272960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094330859553960176",
+        "created_at": "2026-08-31T07:46:02.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T08:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094330859553960176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cMSL88QuJq",
+              "end": 25,
+              "expanded_url": "https://x.com/EzraRan__/status/2094330859553960176/photo/1",
+              "media_key": "3_2094330849844174848",
+              "start": 2,
+              "url": "https://t.co/cMSL88QuJq"
+            },
+            {
+              "display_url": "x.com/xixi5089562416…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/xixi50895624162/status/2094310987700789729",
+              "start": 26,
+              "url": "https://t.co/9WDJuYmCTP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094330859553960176",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2094330849844174848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 48068,
+          "like_count": 955,
+          "quote_count": 7,
+          "reply_count": 53,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094310987700789729",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🙂 https://t.co/cMSL88QuJq https://t.co/9WDJuYmCTP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "is_identity_verified": false,
+        "location": "銀河車站",
+        "most_recent_tweet_id": "2094812976578748539",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094771136831488/1779637288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 1780,
+          "like_count": 17518,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 7720
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-17T05:37:44.000Z",
+        "description": "高強度上網衝浪，過激評論可能，海涵。\n#StandWithUkraine 🇺🇦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 19,
+                "tag": "StandWithUkraine"
+              }
+            ]
+          }
+        },
+        "id": "1968187553695272960",
+        "is_identity_verified": false,
+        "location": "亞太",
+        "most_recent_tweet_id": "2094797189478580659",
+        "name": "漣 絵樹羅Ezra",
+        "pinned_tweet_id": "2067193313460195625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1968187553695272960/1781639025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993195957132181506/QEgIPinV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 2563,
+          "like_count": 34110,
+          "listed_count": 6,
+          "media_count": 1258,
+          "tweet_count": 10160
+        },
+        "url": "",
+        "username": "EzraRan__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

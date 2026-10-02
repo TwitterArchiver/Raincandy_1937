@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2100996944638484703",
+    "created_at": "2026-09-18T17:14:40.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T18:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100996944638484703"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2100947964927606823",
+          "start": 21,
+          "url": "https://t.co/zoypf4slxI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100996944638484703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100947964927606823",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "9月18日是2026年東京電玩展的舉辦日 https://t.co/zoypf4slxI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 964,
+        "media_key": "3_2100930958853873665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgBk2wbIAEeIXx.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2100930958975475712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgBk3NaoAAVGOT.jpg",
+        "width": 554
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2100930958983909376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgBk3PbUAAUFrA.jpg",
+        "width": 724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2100996944638484703",
+        "created_at": "2026-09-18T17:14:40.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T18:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100996944638484703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2100947964927606823",
+              "start": 21,
+              "url": "https://t.co/zoypf4slxI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100996944638484703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100947964927606823",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "9月18日是2026年東京電玩展的舉辦日 https://t.co/zoypf4slxI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100930958853873665",
+            "3_2100930958975475712",
+            "3_2100930958983909376"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2100947964927606823",
+        "created_at": "2026-09-18T14:00:03.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100947964927606823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QCZI4z89QF",
+              "end": 132,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2100947964927606823/photo/1",
+              "media_key": "3_2100930958853873665",
+              "start": 109,
+              "url": "https://t.co/QCZI4z89QF"
+            },
+            {
+              "display_url": "pic.x.com/QCZI4z89QF",
+              "end": 132,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2100947964927606823/photo/1",
+              "media_key": "3_2100930958975475712",
+              "start": 109,
+              "url": "https://t.co/QCZI4z89QF"
+            },
+            {
+              "display_url": "pic.x.com/QCZI4z89QF",
+              "end": 132,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2100947964927606823/photo/1",
+              "media_key": "3_2100930958983909376",
+              "start": 109,
+              "url": "https://t.co/QCZI4z89QF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100947964927606823",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100930958853873665"
+          },
+          {
+            "media_key": "3_2100930958975475712"
+          },
+          {
+            "media_key": "3_2100930958983909376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "《联合早报》同帖提及“九一八”与深圳日本男童遇袭事件，引争议后删文\n\n9月18日，新加坡《联合早报》在X发文：今天（9月18日）是九一八事变纪念日，也是日本男童在深圳遇袭身亡满两周年，在华日本人对袭击事件仍心有余悸。\n\n随后，一些爱国大V批评《联合早报》同时提及九一八事变和深圳日本男童遇袭事件。\n相关话题“联合早报九一八关联引众怒”进入微博热搜TOP18、社会榜TOP8，阅读量超过1000万。\n\n而后，网友发现，《联合早报》官网以及在X发布的这条帖文都已删除。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 52566,
+          "like_count": 264,
+          "quote_count": 5,
+          "reply_count": 38,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "《联合早报》同帖提及“九一八”与深圳日本男童遇袭事件，引争议后删文\n\n9月18日，新加坡《联合早报》在X发文：今天（9月18日）是九一八事变纪念日，也是日本男童在深圳遇袭身亡满两周年，在华日本人对袭击事件仍心有余悸。 https://t.co/QCZI4z89QF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "is_identity_verified": false,
+        "location": "銀河車站",
+        "most_recent_tweet_id": "2100996944638484703",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094771136831488/1779637288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1766,
+          "like_count": 17592,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 7777
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2100993260550300081",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2262335,
+          "following_count": 1084,
+          "like_count": 10516,
+          "listed_count": 8900,
+          "media_count": 53947,
+          "tweet_count": 61285
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

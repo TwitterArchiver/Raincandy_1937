@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "conversation_id": "2102946370332291332",
+    "created_at": "2026-09-25T18:01:19.000Z",
+    "display_text_range": [
+      11,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T19:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103545396819820646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1586955045450416129",
+          "start": 0,
+          "username": "WesterAOC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103545396819820646",
+    "in_reply_to_user_id": "1586955045450416129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102946370332291332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WesterAOC 你自己看看這陰不陰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41266,
+        "height": 720,
+        "media_key": "13_2102870872516407296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102870872516407296/img/t7-mUsoXKBvQ44KC.jpg",
+        "public_metrics": {
+          "view_count": 45837
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102870872516407296/vid/avc1/480x270/oFgT3OTw7fVtP60J.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102870872516407296/vid/avc1/640x360/dRmV0oOZmp7a9CnA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102870872516407296/vid/avc1/1280x720/C3q23asPM-ij80hM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102870872516407296/pl/UssBrnZMDkUgBj3s.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2102946370332291332",
+        "created_at": "2026-09-25T18:01:19.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T19:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103545396819820646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1586955045450416129",
+              "start": 0,
+              "username": "WesterAOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103545396819820646",
+        "in_reply_to_user_id": "1586955045450416129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102946370332291332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WesterAOC 你自己看看這陰不陰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102870872516407296"
+          ]
+        },
+        "author_id": "1586955045450416129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2102946370332291332",
+        "created_at": "2026-09-24T02:21:00.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T03:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102946370332291332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QJikaZs0Ka",
+              "end": 80,
+              "expanded_url": "https://x.com/WesterAOC/status/2102946370332291332/video/1",
+              "media_key": "13_2102870872516407296",
+              "start": 57,
+              "url": "https://t.co/QJikaZs0Ka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102946370332291332",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2102870872516407296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 520,
+          "impression_count": 62723,
+          "like_count": 1166,
+          "quote_count": 7,
+          "reply_count": 66,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "习近平你先别访美了，我问你个事儿…\n你既然想要当第二个毛泽东，那我用ai给你表演一下如果毛泽东真活了会发生什么。 https://t.co/QJikaZs0Ka"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "is_identity_verified": false,
+        "location": "銀河車站",
+        "most_recent_tweet_id": "2103545396819820646",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094771136831488/1779637288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1764,
+          "like_count": 17605,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 7779
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-31T05:36:01.000Z",
+        "description": "满朝臣宰皆囊括，位卑未敢忘忧国。务实的民主工作者。",
+        "id": "1586955045450416129",
+        "is_identity_verified": false,
+        "location": "转型正义纪念馆, 北京",
+        "most_recent_tweet_id": "2103503675490779503",
+        "name": "杨若晖 Ruohui Yang",
+        "pinned_tweet_id": "1798123206311625007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1586955045450416129/1717401875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005635551546732544/rIxHZdBq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24160,
+          "following_count": 783,
+          "like_count": 675,
+          "listed_count": 101,
+          "media_count": 787,
+          "tweet_count": 1356
+        },
+        "url": "",
+        "username": "WesterAOC",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

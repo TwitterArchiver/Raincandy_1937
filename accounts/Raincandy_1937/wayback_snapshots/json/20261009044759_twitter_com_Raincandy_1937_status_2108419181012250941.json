@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108056258138062848"
+      ],
+      "media_source_tweet_id": [
+        "2108056265939435811"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2108419181012250941",
+    "created_at": "2026-10-09T04:47:59.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T05:47:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108419181012250941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1968187553695272960",
+          "start": 3,
+          "username": "EzraRan__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LEMoyIvO6Z",
+          "end": 51,
+          "expanded_url": "https://x.com/EzraRan__/status/2108056265939435811/photo/1",
+          "media_key": "3_2108056258138062848",
+          "start": 28,
+          "url": "https://t.co/LEMoyIvO6Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108419181012250941",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108056258138062848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108056265939435811",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EzraRan__: 中国人民就选了个这玩意❓ https://t.co/LEMoyIvO6Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2108056258138062848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUFR_3DbwAAA076.jpg",
+        "width": 1686
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108056258138062848"
+          ],
+          "media_source_tweet_id": [
+            "2108056265939435811"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2108419181012250941",
+        "created_at": "2026-10-09T04:47:59.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T05:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108419181012250941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1968187553695272960",
+              "start": 3,
+              "username": "EzraRan__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LEMoyIvO6Z",
+              "end": 51,
+              "expanded_url": "https://x.com/EzraRan__/status/2108056265939435811/photo/1",
+              "media_key": "3_2108056258138062848",
+              "start": 28,
+              "url": "https://t.co/LEMoyIvO6Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108419181012250941",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108056258138062848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108056265939435811",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EzraRan__: 中国人民就选了个这玩意❓ https://t.co/LEMoyIvO6Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108056258138062848"
+          ]
+        },
+        "author_id": "1968187553695272960",
+        "conversation_id": "2108056265939435811",
+        "created_at": "2026-10-08T04:45:54.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T05:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108056265939435811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LEMoyIvO6Z",
+              "end": 36,
+              "expanded_url": "https://x.com/EzraRan__/status/2108056265939435811/photo/1",
+              "media_key": "3_2108056258138062848",
+              "start": 13,
+              "url": "https://t.co/LEMoyIvO6Z"
+            },
+            {
+              "display_url": "x.com/Durianyeahcnmz…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Durianyeahcnmz/status/2107826245413343728",
+              "start": 37,
+              "url": "https://t.co/QAgZkYu7HO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108056265939435811",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108056258138062848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 32985,
+          "like_count": 623,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107826245413343728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国人民就选了个这玩意❓ https://t.co/LEMoyIvO6Z https://t.co/QAgZkYu7HO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "is_identity_verified": false,
+        "location": "銀河車站",
+        "most_recent_tweet_id": "2108419181012250941",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094771136831488/1779637288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1764,
+          "like_count": 17608,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 7802
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-17T05:37:44.000Z",
+        "description": "高強度上網衝浪，過激評論可能，海涵。\n#StandWithUkraine 🇺🇦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 19,
+                "tag": "StandWithUkraine"
+              }
+            ]
+          }
+        },
+        "id": "1968187553695272960",
+        "is_identity_verified": false,
+        "location": "近平の穴",
+        "most_recent_tweet_id": "2108272005883781283",
+        "name": "漣 絵樹羅Ezra",
+        "pinned_tweet_id": "2067193313460195625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1968187553695272960/1781639025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993195957132181506/QEgIPinV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1483,
+          "following_count": 2667,
+          "like_count": 35910,
+          "listed_count": 6,
+          "media_count": 1289,
+          "tweet_count": 10435
+        },
+        "url": "",
+        "username": "EzraRan__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

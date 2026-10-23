@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2110784263645979026",
+    "created_at": "2026-10-15T17:25:59.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-15T18:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110784263645979026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110784263645979026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 240
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110546197572391028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 上班的本质，是把普通人“收纳”起来\n\n近日，一段关于上班意义的“打工人文学”在抖音、小红书等平台流传，引发网友广泛共鸣：\n\n上班的本质，是把普通人“收纳”起来，给有钱人腾地方。\n节假日出去玩，像监狱集体放风，到点就得回来。… https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2246,
+        "media_key": "3_2110375465487577088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUmPTfsWMAApGtO.jpg",
+        "width": 1148
+      },
+      {
+        "height": 1930,
+        "media_key": "3_2110375465751912448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUmPTgrXoAA3xBc.jpg",
+        "width": 1060
+      },
+      {
+        "height": 2040,
+        "media_key": "3_2110376400662237184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUmQJ7fXEAAvg55.jpg",
+        "width": 1150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2110784263645979026",
+        "created_at": "2026-10-15T17:25:59.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-15T18:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110784263645979026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110784263645979026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 240
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110546197572391028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 上班的本质，是把普通人“收纳”起来\n\n近日，一段关于上班意义的“打工人文学”在抖音、小红书等平台流传，引发网友广泛共鸣：\n\n上班的本质，是把普通人“收纳”起来，给有钱人腾地方。\n节假日出去玩，像监狱集体放风，到点就得回来。… https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2110375465487577088",
+            "3_2110375465751912448",
+            "3_2110376400662237184"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2110546197572391028",
+        "created_at": "2026-10-15T01:40:00.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-15T02:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110546197572391028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UUtFjdVuWu",
+              "end": 135,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2110546197572391028/photo/1",
+              "media_key": "3_2110375465487577088",
+              "start": 112,
+              "url": "https://t.co/UUtFjdVuWu"
+            },
+            {
+              "display_url": "pic.x.com/UUtFjdVuWu",
+              "end": 135,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2110546197572391028/photo/1",
+              "media_key": "3_2110375465751912448",
+              "start": 112,
+              "url": "https://t.co/UUtFjdVuWu"
+            },
+            {
+              "display_url": "pic.x.com/UUtFjdVuWu",
+              "end": 135,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2110546197572391028/photo/1",
+              "media_key": "3_2110376400662237184",
+              "start": 112,
+              "url": "https://t.co/UUtFjdVuWu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110546197572391028",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2110375465487577088"
+          },
+          {
+            "media_key": "3_2110375465751912448"
+          },
+          {
+            "media_key": "3_2110376400662237184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "上班的本质，是把普通人“收纳”起来\n\n近日，一段关于上班意义的“打工人文学”在抖音、小红书等平台流传，引发网友广泛共鸣：\n\n上班的本质，是把普通人“收纳”起来，给有钱人腾地方。\n节假日出去玩，像监狱集体放风，到点就得回来。\n奢侈品广告不是给我们买的，是让我们认识品牌，免得有钱人拿出来，我们不认识，扫了人家的兴。\n说白了，我们都是陪衬。过好自己的小日子，比啥都强。\n\n随后，原帖无法查看，网友对原贴的转发帖子也接连无法查看。于是，网友们接力进行“套娃式”传播。\n\n到截稿时，我们引用的帖子再次被删帖。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 660,
+          "impression_count": 158821,
+          "like_count": 2449,
+          "quote_count": 13,
+          "reply_count": 78,
+          "retweet_count": 240
+        },
+        "reply_settings": "everyone",
+        "text": "上班的本质，是把普通人“收纳”起来\n\n近日，一段关于上班意义的“打工人文学”在抖音、小红书等平台流传，引发网友广泛共鸣：\n\n上班的本质，是把普通人“收纳”起来，给有钱人腾地方。\n节假日出去玩，像监狱集体放风，到点就得回来。 https://t.co/UUtFjdVuWu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "is_identity_verified": false,
+        "location": "銀河車站",
+        "most_recent_tweet_id": "2110784263645979026",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094771136831488/1779637288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1763,
+          "like_count": 17622,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 7820
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2110777725984391546",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2270392,
+          "following_count": 1085,
+          "like_count": 10618,
+          "listed_count": 8925,
+          "media_count": 55226,
+          "tweet_count": 62596
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

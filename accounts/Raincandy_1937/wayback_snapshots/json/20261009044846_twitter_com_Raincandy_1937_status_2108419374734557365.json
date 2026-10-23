@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107966261057699841"
+      ],
+      "media_source_tweet_id": [
+        "2107966266560713151"
+      ]
+    },
+    "author_id": "1522094771136831488",
+    "conversation_id": "2108419374734557365",
+    "created_at": "2026-10-09T04:48:46.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T05:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108419374734557365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "628018419",
+          "start": 3,
+          "username": "PunsukaSu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U09aQwtFFw",
+          "end": 58,
+          "expanded_url": "https://x.com/PunsukaSu/status/2107966266560713151/photo/1",
+          "media_key": "3_2107966261057699841",
+          "start": 35,
+          "url": "https://t.co/U09aQwtFFw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108419374734557365",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107966261057699841"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 370
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107966266560713151",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PunsukaSu: 總算有簡中人理解多數台灣人的心理狀態了 https://t.co/U09aQwtFFw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1068,
+        "media_key": "3_2107966261057699841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUEAJVzaQAEOItC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107966261057699841"
+          ],
+          "media_source_tweet_id": [
+            "2107966266560713151"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "2108419374734557365",
+        "created_at": "2026-10-09T04:48:46.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T05:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108419374734557365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "628018419",
+              "start": 3,
+              "username": "PunsukaSu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U09aQwtFFw",
+              "end": 58,
+              "expanded_url": "https://x.com/PunsukaSu/status/2107966266560713151/photo/1",
+              "media_key": "3_2107966261057699841",
+              "start": 35,
+              "url": "https://t.co/U09aQwtFFw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108419374734557365",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107966261057699841"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 370
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107966266560713151",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PunsukaSu: 總算有簡中人理解多數台灣人的心理狀態了 https://t.co/U09aQwtFFw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107966261057699841"
+          ]
+        },
+        "author_id": "628018419",
+        "conversation_id": "2107966266560713151",
+        "created_at": "2026-10-07T22:48:16.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T23:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107966266560713151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U09aQwtFFw",
+              "end": 43,
+              "expanded_url": "https://x.com/PunsukaSu/status/2107966266560713151/photo/1",
+              "media_key": "3_2107966261057699841",
+              "start": 20,
+              "url": "https://t.co/U09aQwtFFw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107966266560713151",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107966261057699841"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 557,
+          "impression_count": 1259939,
+          "like_count": 11742,
+          "quote_count": 21,
+          "reply_count": 851,
+          "retweet_count": 370
+        },
+        "reply_settings": "everyone",
+        "text": "總算有簡中人理解多數台灣人的心理狀態了 https://t.co/U09aQwtFFw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "is_identity_verified": false,
+        "location": "銀河車站",
+        "most_recent_tweet_id": "2108419374734557365",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094771136831488/1779637288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1764,
+          "like_count": 17610,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 7805
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-07-06T01:58:29.000Z",
+        "description": "台灣人 Formosan フォルモサン / 最不缺莮粉紅噁男指教 /小國小民，好國好民 / 不結怨政策 / 上班眼神死，下班ぽよよん。",
+        "id": "628018419",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108396002013241605",
+        "name": "Emilia_Su🐶🐱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/628018419/1705253219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058544055529971712/p423GWr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6685,
+          "following_count": 1120,
+          "like_count": 237911,
+          "listed_count": 48,
+          "media_count": 3569,
+          "tweet_count": 39668
+        },
+        "url": "",
+        "username": "PunsukaSu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1522094771136831488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2109572992229409082",
+    "created_at": "2026-10-12T09:12:49.000Z",
+    "display_text_range": [
+      0,
+      136
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T10:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109572992229409082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1477342523555135490",
+          "start": 3,
+          "username": "torontobigface"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109572992229409082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 957
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108887366433939814",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @torontobigface: 最近看到推特上的巴西左派网友真的招笑\n\n幻想中国是共产主义国家，左派政府，来帮助巴西打倒右派\n\n殊不知，中国是世界主要国家中，劳工工作时间最长的\n他们能幻想到最邪恶的企业，在华为面前那也是不值一提\n\n左本身不是问题，但是认知需要提升"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2109572992229409082",
+        "created_at": "2026-10-12T09:12:49.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T10:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109572992229409082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1477342523555135490",
+              "start": 3,
+              "username": "torontobigface"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109572992229409082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 957
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108887366433939814",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @torontobigface: 最近看到推特上的巴西左派网友真的招笑\n\n幻想中国是共产主义国家，左派政府，来帮助巴西打倒右派\n\n殊不知，中国是世界主要国家中，劳工工作时间最长的\n他们能幻想到最邪恶的企业，在华为面前那也是不值一提\n\n左本身不是问题，但是认知需要提升"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477342523555135490",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2108887366433939814",
+        "created_at": "2026-10-10T11:48:24.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T12:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108887366433939814"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108887366433939814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1071,
+          "impression_count": 289933,
+          "like_count": 10215,
+          "quote_count": 161,
+          "reply_count": 256,
+          "retweet_count": 957
+        },
+        "reply_settings": "everyone",
+        "text": "最近看到推特上的巴西左派网友真的招笑\n\n幻想中国是共产主义国家，左派政府，来帮助巴西打倒右派\n\n殊不知，中国是世界主要国家中，劳工工作时间最长的\n他们能幻想到最邪恶的企业，在华为面前那也是不值一提\n\n左本身不是问题，但是认知需要提升"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "is_identity_verified": false,
+        "location": "銀河車站",
+        "most_recent_tweet_id": "2109572992229409082",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094771136831488/1779637288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1762,
+          "like_count": 17620,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 7810
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-01T18:14:50.000Z",
+        "description": "YouTube：https://t.co/JrdyvNcDSW 投稿邮箱:Torontosquareface@gmail.com 粉丝群：https://t.co/7fI2XsnFaH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Torontobigface",
+                "end": 31,
+                "expanded_url": "http://youtube.com/@Torontobigface",
+                "start": 8,
+                "url": "https://t.co/JrdyvNcDSW"
+              },
+              {
+                "display_url": "t.me/+X3WjedrKfxUwY…",
+                "end": 92,
+                "expanded_url": "https://t.me/+X3WjedrKfxUwYTk1",
+                "start": 69,
+                "url": "https://t.co/7fI2XsnFaH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "torontosquareface.com",
+                "end": 23,
+                "expanded_url": "https://www.torontosquareface.com",
+                "start": 0,
+                "url": "https://t.co/t3lSrn0gco"
+              }
+            ]
+          }
+        },
+        "id": "1477342523555135490",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路，多伦多",
+        "most_recent_tweet_id": "2109535060139594216",
+        "name": "多伦多方脸",
+        "pinned_tweet_id": "2109260634055757972",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1477342523555135490/1646202283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004728054199799808/7q5HpT1R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810755,
+          "following_count": 259,
+          "like_count": 4961,
+          "listed_count": 2498,
+          "media_count": 6938,
+          "tweet_count": 19871
+        },
+        "url": "https://t.co/t3lSrn0gco",
+        "username": "torontobigface",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
